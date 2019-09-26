@@ -1,0 +1,94 @@
+
+
+Assuming input file to be in FASTA format.
+
+
+#########
+Working on 2
+#########
+
+AMPLICON  201-202:
+2_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.
+
+#########
+Working on 3
+#########
+
+AMPLICON  201-202:
+3_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.
+
+#########
+Working on 4
+#########
+
+AMPLICON  201-202:
+4_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.
+
+#########
+Working on 5
+#########
+
+AMPLICON  201-202:
+5_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.
+
+#########
+Working on 6
+#########
+
+AMPLICON  201-202:
+6_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.
+
+#########
+Working on 7
+#########
+
+AMPLICON  201-202:
+7_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.
+
+#########
+Working on 12
+#########
+
+AMPLICON  201-203:
+12_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.
+
+#########
+Working on 12
+#########
+
+AMPLICON  201-202:
+12_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.
+
+#########
+Working on 13
+#########
+
+AMPLICON  201-204:
+13_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.
+
+#########
+Working on 14
+#########
+
+AMPLICON  201-202:
+14_1.tempseq
+  picking primers for single PCR. Trying with  -mingc 40 -maxpolyx 3 -gcclamp 1
+	OK.

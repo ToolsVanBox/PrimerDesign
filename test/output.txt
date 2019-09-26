@@ -1,0 +1,1 @@
+eprimer3 -sequence 14_1.tempseq -outfile primer3.out -pickanyway yes -target 186,217 -prange 30-230 -numreturn 1 -opttm 57 -mintm 53 -maxtm 64 -psizeopt 0 -maxdifftm 10 -maxgc 80 -minsize 17 -maxsize 27 -mispriminglibraryfile /hpc/pmc_vanboxtel/tools/PrimerDesign/primer3/repbase/current/empty.ref  -mingc 40 -maxpolyx 3 -gcclamp 1 2>p3.err

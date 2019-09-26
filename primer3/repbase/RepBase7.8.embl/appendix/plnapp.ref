@@ -1,0 +1,1090 @@
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+CC                                                               *
+CC   REPBASE UPDATE                                              *
+CC   (C) 1997-2002  Genetic Information Research Institute       *
+CC   All rights reserved                                         *
+CC                                                               *
+CC   A REFERENCE COLLECTION OF PLANT REPETITIVE ELEMENTS         *
+CC   (AN APPENDIX)                                               *
+CC                                                               *
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+XX
+ID   OSTANR89  repbase; DNA; PLN; 404 BP.
+CC   OSTANR89 DNA
+XX
+AC   X55429;
+XX
+DT   11-NOV-1996 (Rel. 2.2, Created)
+DT   11-NOV-1996 (Rel. 2.2, Last updated, Version 1)
+XX
+DE   Rice tandem repeat units R8-R9.
+XX
+KW   Tandem repetitive sequence.
+XX
+OS   Oryza sativa (rice)
+CC   rice
+OC   Eukaryota; Plantae; Embryobionta; Magnoliophyta; Liliopsida;
+OC   Commelinidae; Cyperales; Poaceae.
+XX
+RN   [1]
+RP   1-404
+RC   [1]  (bases 1 to 404)
+RA   Ohtsubo H.;
+RT   "Direct Submission";
+RL   Submitted (02-NOV-1990) Ohtsubo H., Institute of Applied
+RL   Microbiology, University of Tokyo, 1-1-1, Yayoi, Bunkyo-Ku, Tokyo,
+XX
+RN   [2]
+RP   1-404
+RC   [2]  (bases 1 to 404)
+RA   Ohtsubo H., Umeda M., Ohtsubo E.;
+RT   "Organization of DNA sequences highly repeated in tandem in rice
+RT   genome";
+RL   Unpublished
+XX
+RN   [3]
+RP   1-404
+RC   [3]  (bases 1 to 404)
+RA   Ohtsubo H., Umeda M., Ohtsubo E.;
+RT   "Organization of DNA sequences highly repeated in tandem in rice
+RT   genome";
+RL   Jpn. J. Genet. 66, 241-254 (1991)
+XX
+CC   repeat_unit     1..134
+CC                   note="R8"
+CC   repeat_unit     135..404
+CC                   note="R9"
+XX
+DR   GENBANK; X55429; 79.0.
+CC   Positions       1     404  Accession No X55429        GenBank (rel. 79.0)
+XX
+SQ   Sequence 404 BP; 108 A; 75 C; 115 G; 106 T; 0 other;
+     ccctagagat actaaatttg gagaggtgga cctccaaaga tttttctaga aatgacttac        60
+     cataggccac gaagcagcgg ttgtttcggc gaaacgtcga atatctgagg gtccacaact       120
+     ggttttcaac gaggtggtta gtataggaat ggcacatagg acgttagggt ggatagttta       180
+     gatgatgtcg gtgtcaggcg cgtcgactaa ccgcgccgtt aaggtaggct ggcgggtgcg       240
+     acaccgcgta atgtagatgg agaattctgt gcgaaattaa aacttagata acgttgcctt       300
+     ccggtcatgg aattgagcta ggtttttttg atggctgcag aatcacggga ctcccactag       360
+     agatactaca tttggagagg tggacctcca aagatttttc taga                        404
+//
+ID   TY3LTR_ZM repbase; DNA; PLN; 482 BP.
+CC   TY3LTR_ZM DNA
+XX
+AC   U03953;
+XX
+DT   11-NOV-1996 (Rel. 2.2, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Zea mays mays clone mays53 retrotransposon, partial LTR sequence.
+XX
+KW   LTR, retrotransposon; ZMTY3LTR.
+XX
+OS   Zea mays (maize)
+CC   maize
+OC   Eucaryotae; Embryophyta; Magnoliophyta; Liliopsida; Cyperales;
+OC   Poaceae; Zea.
+XX
+RN   [1]
+RP   1-482
+RC   [1]  (bases 1 to 482)
+RA   Purugganan M.D., Wessler S.R.;
+RT   "Molecular Evolution of a Plant Ty3/gypsy-like Retrotransposon";
+RL   Unpublished
+XX
+RN   [2]
+RP   1-482
+RC   [2]  (bases 1 to 482)
+RA   Purugganan M.D.;
+RT   "Direct Submission";
+RL   Submitted (03-DEC-1993) Michael D. Purugganan, Biology, University
+RL   of California at San Diego, 9500 Gilman Drive, La Jolla, CA 92093,
+RL   USA
+XX
+DR   GENBANK; U03953; 81.0.
+CC   Positions       1     482  Accession No U03953        GenBank (rel. 81.0)
+XX
+SQ   Sequence 482 BP; 119 A; 115 C; 131 G; 117 T; 0 other;
+     gaaggagaat gccgggaaag aagaagagaa ggctggcgtt caaagaatgg gccgcagaat        60
+     tagaaggccg aatccgcgag tttcaggagc tgaatgggtg aactagttgt gggctggtgg       120
+     tcgtattggg ccaaattggc ttgtaagacg ttagtagtat aaactgaata atgaagacag       180
+     agtgaaggga gaagaaatta atcccattca gacttccact tcttcgtttc ttgcctgctc       240
+     ttccgatatc cttcctgttc ctcttcttct tcgtcggcgg cgagcgtcat cggacgacca       300
+     gttcgttgac aattggtatc ggcatccaag ttccctgcgg cgcctccgta tttcacccgt       360
+     cgcgcgagga tggcgggcgc agcagacccc agtgttgcag cggctttgga tgcgcaatcc       420
+     aaatccatcg acatccagtc caggactctt gcgacgcaat caaaaattct tcaacagtta       480
+     tc                                                                      482
+//
+ID   ATREP     repbase; DNA; PLN; 3299 BP.
+CC   ATREP DNA
+XX
+AC   L12220;
+XX
+DT   11-NOV-1996 (Rel. 2.2, Created)
+DT   11-NOV-1996 (Rel. 2.2, Last updated, Version 1)
+XX
+DE   Arabidopsis thaliana DNA sequence, complete transposon.
+XX
+KW   endogenous transposon.
+XX
+OS   Arabidopsis thaliana
+CC   Arabidopsis thaliana (strain Landsberg erecta) DNA.
+OC   Eukaryota; Plantae; Embryobionta; Magnoliophyta; Magnoliopsida;
+OC   Dilleniidae; Capparales; Brassicaceae.
+XX
+RN   [1]
+RP   1-3299
+RC   [1]  (bases 1 to 3299)
+RA   Tsay Y.-F., Frank M.J., Page T., Dean C., Crawford N.M.;
+RT   "Identification of a mobile endogenous transposon in arabidopsis
+RT   thaliana";
+RL   Science 260, 342-344 (1993)
+XX
+DR   GENBANK; L12220; 81.0.
+CC   Positions       1    3299  Accession No L12220        GenBank (rel. 81.0)
+XX
+SQ   Sequence 3299 BP; 1024 A; 530 C; 666 G; 1079 T; 0 other;
+     caatgttttc acgcccgacc cgaaccgccc ggtccaaccg gttaaaccac gacccgagca        60
+     cttctccggt ttgggtttag tgctaaaacc cactatctat aaaaccaaaa aaacccataa       120
+     aaacccgcta ttaacccacg acccattgaa ccggttgaac cgactgggtg tgggttttaa       180
+     aaactatagt tgattttgga acgaatatag ggtttttgga acgaatatag ggctttttca       240
+     tagttcataa tttcttctca aacggcgact caatctctcg tctacactag ccaaacaaac       300
+     cagttagttt ttctatctct cgttttaagt ttgaaaatcc tatttgtctt tatttgtgag       360
+     catcatgatc attttatatt gtatattgat atagtgattt ctatactctc gtggcctctt       420
+     tgtcttggct ccactgaatc aaatataata ttcaaagtgt ttttgcatca aaataataat       480
+     tcagcttcat gtttgatgtg catgtctcac agatatttgt ttgttttttt gtgtgaattt       540
+     aataggtaat ggaaacagaa cacgatgaaa attatgaaga tatagctgct gcaaaccgtt       600
+     caatccgagg aaaaagtgat attgcttggt cctatgtaat tcaatcaaaa gacgaaaaag       660
+     gaaaaacggt tttggaatgt gcattttgtc ataaaaaaaa aagaggaggt ggaattaata       720
+     ggatgaaaca ccatcttgct ggcgtgaaag ggaatacaga tgcatgtttg aagatttctg       780
+     cagatattag atttaagata gtgaacgcat tgaaagaagc tgagaacaag aagaagcaaa       840
+     atattgtttt ggatgatacg aacttagacg gtccagaaat tgaagatgtt gatggagatg       900
+     atatccgagt tgatgttcgg ccaagtcaaa agaggaagaa acaaggtatt gatctacatg       960
+     attattttaa aagaggtgtg catgatcaga cccaaccttc tataaaagca tgcatgcaaa      1020
+     gcaaagagag gaatacatgc tgtggacatg tctgttgcat tgtggtttta tgacgcttgt      1080
+     attccgatga atgcggtgaa ttctccactt ttcagcctat gatgagtatg gtagcaagta      1140
+     tgggacatgg atatgtgggt ccttcatacc atgctctgcg tgttggattg ttgcgtgatg      1200
+     ctaagttgca agtttctttg atcattgata agtttaaaag tagttgggct agtactggat      1260
+     gtactcttat ggcagatgga tggaaggaca caagacaaag accactgatt aacttcttag      1320
+     tttattgtcc caagggaatt acatttctta agtcagttga tgcttcagat atctatgcaa      1380
+     gtgctgagaa tttatgcaac ttgtttgctg aacttgtggg aataattggt tcagaaaata      1440
+     ttgttcattt tgtgactgat agtgcaccca actacaaagc tgctggaaag cttcttgttg      1500
+     aaaagtttcc caccattgct tggtctcctt gttcagctca ctgtatcaat cttattttgg      1560
+     aagatgtggc aaaactaccg catgttcacc atatagtgcg ccgtatgtct aaggtaacca      1620
+     tttttgtttt acaaccataa gccggcttta aattgggtga gaaaaagatc gggttggaga      1680
+     gagatcattc gtcctggaga aacacgtttt gctacaactt tctcatagct ctacaaagtc      1740
+     tctatcaaca taaagaagat ctacaagctt tggttacaag tgcagatccc gaactcaagc      1800
+     agcttttcaa aacatctaaa gcaaaagtag ctaaatcggt tatcttggat gagcgaatgt      1860
+     ggaatgactg cttgataatt gtcaaggtta tgactcctat catccgtttg ttacgtattt      1920
+     gtgatgctga tgagaagcct tctttgccat atgtgtatga agggatgtac cgagcaagat      1980
+     taggaattaa aaatattttc caagaaaaag aaaccctcta caagccctat acaaacatca      2040
+     ttgatagaag atgggatcgt atgttgcgcc acgatcttca tgctgcagcg tactatttaa      2100
+     acccggcttt catgtatgat caacctacat tttgtgagaa gcctgaggtt atgagtgggt      2160
+     tgatgaactt atttgagaag caaaaaaatg acagcaaaac aaaacttttt caagaactta      2220
+     gggtgtatag agaacgtgaa ggaagttttt ctcttgatat ggctttaact tgcagcaaaa      2280
+     cctctcagcc aggtaaatta ttaaacttga gttaaacttg cattttatta tctatatata      2340
+     taatataatt ttatttctat ttagatgaat ggtggagata ttttggtcat gacgctccta      2400
+     atttgcaaaa gatggcaata cgaattctta gtcaaaccgc ttcttcatct ggatgtgagc      2460
+     gcaattggtg tgtatttgag cggattcata ccaagaagcg gaatagacta gagcatcaac      2520
+     gacttaacga tctcgtcttt gttcactaca atttacgttt gcaacatagg tgattatcat      2580
+     tattattttt tgtttcttaa tttagcttag tttataacaa gttccatgtt tttaatgtac      2640
+     aggtcaaaaa gaaaaagatc atatgatcct gttgactacg aatctattga taagacagag      2700
+     ttttgggtcg ttgaagaaga agaagcaggt gagcttgaat atgatgaatt agagaatgct      2760
+     cttgctgagg aatatcccaa agatcttgaa gacacaaatc ctgaaacatc gaatggtatc      2820
+     ttaaattatt gattaaactt ttcgaattga cttttagtta tagataatat gttgactaac      2880
+     taaacgatat gtctttgatg ttttagattt tgatgaagac ttcacattgc cgcctgaaga      2940
+     ggatgtatgg aatgatgagg aagacaatcg agattagttg ttttgaattt gcgatgtttt      3000
+     attactttat ttctgttatt gacttattgg tgatctacta gacatattgt tattttagta      3060
+     ttttaaaggt tttatggatt taaatttttt aaactttatg tattgttata cttcttattg      3120
+     ttattaaaca tggtattatt attattttta tatataagtt atataacata aactatataa      3180
+     tctctatata tatcaaatgc attaaatcag ttgacccgtg gtctaacccg gttgacccaa      3240
+     tgacccggtg acccagaagg tagtccggtt cactgtccgg gtcgggcgtg aaaacattg       3299
+//
+ID   ATR1      repbase; DNA; PLN; 637 BP.
+CC   ATR1 DNA
+XX
+AC   ;
+XX
+DT   21-JAN-1999 (Rel. 3.1, Created)
+DT   21-JAN-1999 (Rel. 3.1, Last updated, Version 1)
+XX
+DE   An AT-rich repetitive sequence (a consensus).
+XX
+KW   ATR1.
+XX
+OS   Arabidopsis thaliana (consensus)
+CC   consensus
+OC   Eukaryota; Viridiplantae; Charophyta/Embryophyta group;
+OC   Embryophyta; Tracheophyta; seed plants; Magnoliophyta;
+OC   eudicotyledons; Rosidae; Capparales; Brassicaceae; Arabidopsis.
+XX
+RN   [1]
+RP   1-637
+RC   [1]  (bases 1 to 89840)
+RA   Rounsley S.D., Kaul S., Lin X., Ketchum K.A., Crosby M.L.,
+RA   Brandon R.C., Sykes S.M., Mason T.M., Kerlavage A.R., Adams M.D.,
+RA   Somerville C.R., Venter J.C.;
+RT   "Arabidopsis thaliana chromosome II BAC F26C24 genomic sequence";
+RL   Unpublished
+XX
+RN   [2]
+RP   1-637
+RC   [2]  (bases 1 to 637)
+RA   Jurka J., Ma J.
+RT   ;
+RL   Direct submission (January 1999)
+XX
+CC   Possible DNA transposon.
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 637 BP; 277 A; 59 C; 55 G; 244 T; 2 other;
+     atktaaraat tattctaagt tagatttatt tagttctgat gtaatctttg ataaaaatta        60
+     tagtataaga ttaataatcc tactatatta tttgggaagt acattttaaa tgtaacctta       120
+     atttttgtaa gtaattacat aggtatgcca ttagaaataa aattttaaag agtaaattaa       180
+     tttatctctt taaggattaa aaagtcaaat actaatttaa ttaattaaat ttaattaaaa       240
+     aacgaaatac attattaatt tccaaaaata ataaccaatc aaaatcaaca tataagattt       300
+     gatatctaaa ttttaattaa tttaatttaa ttagaaaaac gaaatacatt attaatttcc       360
+     aaaaaagtaa ccaattaaaa tcaacaaatt agatttgata tctaaattat catattaatt       420
+     ttttattaat tattatagtt cacttctcat ctttatatga ttctattttt gcgaaaaaat       480
+     aatatcatca ttataaaaaa ataattagag ttttttcgca tatgccataa tttgaatttt       540
+     taaaaacgaa tataaactgt tcaatacatg aaaaaatatt ataacgggtg aaaaatagat       600
+     ttaagaaaac tttctactga gtaacgggtc ataattt                                637
+//
+ID   TAT1_ATH  repbase; DNA; PLN; 723 BP.
+CC   TAT1_ATH DNA
+XX
+AC   M55144;
+XX
+DT   11-NOV-1996 (Rel. 2.2, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   A.thaliana Tat1 isolate transposon-like element DNA.
+XX
+KW   S-adenosylmethionine synthetase; transposon-like element; ATHTAT1.
+XX
+OS   Arabidopsis thaliana
+CC   Arabidopsis thaliana DNA.
+OC   Eukaryota; Plantae; Embryobionta; Magnoliophyta; Magnoliopsida;
+OC   Dilleniidae; Capparales; Brassicaceae.
+XX
+RN   [1]
+RP   1-723
+RC   [1]  (bases 1 to 723)
+RA   Peleman J., Cottyn B., Van Camp W., Van Montagu M.M., Inze D.;
+RT   "Transient occurrence of extrachromosomal DNA of an Arabidopsis
+RT   thaliana transposon-like element, Tat1";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88, 3618-3622 (1991)
+XX
+DR   GENBANK; M55144; 81.0.
+CC   Positions       1     723  Accession No M55144        GenBank (rel. 81.0)
+XX
+SQ   Sequence 723 BP; 227 A; 155 C; 127 G; 214 T; 0 other;
+     ctgcagtaac agagtatttt cttccttttc aagtcccaag aggtcaaaac agagtatcat        60
+     cgttgtggat gtcggattcg gtccacttcg gactaatccg cattcaatgg gcttcaaggt       120
+     gaattgggcc caattcacag cccagcgtga gcctggccgt ttaaagaata atccgacatt       180
+     aatacagaaa cggaaggatc acgacttaaa ccacgcatta aagtcccgag ttgaagattc       240
+     gtaacgtacg acgttaataa cgcgagatcc acagcgtgaa gtcggcaagt attttaatac       300
+     gtttgattcg atgtattgag tataaatatg agtcgatgac atttgtaaag gggacggtta       360
+     agaatacact aatactatac acaaaattaa aagacgcttt cttcttggtt cgattcgatt       420
+     attgttcgtt taacaagacc aaagatcccc gtaaaaacaa ccacaagatt ctaattgcgg       480
+     attccgacat ccacaatcgt catctatcat ttttatgatt cttctataca ttttatacta       540
+     aaattcaaaa agaaaaacta accatgtaca tctctgcaat ttcatatcta gtaccagaca       600
+     agagttaggg aaatgtgatc tttggcaaat tgtcatgatc cgcttgatgg cacttcttca       660
+     agattctcga actctcttac gatctgcttt atatcatcct cactaatcct cccactttct       720
+     cta                                                                     723
+//
+ID   RE1       repbase; DNA; PLN; 922 BP.
+CC   RE1 DNA
+XX
+AC   ;
+XX
+DT   23-FEB-1999 (Rel. 3.2, Created)
+DT   23-FEB-1999 (Rel. 3.2, Last updated, Version 1)
+XX
+DE   Arabidopsis thaliana retroelement - a consensus.
+XX
+KW   RE1, reverse transcriptase.
+XX
+OS   Arabidopsis thaliana (consensus)
+CC   consensus
+OC   Eukaryota; Plantae; Embryobionta; Magnoliophyta; Magnoliopsida;
+OC   Dilleniidae; Capparales; Brassicaceae.
+XX
+RN   [1]
+RP   1-922
+RC   [1] (bases 1 to 922)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (February 1999)
+XX
+CC   Similarity reverse transcriptase and LTR retroelement
+CC   has been identified; detailed classification not available.
+CC
+CC   RE1 SEQUENCE WAS DELETED SINCE IT DOES NOT REPRESENT REAL OBJECTS
+CC   in Arabidopsis thaliana genome.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 922 BP; 236 A; 162 C; 153 G; 305 T; 66 other;
+     gataatagac tagagttggt ttgtaatctt tgatttcggt taagtgtaaa ccaaacatta        60
+     aaccgagata ctctatcata taaagagtat ctgtgtaaca gaatcattaa gttgaataac       120
+     adaatatttt catcttcttc gattctctct gttgctatta tggtatcaga gyratggatc       180
+     wcraagatyc rtccgattca acctaawctc tgwgtwtctt cragytyttg gatcttccra       240
+     wctygttgat tcttykyttc ttcrttcwat ttctggaaat ttcagttgtt tmraggttct       300
+     tykttgrtct tgcgatggtt kccgtwgaka aattgcggcg tcgtactaga agatcgagca       360
+     aaamttcagc tgagaaaact ccagatcgtg ttcaarcttc accrrwtcca ccgattycac       420
+     ctccgwttca acaaaatytc aaywmaarac catcgatsta tcctttwcca cagttcgayt       480
+     tctcggatgc tcantattcg ccnttcgcgc tctcaaatgg tgatcatcca ggtttwactc       540
+     ttgtttctca tattcttgat ggaactaatt atgayanttg gacgatagcg atgagtatta       600
+     gtttagatgc taagaataag attggttttg ttgatggatc ttttccaaga cctsctgatg       660
+     atgatcctan ttttagaaty tggtstagat gcaayagtat ggtkaaatct tggattctga       720
+     attctgtrtc taaggagatc tataanagca ttcttgtatt taatgatgct gcagaaatct       780
+     ggaawgatct gtatactcga tttcacatna ctaatctccc tcggacntat aagctgactc       840
+     agcagattca stctcttcad caaggaacwa tgtctctttc tgattactat actnckttaa       900
+     agactctttg ggatganttg ga                                                922
+//
+ID   ATR1      repbase; DNA; PLN; 2099 BP.
+CC   ATR1 DNA
+XX
+AC   ;
+XX
+DT   21-JAN-1999 (Rel. 3.1, Created)
+DT   21-JAN-1999 (Rel. 3.1, Last updated, Version 1)
+XX
+DE   An AT-rich repetitive sequence - a consensus.
+XX
+KW   ATR1.
+XX
+OS   Arabidopsis thaliana (consensus)
+CC   consensus
+OC   Eukaryota; Viridiplantae; Charophyta/Embryophyta group;
+OC   Embryophyta; Tracheophyta; seed plants; Magnoliophyta;
+OC   eudicotyledons; Rosidae; Capparales; Brassicaceae; Arabidopsis.
+XX
+RN   [1]
+RP   1-2099
+RC   [1]  (bases 1 to 89840)
+RA   Rounsley S.D., Kaul S., Lin X., Ketchum K.A., Crosby M.L.,
+RA   Brandon R.C., Sykes S.M., Mason T.M., Kerlavage A.R., Adams M.D.,
+RA   Somerville C.R., Venter J.C.;
+RT   "Arabidopsis thaliana chromosome II BAC F26C24 genomic sequence";
+RL   Unpublished
+XX
+RN   [2]
+RP   1-2099
+RC   [2] (bases 1-2099)
+RA   Parnell L.;
+RT   "ATR0053 repeat in CSHL AtRepBase";
+RL   Direct submission (October, 1997)
+XX
+RN   [3]
+RP   1-2099
+RC   [3]  (bases 1 to 561)
+RA   Jurka J., Ma J.
+RT   ;
+RL   Direct submission (January 1999)
+XX
+RN   [4]
+RP   1-2099
+RC   [4]  (bases 1 to 2099)
+RA   Kapitonov V.
+RT   ;
+RL   Direct submission (February 1999)
+XX
+CC   ATR1 individual sequence reported by [3] includes also
+CC   491 bp-long 5'-terminus that is in fact not a part of ATR1.
+CC   Individual copies of ATR1 are ~97% identical to the ATR1 consensus
+CC   sequence. The nature of the repeat is unknown. Target sites are not
+CC   well determined since ATR1 copies are flanked by (AT)-rich sequences.
+CC   An existence of several ATR1 subfamilies determined by multiple 
+CC   diagnostic positions indicates that ATR1 can be a retroelement.
+CC   At the same time, multiple copies of ATR1 have internal deletions
+CC   typical for DNA transposons. 
+CC   ATR1 shares common structural features with ATR2 and ATR3 elements;
+CC   all these elements have conservative termini: 5'-ATC and ATCTAGT-3'.
+CC   ATR1 portion (position 700-900) is conservative since it is 
+CC   present in several ~75% similar copies in ATR2 (1300-1400; 1600-1900) 
+CC   and ATR3 (930-1300; 1360-1580; 1705-1921; 1981-2081; 2113-2270; 
+CC   2272-2380).
+XX
+CC   [4] (Consensus)
+XX
+SQ   Sequence 2099 BP; 870 A; 234 C; 225 G; 770 T; 0 other;
+     atcctactat attatttggg aagtacattt taaatgtaac cttaattttt gtaagtaatt        60
+     acataggtat gccattagaa ataaaatttt aaagagtaaa ttaatttatc tctttaagga       120
+     ttaaaaagtc aaatactaat ttaattaatt aaatttaatt aaaaaacgaa atacattatt       180
+     aatttccaaa aataataacc aatcaaaatc aacatataag atttgatatc taaattttaa       240
+     ttaatttaat ttaattagaa aaacgaaata cattattaat ttccaaaaaa gtaaccaatt       300
+     aaaatcaaca aattagattt gatatctaaa ttatcatatt aattttttat taattattat       360
+     agttcacttc tcatctttat atgattctat ttttgcgaaa aaataatatc atcattataa       420
+     aaaaataatt agagtttttt cgcatatgcc ataatttgaa tttttaaaaa cgaatataaa       480
+     ctgttcaata catgaaaaaa tattataacg ggtgaaaaat agatttaaga aaactttcta       540
+     ctgagtaacg ggtcataatt tgaaatattt atattcaatt tcatacatat tatattgaaa       600
+     atttataatc ttatatacta caataattaa taacatatta gattttttta tgtgtatgat       660
+     gtgattcaat ttttaataca agctggaaaa tcctagaatt gacgggttta gatcgatatt       720
+     aatacaagat ggtatactac aggtgaaact cttaaattaa caatcaaact acaagtgtat       780
+     aatcttaaac actaaacaat atagataata tcaacaaaac atatacaact cacagtttac       840
+     tatacattta aaatcaaata aaataatatc atatattttt aaatcatctt tacaataaaa       900
+     gtttttagtt taactaaaat ataagcctac ctgcggtata ctgcaggtta atatctagat       960
+     tatagggctt attggatcta aagacgggtc atcaaagatt tcctaaactg aagcaaaata      1020
+     tactgaatat tcaaatatct atctgttacc aaattataaa caaataagtt cgtaaaacaa      1080
+     tttaatattt tatatacgaa atcaattaaa tcttaatcac ataaaaatta gcacaaaaaa      1140
+     aagtattcaa caattaaaaa attatcaaat ctctgtgtta tataagtttt gatactatat      1200
+     tcgaataaag tgtaatatac cttttcaatt tgtattcttt aactaattta agctaactaa      1260
+     tatatttgct aatcttatac ctatcaaaac cgactatcgt ttcttatctc tatagtattt      1320
+     ttgcaagact tttttggtgg atttggataa aagtgcattc gggtcatatg gtacattccc      1380
+     ctattaaata aatatggtgc actcctatgt tattagctaa aatgtttaga ttataattca      1440
+     gagtcatatc attaataaaa ttaatattaa taaaataaat ggctttttgg caagacggat      1500
+     ttggagggac gggtttttga atcaacatta ataaaaaagt aaaatataat taatccaccg      1560
+     tttcaatacg ggttaaatct ttaatttatt attttttaag accactaata ttaaacatat      1620
+     caaatcatcc taatttagaa aagattatat aaaaccaaaa atgttatgtg gtatgtataa      1680
+     tgttactata tataaaatta aactataaaa tataaatgta ttagagaatg atacaatttg      1740
+     caaaactttt atatataaaa aataattctt aaattttaaa aattactact ttaaaaaaaa      1800
+     aatcacggga cgggtaaaga aattacagaa cgggttttat tttggaattg ggttatatgg      1860
+     tggatgtatt tgaatcaata tttataaaat tttaaaatat tattaatatg ctgttttaat      1920
+     aggggttaaa acttcagttt tttaacaatt gtctcatgga ttcgtggtat agcgttactt      1980
+     aataacaatt ataaactgta aaatataaat attttataaa aataaaattt gcaagtttta      2040
+     atatatatta cttttaaaaa ataaatcgtc ccgcggtata ccgcgggtta aaatctagt       2099
+//
+ID   ATREP1    repbase; DNA; PLN; 890 BP.
+CC   ATREP1 DNA
+XX
+AC   ;
+XX
+DT   16-FEB-1999 (Rel. 3.1, Created)
+DT   16-FEB-1999 (Rel. 3.1, Last updated, Version 1)
+XX
+DE   ATREP1 repeat - a consensus.
+XX
+KW   non-classified repeat; ATREP2; ATREP1.
+XX
+OS   Arabidopsis thaliana (consensus)
+CC   consensus
+OC   Eukaryota; Plantae; Embryobionta; Magnoliophyta; Magnoliopsida;
+OC   Dilleniidae; Capparales; Brassicaceae.
+XX
+RN   [1]
+RP   1-890
+RC   [1]  (bases 177 to 890)
+RA   Kaplan N., Johnson D., Schutz K., Gnoj L., Hoffman J., Till S.,
+RA   de la Bastide M., Granat S., Hameed A., Gottesman T., Hasegawa A.,
+RA   Shohdy N., Parnell L., Dedhia N., Johnson A.F., Lodhi M.,
+RA   Martienssen R., Chen E.Y., Wilson R., McCombie W.R.
+RT   ;
+RL   Direct submission to GenBank; AC002330 (1997)
+XX
+RN   [2]
+RP   1-890
+RC   [2]  (bases 1 to 890)
+RA   Kapitonov V., Jurka J.
+RT   ;
+RL   Direct submission (February 1999)
+XX
+CC   ATREP1's individual copies are 94% identical to the consensus sequence. 
+CC   Multiple diagnostic positions indicate the existence of several ATREP1 
+CC   subfamilies.
+CC   It is possible that ATREP1 has preferentially been inserted at ACTAGAT
+CC   target-site forming 5 bp-long duplications. 
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 890 BP; 339 A; 89 C; 110 G; 350 T; 2 other;
+     actagatttt aacccgcggt acaccgcgga gacaatttat tttttaaagt tagtatatat        60
+     aaaaatttgc aaattgtatc tatctataaa atatttttat tttatagttt acaattgtta       120
+     ttaagtaacg tcctgccaaa cccgtcccgc caaacccgtc ccgaaaaaaa accatttatt       180
+     ttattaatgt tgatcttatt tatgatatgt ttatgaatca ttgtctaaat attttagtcg       240
+     atgcgggacg ttgaacccac acatttttcg ccaattggtt aatatatgtt catttttaaa       300
+     atttcgaatc acaaaatatg acggawttaa awttgagatt tttttaaact ctatatatta       360
+     tataatgatg ttaaaaattt ttgatatatt aaacttttta taagtttaaa tattaataat       420
+     gttttataaa gtttaaatat ataaataata atatttaaaa aattaatatt ttttgccttt       480
+     taggtaatga cataataact ctaaaagcaa ggatttagaa gatttaaatc tttaattaaa       540
+     tattttcatt cctaaataat taatgtcagt agcatgacat tgtaaataag ttcaaataca       600
+     tgatttattt atttaaacaa aaaacgttta gtaagaataa tatttattta aacaaaaaac       660
+     tttgttttaa aatattgtta acaaaatacg tttatgctaa ttttaaggga ttgatgtgaa       720
+     gtttgtttgg attaaatttg attgataatg tgattgacaa tttaaattaa gaatttaaag       780
+     taaaattaat tattttggaa aaaagattta atgctaatgg cattgggttg taaataagtc       840
+     caactctagg atttatttgc taaaatggct gcaaaaatgt atatatagat                  890
+//
+ID   ATREP2    repbase; DNA; PLN; 566 BP.
+CC   ATREP2 DNA
+XX
+AC   ;
+XX
+DT   16-FEB-1999 (Rel. 3.1, Created)
+DT   16-FEB-1999 (Rel. 3.1, Last updated, Version 1)
+XX
+DE   ATREP2 repeat - a consensus.
+XX
+KW   non-classified repeat; ATREP2.
+XX
+OS   Arabidopsis thaliana (consensus)
+CC   consensus
+OC   Eukaryota; Plantae; Embryobionta; Magnoliophyta; Magnoliopsida;
+OC   Dilleniidae; Capparales; Brassicaceae.
+XX
+RN   [1]
+RP   1-566
+RC   [1]  (bases 1 to 566)
+RA   Kapitonov V., Jurka J.
+RT   ;
+RL   Direct submission (February, 1999)
+XX
+CC   ATREP2's individual copies are 94% identical to the consensus sequence. 
+CC   Multiple diagnostic positions indicate the existence of several ATREP2 
+CC   subfamilies.
+CC   It is possible that ATREP2 has been preferentially inserted at ACTAGAT
+CC   target-site forming 5 bp-long duplications. ATREP2 and ATREP1 share
+CC   almost identical terminal portions (236 bp-long 5'-terminus and
+CC   70 bp-long 3'-ternimus). 
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 566 BP; 202 A; 67 C; 79 G; 216 T; 2 other;
+     actagatttt aacccgcggt ataccgcgga aacaatttat tttttaaagt tagtatatat        60
+     aaaagtttgc aaattgtatc tatctataaa atatttttat tttatagttt acaattgtta       120
+     ttaagtaacg tcctgccaaa cccgtcccgc caacccgtcc cgtaaaaaaa actcatttat       180
+     tttattaatg ttgatcttat ttatgatatg tttatgaaty attgtctaaa tattttgtaa       240
+     ttttgtagta attaaatgct atcaaatatc tctgcggttt gatgattata atcgaattgt       300
+     tatagtcatg gagaaaarca atatcaaaaa tgataatttt gtagtaatta aatgatatta       360
+     aatattttgg aagttttatt ttagtaacta atcgtgtagt taatgtggag agattttggg       420
+     aagattgtta aatgtcaaat atttaattcg aagattttct ttctaattat caaaaacaaa       480
+     tattaaaatc cagtggcagc cattgtaaat aagtcccaac tacaggattt atttcacaaa       540
+     atggctgcaa aaatgtatat atagat                                            566
+//
+ID   ATR2      repbase; DNA; PLN; 2242 BP.
+CC   ATR2 DNA
+XX
+AC   ;
+XX
+DT   24-FEB-1999 (Rel. 3.2, Created)
+DT   24-FEB-1999 (Rel. 3.2, Last updated, Version 1)
+XX
+DE   An AT-rich repetitive sequence - a consensus.
+XX
+KW   ATR1; ATR3; ATR2.
+XX
+OS   Arabidopsis thaliana (consensus)
+CC   consensus
+OC   Eukaryota; Viridiplantae; Charophyta/Embryophyta group;
+OC   Embryophyta; Tracheophyta; seed plants; Magnoliophyta;
+OC   eudicotyledons; Rosidae; Capparales; Brassicaceae; Arabidopsis.
+XX
+RN   [1]
+RP   1-2242
+RC   [1]  (bases 1 to 2242)
+RA   Kapitonov V., Jurka J.
+RT   ;
+RL   Direct submission (February 1999)
+XX
+CC   Individual copies of ATR2 are ~94% identical to the ATR2 consensus
+CC   sequence. The nature of the repeat is unknown. Target sites are not
+CC   well determined since ATR2 copies are flanked by (AT)-rich sequences.
+CC   An existence of several ATR2 subfamilies determined by multiple 
+CC   diagnostic positions indicates that ATR2 can be a retroelement.
+CC   At the same time, multiple copies of ATR2 have internal deletions
+CC   typical for DNA transposons. 
+CC   ATR2 shares common structural features with ATR1 and ATR3 elements;
+CC   all these elements have conservative termini: 5'-ATC and ATCTAGT-3'.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 2242 BP; 923 A; 276 C; 213 G; 823 T; 7 other;
+     atctatatta ttaattggga agcattgtgt gaactacaac attgtaaggg tagtttaaaa        60
+     ctaactaaat gaatttttgc atgggtaatt tagtaaatta acaactacta caactaaata       120
+     aatatcttgg attttgttct ttwaaaaaaa cgaatttaaa atcaataaat taataactac       180
+     ccaatatttt cggaaatcat ttaaaaacgt ttccataaca tatcaggcta ttttaattcg       240
+     aattgtatat atgtaaactt atttattttg gtaatatgtt attagataat tcggaaactt       300
+     caatctaatt taataacaaa ttatcattta gtttagattt tatacaattt ccttaacaaa       360
+     actatgttaa ttgtttctga ttagtacaca taaaaaataa ttttaaatta tgatttagca       420
+     tattcaaaag agaatttttg gattttagat ttgtaattat ctagaaaata gtttcagtat       480
+     agattaaaat atttaacatt ttaattagaa tttaaatgat ataaactttt aaagtatttt       540
+     tttaaaacag gtaattttca ttattttaaa aatatatcac taagctaaat ttgaattata       600
+     taaaagaaaa tatattttta aacgtattat aatagttaca agcttttgga atattcattc       660
+     ttctagattc gattatttct ttttttttaa acagtaaaac aaagtttaaa taccaatgtt       720
+     taaaattttt aatgcaaata ttcaaaatga gaaaatattg attcacacca atatyttatt       780
+     tttttctttg aaatttgaat gacttttttt tggaacaaac agtaatatga tttttttgac       840
+     agatcattaa ttgtattcga acaataataa ctaccatatt tgcgataatg cataaggata       900
+     agtttaattt taaaaaatac caaaatcgtt gagatcatag taaattttag ctttaaaaaa       960
+     aaatattttc gtcatcctaa atttaaaata tgtaattcag attagttttt ttcagtaaag      1020
+     ctaagattga atccaaatta aaatctaatt ttgcgtacaa tctatctctt ataattataa      1080
+     atgttatgca tacattcaca ttgcctcaca atcaatctag aatatcgatt ctttaaaaaa      1140
+     aatagataga gattcataag taaattactt catgttctaa tgatgtttat ctcctaattt      1200
+     tactatccat ttatgcgtat tcttatggat ttttctttca gggtcaacac tagattacaa      1260
+     gaaactagcc gggtgttggt caatattata ccacanataa aatcatggaa ttaacaatca      1320
+     aaatatagtt atacaatctt aaacaataaa caaaacaaat ataacttaat ttaatttttt      1380
+     atttttaact aaaatcaaca aatttatyag tttataaaaa acaaaataaa aattagcacg      1440
+     tggtacccta cgggtaaatc actacgattt catgaggttg caatatcaat ttatacaaat      1500
+     tttgactttt aaaatatact ttatacaatt attgaaaggt atacactaaa aatcggtttt      1560
+     atatactaca atatcataaa tttataaatc acaaattatt tttaaatata ttaatccaag      1620
+     atgtaccaca tgtcaatccc tcgatttttt taatatatta caataacaat atttaaaaat      1680
+     aacaaaataa tatttaattt tacggaatga agttatatgg tggaacgagt ttgggttgat      1740
+     attaatacgg gacgataatc tacgagtgaa atcttagaat taacaattat aacacaatta      1800
+     tacaatctta aacactaaac aaaataaaca atatttacaa aacaactata acttaaaatt      1860
+     ygaattttta gttacaaaaa aatcgaccaa cggtgtaccg cggagtaaat tttacattat      1920
+     atcatctaat tgatcaaatt tcaaacaaaa acaattaatt tatatataca tcaaactaac      1980
+     aaaaatacac agattttcca aatatctcta tattattccg caaatcgaaa caaatctaac      2040
+     aatctattta ctatgcaaaa tacaaataaa atataaataa tataaattaa taaaaaaaat      2100
+     tagctattgt atcataaata acactataca cttttctatg cacattataa tttatacact      2160
+     ayaatatctt tcactaaaaa tgtattccaa tayatttctt aaaatatgaa accccgcacg      2220
+     tatgtgcggg tcagaatcta gt                                               2242
+//
+ID   ATR3      repbase; DNA; PLN; 2388 BP.
+CC   ATR3 DNA
+XX
+AC   ;
+XX
+DT   24-FEB-1999 (Rel. 3.2, Created)
+DT   24-FEB-1999 (Rel. 3.2, Last updated, Version 1)
+XX
+DE   An AT-rich repetitive sequence - a consensus.
+XX
+KW   ATR1; ATR2; ATR3.
+XX
+OS   Arabidopsis thaliana (consensus)
+CC   consensus
+OC   Eukaryota; Viridiplantae; Charophyta/Embryophyta group;
+OC   Embryophyta; Tracheophyta; seed plants; Magnoliophyta;
+OC   eudicotyledons; Rosidae; Capparales; Brassicaceae; Arabidopsis.
+XX
+RN   [1]
+RP   1-2388
+RC   [1]  (bases 1 to 2388)
+RA   Kapitonov V., Jurka J.
+RT   ;
+RL   Direct submission (February 1999)
+XX
+CC   Individual copies of ATR3 are ~97% identical to the ATR3 consensus
+CC   sequence. The nature of the repeat is unknown. Target sites are not
+CC   well determined since ATR3 copies are flanked by (AT)-rich sequences.
+CC   An existence of several ATR3 subfamilies determined by multiple 
+CC   diagnostic positions indicates that ATR3 can be a retroelement.
+CC   At the same time, multiple copies of ATR3 have internal deletions
+CC   typical for DNA transposons. 
+CC   ATR3 shares common structural features with ATR1 and ATR2 elements;
+CC   all these elements have conservative termini: 5'-ATC and ATCTAGT-3'.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 2388 BP; 953 A; 251 C; 334 G; 849 T; 1 other;
+     atctatatat acatttttgg aggggatttt tgaagataat gttgaagatt tgagccataa        60
+     ttcaacaatt aattcaaatg ggtgggtttt acccggttta actctgttcg gatcctggat       120
+     aacatgttta attctgttct gatcttggat aacattaatt tttggaaaag ttacctaaaa       180
+     actaataatt aaaaacgaaa attaatgatt taattaccaa atttaatata aacaatatct       240
+     ctaaactaac catatttctt atttacctta actaatttcc taaaatattt ctacctaatt       300
+     taaacataaa tatataattc ttctttcayt tttatttgat cttatacttt atttattttg       360
+     aatttatata aaatatatat agttaataaa atattatatt tttttctgaa tatgatgtaa       420
+     ttcaaatttt ttaaaacgga catatattat tcaacctatg aagaaataat atgtgtacaa       480
+     tgtcccacat cgcttagaaa aattggacaa tggttcagac ccatattata aaaggaccaa       540
+     aatgattctg attacgaatg agcaggaagc ttgatttatc aggcgtccaa aattaaaata       600
+     gttatccgat tttactcgga ttttttattt taaagaattg aaactttaaa atgtttcaag       660
+     aaattataaa tattataact ttatcaaaag ttaaatatta taattttaaa aactttttat       720
+     aaagtttatc tttaaaaaat gctttaaata tttataattt taaaacttat aaagttttaa       780
+     aaattataaa ttgaatttta caagaaattt aaacattata aatatataaa aaatatatta       840
+     atacgagacg atatattaca ggaaaaatct taaatataac aatcaaaatt caatgatgaa       900
+     ttttgggtcg atattgtatt ttttttaagt ttcaaatttt ataatattga aatttataag       960
+     aaaatgacaa aattatgttt aatttcacgg gactgggtta tatggtagga cgggtttggg      1020
+     tggataataa ttacgatttt acaatgtccc acatcgctta aaaaaattgg acaatggtca      1080
+     agagccatac tataaaaagg accaaaatga tttcgattac gaatgagcat gaaacttgat      1140
+     ttatgaggtg tccaaaatta aaatggtttg tttactaggg ttatttattt taaaaaattg      1200
+     aaactttaaa aagtttcaaa aaattataaa ttaaatttta caagaaattt aaacaatata      1260
+     aaagatatta atacgggacg atatactgcg agagaaatct tagatataac actcaaaatt      1320
+     caatgatgaa gtttgggtca atattaatct tttttgaagt ttctaatttt ataaatattt      1380
+     gaaatttata ataaaatgac aaatttgtgt ttaatttcac gggacggggt tatatggtgt      1440
+     gacgggtttg agtggataat aacatgggat agtatgctat ggaaaaaaac atataattaa      1500
+     caatcataat ataattatat aatcttaaac actaaacaaa attaacaata ttaaaaaaaa      1560
+     acacttaaaa ctttaatttt tttaaaacac attttgattc ttttataaga aatttaaaca      1620
+     ttataaatat ttaaacttta tactacgggt gaaattttag aattgactgt ttgggttgat      1680
+     aagaatttgc gatagaacta ggagttaaat cctagaatga caatcaaaat ataattatac      1740
+     aattaaatac taccacgagt gaaatcctag aattgacgag tttgaatcga tattaatatg      1800
+     ggatggtgta ctacgggtga tattttagaa ttgactggtt tgggttgata ataatttgcg      1860
+     atagaattag gagtgaaatc ctagaatgac aattaaaata taattataca attaaatact      1920
+     accacgggtg aaatcctaga attgacgggc ttgattcgat attaatatgg gatggtgtac      1980
+     tacgggtgat attttagaat tgactggttt gggttgataa taatttgcga tagaattagg      2040
+     agtgaaatcc tagaatgaca attaaaatat aattatacaa ttaaatacta ccacgggtga      2100
+     aatcctagaa ttgacgggtt tgattcgata ttaatatggg atggtgtact acgggtgaaa      2160
+     tccgagaaac aacaatcaaa atacaattat acaatattaa acatttaaca aaataaacaa      2220
+     atacaactta aaactttaaa atttgagtta taaaatttcg tctcgcggtg aattatacat      2280
+     ttaaatcaaa caatagcata aatttattaa atcatcctaa aaaatattca attatttttt      2340
+     atttaataaa aatataggcc cgcggtatac cgcgggttaa tatctagt                   2388
+//
+ID   TDD_DD    repbase; DNA; PLN; 527 BP.
+CC   TDD_DD DNA
+XX
+AC   K02644;
+XX
+DT   11-NOV-1996 (Rel. 2.2, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Slime mold (D.discoideum strain Ax-3L) transposons Tdd-3/Tdd-2 3'
+DE   junction.
+XX
+KW   transposon; DDTDD.
+XX
+OS   Dictyostelium discoideum
+CC   Slime mold (D.discoideum) strain Ax-3L DNA, clone pDdB14.
+OC   Eukaryota; Fungi; Myxomycota; Acrasiomycetes; Dictyosteliales;
+OC   Dictyosteliaceae.
+XX
+RN   [1]
+RP   1-527
+RC   [1]  (bases 1 to 527)
+RA   Poole S.J., Firtel R.A.;
+RT   "Genomic instability and mobile genetic elements in regions
+RT   surrounding two discoidin I genes of Dictyostelium discoideum";
+RL   Mol. Cell. Biol. 4, 671-680 (1984)
+XX
+CC   This is an invertebrate, not a plant.
+XX
+DR   GENBANK; K02644; 81.0.
+CC   Positions       1     527  Accession No K02644        GenBank (rel. 81.0)
+XX
+SQ   Sequence 527 BP; 276 A; 81 C; 35 G; 134 T; 1 other;
+     tctagaatac atcaaaaaag caaaagatct gaaaanctta tcagcaaaag accataataa        60
+     cttcaaagat cctaagatcc ttctcacttc aacgatcaag ctaagaaaaa caacagctaa       120
+     ttactattgt attccagaat catctctccc aaatattata tcttttgatc aattcatatg       180
+     attaaaataa cccttcagct taaatgataa gcctttaaat aaatattaaa taaaactcgt       240
+     attaacacag atggacatat atcaatcttg ttaatccaat attaaaaaaa aaaaaaaaaa       300
+     agaaaaacat atccatcatc aatctaacat caactacatt caatctatct actctacaca       360
+     ctaattcctt caatccttgg attaggaata agaatagatc tgaataaacg agaaagaaaa       420
+     aaaaaaaaaa aataaaaata aaaataaaaa atatttttat ataaacacat aattaaaaaa       480
+     aaaataataa aaataatata aaaaaaaaaa aaaaaaaaaa aaaaaaa                     527
+//
+ID   AF018033  repbase; DNA; PLN; 5977 BP.
+CC   AF018033 DNA
+XX
+AC   AF018033;
+XX
+DT   24-FEB-1998 (Rel. 3.0, Created)
+DT   24-FEB-1998 (Rel. 3.0, Last updated, Version 1)
+XX
+DE   Magnaporthe grisea non-LTR retrotransposon MGL genomic sequence.
+XX
+KW   .
+XX
+OS   Magnaporthe grisea
+CC   Magnaporthe grisea.
+OC   Eukaryotae; Fungi; Ascomycota; Euascomycetes; Pyrenomycetes;
+OC   Phyllachorales; Phyllachoraceae; Magnaporthe.
+XX
+RN   [1]
+RP   1-5977
+RC   [1]  (bases 1 to 5977)
+RA   Meyn III M.A., Farrall L., Valent B., Chumley F.G., Orbach M.J.;
+RT   "Magnaporthe grisea repeated DNA element MGR583 is a member of the
+RT   LINE-1 class of polyA retrotransposons";
+RL   Unpublished
+XX
+RN   [2]
+RP   1-5977
+RC   [2]  (bases 1 to 5977)
+RA   Meyn M.A. III, Farrall L., Valent B., Chumley F.G., Orbach M.J.;
+RT   "Direct Submission";
+RL   Submitted (08-AUG-1997) Plant Pathology, University of Arizona,
+RL   P.O. Box 210036, Tucson, AZ 85721-0036, USA
+XX
+DR   GENBANK; AF018033; 103.0.
+CC   Positions       1    5977  Accession No AF018033     GenBank (rel. 103.0)
+XX
+SQ   Sequence 5977 BP; 1389 A; 1801 C; 1743 G; 1044 T; 0 other;
+     caagcatcct ccaccattca tgggtcagac ccacctttgt tagcgattca cacccaaaca        60
+     caccaataag cttaacagct gaagaatttt cgccctccgc gcggtcgtca tggcctcacc       120
+     agaggtctca aaccgccgcg cgcgcccgca gagcacgccg cacggtttgc cgcagggcca       180
+     ggccgagtcg ggacacgtat ctctcgacac gcgcaccgct aacgcgcctc agccggctgg       240
+     ccgcggaagg tactccaccg tcccggccct ggccatcaaa acactgcagc aggagttgga       300
+     aaacgtggaa acagtcggca gctggctcga agaggtcttt gcagccaagc tcgaaagttt       360
+     acaggccccg gaggacgccg cgcttaggag aattgttctt gaacttgacg acgtgatcag       420
+     cggctggttc ctcagtcgca ccctccctga aaaagagcgt tcgcgctccc cgtccggttc       480
+     gccgaccagt tccagcgaaa ggcgcagcat tttaattacg aggacgggca cggcgtcgtc       540
+     ggcctctaaa ggcagaggca cgcccactaa caaatcggtc acatgggccg agcgagccgc       600
+     cacgccacca gcggcggccc caacgcgaat tttaaccccg gccacgcgct cgtacccgat       660
+     acgtacgacg cccggcaatg cacctgacag ctccgcaact ccctcccaat cgggccggga       720
+     ccgctcccaa gccccgaaac gtttgacaga acagccgtcc aaccgcatcc tgatccgcgt       780
+     aaatgacaaa ttgcggatgg tgacgaggga gccatacgcg gtaacgacca aattggccga       840
+     attggtctcg gtgccacaca gtgaaatccc aaacgccaag cgtaccccca cgggctgggg       900
+     tgttacggtg gcctctgagg aaacacggca aaaactcctc aaccccagcg cggtcaaggc       960
+     cattatggac gcattggacg cgcgggaagt cactgtcccg acaacctggc acacatacgc      1020
+     cgtctctgga gtgccccgaa cgctcaattg cctggacgga agaaaggacg tacatgaggt      1080
+     aatccaggag gagattaccg tggcagcagg ccagcagcca gtcaactggc atatttccaa      1140
+     acatggttac gacccacata cggctgaggg cacgtggata gtgtccttcc ttcaacccgt      1200
+     aaagcccttt cagctttttg gagtgtcgaa acgtgcgcgg aaggttgaaa aatcacgcaa      1260
+     aattacacac caccacgacg gttgccaggg atattgcgaa atacgtcgct gcgtacggca      1320
+     agcgcgttgc ggcatatgtg gtgaagcaaa acatgcgaca gaggaagagc cgtgcaaggc      1380
+     agcccccaaa tgcgttaatt gccacggcca tttcccatcc ggacatgaga attgccctgc      1440
+     ccgacctttg gtggtaaatg ggaagcttga acgaccttca cagcgtaaac ttaaggggat      1500
+     tcgcagaatc ggacgtgcca accgtgccgc gattatcaac gaccgggccg aaacggcccg      1560
+     ccgagagcca gcacctgcaa tcccggtcct aagcacctca tcgcagcatt cgcaaacctc      1620
+     gagctcccga tcgagcattt caaacaaaag agcgcggcca tgcgaggcgg caggggcgga      1680
+     catccgtaac ttcctgcagg ttgaacagga acgcgtgcac gacgaaatcg tttgggcagc      1740
+     cgaaatggag gaggacgcag cggctgccga accttgcccc gctgatggga tagacttgga      1800
+     agcaacccgt cgattaatat gacgaaatac tcgctcggca atatgcagcg ggaatgcctc      1860
+     gacgtagttt gggccaacgt aggtaaaagg atgggtgtgc atctgagcct attggagttg      1920
+     tgccaccaga gaaaggtgga cctggttaac gttcaagagc catggtgcgg gctaaatacg      1980
+     actacacaaa cgcacccggg ctatgatgtt tttgcgccag tggacgaatg gcacgccaac      2040
+     acttacgaag ccatgactgg gctccggccc cgggtgctca cctacgttaa gaagggggca      2100
+     gccctaaggg ccgcacaacg acggctaccg cagggccaaa atacgcggga catactctgg      2160
+     ctcgaaatta acggaatatt gtttgttaac gtatataggg ctccgggcac tgaagccgcg      2220
+     ctggaaatgg tatgcaatac cgtgccaaat ggacccacgg tgctaggcgg cgattttaac      2280
+     gtagcggctg ctgcatacca gccgggccgc gcaaacgcac gcggagggga ccaactgacg      2340
+     gcatgggcgc aagcccaggg gatgagtttt acaggaaata tcggcgtgcc cacccaccgc      2400
+     gacgggggtt tactggatat ggtcttttcc aacctcccca gcacaataac tgtggttgac      2460
+     agcagtcttt acacaggctc cgaccacgaa tccctttata ccacgctgcg gacgcgcggc      2520
+     gccccccgcc cggaggcgat caacgtttcg gttagggacg accggttacc aaagttcgcg      2580
+     gagctacttg cttttggcat gcaagacatg ccggacccgg gatccgcggc cgatgcgtac      2640
+     gcattggacg cgtgggtagc tgaatttaca actttatggg agcaagtgac gtgggtcgtg      2700
+     ggtacgccgg cgggaaaaag ggacagctcg gctccctggt ggaccgaaaa ctgccagcgc      2760
+     gtctggtccg aattccagcg ggttaaacgg agcgctgtaa atagggcaga cgcctctgcc      2820
+     gaggaaaaag cctatacgaa aggggtgcgg gccgcgaagc gggagtactg gaggcaccgg      2880
+     atcgaccaac tgcgcgacga taaggatttg tggaacatgg tgggctggct gggagccgga      2940
+     ccacgcctcc ggtccccgcc gctggttatt aacggcgagc aagtgagcga gcctttagca      3000
+     aaagcggaag cactgcaacg ggaggtgctt ggccgatttt cggcggagga tgacctgcag      3060
+     ggagacccct tggaggcctg gtcgccggac gaggctaaaa tcccttggga cacccaggtt      3120
+     agtgcggaag aggcggagcg ctcctgcatt ggggttacga gcacgtcccc gggcatcgac      3180
+     ggaataaccg tccggctact aaaagccgga tgggcttcgt tggccgagcc ggtgcgcagg      3240
+     ctctaccaac gttgcctgga actcggacat ttcccagcgc cttggaagaa ggccgaagtc      3300
+     gcgatgctac cgaaaacggg gaagaaagac cggagcagcg ttcgatcctg gcggcctata      3360
+     gccctcctct cctgcatcgg aaaaggcctc gagaggctcg ttgcacgccg gatagcttgg      3420
+     gccatacacg acaacgggct ccttagctgc acccacggcg gtgccctacc caaacgatcg      3480
+     gcgacggatc tggtttgtgc cctcgcccac gatatcgagc aggctttagc tcgcggggag      3540
+     gaagttaccc ttgtcgcatg cgacgtccaa ggcgccttcg acgccctcct ccatgggcga      3600
+     ttaatacgga aaatgcggag cctcgggttt agtaaaatgc tcctcaggtt cgtgattaac      3660
+     tttttaagcg gccgccaggc ccgagtccgg ctggagggta cgaccacggg ctttaggcgg      3720
+     cttgggtgcg gcaccccgca agggtctccc ctttccccga tcctatatat gctatatttg      3780
+     gcgtatctcg tcaaaaacgg tacgaagtgg cggttggcat acgcagacga cgtgcttaca      3840
+     tggaaatcgt caccctcgtt ggaggaaaac gtacgttggc tggaagataa actccgggat      3900
+     atgcacgaaa ttgcggcgga agagaagatc cattttgcag cggaaaagac agaggtgatc      3960
+     catatcacta agaaaaggca cggtcgcaac ccggaaatcc ggattaatgg tagaacggtt      4020
+     accccggtcc aactaccggg cggtcgacgc ggacaaagcg cctccggggc cgagcgctac      4080
+     ccgggcatgc gttggcttgg tttttggttt agccgacggc tagacgggcg ccgccacgtg      4140
+     gccgaaaggg ctgccaaagc aatggcggtc gctgcccacc tcaagagctt tggggcagta      4200
+     agatacggac cgcctgcggc tgcacttcgc aaggcagcgg tggcatgcgt gggttcctcg      4260
+     gccacctacg cagccgaggc atggtacaac ccagcgcaca agcaaagagg actcctcaaa      4320
+     gcattgaaca aaccgctggt tttagcggca cgggcaatcc tcccggcgta taaaaccacc      4380
+     ccctcgtcca ctgttctcag ggacgcagga ctaccctcgg cccgcgtcgc gctggcctac      4440
+     acccgcctga aatacggcgc ccgactaagg ctcgcggaca aggggcaccc ccttgtcagc      4500
+     cgcctgcgtg aaacacctcg tgcccgcaac tcgggccatt cggccacgac cctgcaaacg      4560
+     gctgcacaac ttctcccgcg gatccggaga ctagagttgc gcgcacctcg caatgccccg      4620
+     gattctcgca ctgaccccac cggaggagtc ccgaaagagg aagcggcccg ccgctttatc      4680
+     gaatggctgg acatggtatc acctgacgat atcgtggtat atacggatgg ttcggaaaaa      4740
+     cacgaaaaca actgcgtcca aatagggtac ggatgggccg cttttagggc gggcctggaa      4800
+     tttgccgcac gtgccgcatc tattacgccg gaaagccacg ttttcgacgc cgaggcgatt      4860
+     ggcgccctaa aagggctaca ggcggcagcc aaggcccagc caggcgcccg gatctggatt      4920
+     tgtgtggaca gcacctcggt tatttggggt cttagaggcg acgcgccgcg ttcgtcccaa      4980
+     tgggcctttc tggagttcca taaccttgtc gatctactcc gaaaacaaag taccgaggtt      5040
+     cgggtccgtt ggtgccctgg gcaccaggga atcccgggaa acgaccgggc tgacgagctg      5100
+     gccaaggccg gctccgccgg accgccggac ccagacccga gggctcagca aaccacgtat      5160
+     agcggtgccg gcacggtcct cagagccatt ctttcgaata tagagaagga ctggtggcgt      5220
+     aaagaactct gtgaacggtc ccccgcatat agggaatgga aattccaata cacaccgaga      5280
+     aaggagcccg aggaactgcg tttgccaaga cccctactgg gccattattt ggccatgagg      5340
+     accggccacg gcgatttcaa agcctaccat gaccgtttca accaccagga tgcaaacacc      5400
+     tcgtgtgcct ggtgctggaa gcggacctcc cctgaacacc cggtgcactg ccgcttttcg      5460
+     cgggcggtgt ggagaaactg gccgtggcct gacaacgacc ggccggtcgg gccgccagac      5520
+     cgcgcccaac gccgcaaatt cttccagaca agcctcgggc aaccgaaaag ctttgaggcg      5580
+     ttttcgatag ccaccaacta cttcagcgcc cgccccagag cggcccgcca gcgccccgcg      5640
+     cgccacgaac gcactttacg cctagggaca ccgatcgtaa acgactcgaa ctctgacgag      5700
+     gaatagactt actgcctttt cacccacact tcacggcaca agccgctaga cgaaccctcc      5760
+     gtgcacctta ggcacggggt cgcgtcagtg aactaacccc ctaagcagga ccgggcccga      5820
+     acccggtcag gcacgatccg cctctgccct ccttgttttc cccctgtgta aataaagaag      5880
+     atagaacgcg cgccgagata cccctcggga ggttgctaac ggccggctaa caagccgggc      5940
+     cgagcccggc gttaactaat actactacta ctactac                               5977
+//
+ID   BRENSPM1  repbase; DNA; PLN; 2112 BP.
+CC   BRENSPM1 DNA
+XX
+AC   AB022082;
+XX
+DT   13-APR-20001999 (Rel. 4.0, Created)
+DT   13-APR-20001999 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   A portion of En/Spm-like DNA transposon.
+XX
+KW   DNA transposon; transposase; En/Spm superfamily; BRENSPM1.
+XX
+OS   Brassica rapa
+CC   Brassica rapa (haplotype:S9) DNA, clone:E89.
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   euphyllophytes; Spermatophyta; Magnoliophyta; eudicotyledons; core
+OC   eudicots; Rosidae; eurosids II; Brassicales; Brassicaceae;
+OC   Brassica.
+XX
+RN   [1]
+RP   1-2112
+RC   [1]  (bases 1 to 2112)
+RA   Suzuki G.;
+RT   "Genomic organization of the S locus. Identification and
+RT   characterization of genes in slg/srk region of s(9) haplotype of
+RT   brassica campestris";
+RL   Genetics 153, 391-400 (1999)
+XX
+DR   GENBANK; AB022082; 116.0.
+CC   Positions       1    2112  Accession No AB022082     GenBank (rel. 116.0)
+XX
+SQ   Sequence 2112 BP; 644 A; 375 C; 516 G; 577 T; 0 other;
+     atggctggct ctgggactat ttacgagttg cggaattgga tgtatatgca tagagatgct        60
+     aacgggagag tgacgaaaga ataccttgcg gggctggaga catttatgca ccaagcagat       120
+     tcaacaccgc tcgcccaaga aagtggtaag atgttctgtc cttgtcggaa atgcaacaat       180
+     tcgaaattgg caaaccgtga aaatgtttgg aagcatttaa taaatagagg tttcacgcca       240
+     aattactata tctggtttca acatggggaa ggttataatt atgatcagaa tgaagctagt       300
+     agtagtaata gcaattttca ggaagaaccg gttaatcatc atttgcataa tgaacatagt       360
+     taccatcagg aggagatggt agattatgat agggttcatg atatggtagc tgatgcattc       420
+     gtagctcatg atgaagatga agaacctaat atagatgcaa aaaagtttta cggaatgtta       480
+     aacgcggcga atcaaccact ttacagtggt tgtagagaag gtctctctaa attgtcgttg       540
+     gctgctagaa tgatgaatat taaaactgat cacaatctac ctgaaagttg catgaacgaa       600
+     tgggcggact tgtttaaaga gtatttgccg gaagacaatg tgtctgctga ttcttattat       660
+     gagattcaga aattagttta tagtcttggg ttgccttcgg agatgataga tgtctgcatc       720
+     gacaactgca tgatctattg gggagatgat gagaagctcg aagcatgtcg attctgcaag       780
+     aagccacgat tcaagccgca aggacgggga cttaataggg taccgtacca aaggatgtgg       840
+     tacctaccaa ttacagacag attgaaaaga ttgtatcaat cagagcagac tgctgcaaat       900
+     atgagatggc atgccgagca tactcagacg gatggtgaga tgactcatcc atcagatgca       960
+     agagcctgga aacatttcaa caaagtacat ccggattttg ctagcaatag ccggaatgtg      1020
+     tatctcggat tatgcacaga tggatttaat ccgttcggaa tgtcagggag acaatattca      1080
+     ttgtggccag tctttcttac gccatacaac ctgccaccgg agatgtgcat gcaacgggag      1140
+     ttgctattct tgacgatatt gatacctggt ccgaaccatc caaaaaggtc cctggatgtt      1200
+     ttcctacaac cactgataaa agagttgaag gatttgtggt caacaggggt gaggacgtat      1260
+     gattgttcaa cgaagacgaa ttttacgatg cgagctatgc ttttgtggac cataagtgac      1320
+     tttcctgcat atgggatgtt gtctggatgg actacacatg ggagattagc ttgtccatat      1380
+     tgtaatggaa cgacagatgc gtttcaactg aagaatggta ggaagacaag ttggtttgat      1440
+     tgtcatcgtc gatttcttcc cattggccat ccttaccgaa gaaacaagaa tttgtttagg      1500
+     cacaaaaggg ttgtgagaga cacttctcca ccatatctaa ctggagaaca aattgaagca      1560
+     caaatcgact actacggagc taacgaaaca gttcgttggg gtggtaattg gcatgtccct      1620
+     cgtaatatgc ctgattctta cggtgttcat cacaactggc acaagaagag tatattttgg      1680
+     gagttgccat gttggaagga tcttcttctg cgccacaacc tcgatgtgat gcatatagag      1740
+     aagaatttct ttgagaacat catgaataca atattgaatg tcccagggaa gacaaaagac      1800
+     aacataaaat cgaggttgga cttgccggat atttgctcaa gaagcgagtt acatattaaa      1860
+     agcaatggac aagttcccgt tccgatattc agactgtctt cagaaaaaaa gtcggtgttg      1920
+     ttcaactggg tggcatcaga agtgaagttt cccgatgggt atgtttcaaa tctctctaga      1980
+     tgtgttgaaa agggtcaaaa gttctctggg atgaagagtc atgattgtca tgtctttatg      2040
+     caacgactac tgccctttgc atttgcggag ctacttccaa caaacgtaca tgaagcactt      2100
+     gcaggttcgt ag                                                          2112
+//
+ID   RIRE3_I   repbase; DNA; PLN; 5775 BP.
+CC   RIRE3_I DNA
+XX
+AC   AB014738;
+XX
+DT   02-JUN-2000 (Rel. 4.0, Created)
+DT   02-JUN-2000 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   Gypsy-type LTR retrotransposon RIRE3 DNA, internal region,
+DE   complete sequence.
+XX
+KW   LTR retrotransposon; retrovirus; GYPSY superfamily; polyprotein; RIRE3.
+XX
+OS   Oryza sativa
+CC   Oryza sativa (sub_species:Indica, strain:IR36) shoot DNA.
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   euphyllophytes; Spermatophyta; Magnoliophyta; Liliopsida; Poales;
+OC   Poaceae; Oryza.
+XX
+RN   [1]
+RP   1-5775
+RC   [1]  (bases 1 to 5775)
+RA   Ohtsubo E.;
+RT   "Direct Submission";
+RL   Submitted (22-MAY-1998) to the DDBJ/EMBL/GenBank databases. Eiichi
+RL   Ohtsubo, The University of Tokyo, Institute of Molecular and
+RL   Cellular Biosciences; Yayoi 1-1-1, Bunkyo-ku, Tokyo 113-0032, Japan
+RL   (E-mail:eohtsubo@ims.u-tokyo.ac.jp, Tel:+81-3-5684-3269,
+RL   Fax:+81-3-5684-3269)
+XX
+DR   GENBANK; AB014738; 116.0.
+CC   Positions       1    5775  Accession No AB014738     GenBank (rel. 116.0)
+XX
+SQ   Sequence 5775 BP; 1402 A; 1522 C; 1524 G; 1327 T; 0 other;
+     gttggtatca gagccccctt gaccctagga cgagctgtag atccgaagcc ttagcagtat        60
+     tttcgaaata aaaatccttt gttatttgtg aaaaccctct agtctctctc tgtcttgctg       120
+     cttcatttat cgtcaaaatc tgacctttaa aatgttgttt ttcttttttg tttttgtttg       180
+     tagatggccg gcagcgtcac ccgtcgtggt ttggacatga ctggcttcgt cttggagctg       240
+     cggggcatgt gcgttgtcct ggggtatcca catggagtgg actaccaggc caggccgctt       300
+     ccggagcagg agggtgacga tgcagagccc cacgctgctt gggaggtcac tgcagtgatc       360
+     ctctctggct ctcccgagcg gacttcgctg gcagtcaccg cgggtgggga ttccttcccc       420
+     gccgcttgcc agagcgccgc tctcctcgcc atcggcaccc ttcactagcg ctacccggac       480
+     gagttgcagc actcgcccta ccgctaccac catcgccgcg gaggagcccg cgactacgcc       540
+     accttccggg atgctagctc ggaagatgac gttaccatcg tgcacctggc gcgcatggtg       600
+     gaggcgtatg acgcggctcg tatcgacttc catcaaatgg tgcgccgtgg gatggttgaa       660
+     aacaacttga aaatcctgga gctgcgtcag gagaacctgc agctcaagaa ggacttaaac       720
+     gcggtggagg cgcagctgca tcagctcaag atcgcccagg gagaggacag ccgtcccaag       780
+     cgtcgccgcg tcttccgcag ccagaagatc accgcccgca agagcacctc caggcccgag       840
+     cttgttcgtc agtccctggc gtggacctgc ttcgtcgaga cccctcgtgc cgagcccgcg       900
+     cccgtggttc cccaggaggg ggaagcatcc ggcgttggta gcacggagga tgcgctgttg       960
+     ctcaccttcc gtcctggccc gtcgcagcag tagacgagca gttagtaggc tcgcgcgtgt      1020
+     gttctttctc gtttatcttc ttgttgagtc gtgtggggca tggttatgcc ggtgtgtggt      1080
+     ataactgtgt cggagcctgt cttattttat ttgcctaagc aacttgaact ctaatgaacc      1140
+     aatttaatag cagtaataaa ttcaagaatt atggtagtcg tgggtggtta gttttaatag      1200
+     ttagctcttt ctgtttgctg gatccgtgtg gggtttacag atggtgacaa ccaggagaac      1260
+     tgctaatacc ggtgatggca accaacccga aggcagcaac atcaacaacc atggcagccc      1320
+     acctccacct ccgcctcctc caccaccccc agacaccaac gccattctca ctcaaatcct      1380
+     cgcccagcaa gccaacatga tggctgcttt cctccaccac atccaaaatc caccacggca      1440
+     taatgctcca cctccaccac cacccccgca acactctgag ctcgccgagt tccttcgcat      1500
+     tcgcccgcct accttctcca gctccaataa ccccgtggat gccttggatt ggttgcatgc      1560
+     agtggggaag aagttagaca ctgtgcagtg caacgataag gagaaagtca tctttgccac      1620
+     ccaccagctg caggggcccg catctctatg gtgggactac ttccaggcta cgcagcccga      1680
+     ggggcagcct atcacctggg cccgtttcac cgccgctttc cggagaaccc atgtgcccgc      1740
+     cggagtcgtg gctcttaaga agagggagtt ccgagagttg aagcaaggca accgctccgt      1800
+     gatggagtat ttgcacgagt tcaacaatct ggcccggtac gctccggagg atgtgcggga      1860
+     agatgaggag aagcaagaga agttcttggc gggaatggac cctgagctgt ccgttggtct      1920
+     agtctctggg gactatccgg atttccaacg tctggtggac aagagcatcc gcttggaagc      1980
+     caagcacaag gagctggagt cgcacaagcg ccgcttggcg aacttccgca atcagcaggg      2040
+     tgctaaccag agggtccgct acaccaatcc ctatccaggg ggatcctcct cgcagcagca      2100
+     acaacaacag cagcagcaat cccgccctgc gcctcgacct caattcgtgg tgcgcgtccc      2160
+     acagccgcag cagcagcaga atcagcaagg gactcgtgcg ccccgtcctc ctacgccagc      2220
+     tgtgcagccc gttcaaggcc gcagggacgc ttcaggtccg cagcgtctgt gcttcaactg      2280
+     cttcgagccc gggcactttg cggataaatg cccgaagccg aggcggcagc aaggccaagc      2340
+     gcctccccgc cccaacaacg gcgggaagga tgtcattcgg ggccgtgtga atcacgtgac      2400
+     ggccgaggac gtgctgacaa ctccagactt catcgttggt acgttcctcg ttcattccat      2460
+     ccctgctacc attttgttcg actctggagc ttcccactcg ttcatatcta tgccattcgt      2520
+     ggggaaaaac cagttggggg tagaaaggct tagaaaccct ctgctcatca ccacccctgg      2580
+     aggggttatg acagcaaagt attatagtcc tgccgtccct atagaaatcc aggggattcc      2640
+     ttttccctcg gatctgattc tgctagacac caagaacttg gatgtgatcc ttgggatgaa      2700
+     ttggttggct caattccaag gagtagtgga ttgcgcgaga cgcactgtca ctctgtaccg      2760
+     agggccggaa caaccggttg ttttctttgc acccccaacc tctgtcagaa gttcagaact      2820
+     gcattagata ggactgtcag aaatccccat tgtcagagag ttcggagacg tgtttccgga      2880
+     agaactacct ggtatgccgc cccagcgaga gattgagttc cggatagatc ttgctccagg      2940
+     aaccactcct ctgtacaagc gaccctaccg tatggcagca aatgaactgg ccgaagtcaa      3000
+     gaaacagttg gaagagttga aagaaaaggg gtatatacgt ccgagtactt ccccatgggg      3060
+     tgctcctgtg atttttgtag agaagaaaga caagacgaag aggatgtgcg ttgactacag      3120
+     agctctcaat gaagtcacta tcaaaaacaa gtaccctctt ccccggatcg atgatctgtt      3180
+     cgatcagctt aaaggtgcca ctgtattctc caagattgat cttcgttccg gatatcacca      3240
+     gttgcgcatc cgggaagaag atattccgaa gaccgcattc accacgcgat acgggctgta      3300
+     tgaattcacg gtgatgtcgt tcggtctaac caatgctcct gcatttttca tgaacttgat      3360
+     gaacaaagtg ttcatggaat acttggataa gttcgttgtg gttttcatcg atgacattct      3420
+     gatatactca caatcagagg aagaccatca gcaccatctc cgtctggtgt tgggaaagtt      3480
+     gcgggaacat caattgtatg ccaaacttag caagtgtgag ttctggttgt ccgaagtcaa      3540
+     attcttaggg cacgtgatat ctgctaaagg agttgcggtg gaccccgaaa cagtgaccgc      3600
+     cgtcactgat tggaagcaac ccaagacagt cactcaagtc cgcagtttct taggtttggc      3660
+     aggatactac cgaagttgta tcgagaactt ctccaaaatc gctcgaccca tgacacagtt      3720
+     gttgaagaaa gaagagaaat ttgtgtggag cccgcaatgc gagaaggcgt tcaaaaccct      3780
+     caaagaaaag ctggtttcct cgccagtgtt aatcttgccg gatactcgca aggatttcat      3840
+     ggtgtattgt gacgcttcgc gccaaggatt ggggtgcgtg ctcatgcagg atggtcatgt      3900
+     ggtggcctat gcctcacgcc agctacggcc tcatgaaggc aactacccta cccatgattt      3960
+     ggagttagct gcggtggttc atgctcttaa gatcaagcgg cactatctca ttgggaatcg      4020
+     ctgtgaaata tatattaatc ataagttttt gaaatacatc ttcactcagt cggatctgaa      4080
+     tcttcggcag agaagatggt tagaactcat caaggattat aatgtgggaa tccactatca      4140
+     tcctggtaag gccaacgtgg ttgccgacgc tctaagtcga aagagccact gcaacactct      4200
+     caacgtccga ggcattccac ccgagcttaa tcaacagatg gaagccctga acctaagcat      4260
+     agttggtcac ggattcttgg ctgcgttgga agccaagccc accttgctcg atcaaatccg      4320
+     cgaggctcag aagaatgatc cggacatgca tggactcatc aagaatatga aacagggtaa      4380
+     agctgctggt ttcacagagg atgaacacgg aaccttatgg aacggaaagc gagtatgcgt      4440
+     tcccgataac agagaactta aacaactgat acttcaggaa gctcacgaaa gtccttattc      4500
+     cattcacccg ggcagtacca agatgtactt agacttgaag gagaaatact ggtgggtcag      4560
+     catgaagcgg gaaattgcag agttcgtggc tctttgtgat gtgtgccagc gtgtcaaggc      4620
+     agagcaccaa cgaccggccg gacttctcca acctctccaa gtgccggaat ggaaatggga      4680
+     tgaaattggg atggatttca tcaccggcct tccaaaaacc caaggtggat atgattctat      4740
+     atgggtagtc gtggatcgat taaccaaggt ggctcgattt attccggtga agaccaccta      4800
+     tggagggaac aaactagcgg aactctactt cgctaggatc gtgagtctcc atggcgttcc      4860
+     caagaaaatc gtatctgata aggggagcca attcacctct cacttttgga agaagctcca      4920
+     agaagagctt ggtactcggt tgaatttcag caccggttac cacccgcaga cagatggaca      4980
+     gaccgagcgt ctaaatcaaa tcctagaaga tatcgttcgc gcatgtgtcc tagatttcgg      5040
+     gaagacctgg gataagagtc tcccctatgc cgagttctcc tacaataaca gttatcaagc      5100
+     cagcatacaa atggcacctt atgaagcgtt gtacgggcgc aaatgtcgga caccgctatt      5160
+     gtgggatcaa gtcggagaaa gccaagtgtt cgggactgac atcctgagag aagctgaagc      5220
+     taaagtcaga atcattcggg ataatctaaa ggtggcacag tctcggcaga aaggctatgc      5280
+     agacaaccgt cgccgtgact tggaattcgc agtggatgat tttgtgtatc tccgggtaac      5340
+     accattgcga ggggtacacc ggtttcagac gaaaggaaac tcgcacctcg gtatgtgggt      5400
+     cctttccgta tcgttgctcg acgcggagaa gtcgcttacc aattggagct gcccgcctcc      5460
+     ttgggcaacg tgcatgatgt gttccatgtg tcgcaactca agaaatgcct tcgagtgcca      5520
+     tccgagcagg ccgactcaga gcaaattgaa gttcgcgaag atttgaccta cgtggagagg      5580
+     ccagtgaaaa tcctggacac catggagcgc aggaccagga accggataat ccgtttttgc      5640
+     aaggtccagt ggagcaacca cgccgaagaa gaagctactt gggagcgcga agacgagctg      5700
+     aagacagccc atcccgatct cttcgccagt tcttccgaat ctcggggtcg agattccgtt      5760
+     taaggggggt aggtt                                                       5775
+//

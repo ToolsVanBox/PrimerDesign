@@ -1,0 +1,1661 @@
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+CC                                                               *
+CC   REPBASE UPDATE                                              *
+CC   (C) 1997-2001  Genetic Information Research Institute       *
+CC   All rights reserved                                         *
+CC                                                               *
+CC   A REFERENCE COLLECTION OF C. ELEGANS REPETITIVE ELEMENTS    *
+CC   (AN APPENDIX)                                               *
+CC                                                               *
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+XX
+ID   CERP1A    repbase; DNA; CEL; 454 BP.
+CC   CERP1A DNA
+XX
+AC   M37219;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Nematode CeRep1.1 repeat DNA.
+XX
+KW   CeRep1 repetitive sequence.
+XX
+OS   Caenorhabditis elegans
+CC   Nematode (strain Bristol) DNA.
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-454
+RC   [1]  (bases 1 to 1427)
+RA   Felsenstein K.M., Emmons S.W.;
+RT   "Structure and evolution of a family of interspersed repetitive DNA
+RT   sequences in Caenorhabditis elegans";
+RL   J. Mol. Evol. 25, 230-240 (1987)
+XX
+DR   GENBANK; M37219; 77.0.
+CC   Positions    1412     959  Accession No M37219        GenBank (rel. 77.0)
+XX
+SQ   Sequence 454 BP; 142 A; 93 C; 79 G; 140 T; 0 other;
+     cttccgattt taatccatta taacaaaatg ctgtttctca ggtggcgaaa aattttaatt        60
+     ccgagggggt cattttcata ggggattttt tcgtaggaaa acgctttcgg tgggacaaaa       120
+     tatacgacac gccttttcac agacccacca catgatcctt cacaatgcac cacacgactt       180
+     tttgcaatac accgcacgct tcttcgtatt tatttattcc tttttccaac gtaccgaact       240
+     tcgacacgaa ttcaatacaa aacgggtttt taatggaaat taattagttt tattcccgag       300
+     ctaaatacgg atattttcag aattttccga tgacaaaaac gggtttttca atagattcga       360
+     acgatccaaa atttaattat taacgaaaat gagcgttttc tttccggaaa aagaagaact       420
+     gatgccgaga gtgatccaag tggagccaaa tgtc                                   454
+//
+ID   RCA1      repbase; DNA; CEL; 84 BP.
+CC   RCA1 DNA
+XX
+AC   X61258;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   C.elegans repetitive DNA.
+XX
+KW   Repetitive DNA.
+XX
+OS   Caenorhabditis elegans (nematode)
+CC   nematode
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-84
+RC   [1]  (bases 1 to 540)
+RA   La Volpe A.;
+RT   "Direct Submission";
+RL   Submitted (16-AUG-1991) A. La Volpe, CNR International Institute of
+RL   Genetics and Biophysic, Via Marconi 10, 80125 Naples, ITALY
+XX
+RN   [2]
+RP   1-84
+RC   [2]  (bases 1 to 540)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   La Volpe A.;
+RT   "Molecular evolotion of clusters of satellite-like DNA sequence in
+RT   Caenorhabditis elegans";
+RL   Unpublished
+XX
+RN   [3]
+RP   1-84
+RC   [3]  (bases 1 to 540)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   Volpe A.;
+RT   "Molecular and genomic organization of clusters of repetitive DNA
+RT   sequences in Caenorhabditis elegans.";
+RL   J. Mol. Biol. 226, 159-168 (1992)
+XX
+DR   GENBANK; X61258; 77.0.
+CC   Positions     398     481  Accession No X61258        GenBank (rel. 77.0)
+XX
+SQ   Sequence 84 BP; 36 A; 13 C; 12 G; 23 T; 0 other;
+     gacgtcacag actacaaaga ctacatagac tacaaactat ggacagacga actgtatttt        60
+     tttatataaa atataagtaa tgat                                               84
+//
+ID   RCC9      repbase; DNA; CEL; 366 BP.
+CC   RCC9 DNA
+XX
+AC   X61257;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   C.elegans RcC9 repetitive DNA.
+XX
+KW   Repetitive DNA.
+XX
+OS   Caenorhabditis elegans (nematode)
+CC   Nematode
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-366
+RC   [1]  (bases 1 to 689)
+RA   La Volpe A.;
+RT   "Direct Submission";
+RL   Submitted (16-AUG-1991) A. La Volpe, CNR International Institute of
+RL   Genetics and Biophysic, Via Marconi 10, 80125 Naples, ITALY
+XX
+RN   [2]
+RP   1-366
+RC   [2]  (bases 1 to 689)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   La Volpe A.;
+RT   "Molecular evolotion of clusters of satellite-like DNA sequence in
+RT   Caenorhabditis elegans";
+RL   Unpublished
+XX
+RN   [3]
+RP   1-366
+RC   [3]  (bases 1 to 689)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   Volpe A.;
+RT   "Molecular and genomic organization of clusters of repetitive DNA
+RT   sequences in Caenorhabditis elegans.";
+RL   J. Mol. Biol. 226, 159-168 (1992)
+XX
+DR   GENBANK; X61257; 77.0.
+CC   Positions       1     366  Accession No X61257        GenBank (rel. 77.0)
+XX
+SQ   Sequence 366 BP; 100 A; 72 C; 64 G; 130 T; 0 other;
+     gtaaatctct gtgattcaag ttttccgcat tcagtgtcca atggagcgcg ggtcgagcca        60
+     gaacctcgtg tagaactttg cagaagtttc ttgaattttc cacgaaattg aacatttcag       120
+     aattttatcg aattttttag agagttctgg aacattgcag acttttcccg atttttctag       180
+     aaagttctgg aatattccag aattttcccg aattttctag aaaattctgg accattccag       240
+     aactttctcg gattttctag aaaattctgg accattccgg aattttctcg aattttctag       300
+     aaacttctgg accattccag aactttctag aattttctag aaaattctgg accattccgg       360
+     aatttt                                                                  366
+//
+ID   RCD1      repbase; DNA; CEL; 359 BP.
+CC   RCD1 DNA
+XX
+AC   X61258;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   C.elegans RcD1 repetitive DNA.
+XX
+KW   Repetitive DNA.
+XX
+OS   Caenorhabditis elegans (nematode)
+CC   Nematode
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-359
+RC   [1]  (bases 1 to 540)
+RA   La Volpe A.;
+RT   "Direct Submission";
+RL   Submitted (16-AUG-1991) A. La Volpe, CNR International Institute of
+RL   Genetics and Biophysic, Via Marconi 10, 80125 Naples, ITALY
+XX
+RN   [2]
+RP   1-359
+RC   [2]  (bases 1 to 540)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   Volpe A.;
+RT   "Molecular evolotion of clusters of satellite-like DNA sequence in
+RT   Caenorhabditis elegans";
+RL   Unpublished
+XX
+RN   [3]
+RP   1-359
+RC   [3]  (bases 1 to 540)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   Volpe A.;
+RT   "Molecular and genomic organization of clusters of repetitive DNA
+RT   sequences in Caenorhabditis elegans.";
+RL   J. Mol. Biol. 226, 159-168 (1992)
+XX
+DR   GENBANK; X61258; 77.0.
+CC   Positions       1     359  Accession No X61258        GenBank (rel. 77.0)
+XX
+SQ   Sequence 359 BP; 90 A; 120 C; 89 G; 60 T; 0 other;
+     gggtctcacc acgaagggtc tcaccacgaa gggtctcacc acgattggtc tcaccacgac        60
+     gggtctcacc acgaaaggtc tcaccacgat tggtctcacc acgaagggtc tcaccacgaa       120
+     gggtctcacc acgatgggtc tcaccacgaa gggtctcacc acgaagggta tcaccacgat       180
+     gggtctcacc acgaagggtc tcaccacgat tggtctcacc acgaagggtc tcaccacgaa       240
+     aggtctcacc acgattggtc tcaccacgaa gggtctcacc acgaagggtc tcaccacgat       300
+     gggtctcacc acgaagggtc tcaccacgaa gggtctcacc acgatgggtc tcaccacaa        359
+//
+ID   RCS5      repbase; DNA; CEL; 738 BP.
+CC   RCS5 DNA
+XX
+AC   X68553;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   C.elegans RcS5 repetitive DNA sequence.
+XX
+KW   RcS5 element; repetitive element.
+XX
+OS   Caenorhabditis elegans (nematode)
+CC   nematode
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-738
+RC   [1]  (bases 1 to 2125)
+RA   La Volpe A.;
+RT   "Direct Submission";
+RL   Submitted (02-OCT-1992) A. La Volpe, Intern Inst of Genetics &
+RL   Biophysics, Via Marconi 10, 80125 Napoli, ITALY
+XX
+RN   [2]
+RP   1-738
+RC   [2]  (bases 1 to 2125)
+RA   Cangiano G., La Volpe A.;
+RT   "Repetitive DNA sequences located in the terminal portion of the
+RT   Caenorhabditis elegans chromosomes";
+RL   Nucleic Acids Res. 21, 1133-1139 (1993)
+XX
+DR   GENBANK; X68553; 77.0.
+CC   Positions    1332    2069  Accession No X68553        GenBank (rel. 77.0)
+XX
+SQ   Sequence 738 BP; 260 A; 112 C; 122 G; 244 T; 0 other;
+     gaggcggttg taaactattc gttttttagc aaaaattaaa aaaaaaactt tatttaaatt        60
+     taaaaataaa tatcatatgt tatcatacct tagaatatca cgccttaatt tagtaatcat       120
+     tttagttcat aagtgtgaga gaaagaaaaa tggattaatc atcggaatta aatatcatca       180
+     gaatgattat attcatcaaa ggtcccactt tacttgaggg ttaatttgat cgatataaaa       240
+     tgtttatctc atgtgaagaa aggttcgaat tctgtaccta tgaatgctgc cgatatttga       300
+     attcctatct catggaaaga aggcctttct tgtgggaaga acggtgttat aaaaaaatat       360
+     acgcaggtac agaatttgaa cttttcttcc catgagagag gaatttgaat attggcattc       420
+     tataacttca ctaagaaaaa aaatctccaa aggttgatcg cgaatatgta gagattcgtc       480
+     gcatcccttc aaatattacg aaatttccaa gtttcttagt gataatcttt attcagatta       540
+     ctgaaaaata tacacagatt acttttgagt tgcctgcgaa gttattgtaa aagccaaggc       600
+     gagctgttgg tacagaattt gaagttttct tcccatgagt taggaatttg aataatggca       660
+     ttctataact ttactaagaa aaaatatccc caaaggttgc tcgcttccct ccaaatatta       720
+     cgaaatctcc aagtctta                                                     738
+//
+ID   CERP1A    repbase; DNA; CEL; 1341 BP.
+CC   CERP1A DNA
+XX
+AC   ;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   09-JUN-1999 (Rel. 3.3, Last updated, Version 3)
+XX
+DE   Nematode CeRep1.1 repeat DNA - a consensus.
+XX
+KW   CeRep1 repetitive sequence; CERP1A.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-1341
+RC   [1]
+RA   Felsenstein K.M., Emmons S.W.;
+RT   "Structure and evolution of a family of interspersed repetitive DNA
+RT   sequences in Caenorhabditis elegans";
+RL   J. Mol. Evol. 25, 230-240 (1987)
+XX
+RN   [2]
+RP   1-1341
+RC   [2]  (bases 1 to 1341)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (June 1999)
+XX
+CC   This element has a 384 bp perfect palindromic structure.
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 1341 BP; 401 A; 264 C; 246 G; 430 T; 0 other;
+     cgagggggta cgttttcgta aggggatttt ttcgtaagga acgctttcag tagggcaatg        60
+     tgcggcgcgc cttttcgcaa gcccgccgca cagtccttcg caatgcgccg cacggctttt       120
+     tgcaatgcgc cgcacgcttc ttcgtattta tttatttatt tttccaacag gaaatttcga       180
+     acggaattca attaaaaacg gatttttaat ggaaattaat tagttttatt cgagctaaat       240
+     acggatattt tcagaatttt cgatgacaaa aacgggtttc aatcgatttc gaatcgatca       300
+     aaattaatat taatcgaaaa tgagcgtttc cttcccggaa aaagaagaac ttgatgctga       360
+     gagtgatcca agcggagcca aacgcttttt tagaggcaag tattgatgtc taaagattaa       420
+     ttgaagagtg aaaagtattt ttcagagttc acaaacaacc cgagtgagca gcaattttcc       480
+     aagctgaagg caagtttctt tttgtagttt tttaagttct caaataggta tataacatcg       540
+     atttgttttg ttttccagag aatgtatcat cacaacgact atcaaaacct gcgaggagtg       600
+     attcaaaaga ccattcaact atcaaaatca ttgatcctag acttgaagag acgatccgga       660
+     aatcgaacaa ccgctgtgcc attatacaaa aaccccgatt tctgtacttc agtgtttttg       720
+     aattataccg gtttcagtgc ttttaatgag aaacttttcc cttttatgga aattccgaaa       780
+     tgctatcact gatctctttg tttacctctg tgccattaga ttatagaaac aattttccat       840
+     actcaggtta tccaaatttc gccatgattt ttcttactta atttaatcga attaactttt       900
+     gtttgcagtt ttattttcca tttcgactga ataaaaaatc acttctatca ttttaatcgt       960
+     ttggctccgc ctggatcact ctcagcatca agttcttctt tttccgggaa ggaaacgctc      1020
+     attttcgatt aatattaatt ttgatcgatt cgaaatcgat tgaaacccgt ttttgtcatc      1080
+     gaaaattctg aaaatatccg tatttagctc gaataaaact aattaatttc cattaaaaat      1140
+     ccgtttttaa ttgaattccg ttcgaaattt cctgttggaa aaataaataa ataaatacga      1200
+     agaagcgtgc ggcgcattgc aaaaagccgt gcggcgcatt gcgaaggact gtgcggcggg      1260
+     cttgcgaaaa ggcgcgccgc acattgccct actgaaagcg ttccttacga aaaaatcccc      1320
+     ttacgaaaac gtaccccctc g                                                1341
+//
+ID   CELE32A   repbase; DNA; CEL; 364 BP.
+CC   CELE32A DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans CELE32A repetitive element (a consensus).
+XX
+KW   MITE; CELE32A.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-364
+RC   [1]
+RA   Belknap W.R.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+RN   [2]
+RP   1-364
+RC   [2]  (bases 1 to 364)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 364 BP; 108 A; 67 C; 65 G; 114 T; 10 other;
+     actgtagttt tcgctacgag atattttcgc gtcaaatatg ttgcttaata cgcattctca        60
+     gaattttktt tttttttgaa cacggcccgg caagtggtac atccatgcaa atgcgctcta       120
+     ctgataattt gagtktagac caggtttggg cgcgtkataa cgaaaaaagc tttggtccaa       180
+     aaaatttaga atttattttc ggacattttt tatatgcatc acaaaaaaan tggaccaacc       240
+     gtttttgaga aaaacgcgcc caaacgtcca ggtatacggt agacaaattg cgtacaggta       300
+     ccacttctcg ggccgtgtga aatttaaaat cataatthtt ttccnnkama anaatcgatt       360
+     tttc                                                                    364
+//
+ID   CELE45    repbase; DNA; CEL; 399 BP.
+CC   CELE45 DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans Cele45 repeat - a consensus.
+XX
+KW   MITE; CELE45.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-399
+RC   [1]  (bases 1 to 399)
+RA   Belknap W.R., Surzycki S.A.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+RN   [2]
+RP   1-399
+RC   [2]
+RA   Jurka J.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 399; A 106; C 99; G 84; T 109;
+     actacttatt ttattgaatt tattaaatgt ttttcattta aaaaaaatta aagattaaag        60
+     gacgatccgt tcttcaagtg ctatgcactg cggatctggg gttcaggtac actgcctggt       120
+     ggtgatcacc tctgggctgt aatttaagcc acgtcctagc cggggactgt ggccgataat       180
+     ccagtcgtgg attgctccac ttcccaatag aggctgggtg aacctagggg ggtgagacca       240
+     gacttgaact cgtgacctcc agactgctag cagccaccac taccgactga gctatctgcc       300
+     cccccccccc cccttgaaaa aagagacatt attcgtcatt ttttgtcagc ttatcaatca       360
+     ctacgagtga ataaacaccg aaattgattt acagccca                               398
+//
+ID   CERP6     repbase; DNA; CEL; 1940 BP.
+CC   CERP6 DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans transposable element - a consensus.
+XX
+KW   Repetitive element; CERP6.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Nematoda; Secernentea; Rhabditia; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+XX
+RN   [1]
+RP   1-1940
+RC   [1]  (bases 1 to 1940)
+RA   Jurka J., Surzycki S., Belknap W.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   A palindromic sequence, distantly similar to TC5 DNA transposon
+CC   at positions 228-310 and 1643-1725.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 1940 BP; 665 A; 319 C; 328 G; 628 T; 0 other;
+     ttaaaagcaa agggtgtgcg cctttaaagt gtactgtagt ctgaaagtat tgtttctgtg        60
+     gcaaaatgtt ttaatcgaaa atctattaaa aatcgataaa tattccgcgg gacatggtac       120
+     cgtattttta aaagaaaaat tgtaaagggt aatagttacc gtaataccct aacaagggaa       180
+     gtctttgagg gggtccgtag atttggggtt ctcatgctaa aattcctaca gaagagtgtt       240
+     agttatgatc tctccaaaaa atttagctgc ccaggtcaag tttcagcaaa gttatgacgt       300
+     tttgaaattt cagttaaaaa caccattgaa atccactgtc ttaccatgca atccacgcaa       360
+     atctcagctt gcgtgaccac cgaaaatgtg acacccacca cattgagttg aaaaatgtcc       420
+     tcggtggccg agttgggagt gcgcgcgtct gataagattt aagctttggt tcgattcctt       480
+     ctatttttga aatatttttg taagttgaat aaagttgtaa aacaactcat tcaaacattt       540
+     ttgcgcattt ttaaagtgat tttattctta ttcgggaacc tagaatcatt gtccgcactt       600
+     tttggaaatt tttatttttt tcatttttgc tcaaaatttc ttgatcaact ccaagcaaaa       660
+     aattcaaaaa atttcatttt tctaaacaat tatgaaattg ctatgttgtt gttcagaaat       720
+     gtatgaaacg tacattacac aagttttaac tctctattcg caagtaaacc gtcgaaatga       780
+     tctacatctc acgaactttg tgcaaaatat ttaaccaact ttgaagttgc ataacttcgt       840
+     tgagataaat tattttgaaa aatgatcaac taacaaaatg tttgttgaat aatagtgaac       900
+     aaagttttaa ttataaactt tttgatacct tcagccacca aaaagttgtg accgttttcc       960
+     aaaacacaat gttaatagaa aaactagcca aatgccaacc ttgttttctt ctttgtagct      1020
+     ggaggtatca aaaagtttat aactaaaact ttgttcacta ttattcaaca aacattttgt      1080
+     tagttgatca tttttcaaaa taatttatct caacgaagtt atgcaacttc aaagttggtt      1140
+     aaatattttg cacaaagttc gtgagatgta gatcatttcg acggtttact tgcgaataga      1200
+     gagttaaaac ttgtgtaatg tacgtttcat acatttctga acaacaacat agcaatttca      1260
+     taattgttta gaaaaatgaa attttttgaa ttttttgctt ggagttgatc aagaaatttt      1320
+     gagcaaaaat gaaaaaaata aaaatttcca aaaagtgcgg acaatgattc taggttcccg      1380
+     aataagaata aaatcacttt aaaaatgcgc aaaaatgttt gaatgagttg ttttacaact      1440
+     ttattcaact tacaaaaata tttcaaaaat agaaggaatc gaaccaaagc ttaaatctta      1500
+     tcagacgcgc gcactcccaa ctcggccacc gaggacattt ttcaactcaa tgtggtgggt      1560
+     gtcacatttt cggtggtcac gcaagctgag atttgcgtgg attgcatggt aagacagtgg      1620
+     atttcaatgg tgtttttaac tgaaatttca aaacgtcata actttgctga aacttgacct      1680
+     gggcagctaa attttttgga gagatcataa ctaacactct tctgtaggaa ttttagcatg      1740
+     agaaccccaa atctacggac ccccctcaaa gacttccctt gtaaattcaa ttacctagtt      1800
+     tttagaaaaa taaaaataga aaagcaattt aatttttttc aggaaataat tgccggaatg      1860
+     cttgatctac caccgaaaaa gtggagaaaa cgagaaaccg atgaaatgtc gaagcagaag      1920
+     tctcgtgctg aaaatttcaa                                                  1940
+//
+ID   CELE42    repbase; DNA; CEL; 220 BP.
+CC   CELE42 DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans CELE42 repetitive element (a consensus)
+XX
+KW   MITE; CELE42.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-220
+RC   [1]
+RA   Belknap W.R.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+RN   [2]
+RP   1-220
+RC   [2]  (bases 1 to 220)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (August, 1999);
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 220 BP; 78 A; 51 C; 35 G; 54 T; 2 other;
+     tcgtggtact ccacacggac aaatacattt agttttacaa ctaaaaacga gccgcgacgc        60
+     gacacgcaac gcgccgtaaa tctaccccag atatggccga sccaaaatgg cctagttcgg       120
+     caaactcttc catttcaatt tatgagggaa gccagaaatc cgtgaaatat ttagcaaaaa       180
+     attcaaattt tttcagatat ttacatttaa atayccaaaa                             220
+//
+ID   CELE1     repbase; DNA; CEL; 307 BP.
+CC   CELE1 DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans Cele1 repeat - a consensus.
+XX
+KW   MITE; CELE1.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-307
+RC   [1]
+RA   Oosumi T., Garlick B., Belknap W.R.;
+RT   "Identification and characterization of putative transposable DNA 
+RT   elements in solanaceous plants and Caenorhabditis elegans.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92 (19), 8886-8890 (1995)
+XX
+RN   [2]
+RP   1-307
+RC   [2]  (bases 1 to 307)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 307 BP; 122 A; 43 C; 43 G; 95 T; 4 other;
+     aatgtagttt cgaaattgaa aaaaatcatt aaaaatgaat aaaaattyta taaartttct        60
+     aacaattaaa tttgttatta cgggaacaca aaattctgag aatgcgtatt gcacaacata       120
+     tttgacgcgc aaaatatctc gtagcgaaaa ctacagtaat tctttaaatg actactgtag       180
+     cgcttgtgtc gatttacggg ctcgattttt gaaatgaatt waaattattt atcrataaaa       240
+     taatatgaaa ttcaatttca aaaatcgagc ccgtaaatcg acacaagcgc tacagtagtc       300
+     atttaaa                                                                 307
+//
+ID   CEREP2A   repbase; DNA; CEL; 249 BP.
+CC   CEREP2A DNA
+XX
+AC   ;
+XX
+DT   07-SEP-1999 (Rel. 3.7, Created)
+DT   07-SEP-1999 (Rel. 3.7, Last updated, Version 1)
+XX
+DE   CEREP2A dispersed repetitive element - a consensus.
+XX
+KW   dispersed repetitive element; CEREP2A.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-249
+RC   [1]  (bases 1 to 249)
+RA   Kapitonov, V.V., Jurka J.
+RT   ;
+RL   Direct submission (September, 1999)
+XX
+CC   This element does not have any noticible hallmarks of known
+CC   retroelement or DNA transposons. There are about 200 copies
+CC   of CEREP2A in the C.elegans genome. They are ~95% identical
+CC   to the consensus sequence. 
+CC   CEREP2A encodes 83 aa-long protein that has distant similarity
+CC   to one of the conservative domains in mariner/Tc-like
+CC   transposases. 
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 249 BP; 80 A; 80 C; 35 G; 54 T; 0 other;
+     accagccgtg gaccgcacct ccggcgcggc ccccgacttc tggggctgaa aactaatttt        60
+     tctgaaacta ccgtaaccct acagtattcc taccgtacca ctattgtacc actacagtac       120
+     cccgactata tccctacact aaccccaact cactatccct ccagaagcca aaacttcaca       180
+     gactacaaag actacataga ctacaaacta tggacacaca gaataagcgc tttatatata       240
+     gtaaatgat                                                               249
+//
+ID   HAT2-CE   repbase; DNA; CEL; 564 BP.
+CC   HAT2-CE DNA
+XX
+AC   ;
+XX
+DT   21-OCT-1999 (Rel. 4.0, Created)
+DT   21-OCT-1999 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   HAT2_CE nonautonomous DNA transposon - a consensus.
+XX
+KW   nonautonomous DNA transposon; HAT superfamily; TIRs; HAT2_CE.
+XX
+OS   Caenorhabditis elegans
+CC   Nematode (strain Bristol) DNA.
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-564
+RC   [1]  (bases 1 to 564)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (October, 1999)
+XX
+CC   HAT2_CE is a putative non-autonomous DNA transposon.
+CC   It generates duplication of 8 bp-long target site upon 
+CC   integration in the genome. HAT2_CE has 17 bp-long 
+CC   perfect terminal inverted repeats.
+CC   The length of the target site duplications indicates 
+CC   that transposase encoded by the autonomous HAT2_CE-like
+CC   element is related to the HAT superfamily. HAT2_CE is about
+CC   64% identical to the HAT1_CE consensus sequence and they
+CC   share identical 13 bp-long termini.
+CC   HAT2_CE individual copies are, on average, 98% identical 
+CC   to the consensus sequence.
+CC   There are about 100 copies of HAT2_CE per haploid genome.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 564 BP; 165 A; 113 C; 119 G; 167 T; 0 other;
+     caggggtgtg cggataaccg attttttcgg ctaacggata aatcggctaa tgccgatttt        60
+     ttgagaaccg gctaacggct aattcggcta acggctaatt tcaaaatttt cggctaacgg       120
+     ctaattcggc taatctcagt cattcaaatc ggctaatttt cggctaattc ggctaattcg       180
+     gaaaatattc atttggttaa gctttttttg tccattctgt taattcaggt tttgggttaa       240
+     ttttttcact gttattgagc aaattcaggg atgaacgact gttcaaatag gaaaaaatca       300
+     tacaaattca ccacattttg ttttccaaaa aaatatgtta gttgaattag ccgaaatagc       360
+     cgatcggcga attcggctaa catcggccaa aatcggctaa cggataacta cgtattagcc       420
+     gaactgccaa aaagtcggct aacggctaat tcggctaatc ggtaaaaagg tcggctaacg       480
+     gataattcgg ctaatattag ccgagttagc cgaattagcc gatcggcgaa ttcggctaaa       540
+     tcggctatta tccgcacacc cctg                                              564
+//
+ID   CERP5     repbase; DNA; CEL; 792 BP.
+CC   CERP5 DNA
+XX
+AC   ;
+XX
+DT   28-JUL-1999 (Rel. 3.5, Created)
+DT   28-JUL-1999 (Rel. 3.5, Last updated, Version 1)
+XX
+DE   C. elegans repetitive DNA (a consensus).
+XX
+KW   CERP5 repeat; repetitive DNA.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-792
+RC   [1]  (bases 1 to 792)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (July, 1999)
+XX
+CC   Nearly perfect palindrom.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 792 BP; 253 A; 143 C; 144 G; 249 T; 3 other;
+     cactgcaact ttttcctcac gagggacgag gaaaagtggt ttctaggcca tggccgaggg        60
+     gccgacaagt ttcagcggcc atttatcttg ctttgttttc cgcctgtttt cttttgtttt       120
+     tcacagattt ttcccgtttt ttcttattaa aactgataaa taaatatttt ttgcagatgc       180
+     taaaacaatt tccaagtaaa aaaattatgt attcagtsgg caagcagcgg tgaaagtggt       240
+     caatgtaata tgatggatta cgggaataca aaacctaaac tttttctgaa acatgataca       300
+     tatgctgctt agatgctgaa actacctgat tttcataacg agaccgctga aaaagttttg       360
+     agattttcaa aattcaactt tttgtgtgaa aaagtcgaga ttttcacaya aaaagttgaa       420
+     ttttgaaaat ctcaaaactt tttcagcggt ctcgttatga aaatcnggta gtttcagcat       480
+     ctaagcagca tatgtatcat gtttcagaaa aagtttaggt tttgtattcc cgtaatccat       540
+     catattacat tgaccacttt caccgctact tgccgactga atacacaatt ttttcacttg       600
+     gaaattgttt tagcatctgc aaaaaatatt tatttatcag ttttaataag aaaaaacgga       660
+     aaaaatctgt gaaaaacgaa agaaaacagg cggaaaacaa agcaagataa atggccgctg       720
+     aaacttgtcg gcccctcggc catggcctag aaaccacttt tcctcgtccc tcgtgaggaa       780
+     aaagttgcag tg                                                           792
+//
+ID   PAL5A_CE  repbase; DNA; CEL; 792 BP.
+CC   PAL5A_CE DNA
+XX
+AC   ;
+XX
+DT   31-AUG-1999 (Rel. 3.7, Created)
+DT   31-AUG-1999 (Rel. 3.7, Last updated, Version 1)
+XX
+DE   PAL5A_CE non-autonomous DNA transposon - a consensus.
+XX
+KW   non-autonomous DNA transposon; palindrome; TIR; IR-2; PAL5A_CE.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-792
+RC   [1]
+RA   Devine S.E., Chissoe S.L., Eby Y., Wilson R.K., Boeke J.D.
+RT   ;
+RL   Direct submission to GenBank (March, 1997)
+XX
+RN   [2]
+RP   1-792
+RC   [2]  (bases 1 to 792)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   PAL5A_CE is a putative non-autonomous DNA transposon; it
+CC   forms almost perfect 396 bp-long palindrome and generates 
+CC   duplication of 5 bp-long target site upon its integration 
+CC   in the genome.
+CC   PAL5A_CE can be still mobile since some of its individual 
+CC   copies are more than 98% identical with the consensus
+CC   sequence.
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 792 BP; 249 A; 146 C; 149 G; 247 T; 1 other;
+     cactgcaact ttttcctcac gagggacgag gaaaagtggt ttctaggcca tggccgaggg        60
+     gccgacaagt ttcagcggcc atttatcttg ctttgttttc cgcctgtttt ctttcgtttt       120
+     tcaccgattt ttcccgtttt ttcttattaa aactgataaa taaatatttt ttgcagatgc       180
+     taaaacaatt tccaagtaaa aaaattatgt attcagtggg caagcagcgg tgaaagtggg       240
+     caatgtaata tgatggatta cgggaataca aaacctaaac tttttctgaa acatgataca       300
+     tatgctgctt agatgctgaa actacctgat tttcataacg agaccgctga aaaagttttg       360
+     aggttttcaa aattcaactt ttttggtgaa aaagtcgaga ttttcgcaca aaaagttgaa       420
+     ttttgaaaac ctcaaaactt tttcagcggt ctcgttatga aaatcaggta gtttcagcat       480
+     ctaagcagca tatgtatcat gtttcagaaa aagtttaggt tttgtattcc cgtaatccat       540
+     catattacat tgaccacttt caccgctgct tgcccactga atacataatt tttttacttg       600
+     gaaattgttt tagcatctgc aaaaaatatt tatttatcag ttttaataag aaaaaacggg       660
+     aaaaakctgt gaaaaacgaa agaaaacagg cggaaaacaa agcaagataa atggccgctg       720
+     aaacttgtcg gcccctcggc catggcctag aaaccacttt tcctcgtccc tcgtgaggaa       780
+     aaagttgcag tg                                                           792
+//
+ID   HELICOP2  repbase; DNA; CEL; 5516 BP.
+CC   HELICOP2 DNA
+XX
+AC   AC006730;
+XX
+DT   23-MAY-2000 (Rel. 4.0, Created)
+DT   23-MAY-2000 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   HELICOP2 is a DNA transposon.
+XX
+KW   DNA transposon; helicase; HELICOP superfamily; HELICOP2.
+XX
+OS   Caenorhabditis elegans (nematode)
+CC   nematode
+OC   Eukaryota; Metazoa; Nematoda; Secernentea; Rhabditia; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+XX
+RN   [1]
+RP   1-5516
+RC   [1]  (bases 1 to 5516)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (May 2000)
+XX
+CC   HELICOP2 is a DNA transposon; it encodes a DNA helicase-like
+CC   904-aa protein which is putatively involved in proliferation 
+CC   of HELICOP2 copies. There are about 100 nonautonomous elements
+CC   in the genome, and they are 96% identical to HELICOP2.  
+CC   On average; these elements are 500-1500 bp long. In several
+CC   cases, HELICOP2 forms 7-9kb satellite-like clusters composed
+CC   from a ~200bp portion of HELICOP2. 
+CC   The HELICOP1 protein is encoded by 7 putative exons and its
+CC   CDS is defined as:
+CC   1834-1922; 1973-2235; 2431-2988, 3112-3296, 3657-3970, 4021-4294;
+CC   4343-5374                      .
+CC   The HELICOP2 protein sequence:
+CC   MNEFSQKTDFPSTSDSQEPVSKRTRSRFKSDSSGAERKRKQRGKESSEEREARHQYDQDR
+CC   KRKKKASESKDELKVLLLKDRERKARERREAKGISDGPNYLGPMSKTCDHCKAVFFESKN
+CC   FQSNIRQFNSAFSMASMGAHLDIPKGHGPYCYRIHGQVYHLAGPLHPEPGGRPSYGQIYI
+CC   LDTAQAIEERLGNPANSKCDPQLMAELTKLISTRNPYAKAYKMMAEVEEKENTDALKEGR
+CC   VAEEVRLIFDISTTKDRRCYNVPVSNEVAVVFVGEDQDIPASRSLAIHPRGGGLTAIRDI
+CC   DKISVKYLFKYVYKGHDRAALNIIRSRLKEGIVDEIKAHLDARYVCAPEAIHHLFGFKIE
+CC   RKSDTDIRTVIDDDGVPVVYPTFVEAAKARGLLKDDSEYLKSLKEWIGCSVPAALRSLFS
+CC   SILLFNEVHEPQVLWDTVKRDLSEDYRHAGARDDEAEALAYFDISSRLHRGGKAFNDYVP
+CC   EPSMHPTDIYLNTSDPSQCAAEGVRLFQTLNSDQKYVFERIVGALHDPTLPRLFFLDGPG
+CC   GSGKTYLYIALYNMIIGENKMAACTAWTGIAAHLLPGGRTMVSLLKLNIHDRCESSLHRR
+CC   QLKDARELANTDVFICDEASMIPKTALNTFDSLLRDITQVDQPFGGKIVILGGDFRQILP
+CC   IVEKGSRADQVDACIKSSPLWNQFETLRLHSNMRVTTNDTEWMNFLLGVGDGSLNDSESK
+CC   VQIPFSLCDGNIVEKVFGDVIDPSTSDPCENVILTPKNVDVTLLNEDVHSRGIGEERIYL
+CC   SRDEIVTDDPADHMHYPTEFLNKMTPSTLPPHVLKLKKGSVVMLLRNLDVSGGLCNGSRF
+CC   VVESLGRRTIGCRFACGERKGKFVIIPRIECYHDKNLSFKLKRTQFPVRAPDGRITNIVF
+CC   TEIL
+XX
+DR   GENBANK; AC006730; 116.0.
+CC   Positions	23892	18377  Accession No AC006730    GenBank (rel. 116.0)
+XX
+SQ   Sequence 5516 BP; 1654 A; 939 C; 1195 G; 1728 T; 0 other;
+     atcatttact atatataaag cgcgtgtcct tccgtccgtt tgtagtttgt agtttgatct        60
+     ttgatctttc aactctcttt tctgtagttg gaaaaggtat tgggttaaga gttgccgggg       120
+     gataatgtca aggtactgta gtagtactgt aggagtactg taggtatacg gtagggttac       180
+     tgtagattag gaaaaattga gtttttgtct acagaagagg tattgggttg ggagttggtg       240
+     agggataatg tcaaggtact gtagtagtac tgtaggagta ctgtaggtat acggtagggt       300
+     tactgtagtt taggaaaagt tgagttttcg tctacagaag aggtattggg ttgggagttg       360
+     gtgagggata atttcaaggt actgtagtgg tactgtagga gtactgtagg tatacggtag       420
+     ggttactgta gttaggaaaa gttgagtttt cgtctacaga agaggtattg ggttgggagt       480
+     tggtgaggga taatttcaag gtactgtagt ggtactgtag gagtactgta ggtatacggt       540
+     agggttactg tagttaggaa aaatttgaat tttaaccatt tgaagagata ttgggttggg       600
+     agttggtgga ggataatgtc aaggtactgt aatggtattg ttggagtact gtaggagtac       660
+     ggtagggtta ctgtagttat gaaaaatgtg aattttaacc atttgaagag atattgggtt       720
+     gggagttggt ggaggataat gtcaaggtac tgtaatggta ttgttggagt actgtaggag       780
+     tacggtaggg ttactgtagt tatgaaaaat gtgaatttta accatttgaa gagatattgg       840
+     gttgggagtt ggtggaggat aatgtcaaag tactgtaatg gtactgtagg agtactgtag       900
+     gattatggta gggttactgt agtcaggaaa aaatttgaat tttaactcaa gaagggtccc       960
+     attggccccg cccccttggt tttaaatttt tttgaaaaca ttttggtggg aattcaaatt      1020
+     tcacttttat aaaaacattt tgacgggaat tcaaatttta attttttgaa aacattttgg      1080
+     cggtaattca aattttaatt ctttgaaaac attttggagg aaaattgatg gaaattttct      1140
+     taacttctaa aagttaagaa attgtttaaa gttgagaaac gtctgaaacc ttctgaaatc      1200
+     cactgaatgc aatgtcctag aaaattttgt taagttcatg agacttcaaa ttaaaaaaaa      1260
+     attcgaacga caaaatgcct cattgggtgg agtaattttg tcgactccag cctctctctg      1320
+     cagcatttca ggatgttcta tatttatttt agtaaattag attgttttgt tgaccggaat      1380
+     gtcaaaaact tttctaaata cataatttga ctgtattttt ttaacacact ctacgaaatt      1440
+     tataatttgt ttttctgttt tcgttattta ctgtacatta attacgaaat tcaagatttg      1500
+     tttttatgtt tttgttgttt actgtattag tgaactgttg tttacagtag tgtttacagt      1560
+     attttttgtt tactgtacat taattacaaa atttaaaatt tgtttctctg ttttaggttg      1620
+     tgttttttga aaaaaaatgg tattatactt ttttgccgaa ctacagtttt caattatcta      1680
+     tagtacgatt ttggttatta caaaaaaaaa tcttcccctg ttttatctgt tctatcgaaa      1740
+     aaaaatttct tttctcttca ttttttcgtt tttttttaaa ttattgtttg tgatagtcaa      1800
+     tattttacag aggaatccga agaattatta actatgaacg aattctcaca aaaaactgat      1860
+     ttcccttcaa catctgattc ccaagagcct gtttcaaaaa ggacacgttc tagatttaaa      1920
+     aggtaagttt ttattttcta agtttatttg ttagtaaaat aaatgttttt agtgatagtt      1980
+     ctggagctga acgcaaaagg aaacagcgtg gaaaagagtc atcagaagaa agagaagcac      2040
+     gccatcaata cgatcaggat aggaaacgta aaaaaaaagc ttctgagtcc aaagacgaac      2100
+     tgaaagtgtt gctactgaaa gatagagaac gtaaagcaag agaaagaaga gaagcaaaag      2160
+     gtatatccga tggacccaac tatcttggcc cgatgagcaa gacatgtgat cactgtaaag      2220
+     ccgtcttttt cgaaagtaag tttttaaata atatttttac aaatgaacgt tgaattttac      2280
+     catgcagcaa atttaatttc agatgaagta agcggctcca ctgatcatat caacatgtgt      2340
+     tgcaattttg gactgacaac ctccatcgat gataagttcg ccgactatcc cgatcgattg      2400
+     aaggatcttc ttctcggaga ttcgattgag gcaaaaactt ccaatcaaat attcggcaat      2460
+     tcaactctgc tttttccatg gcttcaatgg gtgcccatct cgatattcca aaaggacatg      2520
+     gtccatattg ctaccgcatc cacggccaag tgtatcactt agcagggcct cttcatccag      2580
+     aacctggagg aagaccatca tacggccaaa tttatattct ggacacagct caagctatcg      2640
+     aagaaagatt aggaaatcct gcaaattcaa aatgtgatcc gcagttgatg gcagagctca      2700
+     cgaaactcat ttcgactagg aacccatacg ctaaagctta taaaatgatg gcagaggtgg      2760
+     aagagaaaga aaacaccgat gctctgaaag aaggaagagt tgccgaggag gttcgactaa      2820
+     tcttcgacat ttcaactact aaagatcgtc gttgttacaa tgtccccgta tcaaatgaag      2880
+     tggcagttgt atttgtcgga gaagatcagg atattccagc ttcaagatct ctagctattc      2940
+     atccaagagg aggaggtctc actgcaattc gtgatattga taagatatgt gatccattga      3000
+     catatccata aggtcataag atggataaca gattcatcgt tccgtataac tcttactttc      3060
+     tgcttcggta caatgctcac atcaacgtcg aaatttgtgc tttcattgaa gctgtgaagt      3120
+     acttatttaa gtacgtgtac aagggacatg atcgtgctgc tctaaacatc attcggagta      3180
+     gactgaaaga aggaatcgtt gatgagatta aagcccacct tgatgctcga tacgtgtgtg      3240
+     ctccggaggc catccaccat ctcttcggat ttaagattga gagaaagtct gacacggtat      3300
+     atcgactagc tgtccatctt ccgggttttc aagttgtggt atttccttca aatgtaacaa      3360
+     aggatcagtt gcagtctacg cctgaaaaag atacaactct gacagcttgg ttcaaaatta      3420
+     acaaaattag cgaagaaaca gtgcagagtg gttccatgtc cgattcattt gtcgacgaat      3480
+     tgcattacat tgacatgcca tcttaattca cattcgatca aaaagagcgc tgctggaaaa      3540
+     cccgaaagcg tggaatccga caaattggca gaatgtacac agttgctccc agtgaaactg      3600
+     aacgttatgt tcttcgcatt cttctactaa acacaaaagg agctacttct tttgaggata      3660
+     ttcgaactgt catagatgat gatggagtgc ctgtagttta ccccactttc gttgaagcag      3720
+     ctaaggcacg tggactgctg aaggatgata gtgaatattt aaaatcgctg aaagagtgga      3780
+     ttggatgctc ggttcctgct gccctacgat ctttgttcag ttctattcta ctcttcaatg      3840
+     aggttcacga gcctcaggta ttgtgggata ccgtaaaacg cgatctcagt gaggattatc      3900
+     gtcacgcagg agccagagat gatgaagctg aagctttggc ctattttgat atttccagtc      3960
+     gacttcacag gtagctatca tctctaaact tatatttata gtggaaatat atgttttcag      4020
+     aggaggcaaa gctttcaatg attacgttcc tgagccttca atgcatccga ctgacatcta      4080
+     tctaaataca agcgatccat cccaatgtgc agcagagggc gttcgactat ttcaaaccct      4140
+     caactcggac cagaaatacg tcttcgagcg tatcgtggga gcgctacacg accctacttt      4200
+     accccgtctc ttctttttgg atggtcccgg aggaagtggt aaaacatatc tgtacattgc      4260
+     attgtacaat atgataattg gagaaaataa aatggtaact atcaactaat tcatttttat      4320
+     tcctaacatg tttttattcc aggcggcttg cacagcatgg actggaatcg cggcacattt      4380
+     acttccagga ggtcgaacta tggtgtctct tctcaaattg aacattcatg atcgatgtga      4440
+     gtcgtcgctt caccgaaggc aattgaaaga tgccagagaa cttgctaata ccgatgtgtt      4500
+     catttgtgac gaggcttcga tgattccaaa aacagctctc aacacgtttg attctcttct      4560
+     tcgggatatc actcaagtcg atcaaccatt tggaggaaaa atagtcattt tgggcggaga      4620
+     tttccgacaa atccttccca ttgtcgaaaa agggtcgaga gctgatcaag tcgatgcctg      4680
+     tatcaagagt tcgcctctgt ggaatcagtt tgagactcta cgcctccact caaacatgag      4740
+     agttaccaca aacgacacgg aatggatgaa ctttcttctc ggtgttggcg atggttccct      4800
+     aaatgattct gaatcgaaag ttcaaatccc tttttcttta tgtgatggaa atattgtcga      4860
+     gaaagttttt ggagatgtaa tcgacccatc aacttctgat ccctgcgaaa atgtgattct      4920
+     tactccaaaa aacgttgatg tcacccttct caacgaagat gttcattcca gagggatagg      4980
+     agaagaaaga atctatttat caagagatga aattgtaaca gatgatccag cagatcacat      5040
+     gcactaccca acagaatttc tgaacaagat gaccccttcg actctccccc cacatgtgct      5100
+     gaaactgaaa aagggatcgg tggttatgct gctcagaaac cttgatgtat cgggaggtct      5160
+     ctgcaatgga tctcgctttg tggtggaatc cttaggacga cgaacaattg gatgccgatt      5220
+     tgcatgtggc gaaagaaaag gaaaatttgt aatcatccct cgaatcgaat gttatcatga      5280
+     taagaatttg tctttcaaac tgaaacgaac tcaattccct gttcgagccc ctgacggccg      5340
+     aatcacaaat attgttttta ccgaaattct ttaaacgaat gttttagaaa ccttgatttg      5400
+     atttaataaa aattatttaa aaaaaatttt tttcaaaatt tttcacttcc ttatttttaa      5460
+     aataaaattt caaacgacca gtcgcggccg cgccggaggc gcggtcagcg gctggt          5516
+//
+ID   HELICOP1  repbase; DNA; CEL; 8486 BP.
+CC   HELICOP1 DNA
+XX
+AC   ;
+XX
+DT   30-MAY-2000 (Rel. 4.1, Created)
+DT   30-MAY-2000 (Rel. 4.1, Last updated, Version 1)
+XX
+DE   HELICOP1 is a DNA transposon, a consensus sequence.
+XX
+KW   DNA transposon; helicase; HELICOP superfamily; HELICOP1.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Nematoda; Secernentea; Rhabditia; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+XX
+RN   [1]
+RP   1-8486
+RC   [1]  (bases 1 to 8486)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (May, 2000)
+XX
+CC   HELICOP1 is a DNA transposon; it encodes a DNA helicase-like
+CC   1466-aa protein which is putatively involved in proliferation 
+CC   of HELICOP1 copies. There are several copies of HELICOP1 in the
+CC   genome; they are ~99% identical to the consensus sequence.  
+CC   Approximately 2% of the C. elegans genome belongs to molecular 
+CC   fossils of nonautonomous elements transposed recently (<10 Myrs)
+CC   by autonomous HELICOP1-like elements. HELICOPY1 and HELICOPY2
+CC   are examples of these nonautonomous elements. Minisatellite-
+CC   like repeats RCA1, RCD1, RC35, RC123, RCC9, reported previously
+CC   in the literature (Naclerio,G. et al., 1992, J. Mol. Biol. 226, 
+CC   159-168) are portions of HELICOP-like transposons (Kapitonov,V.V). 
+CC   The HELICOP1 protein is encoded by 9 putative exons and its
+CC   CDS can be defined as:
+CC   1930-2087; 2135-2412; 2533-3428, 3476-3799, 3850-4520, 4581-5207;
+CC   5254-5521; 5574-5762; 5814-6803.
+CC   The HELICOP1 protein: 
+CC	MDNELTSRPDSIMDTEPTTLPDSAMDTKPTNLPDFPSTSQEPVSRRTRSRTLSDNSNAVW
+CC	KRERRSRETSQESESRLRMDWERKKEKRASMSEEEKAEMKYKKRVWMKKKRNEVAKTHDT
+CC	SSVANPNYLGSMRCVCKNCNARFFQGEVSSSNDHINMCCYFGLTTTLQDRFSNYPDELRH
+CC	LLLDDSSHARNFQKNIRQFNSSFAMASMGAQLDVPRGRGPYCFKIHGQVYHFAGPLHPDP
+CC	GQRPAFGQIYILDTDQATDERLGNPANADCDPAVMAELSSLLLRTNPYAQAYKMMAEVEE
+CC	KENSEAAKEGRHPGCVRLIFDISTTKDPRRYNLPQANEVAVVFVGEDDDVPTTRSLAVHP
+CC	RGGGLKTIRDIDRICDPLTYPVLFPNGTDGWHPDLEKRPSEKKQGRITQKMYYSYLLMER
+CC	SGVFNPLHHGRALFQQFAVDSWVKIEQNRLNYHRTHQVDLKAANYNAVQDYIAGDTDVPG
+CC	RRIVLPSSFPGSPRAMVQNFQDAMAIVSKFGKPDIFLTFTCNPAWTEISENLGPRQSASD
+CC	RPDLIARVFKLKVDALFDDLLNRDILGHVAAYISVFEWQKRGLPHVHMLLTMAENSKPRT
+CC	SEDIDKIVQAEIPNPDNEPELHRIVTTAMMHRPCGAQNPHSPCMVDGHCSKRYPKDFHPS
+CC	TTLNVDGYPGYRRRDDGRYVEYGTQHLDNRRVVPYNKWLLLRYNAHMNVEICGFIEAVKY
+CC	LFKYVYKGHDRAALNIIQNVRGDGNVVDEIREHLDARYVCAPEAIHHILGFKLEKKASVT
+CC	TQQLESSSQTDTTLTAWFKINQKSKDIAESGNIPSTFVDSRQFFYMDMPTHFTFVKKDGW
+CC	KVRGRGTRQIGRMYTVPPYETERYALRILLLNIKGATSFEDLRTVLDENNVPVVYATYVE
+CC	AAKAQGLLNDDSEYLKSLKEWAGCSVPAALRSMFVAIILFNEVHDLNALWDAVKWDLSED
+CC	FRHAGAGKEEAEALAYFDIESRLQRVGKRFDVTKPSINPPPIDLDTVNPAQCASEGNRLL
+CC	ATLNDQQKRAADQILAALDDASLPRLFYLDGPGGSGKTYLYITLYNICVGRGLKVACTAW
+CC	TGIAANLLPLGRTSASLFKLDIRNQCKSSLHQRQLKEAQELAENDVFIWDEASMVPKTAL
+CC	DTVDVLLRDLTKIDQPFGGKILILGGDFRQILPVVERSSRADQVDACIKRSPLWTEFQIL
+CC	HLISNMRVTSGDSDWIQFLLNVGDGSANDSDSKVTLPLSVMCDHNIVEEVFGAVIDPTTS
+CC	DPCDNVILTPKNVDVAQLNDDVHNRMVGEERIYLSRDEVIVEHQADTMHYPTEFLNKMSP
+CC	SSLPPHILKLKKGSVIILLRNLDVSAGLCNGSRFIVETLASHSLGCRFATGERKGHFTII
+CC	PRIDCYDDKNISFQLRRTQFPVRLSFALSINKAQGQSFSKIGLWIPTDVFTHGQLYVALS
+CC	RVRTKEGLIVKSSSNIVTNIVFNEVL
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 8486 BP; 2477 A; 1919 C; 1648 G; 2442 T; 0 other;
+     atcattactt atatataaaa aaatagtgtg ggtctgtcca tagtttgtag tctatgtagt        60
+     ctttgtagtc tgtgacgtca cccctaaagt cactgagagt tgtgggcggg gccagtcacc       120
+     cttcgtggcg agacccatcg ttgcgagacc cttcgtggcg agacccatcg tggcgagacc       180
+     catcgtggcg agacccatcg tggcgagacc catacatttt ggcgggaatt taaattttct       240
+     ttgaaatttt tcggcgggaa ttcaaatttt ctgtgaaaat ttttggcggt agctcaaatt       300
+     ttctgaaaca tttttggcgg gaattcaaaa tttctctgaa aatttttggc gggaatttaa       360
+     attttcttta aaattttttg gcgggaattc aaattttctg tgaaaaattt tggcgggaat       420
+     tcaaattttc tgaaaaattt ttggcgggaa ttcaaatttt ctctgaaaaa ttttggcggg       480
+     aatttaaatt tccttcaaaa ttttttggcg ggaattcaaa ttttctgaaa aatttttggc       540
+     gggaattcaa attttctctg aaaaattttg gcgggaattt aaatttcctt caaaattttt       600
+     tggcgggaat tcaaattttc tttgaaaatt tttggcgtga attcaaattt tctgaaacat       660
+     ttttggcggg aattcaaatt ttctctgaaa atttttggcg ggaattcaaa ttttctttaa       720
+     aattttttgg cgggaattca aattttctgt gaaaaatttt ggcgggaatt caaattttct       780
+     gaaaaatttt tggcgggaat tcaaattttc tctgaaaatt tttggcggga atttaaattt       840
+     tctttaaaat tttttggcgg gaattcaaat tttctgtgaa aatttttggc gggaattcaa       900
+     attttctgaa aaatttttgg cgggaattca aattttctct gaaaattttt ggcgggaatt       960
+     taaattttct ttacaatttt ttggcgggaa ttcaaatttt ctgaaaaatt tttggcggga      1020
+     attcaaattt tcagtgaaaa attatggcgg gaaattcaaa tttttagaga aattttgtcg      1080
+     gagtagtcaa atttaacttt gtttgacaga aaaaaaaagt atgaagggga agatagtttg      1140
+     aaccacagaa ggttcacacc aaattcccgc acacaaccaa tgcgacatac cggcacattt      1200
+     gtttagaatt taataaacct atagaagagg aaaacttcat gcaataaact tcgagaatct      1260
+     tctagaaatt tcgaaaaact tctagatatc tcggattacg taacacttga cgacgtcaca      1320
+     catgatgagg acattaagta aacgtcacag gctgaaccca atataatttt cagaaaattc      1380
+     tggaaccttc tagaattttg gagaaacttc cagaaaattc tgatgacgtc acaatcactg      1440
+     gcgtaacaaa aaataagtca cagattatga cgtcacatat gatgacacct atatagtctc      1500
+     acattcggaa aaaaataggt gatgacgcca aatatatcag cgtcacagaa tgtgacgtca      1560
+     taggctccgc ccattacagt aaaagaaact tctggaatct tccagaagtt gcagaaaaag      1620
+     aagagaatgt tccaataacg tcacaaaaga tgacgtcact gataaagaca tcacaggaac      1680
+     tacccattaa tataatcaag aagattctac aaccatctag aaacttctgg atttttcaat      1740
+     gtagtgtgca aaatttaaat tttgactatt tcattgtgca atttttaatt tatattatta      1800
+     caagtttaaa ctatattaaa tctgtccttc taaaacccaa ttcgtttcaa gacccaaaac      1860
+     ttctagaatc ttccaaaaaa attctatata aggagaagaa aattatcatt ttctcattat      1920
+     taatcaacaa tggataacga gctaacaagt cgacccgatt caataatgga tacggaacca      1980
+     acaactctac ccgattcagc aatggatacc aaaccaacaa acctgcctga tttcccttct      2040
+     acatcccaag aacccgtctc taggaggaca cgttccagaa cattaaggta aggatcttga      2100
+     atgctcgtgg aattttacca ataagcagtt ttagtgacaa ctcaaatgct gtatggaaga      2160
+     gagaacgtcg ttcaagagaa acttcgcaag aatcagaatc aagactcagg atggattggg      2220
+     aaagaaaaaa ggaaaaacga gcttcaatgt cagaagagga aaaggctgag atgaaatata      2280
+     aaaaaagagt atggatgaag aaaaaaagaa atgaagtagc aaaaacacac gatacgtcat      2340
+     ctgttgccaa tcccaactac cttggaagca tgagatgtgt gtgcaagaac tgcaatgcca      2400
+     gattctttca aggtatacat tttttcaaag tttagtgaac ttctacttct tatttccatt      2460
+     ctgagtttca gattggtttt ttttcataac taataacata tactagcatc atacagaaat      2520
+     ttaatgtttc aggagaggtg tcctcatcca acgatcatat caatatgtgt tgctacttcg      2580
+     gattaacaac cacacttcaa gatcgattct ccaactaccc agatgaacta cgacatcttc      2640
+     tcctcgatga ttcttctcac gcccgtaact tccagaagaa catccgacag tttaattcat      2700
+     cgttcgcaat ggcatcgatg ggtgcacaac ttgatgttcc gagaggccgc ggcccatact      2760
+     gcttcaaaat ccacggtcaa gtttaccatt ttgcgggacc acttcacccg gatccaggcc      2820
+     agagaccagc atttggacag atctacatcc tggacactga tcaagcaaca gacgagaggc      2880
+     ttggaaatcc tgccaatgcc gattgtgatc ctgctgttat ggctgaattg agcagtcttc      2940
+     tgttgagaac caatccatat gcacaggcat acaagatgat ggctgaagtt gaagaaaaag      3000
+     aaaattctga agctgcaaag gaaggacgac atccgggatg cgttcgactg atcttcgata      3060
+     tttcgacaac taaggatcca cgacgttata acttgccaca agcgaatgaa gtcgcagttg      3120
+     tttttgtggg cgaagacgat gacgtgccaa ccactcgctc tttggctgtt catccaagag      3180
+     gaggaggact taagacgatt cgtgatatcg ataggatctg cgatcctctc acatatcctg      3240
+     tattgtttcc aaatggaacc gacggatggc atcctgactt ggaaaagaga ccatcggaga      3300
+     agaaacaagg aaggattact cagaagatgt actacagtta cctgctcatg gagagatcag      3360
+     gagttttcaa tccactgcat cacgggcgtg ccctgtttca acagtttgca gtagactcat      3420
+     gggtaaaggt aagaatacat gatctcatgt tcacaaaata atcatgtttt tgcagatcga      3480
+     gcaaaacagg ctaaactatc atcgaactca tcaagttgat ttgaaagccg ccaactacaa      3540
+     tgcggttcag gattatattg ctggagatac tgatgtccca ggaagacgca tcgttcttcc      3600
+     atcatctttt ccagggagtc cccgagcaat ggtccaaaac tttcaagacg cgatggctat      3660
+     tgtctcgaag ttcggaaagc ctgatatatt tttaactttc acgtgtaatc ctgcatggac      3720
+     agagatttct gaaaacctcg gtccgcgaca atctgcatct gatcgtccag accttattgc      3780
+     ccgtgtcttc aagctaaaag taagttgaag atctatattt aactcatcac tttcttcatt      3840
+     gtgttccagg tagatgcgct gtttgacgat cttctaaatc gggatattct cggacacgtt      3900
+     gccgcataca tttccgtgtt cgaatggcaa aaacgaggtc ttcctcatgt acacatgctg      3960
+     ttaactatgg cagagaactc aaagccacga acctcggagg acatcgacaa gattgtgcaa      4020
+     gctgagattc caaatcctga caacgagcca gaacttcatc gcattgtgac caccgccatg      4080
+     atgcatcgtc catgtggtgc tcaaaatcct cactcgccat gcatggttga tgggcactgc      4140
+     tcgaaaaggt atccgaagga ttttcatcct agcaccactc tcaacgttga tggatatccc      4200
+     gggtatcgtc gaagggatga tggacgatat gtggaatatg gcacccaaca tctcgataac      4260
+     aggagagttg ttccatacaa caaatggctt ctgctccgtt acaatgctca catgaatgtc      4320
+     gagatttgtg gattcatcga agctgtaaaa tatctcttca aatatgtcta caaaggacat      4380
+     gaccgtgctg cactcaacat catccaaaat gtacgtggag atggaaatgt tgttgatgag      4440
+     atccgagagc atctagatgc tcgatacgtc tgtgctcccg aggcaatcca ccacatcttg      4500
+     ggattcaaac tggaaaagaa gtccgataca gtttattgac tcgctgtgca tctcgaagga      4560
+     ttccaaacga tctactttag agccagtgtc accacacaac aactcgaatc ttcatcacaa      4620
+     accgacacga ctctcacagc ttggtttaag atcaaccaaa agagcaagga tattgcggag      4680
+     agcgggaaca tcccttcgac atttgttgat tcacgccaat tcttctacat ggatatgcca      4740
+     acgcacttca cctttgtgaa aaaggatggc tggaaggttc gaggaagagg cacaaggcag      4800
+     ataggccgaa tgtacactgt cccaccatac gaaaccgaga gatacgcact tcgaattctt      4860
+     cttttgaaca tcaaaggagc gacgtcattc gaagatcttc gtactgtttt ggacgagaac      4920
+     aatgttccag tggtatacgc aacttatgtg gaagcagcaa aagctcaagg acttctgaat      4980
+     gatgacagcg aatatttgaa gtctttgaaa gagtgggctg gatgctcagt gcccgcagct      5040
+     cttcgctcaa tgtttgtcgc tatcattctt tttaacgaag ttcacgatct gaacgcactt      5100
+     tgggatgccg tgaagtggga tctttctgag gattttcgcc atgctggagc agggaaagaa      5160
+     gaggctgagg cacttgcata ttttgatatc gaaagtcgcc ttcaaaggta tcttttgagc      5220
+     ttttttcaaa agtagattat aatatttttc cagggttgga aaaagattcg atgtcaccaa      5280
+     accatctatc aatccgccac caatcgatct cgacacagtc aaccctgctc aatgtgcatc      5340
+     agaaggcaat aggctccttg cgacactcaa tgatcaacag aaacgtgcag ctgaccagat      5400
+     ccttgctgca ttagatgatg cctcgctacc ccgtcttttc tatttggatg ggcctggagg      5460
+     gagcggaaag acttatctct acatcactct gtacaacatc tgtgttggaa gaggactgaa      5520
+     ggtaaacttt caaccaaaca tactaaagtt atttcaatac tgcatatttt caggtagcgt      5580
+     gtacggcgtg gacaggaatt gcagccaatt tactcccact cggtcgaaca tccgcttccc      5640
+     ttttcaagct tgatattaga aatcaatgca agtcttctct tcatcagagg caattgaaag      5700
+     aagcacaaga gctagcggag aacgacgttt tcatttggga tgaagcatca atggttccca      5760
+     aggtattaga gtgattctga tcgtactaat caaatcattc attcaacttt cagacagccc      5820
+     tcgacacggt cgatgtactg cttagggatc tcacaaagat cgatcagcca tttggtggga      5880
+     agatcctgat cctcggagga gactttcgcc aaatcctacc tgtggtggag agaagctcta      5940
+     gagctgatca agtagacgca tgcatcaaaa gatcaccact atggacagag tttcaaattt      6000
+     tgcatctcat ctcaaatatg agagtaacat ctggagactc ggattggatc caattcctcc      6060
+     tcaatgttgg cgatggatct gcaaatgact ctgattcaaa ggttacactc ccactctctg      6120
+     tcatgtgcga tcacaacatc gtcgaggaag tgttcggagc agttatcgat ccaaccacgt      6180
+     ctgatccatg tgacaacgtc atccttacac ctaagaacgt cgacgttgct caactgaatg      6240
+     acgatgttca caatcgaatg gttggcgagg aaagaatcta tctgtcacga gatgaagtga      6300
+     tcgtggaaca tcaagcggat actatgcact atcccaccga gtttctcaac aagatgtccc      6360
+     catcatctct tcctccccat attctcaagc tgaagaaagg ctcagtgatc attctgctca      6420
+     ggaatctcga tgtttccgct ggcctttgca atggttcccg tttcattgtc gaaacattgg      6480
+     ccagtcactc acttggatgt cgctttgcaa ctggcgagag gaaaggacat ttcacaatca      6540
+     ttccaagaat cgattgctat gatgataaga acatctcttt ccaactcagg cgcacacagt      6600
+     tcccagttcg cttatcattt gcattatcga tcaacaaggc ccaaggacaa tccttttcta      6660
+     aaatcggtct ctggattccc accgatgttt tcactcatgg acaactatat gttgctctat      6720
+     caagagttcg taccaaagaa ggtcttattg taaaatccag ttctaatatt gtcaccaata      6780
+     tcgtttttaa tgaagttctt tgaataaagc ttattattct tctctgctat ctcgctagac      6840
+     aactcagctc tcttctgagg tctcactcga caactcatct cttctctgct atctcgctag      6900
+     acaactcagc tctcttctga ggtctcactc gacaactcat ctcttctctg ctatctcgct      6960
+     agacaactca gctctcttct gaggtctcgc tcgacaactc atctcttctc tgctatctcg      7020
+     ctagacaact cagctctctt ctgaggtctc gctcgacaac tcagctcttc tctgctatct      7080
+     cgctagacaa ctcagctctc ttctgaggtc tcactcgaca actcatctct tctctgctat      7140
+     ctcgctagac aactcagctc tcttctgagg tctcgcccga caactcatct cttctctgct      7200
+     atctcgctag acaactcagc tctcttctga ggtctcgctc gacaactcat ctcttctctg      7260
+     ctatctcgct agacaactca gctctcttct gaggtctcgc tcgacaactc agctcttctc      7320
+     tgctatctcg ctagacaact cagctctctt ctgaggtctc gctcgacaac tcatctcttc      7380
+     tctgctatct cgctagacaa ctcagctctc ttctgaggtc tcgctcgaca actcatctct      7440
+     tctctgctat ctcgctagac aactcagctc tcttctgagg tctcactcga caactcatct      7500
+     cttctctgct atctcgctag acaactcagc tctcttctga ggtctcgctc gacaactcat      7560
+     ctcttctctg ctatctcgct agacaactca gctctcttct gaggtctcac tcgacaactc      7620
+     atctcttctc tgctatctcg ctagacaact cagctctttt ctgctatctc gctagacaac      7680
+     tcagctctct tctgaggtct cactcgacaa ctcatctctt ctctgctatc tcgctagaca      7740
+     actcagctct cttctgaggt ctcgctcgac aactcatctc ttctctgcta tctcgctaga      7800
+     caactcagct ctcttctgag gtctcgctcg acaactccag ccttctcact cgcccccata      7860
+     tgtaggagta tggggggagg gagtattatt ataaccacag aaacacaaca atgtgccaca      7920
+     taagagacag gagatagtgc tcgcactacc cctgaatcac caaccctctc agaagcacct      7980
+     ctgctcttat ctgggtctcg ctagacatct ccagtagttt gaccattctc agcaacactt      8040
+     ttgctatttt agaatttttt tgccctcgcg gggatcgaac caaaaggtcc gcgcgccaat      8100
+     gacgcgcgcg ctaccagctg tgccatgctg gaagcgattg aacttcgacc aataacaata      8160
+     tacaacattt ctttatttgt caaagtgaaa tagttttgaa caaacactat tcaaaaaagt      8220
+     aattttaaat tgaaattata tcaaattcac gatttgttcc caaatattta aaactgaaac      8280
+     tcaataagag aagatctcat attctcactg ataatccgaa acatgacatt tgtttcaatg      8340
+     ctgttttcaa cctcaagttg taaaattcaa aaaccaagct gaaaatatgt tttaaaaatc      8400
+     tagaaactac aataattttt atgtgaattt ttggaaaaat ctcaagccag acggagcacg      8460
+     cgccttggcg cgtgcgaacg gctggt                                           8486
+//
+ID   HELICOPY1 repbase; DNA; CEL; 2595 BP.
+CC   HELICOPY1 DNA
+XX
+AC   ;
+XX
+DT   30-MAY-2000 (Rel. 4.1, Created)
+DT   30-MAY-2000 (Rel. 4.1, Last updated, Version 1)
+XX
+DE   HELICOPY1 is a nonautonomous DNA transposon - a consensus.
+XX
+KW   nonautonomous DNA transposon; HELICOP superfamily;
+KW   RCA1; RCD1; RC35; RCC9; HELICOPY1.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-2595
+RC   [1] (bases 1-79; 123-247; 281-475; 1502-1741)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   La Volpe A.;
+RT   "Molecular and genomic organization of clusters of repqetitive DNA
+RT   sequences in Caenorhabditis elegans";
+RL   J. Mol. Biol. 226 (1), 159-168 (1992)
+RX   MEDLINE; 92318259.
+XX
+RN   [2]
+RP   1-2595
+RC   [2]  (bases 1 to 2595)
+RA   Kapitonov, V.V., Jurka J.
+RT   ;
+RL   Direct submission (May, 2000)
+XX
+CC   There are about 50 copies of HELICOPY1 in the C.elegans genome. 
+CC   They are ~97% identical to the consensus sequence.
+CC   Several portions of HELICOPY1 have been reported previosly 
+CC   as the RCA1, RCD1, RC35 and RCC9 minisatellite like repeats [1].
+CC   The authors [1] have noticed a coclustering of these repeats but
+CC   did not find a right explanation to it. 
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 2595 BP; 933 A; 349 C; 534 G; 777 T; 2 other;
+     atcattamyt atatataaaa aaatacagtt cgtctgtcca tagtttgtag tctatgtagt        60
+     ctttgtagtc tgtgacgtca cacccaaatg tcagtgagaa ttgtgggcgg ggcctgtcac       120
+     ctacccttcg tggtgagacc catcgtggtg agacccttcg tggtgagacc catcgtggtg       180
+     agacccatcg tggtgagacc cttcgtggtg agacccatcg tggtgagacc cttcgtggtg       240
+     agacccacat ttttggcggg aaattcaaat tttcagtgaa aaaattttgg cgggaaattc       300
+     aaattttcag tgaaaaaatt ttggcgggaa attcaaattt tcagtgaaaa aaattttggc       360
+     gggaaattca aattttcagt gaaaaaaatt ttggcgggaa attcaaattt tcagtgaaaa       420
+     aattttggcg ggaaattcaa attttcagtg aaaaaatttt ggcgggaaat tcaaattttc       480
+     agtgaaaaaa ttttggcggg aaattcaaat tttcagtgaa aaaaattttg gcgggaaatt       540
+     caaattttca gtgaaaaaaa ttttggcggg aaattcaaat tttcagtgaa aaaaattttg       600
+     gcgggaaatt caaattttca gtgaaaaaaa ttttggcggg aaattcaaat tttcagtgaa       660
+     aaaaattttg gcgggaaatt caaattttca gtgaaaaaaa ttttggcggg aaattcaaat       720
+     tttcagtgaa aaaaattttg gcgggaaatt caaattttca gtgaaaaaaa ttttggcggg       780
+     aaattcaaat tttcagtgaa aaaaattttg gcgggaaatt caaattttca gtgaaaaaaa       840
+     ttttggcggg aaattcaaat tttcagtgaa aaaaattttg gcgggaaatt caaattttca       900
+     gtgaaaaaaa ttttggcggg aaattcaaat tttcagtgaa aaaaattttg gcgggaaatt       960
+     caaattttca gtgaaaaaaa ttttggcggg aaattcaaat tttcagtgaa aaaaattttg      1020
+     gcgggaaatt caaattttca gtgaaaaaaa ttttggcggg aaattcaaat tttcagtgaa      1080
+     aaaaattttg gcgggaaatt caaattttca gtgaaaaaaa ttttggcggg aaattcaaat      1140
+     tttcagtgaa aaaaattttg gcgggaaatt caaattttca gtgaaaaaaa ttttggcggg      1200
+     aaattcaaat tttcagtgaa aaaaattttg gcgggaaatt caaattttca gtgaaaaaaa      1260
+     ttttggcggg aaattcaaat tttcagtgaa aaaaattttg gcgggaaatt caaattttca      1320
+     gtgaaaaaaa ttttggcggg aaattcaaat tttcagtgaa aaacaatttt ggcggaaaat      1380
+     tccaatttct gagaaaaatc gagaaatgtc tgcaatgttc cagaagtttc tagaaaattc      1440
+     gagaaaattc cggaatggtc cagaattttc tagaaaattc gggaaaactc tggaatattc      1500
+     cagaactttc tagaaaattc gagaaaattc tggaatgttc cagaattttc tagaaaattc      1560
+     gagaaaactc tggaatgttc cagaactttc tagaaaattc tagaaagttc tggaatggtc      1620
+     cagaattttc tagaaaattc gggaaaactc tggaatattc cagaactttc tagaaaattc      1680
+     gagaaaattc tgcaatgttc cagaattttc tagaaaattc gggaaaattc tggaatattc      1740
+     cagaactttc tagaaaaatc gggaaaagtc ggcaatgttc tagaactttc tagaaaattc      1800
+     gagaaaattc cggaatggtc cagaattttc tagaaaattc tagaaagttc tggaatggtc      1860
+     cagaagtttc tagaaaattc gagaaaattc cggaatggtc cagaattttc tagaaaatcc      1920
+     gagaaagttc tggaatggtc cagaattttc tagaaaattc gggaaaattc tggaatattc      1980
+     cagaactttc tagaaaaatc gggaaaagtc tgcaatgttc cagaactctc taaaaaattc      2040
+     gataaaattc tgaaatgttc aatttcgtgg aaaaattcaa gaaacttctg caaagttcta      2100
+     cacggggttc tggctcgacc ccgcgctcca ttggacactg aaatggcggg aaaaaacttt      2160
+     gaaatcgcaa gaggaatttt cacgcagcgc gttgaaaaaa gtgtatgcat ttgcgcgtga      2220
+     cggtgtttct tcaagttttg atactcctag aatattctga agtttcaata attttaaaaa      2280
+     aatatcaaaa attgttataa ttttcagaaa cgctcgccaa aaactttcgg aaaggaccgg      2340
+     aaaatgtttc atatgatttg aagaacgtag agaaaattat acgttcaaga aatttagaaa      2400
+     tagttccagg aaacttgagg ttttaagttg taattgctca gaacttagtt atataatatt      2460
+     tatgttgctc gaaaatttcc ggtaaccagg gaaaaaacgt tccatctgca aagaaggctt      2520
+     agaaaattta gaatttgatt tcaattttga gtacgccagt cggagcacgc gcttcagcgc      2580
+     gtgcgaacgg ctggt                                                       2595
+//
+ID   HELICOPY2 repbase; DNA; CEL; 249 BP.
+CC   HELICOPY2 DNA
+XX
+AC   ;
+XX
+DT   30-MAY-2000 (Rel. 4.1, Created)
+DT   30-MAY-2000 (Rel. 4.1, Last updated, Version 1)
+XX
+DE   HELICOPY2 is a nonautonomous DNA transposon - a consensus.
+XX
+KW   nonautonomous DNA transposon; HELICOP superfamily; CEREP2A; HELICOPY2.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-249
+RC   [1]  (bases 249 to 1)
+RA   Kapitonov, V.V., Jurka J.
+RT   ;
+RL   Direct submission (September, 1999)
+XX
+RN   [2]
+RP   1-249
+RC   [2]  (bases 1 to 249)
+RA   Kapitonov, V.V., Jurka J.
+RT   ;
+RL   Direct submission (May, 2000)
+XX
+CC   There are about 200 copies of HELICOPY2 in the C.elegans genome. 
+CC   They are ~95% identical to the consensus sequence. The original
+CC   name, CEREP2A [1], and orientation have been changed because 
+CC   this repeat is a nonautonomous HELICOP-like DNA transposon.
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 249 BP; 80 A; 80 C; 35 G; 54 T; 0 other;
+     atcatttact atatataaag cgcttattcy gtktgtccat agtttgtagt ctatgtagtc        60
+     tttgtagtct gtgaagtttt ggcttctgga gggatagtga gttggggtta gtgtagggat       120
+     atagtcgggg tactgtagtg gtacaatagt ggtacggtag gaatactgta gggttacggt       180
+     agtttcagaa aaattagttt tcagccccag aagtcggggg ccgcgccgga ggtgcggtcc       240
+     acggctggt                                                               249
+//
+ID   HELICOPY3 repbase; DNA; CEL; 195 BP.
+CC   HELICOPY3 DNA
+XX
+AC   ;
+XX
+DT   09-AUG-2000 (Rel. 4.1, Created)
+DT   09-AUG-2000 (Rel. 4.1, Last updated, Version 1)
+XX
+DE   HELICOPY3 is a nonautonomous DNA transposon - a consensus.
+XX
+KW   nonautonomous DNA transposon; HELICOP superfamily; HELICOPY3.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-195
+RC   [1]  (bases 1 to 195)
+RA   Kapitonov, V.V., Jurka J.
+RT   ;
+RL   Direct submission (August, 2000)
+XX
+CC   There are about 50-100 copies of HELICOPY3 in the C.elegans genome. 
+CC   They are ~99% identical to the consensus sequence. 
+CC   This family is a nonautonomous HELICOP-like DNA transposon.
+CC   Several copies are identical, therefore, it is likely that 
+CC   HELICOP-like transposons are curently active in the C.elegans
+CC   genome. HELICOPY3 and HELICOPY2 share identical 22-bp 5'-
+CC   and 38-bp (one mismatch) 3'-termini. Their internal portions
+CC   are different.
+CC   A 49-bp 5'-termini of the autonomous HELICOP2 transposons is 
+CC   94% identical to the HELICOPY3 5'-termini. These transposons
+CC   share 84% identical 38-bp 3'-termini.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 195 BP; 49 A; 44 C; 48 G; 54 T; 0 other;
+     atcatttact atatataaag cgcgtgtcct tctgtcccta tgtagtttga tctctgatca        60
+     gagcaacgaa attttgggaa accttatgct aaatgcgcag cagacatcga tcgaggtccg       120
+     cgatagacac cgtatatcta atgtgttttc tcaaaaaagt cgggggccgc gccgtaggtg       180
+     cggtccacgg ctggt                                                        195
+//
+ID   HELICOPY4 repbase; DNA; CEL; 1857 BP.
+CC   HELICOPY4 DNA
+XX
+AC   ;
+XX
+DT   22-DEC-2000 (Rel. 4.2, Created)
+DT   22-DEC-2000 (Rel. 4.2, Last updated, Version 1)
+XX
+DE   HELICOPY4 is a non-autonomous DNA transposon - a consensus.
+XX
+KW   nonautonomous DNA transposon; HELITRON superfamily; CERP1; HELICOPY4.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-1857
+RC   [1]  (bases 1686 to 1465) (CERP1 repeat)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   Volpe A.;
+RT   "Molecular and genomic organization of clusters of repetitive DNA
+RT   sequences in Caenorhabditis elegans.";
+RL   J. Mol. Biol. 226, 159-168 (1992)
+XX
+RN   [2]
+RP   1-1857
+RC   [2]  (bases 1 to 1857)
+RA   Kapitonov, V.V., Jurka J.
+RT   ;
+RL   Direct submission (August, 2000)
+XX
+CC   There are about 100 copies of HELICOPY4 in the C.elegans genome. 
+CC   They are ~97% identical to the consensus sequence. 
+CC   This family is a non-autonomous HELICOP/HELITRON-like DNA transposon.
+CC   210-bp 5'-termini of HELICOPY4 and HELICOP2 are 92% identical.
+CC   40-bp 3'-termini of these elements are 90% identical.
+CC   CERP1, a satellite-like repeat identified previosly [1] is a
+CC   portion of HELICOPY4 (position 1686-1465)
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 1857 BP; 599 A; 266 C; 430 G; 562 T; 0 other;
+     atcattactt atatataaaa aaataattcc gtttgttcca tagtttgtag tctatgtagt        60
+     ctttgtagtc tgtgacgtca cacccaaagt cactgagaat tgtgggcggg gtctgtcatc       120
+     cttcgtggtg agacccatcg tggcgagacc catcgtggtg agacccatcg tggcgagacc       180
+     catcgtggtg agacccatcg tggcgagacc cgtcgtggcg agacccatcg tggtgagacc       240
+     catcgtggtg agacccatcg tggcgagacc catcgtggtg agacccatcg tggtgagacc       300
+     catcgtggtg agacccaccg tggtgagacc cgtcgtggta agacccaaaa ttttggcggg       360
+     aaatttaaat tttctgtgaa aaatattttg gcgggaaatt taaattttct gtgaaaaata       420
+     ttttggcggg aaatttaaat tttctgtgaa aaatattttg gcgggaaatt taaattttct       480
+     gagaaaaata ttttggcggg aaatttaaat tttctgtgaa aaatattttg gcgggaaatt       540
+     taaattttct gtgaaaaata ttttggcggg aaatttaaat tttctgagaa aaatattttg       600
+     gcgggaaatt taaattttct gtgaaaaata tttttgcggg aaatttaaat tttctgaaaa       660
+     ttctaaaatt ctggaaatct agaatcttct ggaaatttcg aaaaaactag aaaaattggg       720
+     aaaagtctgg aatgttccag aactttctag aaaaatcgag aaaattctgg aatgttccag       780
+     aactttctag aaaaatcgag aaaattctgg aatgttccag aactttctag aaaaatcgag       840
+     aaaattctgg aatgttccag aactttctag aaaaattggg aaaattctgg aatgttccag       900
+     aactttctag aaaaatcggg aaaattctgg aatgttccag aactttctag aaaaattggg       960
+     aaatttctgg aatgttccag aactttctag aaaaatcgag aaaattctgg aatgttccag      1020
+     aactttctag aaaaatcggg aaaattctgg aatgttccag aactttctag aaaaatcggg      1080
+     aaaattctgg aatgttccag aactttctag aaaaattggg aaaattctgg aatgttccag      1140
+     aactttctag aaaaattggg aaaagtctgg aatgttccag aactttctag aaaaatcggg      1200
+     aaaagtctgg aatgttccag aactttctag aaaaatcgag aaaattctgg aatgttccag      1260
+     aactttctag aaaaatcgag aaaattctgg aatgttccag aactttctag aaaaatcgag      1320
+     aaaattctgg aatgttccag aactttctag aaaaatcgag aaaattctgg aatgttccag      1380
+     aactttctag aaaaatcgag aaaattctgg aatgttccga aaaattgagc ttagagcttt      1440
+     agaagaggta gttatttggg agttgatggg ggatcaagtc aaggtactgt agtggtacta      1500
+     taggggtact gtaggtatac ggtagggtta ctgtagtttt ggaaaaattg gcatttcgtc      1560
+     ctttgaagag gtattgggtt aggagtcggt ggaggataat gtcaaggtac tgtagtggta      1620
+     ttgtaaggtt actgtcttgg tcaaaaagta acagaaagtt ttcatactgt ctgtgaattt      1680
+     ttgaaacatg catgtcgtag aaaaatacat acatgtaaca gtgccagtaa accgcgtttt      1740
+     aagtgtttca agtttttttc atgatgagaa attttttgag tgattgaagg tatgtgtgtc      1800
+     aaatactttt aatggtgcca gtcgttgccc gcgccgtagg cgcggtcagc ggctggt         1857
+//
+ID   NDNAX1_CE repbase; DNA; CEL; 2087 BP.
+CC   NDNAX1_CE DNA
+XX
+AC   ;
+XX
+DT   12-NOV-1999 (Rel. 4.0, Created)
+DT   12-NOV-1999 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   NDNAX1_CE is a putative nonautonomous DNA transposon - a consensus.
+XX
+KW   nonautonomous DNA transposon; DNAX family; NDNAX1_CE.
+XX
+OS   Caenorhabditis elegans
+CC   Nematode (strain Bristol) DNA.
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-2087
+RC   [1]  (bases 1 to 2087)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (November, 1999)
+XX
+CC   NDNAX1_CE is a putative non-autonomous DNA transposon;
+CC   its copies are 98% identical to the consensus sequence.
+CC   It shares common termini with NDNAX2_CE element.
+CC   These elements do not have terminal inverted repeats;
+CC   It is possible that NDNAX elements share a common
+CC   mechanism of their transposition with the ATREP1-ATREP10
+CC   elements found in the A.thaliana genome.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 2087 BP; 600 A; 402 C; 376 G; 706 T; 3 other;
+     tctgccttct tcctatgtta aatatggaat gtgcaagggt cgtcactttt tgcgcacaaa        60
+     gtgtcacaaa aaattaaaaa agttgggtgt gcactttcgt gtctaacttt gctgtacctg       120
+     cacatttttc aattttcttt tttgtaggaa atagagaatc gctttttcta tcttyctatc       180
+     taaatggtta tttgatttga ttttatcttt taagagaaat tcttgatgaa acacgaaaaa       240
+     atcacttttt tcgcgtgtcg tgtcgctttt tttgcacacg tttagaggtc atagtataaa       300
+     atgtttttga taaggtaact gtatatctgg gattgttaaa aatttttagt ttttgcaatt       360
+     tcatcaattt tgaactgagt tatgatgatt tgaaaatcgg actcgaaaaa tcccggaatt       420
+     tcgaaaattg cgttgaaaac atgtttaacg ttcgtatttt tgttttattt tacattatca       480
+     aatgtaaatt ttaacgtaga ttccgttttt ctaaatagtt ttctcattat ccaaccggaa       540
+     agttacgaaa aaagcataaa ttgacgattt ttcaatgaaa ttgtgcgcat tcccccttgt       600
+     gtttttggtg tgcaaattag tgatttttga gattctttcg cctataagtc ggtcagtttg       660
+     gcactttttg gggtaaattt ttcgaaaaac gtatttttca ggaaatttac tcttcaaaaa       720
+     tataattttt tttacaaaaa agtcaaaaat aacttcagaa atcgcaaatt tcatgatttt       780
+     ctcaaaawaa tgacgttttt gctggaaaaa taaaaaattt tccactaccg aatgggattt       840
+     tatgttaaat tcgtaattag tacataaata ccgaatgcaa gctgaaagca cagctctcta       900
+     cgatcatttt caacgatttt agtttattta atttttgacc tcgaaatttc aatttccctc       960
+     ttttcctgga ccagtttttc actgaaatgt gaatgttatg tcctaaatct tattattttt      1020
+     gctatgagaa gcgagacaaa ccaaaaaatt ttagtcttga gttcctcgag ccgcgttcct      1080
+     gaagttgtgg gcttcaagcc ttgctcagga agctcaaaag ttcattcttg accaattttt      1140
+     aaattttcaa atgctataat attctacttt taacgctgat ttcaaatata tacttttctt      1200
+     tttccaattc ctattatgag ctgagttacg gcgctttcaa gtttcagcaa tgcccgcccg      1260
+     cccccctctt tcctcccctt tctcttgcct cctccctctc atgcataggg tggctgtaat      1320
+     atggtctcta attactgtta caggatcaga tatgtatatt ttacgacata tctcttaata      1380
+     gaagaacaat agacatcgcc acatttgttt ttgtaagagg tccccaatgg gctgtaaaac      1440
+     agtctatcca cctttcttcc tgcaagaaag gaggtaatgt atttgagact gttcatttat      1500
+     tgtaattgag gggttgaaaa ttattatttt aattttcaaa taaaaataca ttaaaatttt      1560
+     tttttaattt taaaataaaa aaatcctttt taattttaaa ataaaacatt ttttaatttt      1620
+     gaggtctgct ttcttcgcgg ggacagagcg ccgtaggcgc tcttaatcta aattataggc      1680
+     agagcaggcc gaaggcctgc tatgccagta ggctttcact gccgggtcag agcgccgcag      1740
+     gcgctctgaa tctaaattac aggcagagca ggccgtaggc ctgctatgcc agcctgcttt      1800
+     tactgccggg tcagagcgcc gcaggcgctc taaatctaaa ttgtgtactg cagggagaca      1860
+     ataaatattt ttaaaacagt aaaaacaaac acacaggttc gaggcgaagc cgagaacctg      1920
+     cgccagctac ctaatctggt agaggaagca acgcaggccg caggcctgcg gtgcgagacc      1980
+     maaaacattg ccaatcgcac gttcgaggcg aagccgagaa cccgcgccag ctagcggact      2040
+     cgccccaacc ccacctctac tagcgggccc catagggccc gctagtc                    2087
+//
+ID   NDNAX2_CE repbase; DNA; CEL; 2846 BP.
+CC   NDNAX2_CE DNA
+XX
+AC   ;
+XX
+DT   12-NOV-1999 (Rel. 4.0, Created)
+DT   12-NOV-1999 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   NDNAX2_CE is a putative nonautonomous DNA transposon - a consensus.
+XX
+KW   nonautonomous DNA transposon; DNAX family; NDNAX2_CE.
+XX
+OS   Caenorhabditis elegans
+CC   Nematode (strain Bristol) DNA.
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-2846
+RC   [1]  (bases 1 to 2846)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (November, 1999)
+XX
+CC   NDNAX2_CE is a putative non-autonomous DNA transposon;
+CC   its copies are 98% identical to the consensus sequence.
+CC   It shares common termini with NDNAX1_CE element.
+CC   These elements do not have terminal inverted repeats.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 2846 BP; 797 A; 633 C; 524 G; 878 T; 14 other;
+     tctgcctcct tcctaaaacc cccatcttgc cacacacacg cgttttcggt gttcaaaaaa        60
+     tgttcaaaaa atgtccgaaa aaattgtaat acaactttga acgtttatat ctcggctctc       120
+     actgaaccga tttttgaaat tcttttttct ctacattcac aaaatatagc gacgtgtgtt       180
+     catctaaaag ggggttgatt ttggagcatc ctgtcggctc cacaagcgga aaaccacacc       240
+     cckcttgttt ttgcgcacac cgaagtactg gccgaaaacc actttaaatt gaaggaaaat       300
+     tcgagtttat gttcaaaacg tttgagactc gaaacttaag ttctcctttt caatgcctat       360
+     ccattgtatc taagttcatt gtgatatctc tattcgttat tttaaaaacg ataattaaag       420
+     ttttgccaaa atttctgcac ctcccccctt ttctcacaca cacacaccca cctccccttt       480
+     tcatatttgg tgtgttttcg gccacatttt caccattgtt tcggtcaaat ctccgttagt       540
+     cttgctcttt ttccaaattt ttttttggaa aaatgttcat cacatcgaga ggaagcggaa       600
+     aatataattt tttgtttcaa aaaaggtaaa taatagtctc aaaaatagaa aaaatgaaca       660
+     cttctttcaa acaatttaca tttttccata aaattcacaa actttccact atcgttccgg       720
+     tttttatgtt aaatttagaa ttaatagaat gatttaaaat ggaatctcaa atcacagctc       780
+     gatccgatca tttttcgcgg agataggtta tttaattttt gcacatggaa atccagtttt       840
+     cctctgttcc tggacaagtt ttcaactatc cttttgattt tatgttttaa ttttgataat       900
+     tttcactaaa gcaaggtaga caaactaaat ttggtcggtc ttgacaactt tcagcacatt       960
+     trkggaagtt ttgagcttcc aggccttccc agaaggtgat atgtttcaat ttttgttatt      1020
+     tttaaaaata ataaccgccg tattattcta ctttttacgc caatttcaaa aattatttwa      1080
+     tttttctcaa actcctacta tgagcaaagt tatgacggat tgaagtttta gtgcataact      1140
+     cctcacaggc cgcctctcct cacaagaggc tgcatgcgtg cgggtggctg gaaaatgttt      1200
+     tctttccaaa aaaaaacata gaaaggcact ttaactctaa gaakattcag ttcactttga      1260
+     acatatactt caggcattgc aggccggagg cctgctgtgc gattacaact gtttcaagcc      1320
+     cagattgtct ggattgagtg ccgcaggcac tcttactctt agaagacgca gtcaacctta      1380
+     aatcattata ccaaggcagg ccggaggcct gatatgcgat tactcttaga taagtttgat      1440
+     ttagaaagct tttattattt tcagttttct aaaacaatcc ccattcccga agggctgggg      1500
+     gcccacaggc gttcacgatt ttccaaaaaa gtgaaatgtt tattttttgg ttatttttca      1560
+     aatttgaaaa caccatacga ttttggttta aatactaaat tgaaatagaa atttcgctct      1620
+     cttacgatct acgccctacc cactgctaag cctggcaagt cgcagatttg ctatcaacac      1680
+     tattggaaac tgtgggctgg ctttgatcct attccaagca gatctgttat tcactcaagc      1740
+     ctaataacca ggtttgaggg ccgcaggccc gaatactctt graaactgtg ggctggcttt      1800
+     ratcctattc taagcagagc aggctgtagg cctgcgacgc ggttgttatt yactcaaacc      1860
+     taacaaccag gttcgagggc cgcaggcccg aatactcttg gaaactatgg gctggctttg      1920
+     atcctattct aagcagatat gttattcact caagcctaat aaccaggttt gagggccgca      1980
+     ggcccgaana ctcttgraaa ctgtgggctg gctttgatcc tattctaagc agatctgtta      2040
+     ttcactcaag cctaataacc aggtttgagg gccgcaggcc cgaacactct tggaaactat      2100
+     gggctggctt tgatcctatt ctaagcagat atgttattca ctcaagccta ataaccaggt      2160
+     ttgagggccg caggcccgaa tactcttgaa aactgtgggc tggctttaat cctattctaa      2220
+     gcagagcagg ctgtaggcct gcgacgcggt tgttatttac tcaaacctaa caaccaggtt      2280
+     cgagggccgc aggcccgaac actcttggaa actatgggct ggctttgatc ctattctaag      2340
+     cagagcgcgt atgttattca ctcaagccta ataaccaggt ttgagggccg caggcccgaa      2400
+     tactcttgaa aactgtgggc tggctttaat cctattccaa gcagagcagg ccgtattcat      2460
+     gagttttcct tttccttcac cgttttttgt agttcacagt gatgattgaa racacgctta      2520
+     ttttattgat aatacattca aattattctt gaacaaaatc tcagcctaag ttattcgtac      2580
+     agtgtcggtc ctggagcaat gaatcaaagt ttaaagagat ttcactttac acagtaagag      2640
+     cttcgaggcg aagcctcaaa cctgaatagt caagttttct aaacatatac cccactcctg      2700
+     aaataatttc aargagatct cgaataaccc swtaacaggt tcgaggcgaa gccgagaacc      2760
+     tgcgccagct accttgctaa taacttagag cgaattaacc ctatccccat tcccgaaggg      2820
+     ctggcgggcc cataggcccg ctagtc                                           2846
+//
+ID   NDNAX3_CE repbase; DNA; CEL; 1593 BP.
+CC   NDNAX3_CE DNA
+XX
+AC   ;
+XX
+DT   06-APR-1999 (Rel. 4.0, Created)
+DT   06-APR-1999 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   NDNAX3_CE is a putative nonautonomous DNA transposon - a consensus.
+XX
+KW   nonautonomous DNA transposon; DNAX family; NDNAX3_CE.
+XX
+OS   Caenorhabditis elegans
+CC   Nematode (strain Bristol) DNA.
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-1593
+RC   [1]  (bases 1 to 1593)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (April, 2000)
+XX
+CC   NDNAX3_CE is a putative non-autonomous DNA transposon.
+CC   There are about 100 copies of NDNAX3_CE in the genome;
+CC   they are ~95% identical to the consensus sequence.
+CC   NDNAX3_CE shares common termini with NDNAX1_CE and NDNAX2_CE elements.
+CC   These elements do not have terminal inverted repeats.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 1593 BP; 475 A; 314 C; 282 G; 522 T; 0 other;
+     tctgccaagc agcctctaat aaatgccgag tgtacagact ccgccccttt ttcgcgtttt        60
+     ttcgcgtttt ttttggcttg cgaaaaaatg tcacacttcg ttttcattaa taactccaga       120
+     gccgtgtgac ttcatgctct aatatttgaa atcctactag aaatattttg ccccacggtg       180
+     gagcaaaaaa cggcactaag ttcggagcaa aattgagccc agggcggctt tccccagttt       240
+     gaaaaaattt tttgttgctc tttttacccc caaaaaagca tgttttaatt gaattaaaat       300
+     tcgggttttg ctcggttttg ttccaaattt atgtgcaaga tactactcag agagactgat       360
+     tttttgaaaa aaagtttgag ttcataagtg caaaaggaaa aaagttgtga taaaacaaaa       420
+     ggccaaaaaa tgacattttg ccaaaaaaaa atttttttcc gaaaaagtag tttttcgtct       480
+     ttatctcaag ttctacttca tcttttttga tatttttttt gtttacccca cgtaaaaaag       540
+     tacgctgaac acgattttta actcagaatt gagaaaagtt ctatgagtcg gccgagcaag       600
+     acgaataagt gccaaatttt gcacactttc ccattttcgc gaatctactt tttcaatcat       660
+     aactcggtca gttttcaagt tttcttagtt ttccaaaaat tgacgtgtag gtctcatcaa       720
+     gacgcatcga gacatataaa atttgtaaaa agttcagtgg gaaaattttt caagaaaaaa       780
+     ataattcaaa aatttagtac tggggggagt ggtttcctgg gtctcctgaa cattttttcc       840
+     actaaagttt tgcggaatgt atttttgatt catagttttt gattttattt aatggaagat       900
+     gaagtttcgt cgcattagaa atactctgcc aagagatatt atttttatta attttcaggc       960
+     caaaacttgt tttttttcta tacatctgtc tgtgtacaag atatagccct caactgtacg      1020
+     tctccttttc gggaaatcaa taatgagtac aatcctgtaa taaaattttc aaaaattcgt      1080
+     tttcccgctg acatatcagt aataaacggt tttcgaacgt cttttctcaa attgtaatta      1140
+     ttgaagaaag cggaatcgaa agacgactcc ctccagaaat ttttcttccc tacatcccag      1200
+     tttgaggtgt ctcccgcatg gccgagtggt tagtgcgtat gactgcagaa attttggtag      1260
+     ttggttcaat tctaccaagt gacaaatttt tttgtttttt tgtgagtaat cgggattcga      1320
+     atagaaatac tcgattttat acaaaatatg ggtacgtctc ccctaatata aagcctcctc      1380
+     aaacttcaat caatcaaaac tcagctttaa ctgattcatc gggtgcatct gtttttggtc      1440
+     aaaccgaact caaaaatcaa gaagactccc attgacctac tgaaattttc acgaaccctc      1500
+     taacaggttc gaggcgaagc cgagaaccta cgcccggcaa ggggactcgc cttacacccc      1560
+     ctacaactgg cgggcccgca gggcccgcta gtc                                   1593
+//
+ID   HELITRONY1A_CE repbase; DNA; CEL; 3084 BP.
+CC   HELITRONY1A_CE DNA
+XX
+AC   ;
+XX
+DT   26-FEB-2001 (Rel. 4.2, Created)
+DT   26-FEB-2001 (Rel. 4.2, Last updated, Version 1)
+XX
+DE   HELITRONY1A_CE is a non-autonomous DNA transposon - a consensus.
+XX
+KW   non-autonomous DNA transposon; HELITRON superfamily;
+KW   RCA1; RCD1; RC35; RCC9; HELICOPY1; HELITRONY1_CE, HELITRONY1A_CE.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-3084
+RC   [1]  (bases 1 to 3084)
+RA   Kapitonov, V.V., Jurka J.
+RT   ;
+RL   Direct submission (February 2001)
+XX
+CC   There are about 50 copies of HELITRONY1A_CE in the C.elegans genome. 
+CC   They are ~95% identical to the consensus sequence. There are several
+CC   minor subfamilies of HELITRONY1A_CE in the genome. HELITRONY1A_CE
+CC   copies harbor one half of a PALTA3_CE-like DNA transposon (positions
+CC   2890-2715) inserted into an ancestor of HELITRONY1A_CE. About 20 
+CC   ancestral copies, free of the PALTA3_CE-like insertion, are present 
+CC   in the genome.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 3084 BP; 1063 A; 388 C; 655 G; 978 T; 0 other;
+     tcattactta tatataaaaa aatacagttc gtctgtccat agtttgtagt ctatgtagtc        60
+     tttgtagtct gtgacgtcac gcccaaagtc agtgagagtt gtgggcgggg cacccttcgt       120
+     ggtgagaccc atcgtggtga gacccttcgt ggtgagaccc atcgtggtga gacccttcgt       180
+     ggtgagaccc atcgtggtga gacccatcgt ggtgagaccc ttcgtggtga gacccttcgt       240
+     ggtgagaccc aaaattttgg cgggaaattc aaattttctg tgaaaaacat tttggcggga       300
+     aattcaaatt ttctgtgaaa aattttttgg cgggaattca aattttctgt gaaaattttt       360
+     tggcgggaaa ttcaaatttt ctgtgaaaaa aattttggcg ggaaattcaa attttctgtg       420
+     aaaaaaattt tggcgggaaa ttcaaatttt cagtgaaaaa cattttggcg ggaaattcaa       480
+     attttcagtg aaaaaaattt tggcgggaaa ttcaaatttt cagtgaaaaa tttttggcgg       540
+     gaaattcaaa ttttcagtga aaaaaatttt ggcgggaaat tcaaattttc tgtgaaaaaa       600
+     attttggcgg gaaattcaaa ttttctgtga aaaaattttt ggcgggaaat tcaaattttc       660
+     agtgaaaaaa attttggcgg gaaattcaaa ttttcagtga aaaaattttt ggcgggaaat       720
+     tcaaattttc tgcgaaaaaa atttttggcg ggaaattcaa attttctgtg aaaaaaattt       780
+     tggcgggaaa ttcaaatttt cagtgaaaaa attttggcgg gaaattcaaa ttttcagtga       840
+     aaaaaatttt ggcgggaaat tcaaattttc agtgaaaaaa ttttggcggg aaattcaaat       900
+     tttcagtgaa aaaattttgg cgggaaattc aaattttcag tggaaaaaat tttggcggga       960
+     aattcaaatt ttcagtgaaa aaaaattttg gcgggaaatt caaattttca gtgaaaaaaa      1020
+     ttttggcggg aaattcaaat tttcagtgaa aaaattttgg cgggaaattc aaattttcag      1080
+     tgaaaaaatt ttggcgggaa attcaaattt tcagtgaaaa aaattttggc gggaaattca      1140
+     aattttcagt gaaaaaattt tggcgggaaa ttcaaatttt cagtgaaaaa attttggcgg      1200
+     gaaattcaaa ttttcagtga aaaaaatttt ggcgggaaat tcaaattttc agtgaaaaaa      1260
+     atttttggcg ggaaattcaa attttcagtg aaaaaaattt tggcgggaaa ttcaaatttt      1320
+     cagtgaaaaa aattttggcg ggaaattcaa attttcagtg aaaaaaattt tggcgggaaa      1380
+     ttcaaatttt cagtgaaaaa aattttggcg ggaaattcaa attttcagtg aaaaaaattt      1440
+     tggcgggaaa ttcaaatttt cagtgaaaaa aattttggcg ggaaattcaa attttcagtg      1500
+     aaaaaaattt tggcgggaaa ttcaaatttt cagtgaaaaa aattttggcg ggaaattcaa      1560
+     attttcagtg aaaaaaattt tggcgggaaa ttcaaatttt cagtgaaaaa aattttggcg      1620
+     ggaaattcaa attttcagtg aaaaaaattt tggcgggaaa ttcaaatttt cagtgaaaaa      1680
+     aattttggcg ggaaattcaa attttcagtg aaaaaaattt tggcgggaaa ttcaaatttt      1740
+     cagtgaaaaa attttggcgg gaaattcaaa ttttcagtga aaaaaatttt ggcgggaaat      1800
+     tcaaattttc agtgaaaaaa attttggcgg gaaattcaaa ttttcagtga aaaaaatttt      1860
+     ggcgggaaat tcaaattttc agtgaaaaaa attttggcgg gaaattcaaa ttttctgtga      1920
+     aaaaaatttt tggagggaaa ttcaaatttt ctgagaaaaa gattttggcg ggaatttcaa      1980
+     ttttggtttt ggaatcatct ggaaaattcc agaaaattct ataatgttct agaactttct      2040
+     ggaaaattcg agaaaattct ggaatgttcc agaactttct ggaaagttcc agaaccttct      2100
+     ggaaagttcc agaaccttct ggaaaattcg aaaaaaattc tggaatattc gtggtgagac      2160
+     ccataaattt tggccgaaaa ctcaaaattt ctgagaaaaa atttttggcg ggaaattcaa      2220
+     attttctgag aaactttttg ttagcttaag taccacctgg aactggcgag acccatcgtg      2280
+     gtgggaccct taaaaatatg ggcgggaact tcaaaattta tgagaaaaga aattttggcg      2340
+     ggaattcaaa tttccaagaa aaattttggc gggaaattca aattttctga gaaaaagatt      2400
+     ttgacgggaa attcaaattt tctgaggaaa acatttggcg ggaaattcaa attttggttc      2460
+     tggaatcaat tttttgtttc agcaccttct ggaagtttca agaaaattct agaatgttct      2520
+     agaatcatct ggaaaattca aaaaagttct gaaatgctct acaacctcct ataactgtag      2580
+     gagtttttat ttgtttcgtc acatctatat tcaaagaact tactattagt agttaattat      2640
+     tcagacttct ccagttaagg aaagttatta acttattgaa aaaactgtaa ctctgtggaa      2700
+     ttttttcggg ggagggggac agctcgccac gccaacagtg agaaaaatag tgtggtgcgc      2760
+     ggacctcgaa tgatgtcggc ggctgatatt acctggggta ccgctttttg ccttttcccc      2820
+     gtgagtgaac gagaaaaagg cggggactat tttggcgtac acgcaacgca gttttataat      2880
+     tttgagtgta gaaaaatcag aacattctaa ctgtctcttt gaattttctg aatcgaatac      2940
+     catggaagaa gaaaatgcga tttaatcgat gaagtttcaa cttttttaat gatacatttt      3000
+     tgaatgatta aaaggacatc tatgtgttat acattttaaa ctccgccagt cgttggccgc      3060
+     gccggaggcg cggtcatcgg ctgg                                             3084
+//

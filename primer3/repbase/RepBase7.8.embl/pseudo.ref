@@ -1,0 +1,1524 @@
+CC ****************************************************************
+CC                                                                *
+CC   REPBASE UPDATE                                               *
+CC   (C) 1997-2001  Genetic Information Research Institute        *
+CC   All rights reserved                                          *
+CC                                                                *
+CC   Edited by Jerzy Jurka                                        *
+CC                                                                *
+CC   A REFERENCE COLLECTION                                       * 
+CC   OF ABUNDANT HUMAN PSEUDOGENE SEQUENCES                       *
+CC   RELEASE 1.1.4; MAY 2001                                      *
+CC                                                                *
+CC   This release was supported in part by U.S.                   *
+CC   Department of Energy grant DE-FG0395ER62139                  *
+CC   and by N.I.H. grant 1P41LM06252-01.                          *
+CC                                                                *
+CC ****************************************************************
+XX
+ID   5S        repbase; DNA; PRI; 120 BP.
+CC   5S DNA
+XX
+AC   K02217;
+XX
+DT   27-JAN-1997 (Rel. 1.0, Created)
+DT   27-JAN-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human 5S rRNA gene H4.
+XX
+KW   5S ribosomal RNA; ribosomal RNA; transcription factor;
+KW   retroposition; pseudogenes.
+XX
+OS   Homo sapiens
+CC   Human DNA, clone pH4-44.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-120
+RC   [1]  (bases 1 to 176)
+RA   Emerson B.M., Roeder R.G.;
+RT   "DNA sequences and transcription factor interactions of active and
+RT   inactive forms of mammalian 5 S RNA genes";
+RL   J. Biol. Chem. 259 (12), 7926-7935 (1984)
+RX   MEDLINE; 84239741.
+XX
+DR   GENBANK; K02217; 97.0.
+CC   Positions      47     166  Accession No K02217        GenBank (rel. 97.0)
+XX
+SQ   Sequence 120 BP; 25 A; 31 C; 37 G; 27 T; 0 other;
+     gtctactgcc ataccaccct gaacacgccc gatctcatct gatcttggaa gctaagcagg        60
+     gtcaggcctg gttggtacct gatgggagag agcctgggaa caccgggttc tgtagggttg       120
+//
+ID   7SL       repbase; DNA; PRI; 377 BP.
+CC   7SL DNA
+XX
+AC   X04249;
+XX
+DT   27-JAN-1997 (Rel. 1.0, Created)
+DT   27-JAN-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human gene for small cytoplasmic 7SL RNA (7L30.1).
+XX
+KW   7SL RNA; signal recognition particle; small cytoplasmic RNA;
+KW   repeat; pseudogene; retroposon.
+XX
+OS   Homo sapiens (human)
+CC   human.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-377
+RC   [1]  (bases 1 to 377)
+RA   Ullu E., Weiner A.M.;
+RT   "Human genes and pseudogenes for the 7SL RNA component of signal
+RT   recognition particle";
+RL   EMBO J. 3 (13), 3303-3310 (1984)
+RX   MEDLINE; 85126939.
+XX
+DR   GENBANK; X04249; 96.0.
+CC   Positions       1     377  Accession No X04249        GenBank (rel. 96.0)
+XX
+SQ   Sequence 377 BP; 68 A; 116 C; 118 G; 75 T; 0 other;
+     cgctccccaa tgacgtaact gccctgcagc ttctagtagc ttttcgcagc gtctccgacc        60
+     gccgggcgcg gtggcgcgtg cctgtagtcc cagctactcg ggaggctgag gtgggaggat       120
+     cgcttgagcc caggagttct gggctgtagt gcgctatgcc gatcgggtgt ccgcactaag       180
+     ttcggcatca atatggtgac ctcccgggag cgggggacca ccaggttgcc taaggagggg       240
+     tgaaccggcc caggtcggaa acggagcagg tcaaaactcc cgtgctgatc agtagtggga       300
+     tcgcgcctgt gaatagccac tgcactccag cctgagcaac atagcgagac cccgtctctt       360
+     ttgcccccct ccctact                                                      377
+//
+ID   E1        repbase; RNA; RNA; 208 BP.
+CC   E1 uRNA
+XX
+AC   L07382;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Homo sapiens E1 small nucleolar RNA.
+XX
+KW   E1 small nucleolar RNA.
+XX
+OS   Homo sapiens
+CC   Homo sapiens snRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-208
+RC   [1]  (bases 1 to 208)
+RA   Ruff E.A., Rimoldi O.J., Raghu B., Eliceiri G.L.;
+RT   "Three new nucleolar small RNAs of unique nucleotide sequences";
+RL   Proc. Natl. Acad. Sci. U.S.A. 90, 635-638 (1993)
+RX   MEDLINE; 93133841.
+XX
+DR   GENBANK; L07382; 97.0.
+CC   Positions       1     208  Accession No L07382        GenBank (rel. 97.0)
+XX
+SQ   Sequence 208 BP; 48 A; 62 C; 54 G; 44 T; 0 other;
+     tccaacgtgg atacaccctg ggaggtcact ctccccgggc tctgtccaag tggcgtaggg        60
+     gagcataggg ctctgcccca tgatgtacaa gtccctttcc acaacgttgg aaataaagct       120
+     gggcctcgtg tctgcgcctg catattccta cagcttccca gagtcctgtc gacaattact       180
+     ggggagacaa accatgcagg aaacagcc                                          208
+//
+ID   E2        repbase; RNA; RNA; 154 BP.
+CC   E2 uRNA
+XX
+AC   L07383;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Homo sapiens E2 small nucleolar RNA.
+XX
+KW   E2 small nucleolar RNA.
+XX
+OS   Homo sapiens
+CC   Homo sapiens snRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-154
+RC   [1]  (bases 1 to 154)
+RA   Ruff E.A., Rimoldi O.J., Raghu B., Eliceiri G.L.;
+RT   "Three new nucleolar small RNAs of unique nucleotide sequences";
+RL   Proc. Natl. Acad. Sci. U.S.A. 90, 635-638 (1993)
+RX   MEDLINE; 93133841.
+XX
+DR   GENBANK; L07383; 97.0.
+CC   Positions       1     154  Accession No L07383        GenBank (rel. 97.0)
+XX
+SQ   Sequence 154 BP; 38 A; 28 C; 45 G; 43 T; 0 other;
+     tgtgcacatt gttagagctt ggagttgagg ctactgactg gccgatgaac tcgcaagtgt        60
+     aggtagtgtg ctacatgagg ggcaagtttt cgctaacacc acaagggtct ctggcccaat       120
+     gagtggagtt tgatagtaat tcttgctaca agta                                   154
+//
+ID   E3        repbase; DNA; PRI; 135 BP.
+CC   E3 DNA
+XX
+AC   U12212;
+XX
+DT   27-JAN-1997 (Rel. 1.0, Created)
+DT   27-JAN-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human small nucleolar RNA (E3-1) gene, complete sequence.
+XX
+KW   Small nucleolar RNA; retroposition; pseudogenes.
+XX
+OS   Homo sapiens (human)
+CC   human.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-135
+RC   [1]  (bases 1 to 476)
+RA   Selvamurugan N., Nag M.K., Eliceiri G.L.;
+RT   "Intron-encoded small nucleolar RNAs: New RNA sequence variants and
+RT   genomic loci";
+RL   Biochem. Biophys. Acta 1260, 230-234 (1995)
+XX
+RN   [2]
+RP   1-135
+RC   [2]  (bases 1 to 476)
+RA   Eliceiri G.L.;
+RT   "Direct Submission";
+RL   Submitted (12-JUL-1994) George L. Eliceiri, Department of
+RL   Pathology, St. Louis University School of Medicine, 1402 South
+RL   Grand Blvd., St. Louis, MO 63104-1028, USA
+XX
+DR   GENBANK; U12212; 97.0.
+CC   Positions     197     331  Accession No U12212        GenBank (rel. 97.0)
+XX
+SQ   Sequence 135 BP; 32 A; 27 C; 27 G; 49 T; 0 other;
+     cacgcaggat tcagactaga atatagctgt taagtgctgt gttgtcattc tccctgctta        60
+     aaataaagtt tttttcttaa ctatacctgt ctgctatctg ctgtagcagc cagggatgct       120
+     tggtttcata catgt                                                        135
+//
+ID   HY1       repbase; DNA; PRI; 185 BP.
+CC   HY1 DNA
+XX
+AC   V00584;
+XX
+DT   27-JAN-1997 (Rel. 1.0, Created)
+DT   04-MAY-2001 (Rel. 1.1, Last updated, Version 2)
+XX
+DE   Human gene hY1 encoding a cytoplasmic Ro RNA.
+XX
+KW   Repeat; pseudogene; retroposon.
+XX
+OS   Homo sapiens (human)
+CC   human.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-185
+RC   [1]  (bases 1 to 185)
+RA   Wolin S.L., Steitz J.A.;
+RT   "Genes for two small cytoplasmic Ro RNAs are adjacent and appear to
+RT   be single-copy in the human genome";
+RL   Cell 32 (3), 735-744 (1983)
+RX   MEDLINE; 83155650.
+XX
+DR   GENBANK; V00584; 96.0.
+CC   Positions       1     185  Accession No V00584        GenBank (rel. 96.0)
+XX
+SQ   Sequence 185 BP; 39 A; 46 C; 37 G; 63 T; 0 other;
+     gggggcttta aatagttcaa acagtaggag gacttattgg ctggtccgaa ggtagtgagt        60
+     tatctcaatt gattgttcac agtcagttac agatcgaact ccttgttcta ctctttcccc       120
+     ccttctcact actgcacttg actagtcttt tacgagagtt tccactctcc tggcatccct       180
+     cgttt                                                                   185
+//
+ID   L28       repbase; RNA; PRI; 485 BP.
+CC   L28 mRNA
+XX
+AC   U14969;
+XX
+DT   27-JAN-1997 (Rel. 1.0, Created)
+DT   27-JAN-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human ribosomal protein L28 mRNA, complete cds.
+XX
+KW   L28 mRNNA; repeat; pseudogene; retroposon.
+XX
+OS   Homo sapiens (human)
+CC   human.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-485
+RC   [1]  (bases 1 to 485)
+RA   Frigerio J.M., Dagorn J.C., Iovanna J.L.;
+RT   "Cloning, sequencing and expression of the L5, L21, L27a, L28, S5,
+RT   S9, S10 and S29 human ribosomal protein mRNAs";
+RL   Biochim. Biophys. Acta 1262 (1), 64-68 (1995)
+RX   MEDLINE; 95290496.
+XX
+RN   [2]
+RP   1-485
+RC   [2]  (bases 1 to 485)
+RA   Iovanna J.L.;
+RT   "Direct Submission";
+RL   Submitted (21-SEP-1994) Juan L. Iovanna, Inserm U315, 46, Bd de la
+RL   Gaye, Marseille 13009, France
+XX
+DR   GENBANK; U14969; 96.0.
+CC   Positions       1     485  Accession No U14969        GenBank (rel. 96.0)
+XX
+SQ   Sequence 485 BP; 117 A; 158 C; 135 G; 75 T; 0 other;
+     gtcgccgctg cggagggagc cgccgccatg tctgcgcatc tgcaatggat ggtcgtgcgg        60
+     aactgctcca gtttcctgat caagaggaat aagcagacct acagcactga gcccaataac       120
+     ttgaaggccc gcaattcctt ccgctacaac ggactgattc accgcaagac tgtgggcgtg       180
+     gagccggcag ccgacggcaa aggtgtcgtg gtggtcatta agcggagatc cggccagcgg       240
+     aagcctgcca cctcctatgt gcggaccacc atcaacaaga atgctcgcgc cacgctcagc       300
+     agcatcagac acatgatccg caagaacaag taccgccccg acctgcgcat ggcagccatc       360
+     cgcagggcca gcgccatcct gcgcacgcag aagcctgtga tggtgaagag gaagcggacc       420
+     cgccccacca agagctcctg agccccctgc ccccagagca ataaagtcag ctggctttct       480
+     caaaa                                                                   485
+//
+ID   RRNA45    repbase; RNA; RNA; 83 BP.
+CC   RRNA45 rRNA
+XX
+AC   K01106;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human 4.5S (C8) RNA.
+XX
+KW   4.5S ribosomal RNA.
+XX
+OS   Homo sapiens
+CC   Human (HeLa cell) RNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-83
+RC   [1]  (bases 1 to 83)
+RA   Kato N., Hoshimo H.-O., Harada F.;
+RT   "Nucleotide sequence of 4.5S RNA (C8 or hY5) from HeLa cells";
+RL   Biochem. Biophys. Res. Commun. 108, 363-370 (1982)
+RX   MEDLINE; 83074666.
+XX
+DR   GENBANK; K01106; 97.0.
+CC   Positions       1      83  Accession No K01106        GenBank (rel. 97.0)
+XX
+SQ   Sequence 83 BP; 14 A; 18 C; 20 G; 31 T; 0 other;
+     agttggtccg agtgttgtgg gttattgtta agttgattta acattgtctc cccccacaac        60
+     cgcgcttgac tagcttgctg ttt                                                83
+//
+ID   TRNA_ALA  repbase; RNA; RNA; 76 BP.
+CC   TRNA_ALA tRNA
+XX
+AC   M17880;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human Ala-tRNA.
+XX
+KW   Transfer RNA-Ala.
+XX
+OS   Homo sapiens
+CC   Human transfer RNA from HeLa cells.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-76
+RC   [1]  (bases 1 to 76)
+RA   Bunn C.C., Mathews M.B.;
+RT   "Two human Ala-tRNA families are recognized by autoantibodies in
+RT   polymyositis sera";
+RL   Mol. Biol. Med. 4, 21-36 (1987)
+RX   MEDLINE; 87286350.
+XX
+DR   GENBANK; M17880; 97.0.
+CC   Positions       1      76  Accession No M17880        GenBank (rel. 97.0)
+XX
+SQ   Sequence 76 BP; 16 A; 19 C; 24 G; 17 T; 0 other;
+     ggggaattag ctcaaatggt agagcgctcg ctttgcttgc gagaggtagc gggatcgatg        60
+     cccgcattct ccacca                                                        76
+//
+ID   TRNA_ASN  repbase; RNA; RNA; 77 BP.
+CC   TRNA_ASN tRNA
+XX
+AC   K00167;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human Asn-tRNA.
+XX
+KW   Transfer RNA; transfer RNA-Asn.
+XX
+OS   Homo sapiens
+CC   Human liver and placenta tRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-77
+RC   [1]  (bases 1 to 77)
+RA   Chen E.Y., Roe B.A.;
+RT   "Structural comparison of human, bovine, rat, and Walker 256
+RT   carcinosarcoma asparaginyl-tRNA";
+RL   Biochim. Biophys. Acta 610 (2), 272-284 (1980)
+RX   MEDLINE; 81160724.
+XX
+DR   GENBANK; K00167; 97.0.
+CC   Positions       1      77  Accession No K00167        GenBank (rel. 97.0)
+XX
+SQ   Sequence 77 BP; 13 A; 21 C; 26 G; 16 T; 1 other;
+     gtctctgtgg cgcaatcggt tagcgcgttc ggctgttaac cgaaaggttg gtggntcgag        60
+     cccacccagg gacgcca                                                       77
+//
+ID   TRNA_GLU  repbase; RNA; RNA; 75 BP.
+CC   TRNA_GLU tRNA
+XX
+AC   M31637;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human Glu-tRNA.
+XX
+KW   Transfer RNA-Glu.
+XX
+OS   Homo sapiens
+CC   Human tRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-75
+RC   [1]  (bases 1 to 75)
+RA   Smardo F.L. Jr., Calvet J.P.;
+RT   "Human glutamate tRNA forms stable hybrids in vitro with 28S
+RT   ribosomal RNA";
+RL   Nucleic Acids Res. 15 (2), 661-681 (1987)
+RX   MEDLINE; 87146384.
+XX
+DR   GENBANK; M31637; 97.0.
+CC   Positions       1      75  Accession No M31637        GenBank (rel. 97.0)
+XX
+SQ   Sequence 75 BP; 9 A; 24 C; 25 G; 16 T; 1 other;
+     tccctggtgg tctagtggdt aggattcggc gctctcaccg ccgcggcccg ggttcgattc        60
+     ccggtcaggg aacca                                                         75
+//
+ID   TRNA_GLY  repbase; RNA; RNA; 74 BP.
+CC   TRNA_GLY tRNA
+XX
+AC   K00208;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human Gly-tRNA-GCC.
+XX
+KW   Transfer RNA; transfer RNA-Gly.
+XX
+OS   Homo sapiens
+CC   Homo sapiens placenta tRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-74
+RC   [1]  (bases 1 to 74)
+RA   Gupta R.C., Roe B.A., Randerath K.;
+RT   "The nucleotide sequence of human tRNAGly (anticodon GCC)";
+RL   Nucleic Acids Res. 7 (4), 959-970 (1979)
+RX   MEDLINE; 80056031.
+XX
+DR   GENBANK; K00208; 97.0.
+CC   Positions       1      74  Accession No K00208        GenBank (rel. 97.0)
+XX
+SQ   Sequence 74 BP; 12 A; 22 C; 24 G; 16 T; 0 other;
+     gcattggtgg ttcagtggta gaattctcgc ctgccacgcg ggaggcccgg gttcgattcc        60
+     cggccaatgc acca                                                          74
+//
+ID   TRNA_VAL  repbase; RNA; RNA; 76 BP.
+CC   TRNA_VAL tRNA
+XX
+AC   K00254;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human Val-tRNA-1b.
+XX
+KW   Transfer RNA; transfer RNA-Val.
+XX
+OS   Homo sapiens
+CC   Human placenta tRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-76
+RC   [1]  (bases 1 to 76)
+RA   Chen E.Y., Roe B.A.;
+RT   "Sequence studies on human placenta Val-tRNA: Comparison with the
+RT   mouse myeloma Val-tRNA";
+RL   Biochem. Biophys. Res. Commun. 78, 631-640 (1977)
+RX   MEDLINE; 78019905.
+XX
+DR   GENBANK; K00254; 97.0.
+CC   Positions       1      76  Accession No K00254        GenBank (rel. 97.0)
+XX
+SQ   Sequence 76 BP; 17 A; 22 C; 21 G; 16 T; 0 other;
+     gtttccgtag tgtagtggtt atcacgttcg cctcacacgc gaaaggtccc cggttcgaaa        60
+     ccgggcggaa acacca                                                        76
+//
+ID   U1        repbase; DNA; PRI; 806 BP.
+CC   U1 DNA
+XX
+AC   J00318;
+XX
+DT   27-JAN-1997 (Rel. 1.0, Created)
+DT   27-JAN-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human U1 small nuclear RNA (snRNA) gene HU1-1.
+XX
+KW   U1 small nuclear RNA; retroposition; pseudogenes.
+XX
+OS   Homo sapiens
+CC   Human (HeLa S-3 cell [1]) DNA; clones HSD2 [1], pHU1-1 [2], [3].
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-806
+RC   [1]  (bases 433 to 596)
+RA   Manser T., Gesteland R.F.;
+RT   "Characterization of small nuclear RNA U1 gene candidates and
+RT   pseudogenes from the human genome";
+RL   J. Mol. Appl. Genet. 1 (2), 117-125 (1981)
+RX   MEDLINE; 82267649.
+XX
+RN   [2]
+RP   1-806
+RC   [2]  (bases 41 to 631)
+RA   Murphy J.T., Burgess R.R., Dahlberg J.E., Lund E.;
+RT   "Transcription of a gene for human U1 small nuclear RNA";
+RL   Cell 29 (1), 265-274 (1982)
+RX   MEDLINE; 82259373.
+XX
+RN   [3]
+RP   1-806
+RC   [3]  (bases 1 to 806)
+RA   Lund E., Dahlberg J.E.;
+RT   "True genes for human U1 small nuclear RNA. Copy number,
+RT   polymorphism, and methylation";
+RL   J. Biol. Chem. 259 (3), 2013-2021 (1984)
+RX   MEDLINE; 84111685.
+XX
+DR   GENBANK; J00318; 97.0.
+CC   Positions       1     806  Accession No J00318        GenBank (rel. 97.0)
+XX
+SQ   Sequence 806 BP; 179 A; 182 C; 261 G; 184 T; 0 other;
+     gctccatctg gccaccgaaa ggttgctcct taacacaggc taaggaccag cttctttggg        60
+     agagaacaga cgcaggggcg ggagggaaaa agggagaggc agacgtcact tccccttggc       120
+     ggctctggca gcagattggt cggttgagtg gcagaaaggc agacggggac tgggcaaggc       180
+     actgtcggtg acatcacgga cagggcgact tctatgtaga tgaggcagcg cagaggctgc       240
+     tgcttcgcca cttgctgctt caccacgaag gagttcccgt gccctgggag cgggttcagg       300
+     accgctgatc ggaagtgaga atcccagctg tgtgtcaggg ctggaaaggg ctcgggagtg       360
+     cgcggggcaa gtgaccgtgt gtgtaaagag tgaggcgtat gaggctgtgt cggggcagag       420
+     gcccaagatc tcatacttac ctggcagggg agataccatg atcacgaagg tggttttccc       480
+     agggcgaggc ttatccattg cactccggat gtgctgaccc ctgcgatttc cccaaatgtg       540
+     ggaaactcga ctgcataatt tgtggtagtg ggggactgcg ttcgcgcttt cccctgactt       600
+     tctggagttt caaaagtaga ctgtacgcta agggtcatat ctttttttgt tttggtttgt       660
+     gtcttggttg gcgtcttaaa tgttaatcct acagtggagg gctgcggaat aggaagtaac       720
+     atgtcgcctg cacgccatag gagaaaaagc gagcatcagc cgtatcggct ttgtaacaca       780
+     aattagctat cgtgaagtcc gctcag                                            806
+//
+ID   U2        repbase; DNA; PRI; 896 BP.
+CC   U2 DNA
+XX
+AC   K03023;
+XX
+DT   27-JAN-1997 (Rel. 1.0, Created)
+DT   27-JAN-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human small nuclear RNA U2 gene.
+XX
+KW   Small nuclear RNA; retroposition; pseudogenes.
+XX
+OS   Homo sapiens
+CC   Human DNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-896
+RC   [1]  (bases 1 to 896)
+RA   Ares M.Jr., Mangin M., Weiner A.M.;
+RT   "Orientation-dependent transcriptional activator upstream of a human
+RT   U2 snRNA gene";
+RL   Mol. Cell. Biol. 5, 1560-1570 (1985)
+RX   MEDLINE; 85267672.
+XX
+DR   GENBANK; K03023; 97.0.
+CC   Positions       1     896  Accession No K03023        GenBank (rel. 97.0)
+XX
+SQ   Sequence 896 BP; 178 A; 259 C; 282 G; 177 T; 0 other;
+     ccttcggctt ccctgactgg gcatgggccc tcgtcccctc gtcccctcgg gtacggggcc        60
+     ggtctccccg cccgcggcgc aaagtaaagg cccagcgcag ccccctcctg ccctgggccc       120
+     tcgtctttgt ccaggaaaac gtggaccgct ctccgccgac agcctcttcc acagacccct       180
+     gtcgccttcc cccccggtct cttccggttc tgtcttttcg ctgggctcga tacgaacaag       240
+     gaagtggccc ccagcggagc ccggttcccc aggcagaggc ggccccgggg gcggagtcaa       300
+     cggcggaggc cacgccctct gtgaaagggc ggggcatgca aattcgaaat gaaagcccgg       360
+     gaacgccgga agaagcacgg gtgtaagatt tcccttttca aaggcggaga ataagaaatc       420
+     agcccgagag tgtaagggcg tcaatagcgc tgtggacgag acagagggaa tggggcaagg       480
+     agcgacgctg gggctctcac cgcgacttga atgtggatga gagtgggacg gtgacggcgg       540
+     gcgcgaaggc gagcgcatcg cttctcggcc ttttggctaa gatcaagtgt agtatctgtt       600
+     cttatcagtt taatatctga tacgtcctct atccgaggac aatatattaa atggattttt       660
+     ggagcaggga gatggaatag gagcttgctc cgtccactcc acgcatcgac ctggtattgc       720
+     agtacctcca ggaacggtgc accccctccg gggatacaac gtgtttccta aaagtagagg       780
+     gaggtgagag acggtagcac ctgcggggcg gcttgcacgc cgagtgcctg tgacgcgccg       840
+     gcttgactta actgcttccc tgaagtaccg tgaggttcct gatgtgcggg cggtag           896
+//
+ID   U3        repbase; RNA; RNA; 73 BP.
+CC   U3 uRNA
+XX
+AC   K00777;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human U3 small nuclear RNA, 5' end.
+XX
+KW   U3 small nuclear RNA; small nuclear RNA.
+XX
+OS   Homo sapiens
+CC   Human HeLa cell, cDNA to uRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-73
+RC   [1]  (bases 1 to 73)
+RA   Bernstein L.B., Mount S.M., Weiner A.M.;
+RT   "Pseudogenes for human small nuclear RNA U3 appear to arise by
+RT   integration of self-primed reverse transcripts of the RNA into new
+RT   chromosomal sites";
+RL   Cell 32, 461-472 (1983)
+RX   MEDLINE; 83129437.
+XX
+DR   GENBANK; K00777; 97.0.
+CC   Positions       1      73  Accession No K00777        GenBank (rel. 97.0)
+XX
+SQ   Sequence 73 BP; 20 A; 14 C; 15 G; 24 T; 0 other;
+     agactatact ttcagggatc atttctatag ttcgttacta gagaagtttc tctgactgtg        60
+     tagagcaccc gaa                                                           73
+//
+ID   U4B       repbase; RNA; RNA; 145 BP.
+CC   U4B uRNA
+XX
+AC   K00472;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human U4b small nuclear RNA (snRNA).
+XX
+KW   U4 small nuclear RNA; nuclear RNA; small nuclear RNA.
+XX
+OS   Homo sapiens
+CC   Human HeLa cell snRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-145
+RC   [1]  (bases 1 to 145)
+RA   Krol A., Branlant C., Lazar E., Gallinaro H., Jacob M.;
+RT   "Primary and secondary structures of chicken, rat and man nuclear U4
+RT   RNAs. Homologies with U1 and U5 RNAs";
+RL   Nucleic Acids Res. 9, 2699-2716 (1981)
+RX   MEDLINE; 82014865.
+XX
+DR   GENBANK; K00472; 97.0.
+CC   Positions       1     145  Accession No K00472        GenBank (rel. 97.0)
+XX
+SQ   Sequence 145 BP; 35 A; 33 C; 35 G; 41 T; 1 other;
+     nagctttgcg cagtggcagt atcgtagcca atgaggttta tccgaggcgc gattattgct        60
+     aattgaaaac ttttcccaat accccgccgt gacgacttgc aatatagtcg gcattggcaa       120
+     tttttgacag tctctacgga gactg                                             145
+//
+ID   U5B1      repbase; RNA; RNA; 116 BP.
+CC   U5B1 uRNA
+XX
+AC   K03167;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human U5 B1 small nuclear RNA, from Hela cells, complete.
+XX
+KW   Small nuclear RNA.
+XX
+OS   Homo sapiens
+CC   Human Hela cell uRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-116
+RC   [1]  (bases 1 to 116)
+RA   Branlant C., Krol A., Lazar E., Haendler B., Jacob M.,
+RA   Galego-Dias L., Pousada C.;
+RT   "High evolutionary conservation of the secondary structure and of
+RT   certain nucleotide sequences of U5 RNA";
+RL   Nucleic Acids Res. 11, 8359-8367 (1983)
+RX   MEDLINE; 84169483.
+XX
+DR   GENBANK; K03167; 97.0.
+CC   Positions       1     116  Accession No K03167        GenBank (rel. 97.0)
+XX
+SQ   Sequence 116 BP; 29 A; 28 C; 20 G; 39 T; 0 other;
+     atactctggt ttctcttcag atcgcataaa tctttcgcct tttactaaag atttccgtgg        60
+     agaggaacaa ctctgagtct taacccaatt ttttgagcct tgctccgaca aggcta           116
+//
+ID   U6        repbase; RNA; PRI; 107 BP.
+CC   U6 RNA
+XX
+AC   X59362;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   H.sapiens U6 snRNA.
+XX
+KW   small nuclear RNA; U6.
+XX
+OS   Homo sapiens (human)
+CC   human.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-107
+RC   [1]  (bases 1 to 107)
+RA   Hausner T.P., Giglio L.M., Weiner A.M.;
+RT   "Evidence for base-pairing between mammalian U2 and U6 small nuclear
+RT   ribonucleoprotein particles";
+RL   Genes Dev. 4 (12A), 2146-2156 (1990)
+RX   MEDLINE; 91099663.
+XX
+DR   GENBANK; X59362; 105.0.
+CC   Positions       1     107  Accession No X59362       GenBank (rel. 105.0)
+XX
+SQ   Sequence 107 BP; 32 A; 24 C; 25 G; 26 T; 0 other;
+     gtgctcgctt cggcagcaca tatactaaaa ttggaacgat acagagaaga ttagcatggc        60
+     ccctgcgcaa ggatgacacg caaattcgtg aagcgttcca tattttt                     107
+//
+ID   UHG       repbase; RNA; PRI; 1357 BP.
+CC   UHG RNA
+XX
+AC   L36587;
+XX
+DT   27-JAN-1997 (Rel. 1.0, Created)
+DT   27-JAN-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Homo sapiens spliced UHG RNA.
+XX
+KW   Small nucleolar RNA; repeat; pseudogene; retroposon.
+XX
+OS   Homo sapiens
+CC   Homo sapiens placenta cDNA to other RNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-1357
+RC   [1]  (bases 1 to 1357)
+RA   Tycowski K.T., Shu M.D., Steitz J.A.;
+RT   "Requirement for intron-encoded U22 small nucleolar RNA in 18S
+RT   ribosomal RNA maturation";
+RL   Science 266 (5190), 1558-1561 (1994)
+RX   MEDLINE; 95076276.
+XX
+CC   Contains Alu at positions 897-1021.
+XX
+DR   GENBANK; L36587; 96.0.
+CC   Positions       1    1357  Accession No L36587        GenBank (rel. 96.0)
+XX
+SQ   Sequence 1357 BP; 338 A; 302 C; 317 G; 400 T; 0 other;
+     gactggcgga taaggtcttg tgcgtggcct cgaggcttaa aagtagcagt ggggctttgt        60
+     gaaggacaaa atggcgatgg cgggccgtgt aggtccccct tcctatgatg aggacctttt       120
+     cacagacctg tactgagctc cgtgaggata agtaactctg aggagatggg ccctgcaagc       180
+     ctccttctta gccgtctgtt cagaaaatag cgttttcgaa atgccctgag ttgacctaat       240
+     gtcttattgg gctcctgtct gcaggattta cgcgcacgtt ggaaccgaag agagctctgt       300
+     tgttgcaatg ttcagcccac aagagcttac tggtgaagga atgggacaag acccatcttt       360
+     atgcaaagcc agcgttacag taatgttcca gcatctcata atctatcctg gggaattcag       420
+     ctgcctccca gggtgaatac aggtattcct gatgacagtc tgcctctatc ttacagagca       480
+     gcttgttgct atataccatt gaaaagcctt cagagctgag aggtactact aaccaataac       540
+     ctgcttggct caaagggcca gcaccttctc tctaaagccc aagaggagtt tgaggaaaac       600
+     taggtgtctg tgttcactcc aggctgaagt tacaggtctg agcaaataag gtgtataaaa       660
+     aatggaatct gtcttggagg acatcagaag gtgaattttc caagttcttg gacaacctag       720
+     ctgttgaaaa gctttctggg tttggggggt atttcagatg taccttaaag tgttagcaga       780
+     cacagattaa gacactggga gccaatgaaa cagcagttga gggtttgctg tgtatcacat       840
+     ttctgtattt tatcaccccc ttcctgcaac attatttatc tggaatctac ctgccctttt       900
+     gttttttaga tacaagggct tggttttgtt acccaggctg gtttcaaggc catagcttta       960
+     agagatcctc tcaccacaga tttccaaagt gctgggattg caggtgtgat tcatggcacc      1020
+     cagactttgc tgcctttctt acatgatcca ggcccagaac ccaaactcag gcactgtata      1080
+     gatgaccact ttcgtaaact actgacctag cttgttgcca attgttgatt gaacttccca      1140
+     taactccact tcgtgtctgt tcctctgtat acagccacct tctgttcccg tcatgagcct      1200
+     ttaggtctcc atttgcatat tgcaaatact atgttccatg taggtagctc attcagggcc      1260
+     ttgctcttca cttcaaaaaa ggttcccttg aggactggct gtcaatttgt gttgctgtgt      1320
+     tggttgttga tgaaaataat aaaatgattg attacat                               1357
+//
+ID   L7        repbase; RNA; PRI; 810 BP.
+CC   L7 mRNA
+XX
+AC   L16558;
+XX
+DT   04-SEP-1998 (Rel. 1.0, Created)
+DT   04-SEP-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human ribosomal protein L7 (RPL7) mRNA, complete cds.
+XX
+KW   ribosomal protein L7; HUMRPL7Y; L7.
+XX
+OS   Homo sapiens
+CC   Homo sapiens cDNA to mRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-810
+RC   [1]  (bases 1 to 810)
+RA   Seshadri T., Uzman J.A., Oshima J., Campisi J.;
+RT   "Identification of a transcript that is down-regulated in senescent
+RT   human fibroblasts: Cloning, sequence analysis and regulation of the
+RT   human L7 ribosomal protein gene";
+RL   J. Biol. Chem. 268, 18474-18480 (1993)
+RX   MEDLINE; 93366745.
+XX
+DR   GENBANK; L16558; 107.0.
+CC   Positions       1     810  Accession No L16558       GenBank (rel. 107.0)
+XX
+SQ   Sequence 810 BP; 267 A; 146 C; 199 G; 198 T; 0 other;
+     atggagggtg tagaagagaa gaagaaggag gttcctgctg tgccagaaac ccttaagaaa        60
+     aagcgaagga atttcgcaga gctgaagatc aagcgcctga gaaagaagtt tgcccaaaag       120
+     atgcttcgaa aggcaaggag gaagcttatc tatgaaaaag caaagcacta tcacaaggaa       180
+     tataggcaga tgtacagaac tgaaattcga atggcgagga tggcaagaaa agctggcaac       240
+     ttctatgtac ctgcagaacc caaattggcg tttgtcatca gaatcagagg tatcaatgga       300
+     gtgagcccaa aggttcgaaa ggtgttgcag cttcttcgcc ttcgtcaaat cttcaatgga       360
+     acctttgtga agctcaacaa ggcttcgatt aacatgctga ggattgtaga gccatatatt       420
+     gcatgggggt accccaatct gaagtcagta aatgaactaa tctacaagcg tggttatggc       480
+     aaaatcaata agaagcgaat tgctttgaca gataactctt tgattgctcg atctcttggt       540
+     aaatacggca tcatctgcat ggaggatttg attcatgaga tctatactgt tggaaaacgc       600
+     ttcaaagagg caaataactt cctgtggccc ttcaaattgt cttctccacg aggtggaatg       660
+     aagaaaaaga ccacccattt tgtagaaggt ggagatgctg gcaacaggga ggaccagatc       720
+     aacaggctta ttagaagaat gaactaaggt gtctaccatg attatttttc taagctggtt       780
+     ggttaataaa cagtacctgc tctcaaattg                                        810
+//
+ID   XBR       repbase; DNA; PRI; 303 BP.
+CC   XBR DNA
+XX
+AC   M16110;
+XX
+DT   10-OCT-1998 (Rel. 1.0, Created)
+DT   10-OCT-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Xba repetitive element copy A, from human alpha-fetoprotein gene.
+XX
+KW   Repetitive sequence.
+XX
+OS   Homo Sapiens
+CC   Human DNA, library of T.Maniatis, clones lambda-HAFP[26,33].
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Mammalia;
+OC   Theria; Eutheria; Primates; Haplorhini; Catarrhini; Hominidae.
+XX
+RN   [1]
+RP   1-303
+RC   [1]  (bases 1 TO 22166)
+RA   Gibbs P.E., Zielinski R., Boyd C., Dugaiczyk A.;
+RT   "Structure, polymorphism and novel repeated DNA elements revealed
+RT   by a complete sequence of the human a-fetoprotein gene";
+RL   Biochemistry 26, 1332-1343 (1987)
+XX
+CC   Not confirmed as repeat.
+XX
+DR   GENBANK; M16110; 78.0.
+CC   Positions   11548   11850  Accession No M16110        GenBank (rel. 78.0)
+XX
+SQ   Sequence 303 BP; 102 A; 45 C; 47 G; 109 T; 0 other;
+     aattgatagg tcacgttctc actctatttg cctttaaggg aagaaagcaa tcaagttaat        60
+     atgttttcct tcattgtata gtatgtaact acggacacta ttagaggagg gatttgtgta       120
+     gcacttagga cattatactt gataatttcc aagggtcttt ctagatttaa aagtctgatt       180
+     ctaacgtagt aataaaaata aaggcccaat tttctcttta atattgcctg aagatattac       240
+     tctattattg cattaaaatt aaacattcac acattgtttg cactgctaaa taaaattatg       300
+     taa                                                                     303
+//
+ID   XTR       repbase; DNA; PRI; 101 BP.
+CC   XTR DNA
+XX
+AC   M16110;
+XX
+DT   10-OCT-1998 (Rel. 1.0, Created)
+DT   10-OCT-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Repetitive element X-2 from human alpha-fetoprotein gene.
+XX
+KW   Repetitive sequence.
+XX
+OS   Homo Sapiens
+CC   Human DNA, library of T.Maniatis, clones lambda-HAFP[26,33].
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Mammalia;
+OC   Theria; Eutheria; Primates; Haplorhini; Catarrhini; Hominidae.
+XX
+RN   [1]
+RP   1-101
+RC   [1]  (bases 1 To 22166)
+RA   Gibbs P.E., Zielinski R., Boyd C., Dugaiczyk A.;
+RT   "Structure, polymorphism and novel repeated DNA elements revealed
+RT   by a complete sequence of the human a-fetoprotein gene";
+RL   Biochemistry 26, 1332-1343 (1987)
+XX
+CC   Not confirmed as repeat.
+XX
+DR   GENBANK; M16110; 78.0.
+CC   Positions     564     664  Accession No M16110        GenBank (rel. 78.0)
+XX
+SQ   Sequence 101 BP; 36 A; 8 C; 18 G; 39 T; 0 other;
+     ttaatttgag agaaattaat tattctgcaa cttagggaca agtcatgtct ttgaatattc        60
+     tgtagtttga ggagaatatt tgttatattt gcaaaataaa a                           101
+//
+ID   7SK       repbase; DNA; PRI; 193 BP.
+CC   7SK DNA
+XX
+AC   M14397;
+XX
+DT   10-OCT-1998 (Rel. 1.0, Created)
+DT   10-OCT-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human family A3 repeated element DNA; 7SK RNA pseudogene.
+XX
+KW   7SK, Pseudogene.
+XX
+OS   Homo sapiens
+CC   Human fetal liver DNA.
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Mammalia;
+OC   Theria; Eutheria; Primates; Haplorhini; Catarrhini; Hominidae.
+XX
+RN   [1]
+RP   1-193
+RC   [1]  (bases 1 to 513)
+RA   Humphries P., Maccabe A.P., Spencer R.A., Humphries M.M., Pearson C.;
+RT   "Structural and transcriptional properties associated with a member of
+RT   a new family of conserved short dispersed repeated elements in
+RT   human DNA";
+RL   Gene 39, 255-261 (1985)
+XX
+DR   GENBANK; M14397; 78.0.
+CC   Positions     189     381  Accession No M14397        GenBank (rel. 78.0)
+XX
+SQ   Sequence 193 BP; 34 A; 59 C; 51 G; 49 T; 0 other;
+     gatgtgaggg caatctggct gcgacatctg tccccactga ttaccagggt tgattcggct        60
+     gatctggctg gctaggcggg tctcctcttc ctccctcagc cctccatgtg tgtacctcct       120
+     gaagcggact ggtcttcagt caagggtaga cgagtagctg tgctcccctg ctagaacctc       180
+     caaacaagct ctc                                                          193
+//
+ID   L32       repbase; DNA; ROD; 408 BP.
+CC   L32 DNA
+XX
+AC   K02061;
+XX
+DT   10-OCT-1998 (Rel. 1.0, Created)
+DT   10-OCT-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Mouse ribosomal protein pseudogene rpL32-4A coding for L32.
+XX
+KW   pseudogene; ribosomal protein; L32.
+XX
+OS   Mus musculus
+CC   Mouse (BALB/c) sperm DNA, clone rpL32-4A.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Rodentia; Sciurognathi; Myomorpha; Muridae;
+OC   Murinae; Mus.
+XX
+RN   [1]
+RP   1-408
+RC   [1]  (bases 1 to 706)
+RA   Dudov K.P., Perry R.P.;
+RT   "The gene family encoding the mouse ribosomal protein L32 contains a
+RT   uniquely expressed intron-containing gene and an unmutated
+RT   processed gene";
+RL   Cell 37, 457-468 (1984)
+RX   MEDLINE; 84205680.
+XX
+DR   GENBANK; K02061; 105.0.
+CC   Positions    113     520  Accession No K02061       GenBank (rel. 105.0)
+XX
+SQ   Sequence 408 BP; 128 A; 103 C; 107 G; 70 T; 0 other;
+     atggctgccc tccggcctct ggtgaagccc aagatcgtca aaaagaggac caagaagttc        60
+     atcaggcacc agtcagaccg atatgtgaaa attaagcgaa actggcggaa acccagaggc       120
+     attgacaaca gggtgcggag aaggttcaag ggccagatcc tgatgcccaa catcggttat       180
+     gggagcaaca agaaaaccaa gcacatgctg cccagcggct tccgcaagtt cctggtccac       240
+     aatgtcaagg agctggaggt gctgctgatg tgcaacaaat cttactgtgc tgagattgct       300
+     cacaatgtgt cctctaagaa ccgaaaagcc attgtagaaa gagcagcaca gctggccatc       360
+     agagtcacca atcccaacgc caggctacgc agcgaagaaa atgaatag                    408
+//
+ID   L7A       repbase; RNA; PRI; 860 BP.
+CC   L7A mRNA
+XX
+AC   M36072;
+XX
+DT   06-MAY-1998 (Rel. 1.0, Created)
+DT   06-MAY-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human ribosomal protein L7a (surf 3) large subunit mRNA.
+XX
+KW   ribosomal protein.
+XX
+OS   Homo sapiens
+CC   Human fibroblast cell line GM2096(SV-9), cDNA to mRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-860
+RC   [1]  (bases 1 to 860)
+RA   Ben-Ishai R., Scharf R., Sharon R., Kapten I.;
+RT   "A human cellular sequence implicated in trk oncogene activation is
+RT   DNA damage inducible";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87 (16), 6039-6043 (1990)
+RX   MEDLINE; 90349550.
+XX
+DR   GENBANK; M36072; 109.0.
+CC   Positions      32     891  Accession No M36072       GenBank (rel. 109.0)
+XX
+SQ   Sequence 860 BP; 250 A; 224 C; 235 G; 182 T; 0 other;
+     atgccgaaag gaaagaaggc caagggaaag aaggtggctc cggccccagc tgtcgtgaag        60
+     aagcaggagg ctaagaaagt ggtgaatccc ctgtttgaga aaaggcctaa gaattttggc       120
+     attggacagg acatccagcc caaaagagac ctcacccgct ttgtgaaatg gccccgctat       180
+     atcaggttgc agcggcagag agccatcctc tataagcggc tgaaagtgcc tcctgcgatt       240
+     aaccagttca cccaggccct ggaccgccaa acagctactc agctgcttaa gctggcccac       300
+     aagtacagac cagagacaaa gcaagagaag aagcagagac tgttggcccg ggccgagaag       360
+     aaggctgctg gcaaagggga cgtcccaacg aagagaccac ctgtccttcg agcaggagtt       420
+     aacaccgtca ccaccttggt ggagaacaag aaagctcagc tggtggtgat tgcacacgac       480
+     gtggatccca tcgagctggt tgtcttcttg cctgccctgt gtcgtaaaat gggggtccct       540
+     tactgcatta tcaagggaaa ggcaagactg ggacgtctag tccacaggaa gacctgcacc       600
+     actgtcgcct tcacacaggt gaactcggaa gacaaaggcg ctttggctaa gctggtggaa       660
+     gctatcagga ccaattacaa tgacagatac gatgagatcc gccgtcactg gggtggcaat       720
+     gtcctgggtc ctaagtctgt ggctcgtatc gccaagctcg aaaaggcaaa ggctaaagaa       780
+     cttgccacta aactgggtta aatgtacact gttgagtttt ctgtacataa aaataattga       840
+     aataatacaa attttccttc                                                   860
+//
+ID   L23A      repbase; DNA; PSE; 471 BP.
+CC   L23A DNA
+XX
+AC   AF001689;
+XX
+DT   13-JAN-2000 (Rel. 1.0, Created)
+DT   13-JAN-2000 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Ribosomal protein L23A (protein coding region only).
+XX
+KW   L23A.
+XX
+OS   Homo sapiens (human)
+CC   human.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+OC   Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-471
+RC   [1]  (bases 1 to 471)
+RA   Fan W., Christensen M., Eichler E., Zhang X., Lennon G.;
+RT   "Cloning, sequencing, gene organization, and localization of the
+RT   human ribosomal protein RPL23A gene";
+RL   Genomics 46 (2), 234-239 (1997)
+RX   MEDLINE; 98086480.
+XX
+RN   [2]
+RP   1-471
+RC   [2]  (bases 1 to 471)
+RA   Fan W.;
+RT   "Direct Submission";
+RL   Submitted (29-APR-1997) Human Genome Center, LLNL, 7000 East
+RL   Avenue, Livermore, CA 94551, USA
+XX
+DR   GENBANK; AF001689; 114.0.
+CC   Positions    695     719  Accession No AF001689      GenBank (rel. 114.0)
+DR   GENBANK; AF001689; 114.0.
+CC   Positions   1393    1576  Accession No AF001689      GenBank (rel. 114.0)
+DR   GENBANK; AF001689; 114.0.
+CC   Positions   2437    2613  Accession No AF001689      GenBank (rel. 114.0)
+DR   GENBANK; AF001689; 114.0.
+CC   Positions   3288    3357  Accession No AF001689      GenBank (rel. 114.0)
+DR   GENBANK; AF001689; 114.0.
+CC   Positions   3582    3596  Accession No AF001689      GenBank (rel. 114.0)
+XX
+SQ   Sequence 471 BP; 149 A; 116 C; 117 G; 89 T; 0 other;
+     atggcgccga aagcgaagaa ggaagctcct gcccctccta aagctgaagc caaagcgaag        60
+     gctttaaagg ccaagaaggc agtgttgaaa ggtgtccaca gccacaaaaa gaagaagatc       120
+     cgcacgtcac ccaccttccg gcggccgaag acactgcgac tccggagaca gcccaaatat       180
+     cctcggaaga gcgctcccag gagaaacaag cttgaccact atgctatcat caagtttccg       240
+     ctgaccactg agtctgccat gaagaagata gaagacaaca acacacttgt gttcattgtg       300
+     gatgttaaag ccaacaagca ccagattaaa caggctgtga agaagctgta tgacattgat       360
+     gtggccaagg tcaacaccct gattcggcct gatggagaga agaaggcata tgttcgactg       420
+     gctcctgatt acgatgcttt ggatgttgcc aacaaaattg ggatcatcta a                471
+//
+ID   L10       repbase; RNA; PSE; 769 BP.
+CC   L10 mRNA
+XX
+AC   X87106;
+XX
+DT   07-FEB-2000 (Rel. 1.0, Created)
+DT   07-FEB-2000 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   R.norvegicus mRNA for ribosomal protein L10.
+XX
+KW   ribosomal protein L10.
+XX
+OS   Rattus norvegicus
+CC   Norway rat.
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Eutheria;
+OC   Rodentia; Sciurognathi; Muridae; Murinae; Rattus.
+XX
+RN   [1]
+RP   1-769
+RC   [1]  (bases 1 to 769)
+RA   Chan Y.L., Diaz J.J., Denoroy L., Madjar J.J., Wool I.G.;
+RT   "The primary structure of rat ribosomal protein L10: relationship to
+RT   a Jun-binding protein and to a putative Wilm's tumor suppressor";
+RL   Biochem. Biophys. Res. Commun. 255, 952-956 (1996)
+XX
+RN   [2]
+RP   1-769
+RC   [2]  (bases 1 to 769)
+RA   Chan Y.;
+RT   "Direct Submission";
+RL   Submitted (09-MAY-1995) Y. Chan, University of Chicago, 920 East
+RL   58th Street, Chicago Illinois 60637, USA
+XX
+DR   GENBANK; X87106; 114.0.
+CC   Positions      1     769  Accession No X87106        GenBank (rel. 114.0)
+XX
+SQ   Sequence 769 BP; 187 A; 188 C; 197 G; 197 T; 0 other;
+     tcaggcctgg gagcgtctct tttcctctgg caccccatcg acgatcctag ttgtcatcat        60
+     gggccgccgc cccgcccggt gttatcgcta ttgtaagaac aagccatacc caaagtctcg       120
+     tttctgtcgt ggtgtccctg atgctaagat ccgcatcttt gacttgggac ggaagaaagc       180
+     aaaagtggat gaatttccac tttgtggcca catggtgtca gatgaatatg aacaactctc       240
+     ttctgaagct ctggaggctg ctcgtatttg tgccaacaaa tacatggtaa agagttgtgg       300
+     caaggatggc tttcatatcc gggtgaggct ccaccctttc catgtcatcc gtatcaacaa       360
+     gatgttgtcc tgtgctgggg ctgacaggct ccagacaggt atgcgtggtg cctttgggaa       420
+     accccagggg acagtagcca gggttcacat tggccaagtc atcatgtcta tccgaaccaa       480
+     gctgcagaat aaggaacatg tgattgaggc tctgcgcagg gccaagttca agttccctgg       540
+     ccggcagaag atccacatct caaagaaatg gggttttacc aagttcaatg cagatgaatt       600
+     tgaagacatg gttgctgaga agcggctcat tcctgatggc tgtggtgtca aatatatccc       660
+     caatcgtggt cctcttgaca agtggagagc cctgcattcc tgaaggcttc cacagtgcgc       720
+     tcctatgcgc tatcaaatga ggttcaataa taaagtctcg cgttcaaaa                   769
+//
+ID   CYCLO     repbase; DNA; PRI; 753 BP.
+CC   CYCLO DNA
+XX
+AC   ;
+XX
+DT   18-SEP-2000 (Rel. 1.0, Created)
+DT   18-SEP-2000 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Cyclophilin-related retropseudogene (a consensus).
+XX
+KW   CYCLO.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-753
+RC   [1] (bases 1 to 753)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (September 2000)
+XX
+CC   Present in multiple copies of different age.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 753 BP; 189 A; 181 C; 181 G; 202 T; 0 other;
+     gctttgcaga gccaccgccg ccgggagccc tgtactatca gccatggtca accccaccgt        60
+     gttcttcgac attgccgtcg acggcgagcc cttgggccgc gtctccttcg agctgtttgc       120
+     agacaagatt ccaaagacag cagaaaattt cgtgctctga gcactggaga gaaaggattt       180
+     ggttataagg gttcctgctt tcacagaatt attccagggt ttatgtgtca gggtggtgac       240
+     ttcacacgcc ataatggcac tggtggcaag tccatctacg gggagaaatt tgatgatgag       300
+     aacttcatcc taaagcatac aggtcctggc atcttgtcca tggcaaatgc tggacccaac       360
+     acaaatggtt cccagttttt catctgcact gccaagactg agtggttgga tggcaagcat       420
+     gtggtctttg gcaaggtgaa agaaggcatg aatattgtgg aggccatgga gcgctttggg       480
+     tccaggaatg gcaagaccag caagaagatc accattgctg actgtggaca actctaataa       540
+     gtttgacttg tgttttatct taaccaccag accattcctt ctgtagctca ggagagcacc       600
+     cctccacccc atttgctcgc agtatcctag aatctttgtg ctctcgctgc agttcccttt       660
+     gggttccatg ttttccttgt tcccttccat gcctagctgg attgcagagt taagtttatg       720
+     attatgaaat aaaaactaaa taacaacaaa aaa                                    753
+//
+ID   L31       repbase; DNA; PSEUD; 442 BP.
+CC   L31 DNA
+XX
+AC   ;
+XX
+DT   20-OCT-2000 (Rel. 1.0, Created)
+DT   20-OCT-2000 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   A consensus sequence of mammalian ribosomal protein L31.
+XX
+KW   L31; retropseudogenes.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-442
+RC   [1]
+RA   Tanaka T., Kuwano Y., Kuzumaki T., Ishikawa K., Ogata K.;
+RT   "Nucleotide sequence of cloned cDNA specific for rat ribosomal
+RT   protein L31";
+RL   Eur. J. Biochem. 162 (1), 45-48 (1987)
+XX
+RN   [2]
+RP   1-442
+RC   [2]
+RA   Chester K.A., Robson L., Begent R.H., Talbot I.C., Pringle J.H.,
+RA   Primrose L., Macpherson A.J., Boxer G., Southall P.,
+RA   Malcolm A.D.;
+RT   "Identification of a human ribosomal protein mRNA with increased
+RT   expression in colorectal tumours";
+RL   Biochim. Biophys. Acta 1009 (3), 297-300 (1989)
+XX
+RN   [3]
+RP   1-442
+RC   [3]
+RA   Nobori T., Hexdall L.E., Carson D.A.;
+RT   "cDNA sequence of human ribosomal protein L31";
+RL   Nucleic Acids Res. 17 (17), 7105 (1989)
+XX
+RN   [4]
+RP   1-442
+RC   [4] (bases 1 to 442)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (October 2000)
+XX
+CC   [4] (Consensus)
+XX
+SQ   Sequence 442 BP; 142 A; 102 C; 103 G; 95 T; 0 other;
+     ttcctttcca acttgggccc agcagaatgg ctcccgcaaa gaagggtggc gagaagaaaa        60
+     agggccgttc tgccatcaac gaggtggtga cccgagaata caccatcaac attcacaagc       120
+     gcatccatgg agtgggcttc aagaagcgtg cccctcgggc actcaaagag atccggaaat       180
+     ttgccatgaa ggagatggga actccagatg tgcgcattga taccaggctc aacaaagctg       240
+     tctgggccaa aggaataagg aatgtcccat accgtatccg tgtgcggttg tccagaaaac       300
+     gtaatgagga tgaagattca ccaaataagc tctatacttt ggttacctat gtacctgtta       360
+     ccactttcaa aaatctacag acagtcaatg tggatgagaa ctaaccgctg atcatcaaat       420
+     acatcaaata aagttataaa at                                                442
+//
+ID   U13       repbase; RNA; PSE; 112 BP.
+CC   U13 snRNA
+XX
+AC   ;
+XX
+DT   26-FEB-2001 (Rel. 1.1, Created)
+DT   26-FEB-2001 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   H.sapiens U13 snRNA pseudogene - a consensus.
+XX
+KW   class III pseudogenes; U13 snRNA pseudogenes; U13.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Eutheria;
+OC   Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-112
+RC   [1]
+RA   Baserga S.J., Yang X.D., Steitz J.A.;
+RT   "Three pseudogenes for human U13 snRNA belong to class III";
+RL   Gene 107 (2), 347-348 (1991)
+XX
+CC   Present in a few hundred of copies. Consensus by J. Jurka.
+XX
+CC   [1] 
+XX
+SQ   Sequence 112 BP; 26 A; 24 C; 25 G; 34 T; 3 other;
+     gatccttttg tagttcatra gcgtgatgat tgggtgttca tgtgcatgtg tgagatgtgc        60
+     caccctcraa ccttgttacg acatcggcac attacccrtc tgacatgaaa aa               112
+//
+ID   L23       repbase; DNA; PSE; 1310 BP.
+CC   L23 DNA
+XX
+AC   ;
+XX
+DT   17-APR-2001 (Rel. 1.1, Created)
+DT   17-APR-2001 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   Human ribosomal L23 protein-encoding sequence: a consensus.
+XX
+KW   L23.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+OC   Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-1310
+RC   [1] (bases 1 to 1310)
+RA   Jurka J.;
+RT   ".";
+RL   Direct submission (April 2001)
+XX
+CC   Matches a number of diverse L23 retropseudogenes.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 1310 BP; 346 A; 323 C; 383 G; 252 T; 6 other;
+     gctctaccgg caggatttga tggcgtgatg tctcacagaa agttctccgc tcccagacat        60
+     gggtccctcg gcttcctgcc tcggaagcgc agcagcaggc atcgtgggaa ggtgaagagc       120
+     ttccctaagg atgacccgtc caagccggtc cacctcacag ccttcctggg atacaaggct       180
+     ggcatgacyc acatcgtgcg ggaagtcgac aggccgggat ccaaggtgaa caagaaggag       240
+     gtggtggagg ctgtgaccat tgtrgagacg ccacccatgg tggttgtggg cattgtgggc       300
+     tacgtggaaa cccctcgagg cctccggacc ttcaagactg tctttgctga gcacatcagt       360
+     gatgaatgca agaggcgttt ctataagaac tggcataaat ctaagaagaa ggcctttacc       420
+     aagtactgca agaaatggca ggatgaggat ggcaagaagc agctggagaa ggacttcagc       480
+     agcatgaaga agtactgcca agtcatccgc gtcattgccc acacccagat gcgcctgctt       540
+     cctctgcgcc agaagaaggc ccacctgatg gagatccagg tgaacggagg cactgtggct       600
+     gagaagctgg actgggcccg cgagaggctc gagcagcagg tacctgtgaa ccaagtgttt       660
+     gggcaggatg agatgatcga cgtcatcggg gtgaccaagg gcaaaggcta caaaggggtc       720
+     accagtcgtt ggcacaccaa gaagctgccc cgcaagaccc accraggcct gygcaaggtg       780
+     gcctgtattg gggcatggca tcctgctcgt gtggscttct ctgtggcacg tgctgggcag       840
+     aaaggctacc atcaccgcac tgagatcaac aagaagatct ataagattgg ccagggctac       900
+     cttatcaagg acggcaagct gatcaagaac aatgcctcca ctgactatga cctgtctgac       960
+     aagagcatca accctctggg tggctttgtc cactatggtg aagtgaccaa tgactttgtc      1020
+     atgctgaaag gctgtgtggt gggaaccaag aagcgggtgc tcaccctccg caagtccttg      1080
+     ctggtgcaga cgaagcggcg ggctctggag aagattgacc ttaagttcat tgacaccacc      1140
+     tccaagtttg gccatggccg cttccagacc atggaggaga agaaagcatt catgggacca      1200
+     ctcaagaaag accgaattgc aaaggaagaa ggagcttaat gccaggaaca gattttgcag      1260
+     ctggtggggt ctcaataaaa gttattttcc actgaaaaaa aaaaanaaaa                 1310
+//
+ID   L37       repbase; DNA; PSE; 367 BP.
+CC   L37 DNA
+XX
+AC   ;
+XX
+DT   17-APR-2001 (Rel. 1.1, Created)
+DT   17-APR-2001 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   DNA sequence of ribosomal protein L37 - a consensus.
+XX
+KW   HUMRPL37; HUMRPL37Z; S79979; L37.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Eutheria;
+OC   Primates; Catarrhini; Hominidae; Homo.   
+XX
+RN   [1]
+RP   1-367
+RC   [1]
+RA   Kato S.;
+RT   "Cloning of human ribosomal protein L37 cDNA";
+RL   Unpublished (1994)
+RL   Submitted (02-NOV-1993) to the DDBJ/EMBL/GenBank databases
+XX
+RN   [2]
+RP   1-367
+RC   [2]
+RA   Barnard G.F., Staniunas R.J., Puder M., Steele G.D. Jr.,
+RA   Chen L.B.;
+RT   "Human ribosomal protein L37 has motifs predicting serine/threonine
+RT   phosphorylation and a zinc-finger domain";
+RL   Biochim. Biophys. Acta 1218 (3), 425-428 (1994)
+XX
+RN   [3]
+RP   1-367
+RC   [3]
+RA   Su S., Bird R.C.;
+RT   "Cell cycle, differentiation and tissue-independent expression of
+RT   ribosomal protein L37";
+RL   Eur. J. Biochem. 232 (3), 789-797 (1995)
+XX
+RN   [4]
+RP   1-367
+RC   [4] (bases 1 to 367)
+RA   Jurka J.;
+RT   ".";
+RL   Direct submission (April 2001)
+XX
+CC   based primarily on loci D23661, L11567, S79979 except of
+CC   G(206) amd T(325) prevalent in retropseudogenes.
+XX
+CC   [4] (Consensus)
+XX
+SQ   Sequence 367 BP; 112 A; 85 C; 92 G; 78 T; 0 other;
+     tttctggtct cggccgcaga agcgagatga cgaagggaac gtcatcgttt ggaaagcgtc        60
+     gcaataagac gcacacgttg tgccgccgct gtggctctaa ggcctaccac cttcagaagt       120
+     cgacctgtgg caaatgtggc taccctgcca agcgcaagag aaagtataac tggagtgcca       180
+     aggctaaaag acgaaatacc accgggactg gtcgaatgag gcacctaaaa attgtatacc       240
+     gcagattcag gcatggattc cgtgaaggaa caacacctaa acccaagagg gcagctgttg       300
+     cagcatccag ttcatcttaa gaatttcaac gattagtcat gcaataaatg ttctggtttt       360
+     aaaaaat                                                                 367
+//
+ID   Y4        repbase; DNA; PSE; 107 BP.
+CC   Y4 DNA
+XX
+AC   ;
+XX
+DT   26-APR-2001 (Rel. 1.1, Created)
+DT   26-APR-2001 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   Human small cytoplasmic Y RNA (Y4) DNA sequence - a consensus.
+XX
+KW   Y4.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-107
+RC   [1]
+RA   O'Brien C.A., Harley J.B.;
+RT   "Association of hY4 pseudogenes with Alu repeats and abundance 
+RT   of hY RNA-like sequences in the human genome";
+RL   Gene 116 (2), 285-289 (1992)
+XX
+RN   [2]
+RP   1-107
+RC   [2]
+RA   Maraia R.J., Sasaki-Tozawa N., Driscoll C.T., Green E.D.,
+RA   Darlington G.J.;
+RT   "The human Y4 small cytoplasmic RNA gene is controlled by upstream
+RT   elements and resides on chromosome 7 with all other hY scRNA genes";
+RL   Nucleic Acids Res. 22 (15), 3045-3052 (1994)
+XX
+RN   [3]
+RP   1-107
+RC   [3] (bases 1 to 107)
+RA   Jurka J.;
+RT   ".";
+RL   Direct submission (April 2001)
+XX
+CC   Present in over 100 copies in the genome.
+XX
+CC   [3] (Consensus)
+XX
+SQ   Sequence 107 BP; 38 A; 19 C; 21 G; 29 T; 0 other;
+     ggctggtccg atggtagtgg gttatcagaa cttattaaca ttagtgtcac taaagttggt        60
+     atacaacccc ccactgctaa atttgactgg cttaaaaaaa aaaaaaa                     107
+//
+ID   HY3       repbase; DNA; PSE; 95 BP.
+CC   HY3 DNA
+XX
+AC   ;
+XX
+DT   04-MAY-2001 (Rel. 1.1, Created)
+DT   04-MAY-2001 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   Ro(hY3) pseudogene - a consensus.
+XX
+KW   Ro, hY3; pseudogene; repetitive element.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Mammalia;
+OC   Eutheria; Eutheria; Primates; Haplorhini; Catarrhini; Hominidae.
+XX
+RN   [1]
+RP   1-95
+RC   [1]
+RA   Wolin S.A., Steitz J.A.;
+RT   "Genes for two small cytoplasmic Ro RNAs are adjacent and appear to
+RT   be single-copy in the human genome";
+RL   Cell 32(3), 735-744 (1983)
+XX
+RN   [2]
+RP   1-95
+RC   [2]
+RA   Landsman D., McBride O.W., Soares N., Crippa M.P., Srikantha T.,
+RA   Bustin M.;
+RT   "Chromosomal protein HMG-14: Identification, characterization, and
+RT   localization of a functional gene from the large human multigene
+RT   family";
+RL   J. Biol. Chem. 264, 3421-3427 (1988)
+XX
+RN   [3]
+RP   1-95
+RC   [3]
+RA   Jurka J., Walichiewicz J., Milosavljevic A.;
+RT   "Prototypic sequences for human repetitive DNA";
+RL   J. Mol. Evol. 35, 286-291 (1992)
+XX
+RN   [4]
+RP   1-95
+RC   [4]
+RA   Jurka J.
+RT   ;
+RL   Direct submission (1995)
+XX
+CC   [4] (Consensus)
+XX
+SQ   Sequence 95 BP; 32 A; 17 C; 24 G; 20 T; 2 other;
+     ggctggttgg agtgcagcgn tgtttacaac taattgatca caaccagtta caaatttctt        60
+     tgttccttct ccactcccgc tgcttcantt gacta                                   95
+//
+ID   HY1_SINE  repbase; DNA; HUM; 129 BP.
+CC   HY1_SINE DNA
+XX
+AC   ;
+XX
+DT   04-MAY-2001 (Rel. 1.1, Created)
+DT   04-MAY-2001 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   SINE-like element derived from HY1 scRNA - a consensus.
+XX
+KW   Ro RNA; ribonucleoprotein; small cytoplasmic RNA; HY1_SINE.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+OC   Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-129
+RC   [1]
+RA   Wolin S.L., Steitz J.A.;
+RT   "The Ro small cytoplasmic ribonucleoproteins: Identification of the
+RT   antigenic protein and its binding site on the Ro RNAs";
+RL   Proc. Natl. Acad. Sci. U.S.A. 81, 1996-2000 (1984)
+XX
+RN   [2]
+RP   1-129
+RC   [2] (bases 1 to 129)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (August 24, 2000)
+XX
+CC   There are two subfamilies in this sine-like family. One almost identical
+CC   to HY1 RNA and the other one with slightly different consensus sequence
+CC   included here. Similarity to consensus averages around 88%. Some copies
+CC   are flanked by direct repeats similar to those in other retroposons.
+CC   HY1_SINE is an example of a relatively recent birth of SINE elements
+CC   in primates.
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 129 BP; 37 A; 31 C; 20 G; 40 T; 1 other;
+     ggaaaactcg gctggtctga aggtagtgag ttatctcaay tgattgttca cagtcagtta        60
+     cagatcaaac tccttgttct actctttccc cccttctcac tactgcactt gactaatctt       120
+     aaaaaaaaa                                                               129
+//

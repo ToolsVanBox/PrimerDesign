@@ -1,0 +1,262 @@
+CC ****************************************************************
+CC                                                                *
+CC   REPBASE UPDATE                                               *
+CC   (C) 1997-2002  Genetic Information Research Institute        *
+CC   All rights reserved                                          *
+CC                                                                *
+CC   A REFERENCE COLLECTION OF MAMMALIAN REPETITIVE SUBFAMILIES   *
+CC                                                                *
+CC*****************************************************************
+XX
+ID   SINE_FB   repbase; DNA; MAM; 188 BP.
+CC   SINE_FB DNA
+XX
+AC   AF221612;
+XX
+CC   VERSION     AF221612.1  GI:9828179
+XX
+DE   Felis bieti SINE element in Zfy gene, complete sequence.
+XX
+KW   SINE_FB.
+XX
+OS   Felis bieti
+CC   Chinese desert cat.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Carnivora; Fissipedia; Felidae; Felis.
+XX
+RN   [1]
+RP   1-188
+RC   [1]  (bases 1 to 188)
+RA   Slattery J.P., Murphy W.J., O'Brien S.J.;
+RT   "Patterns of diversity among SINE elements isolated from three
+RT   Y-chromosome genes in carnivores";
+RL   Mol. Biol. Evol. 17 (5), 825-829 (2000)
+RX   MEDLINE; 20243655.
+XX
+RN   [2]
+RP   1-188
+RC   [2]  (bases 1 to 188)
+RA   Pecon Slattery J., Murphy W.J., O'Brien S.J.;
+RT   "Direct Submission to Genbank";
+RL   Submitted (06-JAN-2000) Laboratory of Genomic Diversity, Frederick
+RL   Cancer and Research Development Center, Frederick, MD 21702, USA
+XX
+DR   GENBANK; AF221612; 128.0.
+CC   Positions       1     188  Accession No AF221612     GenBank (rel. 128.0)
+XX
+SQ   Sequence 188 BP; 20 A; 64 C; 54 G; 50 T; 0 other;
+     gggcgcctgg gtggtgcagt cggttaagcg tccgacttca gccaggtcac gatctcgcgg        60
+     tctgggagtt cgagccccgc gtcaggctct gggctgatgg ctcggagcct ggagcctgtt       120
+     tccgattctg tgtctccctc tctctctgcc cctcccccgt tcatgctctg tctctctctg       180
+     tcccaaaa                                                                188
+//
+ID   SINE_FM   repbase; DNA; MAM; 188 BP.
+CC   SINE_FM DNA
+XX
+AC   AF221614;
+XX
+CC   VERSION     AF221614.1  GI:9828181
+XX
+DE   Felis margarita SINE element in Zfy gene, complete sequence.
+XX
+KW   SINE_FM.
+XX
+OS   Felis margarita
+CC   sand cat.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Carnivora; Fissipedia; Felidae; Felis.
+XX
+RN   [1]
+RP   1-188
+RC   [1]  (bases 1 to 188)
+RA   Slattery J.P., Murphy W.J., O'Brien S.J.;
+RT   "Patterns of diversity among SINE elements isolated from three
+RT   Y-chromosome genes in carnivores";
+RL   Mol. Biol. Evol. 17 (5), 825-829 (2000)
+RX   MEDLINE; 20243655.
+XX
+RN   [2]
+RP   1-188
+RC   [2]  (bases 1 to 188)
+RA   Pecon Slattery J., Murphy W.J., O'Brien S.J.;
+RT   "Direct Submission to Genbank";
+RL   Submitted (06-JAN-2000) Laboratory of Genomic Diversity, Frederick
+RL   Cancer and Research Development Center, Frederick, MD 21702, USA
+XX
+DR   GENBANK; AF221614; 128.0.
+CC   Positions       1     188  Accession No AF221614     GenBank (rel. 128.0)
+XX
+SQ   Sequence 188 BP; 19 A; 64 C; 55 G; 50 T; 0 other;
+     gggcgcctgg gtggtgcagt cggttaagcg tccgacttca gccaggtcac gatctcgcgg        60
+     tccgggagtt cgagccctgc gtcgggctct gggctgatgg ctcggagcct ggagcctgtt       120
+     tccgattctg tgtctccctc tctctctgcc cctcccccgt tcatgctctg tctctctctg       180
+     tcccaaaa                                                                188
+//
+ID   SINE_FN   repbase; DNA; MAM; 188 BP.
+CC   SINE_FN DNA
+XX
+AC   AF221615;
+XX
+CC   VERSION     AF221615.1  GI:9828182
+XX
+DE   Felis nigripes SINE element in Zfy gene, complete sequence.
+XX
+KW   SINE_FN.
+XX
+OS   Felis nigripes
+CC   black-footed cat.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Carnivora; Fissipedia; Felidae; Felis.
+XX
+RN   [1]
+RP   1-188
+RC   [1]  (bases 1 to 188)
+RA   Slattery J.P., Murphy W.J., O'Brien S.J.;
+RT   "Patterns of diversity among SINE elements isolated from three
+RT   Y-chromosome genes in carnivores";
+RL   Mol. Biol. Evol. 17 (5), 825-829 (2000)
+RX   MEDLINE; 20243655.
+XX
+RN   [2]
+RP   1-188
+RC   [2]  (bases 1 to 188)
+RA   Pecon Slattery J., Murphy W.J., O'Brien S.J.;
+RT   "Direct Submission to Genbank";
+RL   Submitted (06-JAN-2000) Laboratory of Genomic Diversity, Frederick
+RL   Cancer and Research Development Center, Frederick, MD 21702, USA
+XX
+DR   GENBANK; AF221615; 128.0.
+CC   Positions       1     188  Accession No AF221615     GenBank (rel. 128.0)
+XX
+SQ   Sequence 188 BP; 20 A; 65 C; 54 G; 49 T; 0 other;
+     gggcgcctgg gtggtgcagt cggttaagcg tccgacttca gccaggtcac gatctcgcgg        60
+     tccgggagtt cgagccccgc gtcaggctct gggctgatgg ctcggagcct ggagcctgtt       120
+     tccgattctg tgtctccctc tctctctgcc cctcccccgt tcatgctctg tctctctctg       180
+     tcccaaaa                                                                188
+//
+ID   SINE_FS   repbase; DNA; MAM; 188 BP.
+CC   SINE_FS DNA
+XX
+AC   AF221616;
+XX
+CC   VERSION     AF221616.1  GI:9828183
+XX
+DE   Felis silvestris SINE element in Smcy gene, complete sequence.
+XX
+KW   SINE_FS.
+XX
+OS   Felis silvestris
+CC   wild cat.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Carnivora; Fissipedia; Felidae; Felis.
+XX
+RN   [1]
+RP   1-188
+RC   [1]  (bases 1 to 188)
+RA   Slattery J.P., Murphy W.J., O'Brien S.J.;
+RT   "Patterns of diversity among SINE elements isolated from three
+RT   Y-chromosome genes in carnivores";
+RL   Mol. Biol. Evol. 17 (5), 825-829 (2000)
+RX   MEDLINE; 20243655.
+XX
+RN   [2]
+RP   1-188
+RC   [2]  (bases 1 to 188)
+RA   Pecon Slattery J., Murphy W.J., O'Brien S.J.;
+RT   "Direct Submission to Genbank";
+RL   Submitted (06-JAN-2000) Laboratory of Genomic Diversity, Frederick
+RL   Cancer and Research Development Center, Frederick, MD 21702, USA
+XX
+DR   GENBANK; AF221616; 128.0.
+CC   Positions       1     188  Accession No AF221616     GenBank (rel. 128.0)
+XX
+SQ   Sequence 188 BP; 23 A; 66 C; 51 G; 48 T; 0 other;
+     gggcacctgg gtggcgcagt cggttaagcg tccgacttca gccaggtcac gatctcgcgg        60
+     tccgtgagtt cgagccccgc gtcaggctct gggcagatgg ctcagagcct ggagcctgtt       120
+     tccgattctg tgtctccctc tctctctgcc cctcccccgt tcatgctctg tctctctctg       180
+     tcccaaaa                                                                188
+//
+ID   SINE_LR   repbase; DNA; MAM; 188 BP.
+CC   SINE_LR DNA
+XX
+AC   AF221617;
+XX
+CC   VERSION     AF221617.1  GI:9828184
+XX
+DE   Lynx rufus SINE element in Smcy gene, complete sequence.
+XX
+KW   SINE_LR.
+XX
+OS   Lynx rufus (bobcat)
+CC   bobcat.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Carnivora; Fissipedia; Felidae; Lynx.
+XX
+RN   [1]
+RP   1-188
+RC   [1]  (bases 1 to 188)
+RA   Slattery J.P., Murphy W.J., O'Brien S.J.;
+RT   "Patterns of diversity among SINE elements isolated from three
+RT   Y-chromosome genes in carnivores";
+RL   Mol. Biol. Evol. 17 (5), 825-829 (2000)
+RX   MEDLINE; 20243655.
+XX
+RN   [2]
+RP   1-188
+RC   [2]  (bases 1 to 188)
+RA   Pecon Slattery J., Murphy W.J., O'Brien S.J.;
+RT   "Direct Submission to Genbank";
+RL   Submitted (06-JAN-2000) Laboratory of Genomic Diversity, Frederick
+RL   Cancer and Research Development Center, Frederick, MD 21702, USA
+XX
+DR   GENBANK; AF221617; 128.0.
+CC   Positions       1     188  Accession No AF221617     GenBank (rel. 128.0)
+XX
+SQ   Sequence 188 BP; 20 A; 66 C; 54 G; 48 T; 0 other;
+     gggcgcctgg gtggcgcagt cggttaagcg tccgacttca gccaggtcac gatctcgcgg        60
+     tccgtgagtt cgagccccgc gtcaggctct gggcggatgg ctcggagcct ggagcctgtt       120
+     tccgattctg tgtctccctc tctctctgcc cctcccccgt tcatgctctg tctctctctg       180
+     tcccaaaa                                                                188
+//
+ID   SINE_OM   repbase; DNA; MAM; 185 BP.
+CC   SINE_OM DNA
+XX
+AC   AF221618;
+XX
+CC   VERSION     AF221618.1  GI:9828185
+XX
+DE   Otocolobus manul SINE element in Ube1y gene, complete sequence.
+XX
+KW   SINE_OM.
+XX
+OS   Otocolobus manul
+CC   Pallas's cat.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Carnivora; Fissipedia; Felidae; Otocolobus.
+XX
+RN   [1]
+RP   1-185
+RC   [1]  (bases 1 to 185)
+RA   Slattery J.P., Murphy W.J., O'Brien S.J.;
+RT   "Patterns of diversity among SINE elements isolated from three
+RT   Y-chromosome genes in carnivores";
+RL   Mol. Biol. Evol. 17 (5), 825-829 (2000)
+RX   MEDLINE; 20243655.
+XX
+RN   [2]
+RP   1-185
+RC   [2]  (bases 1 to 185)
+RA   Pecon Slattery J., Murphy W.J., O'Brien S.J.;
+RT   "Direct Submission to Genbank";
+RL   Submitted (06-JAN-2000) Laboratory of Genomic Diversity, Frederick
+RL   Cancer and Research Development Center, Frederick, MD 21702, USA
+XX
+DR   GENBANK; AF221618; 128.0.
+CC   Positions       1     185  Accession No AF221618     GenBank (rel. 128.0)
+XX
+SQ   Sequence 185 BP; 21 A; 66 C; 48 G; 50 T; 0 other;
+     cgcctgggtg gcgcagtcgg ttaagcgtcc gacttcagcc aggtcacgat ctctcagtcc        60
+     gtgagttcga gccccgcgtc gggctctggg ctgatggctc agagcctgga gcctgtttcc       120
+     gattctgtgt ctccctctct ctctgcccct cccccgttca tgctctgtct ctctctgtcc       180
+     caaaa                                                                   185
+//

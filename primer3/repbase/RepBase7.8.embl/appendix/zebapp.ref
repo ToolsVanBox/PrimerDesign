@@ -1,0 +1,558 @@
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+CC                                                               *
+CC   REPBASE UPDATE                                              *
+CC   (C) 1997-2002  Genetic Information Research Institute       *
+CC   All rights reserved                                         *
+CC                                                               *
+CC   A REFERENCE COLLECTION OF ZEBRA FISH REPETITIVE ELEMENTS    *
+CC   (AN APPENDIX)                                               *
+CC                                                               *
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+XX
+ID   BRSATI    repbase; DNA; ZEB; 186 BP.
+CC   BRSATI DNA
+XX
+AC   M89944;
+XX
+DT   22-DEC-1995 (Rel. 2.0, Created)
+DT   22-DEC-1995 (Rel. 2.0, Last updated, Version 1)
+XX
+DE   Zebrafish satellite type I DNA.
+XX
+KW   Repetitive DNA; satellite type I; BRSATI.
+XX
+OS   Brachydanio rerio
+CC   Brachydanio rerio (strain Oregon AB) (library: lambda ZAP) DNA.
+OC   Eukaryota; Animalia; Chordata; Vertebrata; Osteichthyes;
+OC   Actinopterygii; Cypriniformes; Cyprinoidei; Cyprinidae.
+XX
+RN   [1]
+RP   1-186
+RC   [1]  (bases 1 to 190)
+RA   Ekker M., Fritz A., Westerfield M.;
+RT   "Identification of two families of satellite-like repetitive DNA
+RT   sequences from the sebrafish (Brachydanio rerio)";
+RL   Genomics 13, 1169-1173 (1992)
+XX
+DR   GENBANK; M89944; 77.0.
+CC   Positions       1     186  Accession No M89944        GenBank (rel. 77.0)
+XX
+SQ   Sequence 186 BP; 56 A; 36 C; 30 G; 64 T; 0 other;
+     gatccagcca taaaatgcat cattcttttt tgttttagac aacatttcat gcactgttaa        60
+     acatgttaaa gcaagttgca agtgaaaatc tatgtctctg actgagtttg cattactgtg       120
+     atttgacctc tctgctggct gagataagct cattttcaac gtccaattca gaatgtaata       180
+     aaacct                                                                  186
+//
+ID   TZF28     repbase; DNA; ZEB; 1613 BP.
+CC   TZF28 DNA
+XX
+AC   U51227;
+XX
+DT   10-APR-1997 (Rel. 3.0, Created)
+DT   10-APR-1997 (Rel. 3.0, Last updated, Version 1)
+XX
+DE   Danio rerio transposon Tzf.28.
+XX
+KW   DNA transposon; TZF28.
+XX
+OS   Danio rerio (zebrafish)
+CC   zebrafish.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Actinopterygii; Neopterygii; Teleostei; Euteleostei;
+OC   Ostariophysi; Cypriniformes; Cyprinoidea; Cyprinidae; Rasborinae;
+OC   Danio.
+XX
+RN   [1]
+RP   1-1613
+RC   [1]  (bases 1 to 1613)
+RA   Lam W.L., Lee T.S., Gilbert W.;
+RT   "Active Transposition in Zebrafish";
+RL   Unpublished
+XX
+RN   [2]
+RP   1-1613
+RC   [2]  (bases 1 to 1613)
+RA   Lam W.L., Lee T.S., Gilbert W.;
+RT   "Direct Submission";
+RL   Submitted (13-MAR-1996) Wan L. Lam, Molecular and Cellular Biology,
+RL   Harvard University, 16 Divinity Avenue, Cambridge, MA 02138, USA
+XX
+DR   GENBANK; U51227; 97.0.
+CC   Positions       1    1613  Accession No U51227        GenBank (rel. 97.0)
+XX
+SQ   Sequence 1613 BP; 531 A; 305 C; 337 G; 440 T; 0 other;
+     tacagtgtat ccgcaaagta ttcatagcgc ttcacttttt ccacattttt tatgttacag        60
+     ccttattcca attccaaaat ggattaaatt aatttatttc atcaacattc tacccacaat       120
+     accccataat gacaatgtga aaaaaatttt tttttttaat tattgcataa aaaaaaaaaa       180
+     gctgaaaaat cacatgtaca taagtattca cagcttttgc agtgaagcta aattgagctc       240
+     aggtacgttc tgtttcaagt gttcattctt gaaatgtttc agacaggtta attggaattt       300
+     cacctgtggt aaattaagtt gatttggaca tgatttgaaa aggcatacac ctgtctatat       360
+     aaggtcccag ggttgacagt gcatgtcaaa gcacaaacca aacatgaaga caaaggaatt       420
+     gtctgcagac ctccgataca ggattgtcgt caaggcacaa ggctggggaa ggttacagaa       480
+     aaaatttctg ctgctctgaa agttccaatg agcacagcga cctccatcat ccatgtggaa       540
+     gatgtttgga accaccagga ctcttactag agctggccag ccatctaagc taagtgatca       600
+     ggagagaagg gccttagtta gggaggtgat caataactca atggtcactc tgtctagctc       660
+     cagccatctt ctatggagag aggagaacct tacagaagga caaccatctg tgcagcaatc       720
+     caccaatcag gcctgtatgg tagattagcc agtgttaacc actcctcgtc tggaatttgc       780
+     aaaaaggcat ctgaaggatt ctcacaccat aagaaacaaa attctctggt ctgatgagac       840
+     taaaattgaa ctctttagag tgaatgccag gcgttacttt tggagaattc aggcaccgct       900
+     catcaccagg ctaacaccat cactacagtg aagcatggtg gtggcatgca tcaagctgtg       960
+     gggatgtttt ttcagcagca tgaaatggaa gactagtcag aatagaggga agatgaatga      1020
+     agcaatgtac agagacatcc tgaagtgaaa accttcttca gagtaatctt gatttcagac      1080
+     tggggtgacg gtttatcttc cagcaggaca atgaccgaaa gcacactgcc aaaatatcag      1140
+     tggagtggct tcacaacaac tcgatgaata ccttaagtga accagccaga gcccagacct      1200
+     aaatcctttt gaatatctct gaagagatgt aaaatggctg tacaccgtcg cttcccatcc      1260
+     aacctgatag agtttgagag gtactgcaaa gaggaatggg cacaaattct caatgacagg      1320
+     tgagccaagc tgtggcatga tattcaaaaa gagttgaggc tgtagttgct gccaaagatg      1380
+     catcaacaaa gtattgagca aagactgtac atttttatat gaacgtgatt ttttgaccct      1440
+     tttaatttta ataaatttga aacaatttca aaaaatgttt tttcacattg gcattatggg      1500
+     caactgtgtg tagaatgttg aggaaataaa tgaaattaat ccgtttttga ataaggtaaa      1560
+     aaggtggaaa aaaatgaggt agaattatga tatcactttc ccgatgcact gca             1613
+//
+ID   ANGEL     repbase; DNA; ZEB; 308 BP.
+CC   ANGEL DNA
+XX
+AC   ;
+XX
+DT   20-JUN-2000 (Rel. 4.0, Created)
+DT   20-JUN-2000 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   Non-autonomous DNA transposon - ANGEL.
+XX
+KW   Zebrafish MITE; ANGEL; Miniature Inverted Repeat Element (MITE); 
+KW   DNA element; consensus.
+XX
+OS   Danio rerio (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Actinopterygii;
+OC   Neopterygii; Teleostei; Euteleostei; Ostariophysi; Cypriniformes;
+OC   Cyprinoidea; Cyprinidae; Rasborinae; Danio.
+XX
+RN   [1]
+RP   1-308
+RC   [1]
+RA   Izsvak Z., Ivics Z., Shimoda N., Mohn D., Okamoto H., Hackett P.B.;
+RT   "Short inverted-repeat transposable elements in teleost fish and 
+RT   implications for a mechanism of their amplification.";
+RL   J Mol Evol. 48, 13-21 (1999)
+RX   MEDLINE; 99091700.
+XX
+RN   [2]
+RP   1-308
+RC   [2]
+RA   Izsvak Z., Ivics Z., Hackett P.B.;
+RT   "Repetitive elements and their genetic applications in zebrafish.";
+RL   Biochem Cell Biol. 75, 507-23 (1997)
+RX   MEDLINE; 98212533.
+XX
+RN   [3]
+RP   1-308
+RC   [3]
+RA   Ivics Z., Izsvak Z., Hackett P.B.;
+RT   "Genetic applications of transposons and other repetitive elements 
+RT   in zebrafish.";
+RL   Methods Cell Biol. 60, 99-131 (1999)
+RX   MEDLINE; 99108482.
+XX
+RN   [4]
+RP   1-308
+RC   [4]
+RA   Jurka J.;
+RT   "Consensus";
+RL   Direct submission (June 2000)
+XX
+CC   [4] (Consensus)
+XX
+SQ   Sequence 308 BP; 109 A; 47 C; 50 G; 99 T; 3 other;
+     ttaagggata gttcacccaa aaatgaaaat ttactcaatt tactcaccct yaagttgttc        60
+     caaaccttat gagtttcttt cttctgttga acacaaaaga agatattttg aagaatgttg       120
+     gactgtaacc attgacttcc atagtaggaa aaacaaatac tatggaagtc aatggttaca       180
+     ggtttccaac atttttcaaa atatcttctt ttgtgttcaa cagaagaaag aaactcaaah       240
+     aggtttgaac aatnaagggt gagtaaatga tgacagaatt ttcatttttg ggtgaactat       300
+     ccctttaa                                                                308
+//
+ID   LINE_DR   repbase; DNA; ZEB; 647 BP.
+CC   LINE_DR DNA
+XX
+AC   ;
+XX
+DT   31-JUL-2000 (Rel. 4.0, Created)
+DT   31-JUL-2000 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   Danio rerio LINE-like sequence - a consensus.
+XX
+KW   LINE_DR.
+XX
+OS   Danio rerio (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Actinopterygii;
+OC   Neopterygii; Teleostei; Euteleostei; Ostariophysi; Cypriniformes;
+OC   Cyprinoidea; Cyprinidae; Rasborinae; Danio.
+XX
+RN   [1]
+RP   1-647
+RC   [1]
+RA   Okada N., Hamada M., Ogiwara I., Ohshima K.;
+RT   "SINEs and LINEs share common 3' sequences: a review";
+RL   Gene 205 (1-2), 229-243 (1997)
+RX   MEDLINE; 98121295.
+XX
+RN   [2]
+RP   1-647
+RC   [2] (bases 1 to 647)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (July 2000)
+XX
+CC   An internal portion similar to a 35 bp SmaI SINE element
+CC   is not included.
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 647 BP; 167 A; 183 C; 103 G; 170 T; 24 other;
+     aactaaactt ctctgamcac attwctagaa ctgctcgatc gtgcagattc gcactctata        60
+     acatcagaaa gatccraccc ttcttwtctg aacatgcagc tcaactcctt gttcaagctc       120
+     ttgttctctc caaactggat tactgcaact ctctactagc tgggcttcca gctaactcta       180
+     tcaagcctct tcaactgctc cagaacgcag cagcacgagt ggtcttcaat gaaccgaaac       240
+     gagcacatgt cactccgctg ctagtccgtt tgcactggct gccagttgct gctcgcatca       300
+     aattcaaagc tctgatgttt gcctacaaag tgacttctgg ccttgctcch tcttatctgc       360
+     tctcacttct gcagatctat gtgccctcca gaaacttgcg ttgtgtgaat gaacgccgcc       420
+     tcgtggttcc atcccaaaga gggragwaat cactttcscg aatgctcack ctsrcrytca       480
+     atctgcccag ttggtggaat gaactcccta actgcawmas aacrgcagag tcactygctr       540
+     yyttcargaa acgactaaaa actcaactat ttagtctcca cttcacttcc taatctgcaa       600
+     ttgcctctyt gaatatcaca ctaactgtac ncacaaaaaa aaaaaaa                     647
+//
+ID   CR1DR1    repbase; DNA; ZEB; 3984 BP.
+CC   CR1DR1 DNA
+XX
+AC   AL591176;
+XX
+DT   04-MAR-2002 (Rel. 4.0, Created)
+DT   04-MAR-2002 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   CR1 Danio rerio 1.
+XX
+KW   retrotransposon; CR1; non-LTR; CR1DR1.
+XX
+OS   Danio rerio
+CC   Clone  dZ160C18 (AL591176)
+OC   Eukaryota; Animalia; Chordata; Vertebrata; Osteichthyes;
+OC   Actinopterygii; Cypriniformes; Cyprinoidei; Cyprinidae.
+XX
+RN   [1]
+RP   1-3984
+RC   [1] (bases 1 to 3984)
+RA   Jekosch K.;
+RT   "CR1DR1: CR1-like repeat from Danio rerio.";
+RL   Repbase Reports 2:(2) p. 7 (2002)
+XX
+CC   Putative novel non-LTR retrotransposon similar to CR1-like 
+CC   retrotransposons.
+CC   Contains one reading frame (pos. 1-3984) with two stops.
+XX
+CC   [1]
+XX
+SQ   Sequence 3984 BP; 1215 A; 949 C; 711 G; 1109 T; 0 other;
+     atgccgcttc cgtctctgtc cttgtgtgca ggagaagcat cgatggaggc gttggagctg        60
+     gagctggaag aagtggagtc ccagattcgc gcgctggtgg tgagaaggtc gctgctacgg       120
+     gaacaacttc gtgttgtacc taatgctaag gccgtctcat cacctaaggt acgtggaaat       180
+     tacaaccaca tcattccctc tacctcaacc ccgcgtcctt ctctgtccag gcccagcgca       240
+     cccggggcgc ggctcagcca ggcgtcgttc acgccgacac ccggctacca cggcgcctgg       300
+     gtgcagccgc gcaaggtgct tcccagatcc cggggcagaa cgtctcctcc tgtgttcgag       360
+     atctccacgg agaaccgctt ctcccctctc cgcgagtcgg gtcccgatgt ggccatcatc       420
+     ggtgactcga tcgttcgtca cgtccgtgcc gcctcctcaa aaggtaataa agtacgtact       480
+     ttctgctttc ctggtacccg tgtgagaaat atttctacac agattccaac catcctgggc       540
+     gctgccgaga gccctggtgc cgttgtcctc cacgtgggga caaacgacac cgggctccgg       600
+     cagtcggaga tcctaaagaa ggacttcagg agcctgatcg agacggtacg acgcacctcg       660
+     cccgccacgc agatcatcgt ttctgggccg cttcctacct accgccgagg aaatgaaagg       720
+     ttcagtagac ttttagctct gaatgaatgg ctaataacat agtgtaaaga acaaaaattg       780
+     ctctttgcta ataactggaa tcttttctgg gagcgtccta ggctcttccg tcctgacggc       840
+     ctgcacccca gtcgagccgg agctgaactc ctgtcggaca acatctccag attacttcgc       900
+     accatctgac tagcaggtaa aaattcacac tatagccacc tagactcttg ttcaccccac       960
+     ttaaacatca gtaacgcata tctggcgaat cctatagaga ctgtgtctgt tcctcgtatt      1020
+     attagattaa gaaataaacg tactgtgtgc tccagaaaaa atctattaag aatcaaacca      1080
+     gaaaaaccag tagaaagtga aaatacaaat ttcgtaaaac ttggtctcct aaacatcagg      1140
+     tcacttgcac ctaaagcact tatcattaat gaaataataa cagaaaacaa tgttaatgca      1200
+     ctctgtctca ctgaaacctg gctgaaacaa aatgactata ttagcttaaa tgaagcaact      1260
+     cctccaggat tcttatataa acatgaggct cgtcaaactg gtcgtggtgg tggagttcca      1320
+     tcaatcttta gtgatttcct taatattaaa cagagaaacg gacttatgtt tagctccttt      1380
+     gaagtattat cgcttaatgt tcagcttcca gatactatac aaaaacctat gttatctctc      1440
+     gctttaatca ccatatatag acccccagga ccctatgtca aatttctaaa agaattttct      1500
+     gattttattt ctgacttact agtcaaaact gataaaatgc taattgtagg tgactttaac      1560
+     atccacatag atgacgctaa tgatacatta ggactcgcgt ttatggattt aatacactca      1620
+     cttgggataa agcaaaacgt tgtgggccca acccatcgct taaagcatac attagatcta      1680
+     attctgtctt atggaatcga ggttattgac gaagacatta taccacaaag tgatgatatt      1740
+     acagatcact acctcttact atataagctg tgtttacctg aaatcagcaa acccgctcca      1800
+     atactccgcc ctagtagaac tattgttccg tcaactaaag atgaatttat caataactta      1860
+     cctgatcttt ctctatttcg taatgcacct gcaaactcaa atgatcttga tgtagtaacc      1920
+     agcagtatgg atgccatctt tactagcaca ctaaatactg tggcacccat caaattaaaa      1980
+     aaggctagag agattaaaac tataccatgg tataatagtc atactcgtgc gctcaaaaca      2040
+     gcaacccgtg ccctggaacg taaatggaaa aaaacaaatt tagaggtctt tagaattgcg      2100
+     tacaaagaca gtatgtccag ctataggagg gctctaaaat ctgccaggac cgagcacctg      2160
+     cgcaaactga tagaaaataa tcataacaat cctagatttt tatttaacac catctctaaa      2220
+     ttagctaata atcggtcatc cttggaacaa actactccac cgcaaattag tagtgatgac      2280
+     ttcatgaatt ttttcagtaa taaaatagaa ggctttagac agaaaatagg agatgccaaa      2340
+     ctttctgcac cggcttatac tccaaatcct gtaaatattt cattaaatca taataataac      2400
+     ctacactgct tcaaaatcat agaacatgaa gagttagtaa aaattataaa tagctctaaa      2460
+     ccagctacgt gtatgctgga ctcaattcca acaaaattac tgaaagagct gctacctgct      2520
+     ataggagaac ctcttcttaa cattatcaac tcttctttat ctataggcca tgttccaaac      2580
+     tcttacaagc tagctgttat taagcctatt attaagaaac cgcaactaga caccaacaac      2640
+     ttagctaact ataggcctat ttcaaatctt ccatttatgt ctaaaatact agaaaaagtt      2700
+     gtttccactc aattatgctc ttttctgcag acgaacaata tttttgaagt gtttcagtca      2760
+     ggtttcaggg ctcaccacag tacagaaacc gccttagtga aaataaccaa cgatttactc      2820
+     ttagctgctg accgagggtg cgtctcgcta ttagttttac tcgatcttag tgcggcattt      2880
+     gataccattg accacaatat cctcataaat cgcttaaagt ctacaggtgt ccagggacag      2940
+     gctctacaat ggtttaagtc atacttaact gaccgctacc aatttgtgaa tcttaatgga      3000
+     cagccttcac aaatctgccc agtaaagtat ggggtgcctc aaggatcagt tttaggccct      3060
+     ttactgttta caatttatat gctacctctg ggagacatta ttagaagaca tgggatcagc      3120
+     tttcactgct atgcagatga tactcaatta tatatttcaa ctaaacctga cgagacgtct      3180
+     gaactttcta aactaactga gtgtttcaaa gacatcaaag actggatgac cgacaatttt      3240
+     cttctcttaa actcagacaa aacagaaatg ttacttattg ggcctaaatc ttgcacacag      3300
+     cagatctcgc aactcaattt acaattagaa ggatacaaag ttagctttag ctctactata      3360
+     aaagatttgg gtgtcatatt tgacagcaat ctaactttta aaaaccatat atcccatgtc      3420
+     actaaaactg ccttctttca tctaagaaat atcgctaaat tacgaaatat gctatccatc      3480
+     tcagatgcag aaaagctagt ccatgctttt atgacttcga gactggatta ctgtaatgct      3540
+     ctatttgctg gctgcccagc atcctctatt aacaaacttc aattagtaca aaatgcagca      3600
+     gccagagttc tgaccaggtc tagaaaatat gatcatataa ccccaatttt atcctcctta      3660
+     cactggctgc ctgttaagtt tcttattgaa cttaaaatat tacttctcac ccataaagct      3720
+     ctaaataatc tagctcctgt ttatctaacc aaccttctgt ctcgctacaa accaactcgc      3780
+     tctttaagat ctcaaaattc agggcttctg gtagtaccta gaatagcaaa atcaagtaaa      3840
+     ggaggtcgag ccttctcttt catggctcct acactctgga atagccttcc tgataacgtc      3900
+     cgaggctcag acacactctc ccagttcaaa actagattaa agacctatct gtttagtaaa      3960
+     gcatactctc aatgcatcac ctag                                             3984
+//
+ID   CR1DR2    repbase; DNA; ZEB; 2898 BP.
+CC   CR1DR2 DNA
+XX
+AC   AL591213;
+XX
+DT   04-MAR-2002 (Rel. 4.0, Created)
+DT   04-MAR-2002 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   CR1 Danio rerio 2.
+XX
+KW   retrotransposon; CR1; non-LTR; CR1DR2.
+XX
+OS   Danio rerio
+CC   Clone dZ150F13 (AL591213)
+OC   Eukaryota; Animalia; Chordata; Vertebrata; Osteichthyes;
+OC   Actinopterygii; Cypriniformes; Cyprinoidei; Cyprinidae.
+XX
+RN   [1]
+RP   1-2898
+RC   [1] (bases 1 to 2898)
+RA   Jekosch K.;
+RT   "CR1DR2: CR1-like repeat from Danio rerio.";
+RL   Repbase Reports 2:(2) p. 8 (2002)
+XX
+CC   Putative novel CR1-like non-LTR retrotransposon with one open 
+CC   reading frame (pos 1-2898).
+XX
+CC   [1]
+XX
+SQ   Sequence 2898 BP; 749 A; 860 C; 474 G; 815 T; 0 other;
+     atgtgttttc taattcctgt tgttactaac actcgcaaaa cacgggaggt gcgctgcagg        60
+     cgtaatcctc acaaccttcg ttcaatacat gtatctacta tttcacaact ctctctctcc       120
+     gtgggcctct ggaattgtca atcagctgtt aacaaggctg attttattac ctccatagct       180
+     acatattctg actataatct catggctcta actgaaacct ggttgaggcc ggaggacact       240
+     gctacacatg ctactctttc tgctaatttc tctttttccc acactcctcg tcagacaggg       300
+     agagggggtg ggactggact actaatttcc aaagaatgga aatttactct gataccgtcc       360
+     ctgccaacaa tcagctcctt tgaattccat gcagtcacca ttatccaccc cttctacata       420
+     aatgtggttg tcatctaccg cccaccaggt aaattaggtc acttcctaga tgaactggat       480
+     gttcttctct catctttttc taattttgcc actcccttat tggtgctagg tgacttcaac       540
+     atttacgttg acaaaccgca agctgcagac tttcagactt tgcttgcctc ttttgaccta       600
+     aaaagagcac ctacttctgc tacccacaaa tcaggtaatc agctagacct tatttacaca       660
+     cgacactgct tcactgatca aacaatagta actccactac aaatatctga tcatttcctt       720
+     ctgtctctca acatccacat tactcctgag ccgccacaca ctcctacact ggttaccttt       780
+     cgcagaaacc tacgatctct ctcacccaat agactatcca ccattgtttc agactctctt       840
+     cctccatctc gcaaactcac tgcacttgat tcgaacagtg ccactaatac actctgctcc       900
+     acactagcat catctctaga ccgattatgt cctcttgcat ccaggccagc ccgtgccagt       960
+     cctcctgcac cctggctctc ggatgctctc cgtgagcatc gctcaaaact tcgggctgcg      1020
+     gagagaattt ggcggaaaac taaaaatcct gcacatctct taacatacca aactcttctg      1080
+     tcctctttct cagctgaggt tacttctgca aagcagacgt attaccgtct gaaaatcaac      1140
+     aatgccacta atcctcgcct actttttaaa acattttcct ccctcctcta tcctcctcct      1200
+     ccacccgcat cctccacact tactactgat gactttgcta cattcttctg caccaaaact      1260
+     gcaaaaatca gtgctcaatt tgctgcacct acaacaaaca cgcaagatac aacaccaaca      1320
+     ccacacacac tcacctcttt ttctcagctc tctgagtctg aggtgtccaa acttgtgcta      1380
+     tctagccatg caaccacctg tccactcgat cccattccct ctcatctctt gcaagccatc      1440
+     tctcctgcag tcataccaac actgactcac ataattaaca catctcttga ctctggttta      1500
+     ttccccacta catttaagca ggctagggta accccactgc taaagaaacc caacctggac      1560
+     catacgctac ttgaaaacta cagaccagta tccctgcttc cattcatggc caagattctg      1620
+     gagaaagtag tgttcaatca agttctggac tttcttactc aaaacaatct catggacaac      1680
+     aagcaatccg gctttaagaa aggccactca actgagactg ccctgctctc ggtcgtggag      1740
+     gatctcagac tggctaaagc agactctaaa tcatcagtcc tcattttgct ggacttgtca      1800
+     gctgcttttg acactgtcaa ccaccagatc ctgctatcta cgcttgagtc actgggcgtt      1860
+     gcgggcactg ttatacaatg gttcagatct tacctctctg acaggtcatt cagggtgtct      1920
+     tggaggggag aggtgtccaa cctacagcat ctaaacactg gggtacctca aggctctgtt      1980
+     cttgggccac ttctcttctc catctacaca tcatctctag gaccagtcat ccagagacat      2040
+     ggattctcct accactgcta tgctgatgat acccagctat acctctcttt tcatcctgat      2100
+     gatccctcgg ttccagctcg tatctcagcc tgcctgttgg atatttcaca ctggatgaaa      2160
+     gatcatcatc ttcagctgaa cctcgcaaaa acggaaatgc ttgtagtttc tgccaacccg      2220
+     actctacacc ataacttttc aatccagatg gatggggcaa ccattactgc atccaaaatg      2280
+     gtgaaaagcc ttggagtaac gattgatgac caactaaact tctctgacca catttctaga      2340
+     actgctcgat cgtgcagatt tgcactctat aacatcagaa agatccgacc cttcttatct      2400
+     gaacatgcag ctcaactcct tgttcaagct cttgttctct ccaaactgga ttactgcaac      2460
+     tctctactag ctgggcttcc agctaactct atcaagcctc ttcaactgct ccagaatgca      2520
+     gcagcacgag ttgtcttcaa tgaacctaaa cgagcacatg tcactccgct gctagtccgt      2580
+     ttgcactggc tgccagttgc tgctcgcatc aaattcaaaa ctctgatgtt tgcctacaaa      2640
+     gtgacttctg gcctagcacc ttcgtatctg cactcacttc tgcagatcta tgtgccctcc      2700
+     agaaacttgc gttctgtgaa tgaacgtcgc ctcgtggttc cagcccaaag aggaaaaaaa      2760
+     tcactttcgc gaacgctcac gctcaatctg cccagttggt ggaatgaact ccctaactgc      2820
+     atcagaacag cagagtcact cgctattttc aagaaacgac taaaaactca actatttagt      2880
+     ctccacttca cttcctaa                                                    2898
+//
+ID   TDR10     repbase; DNA; ZEB; 655 BP.
+CC   TDR10 DNA
+XX
+AC   ;
+XX
+DT   04-MAR-2002 (Rel. 4.0, Created)
+DT   04-MAR-2002 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   Zebrafish non-autonomous DNA transposon - a consensus.
+XX
+KW   DNA transposon; TDR10.
+XX
+OS   Danio rerio (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Actinopterygii;
+OC   Neopterygii; Teleostei; Euteleostei; Ostariophysi; Cypriniformes;
+OC   Cyprinoidea; Cyprinidae; Rasborinae; Danio.
+XX
+RN   [1]
+RP   1-655
+RC   [1] (bases 1 to 655)
+RA   Jurka J., Drazkiewicz A.;
+RT   "TDR10: a non-autonomous DNA transposon from Danio rerio.";
+RL   Repbase Reports 2:(2) p. 20 (2002)
+XX
+CC   TA-target site duplication.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 655 BP; 164 A; 175 C; 149 G; 155 T; 12 other;
+     taagggcgta ctcacactak gyacagttgc cttgaaccgk gccgaagcac gcttgtcccc        60
+     cctcccctct cccccgacgg cctgcactca cattgcattc gagcccgagc acgcttacgt       120
+     catcgatgat gcgctgttca gtttaanaga agagaagcgc tctcgctcag cacagtggag       180
+     attgctttag ttatattgtt ttagtcgttt gatatgcagt gacacgcagt caaatatttt       240
+     gctgaacaga tcaaccactt ttgacgctca taaataatca taaaagtcct cgtgctgcag       300
+     gwattaggag gtttgctgaa ggtgcagctg tcatgcagtg aggggtttgc gtctttaata       360
+     awctacgaca gtttgcgttc attgaamagt aagaatgatt aataaatcca tatgaaacag       420
+     tcccttaaaa gtsacgtckc gtcttcagtt tcgggctcag gcgcgctttg cactcacact       480
+     acaagcgtac cgcgccaaag cccaagtgaa ccrcgctctg gcacacctct tccaaccggg       540
+     ccagggccgg ccaastgaac catgcctgag cccaattcag agcactcaca cttctcaaac       600
+     gaaccgggaa acgggcctgg gcacngttcg gatagcatag tgtgagtacg cccta            655
+//
+ID   LDR1      repbase; DNA; ZEB; 4963 BP.
+CC   LDR1 DNA
+XX
+AC   AL591172;
+XX
+DT   04-MAR-2002 (Rel. 4.0, Created)
+DT   04-MAR-2002 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   LINE Danio rerio 1.
+XX
+KW   LDR1; retrotransposon; non-LTR; LINE; Clone dZ48C11 (AL591172).
+XX
+OS   Danio rerio
+CC   Clone dZ48C11 (AL591172)
+OC   Eukaryota; Animalia; Chordata; Vertebrata; Osteichthyes;
+OC   Actinopterygii; Cypriniformes; Cyprinoidei; Cyprinidae.
+XX
+RN   [1]
+RP   1-4963
+RC   [1] (bases 1 to 4963)
+RA   Jekosch K.;
+RT   "LDR1: LINE-like element from Dano rerio.";
+RL   Repbase Reports 2:(2) p. 15 (2002)
+XX
+CC   Putative novel non-LTR LINE-like retrotransposon.
+XX
+CC   [1]
+XX
+SQ   Sequence 4963 BP; 1628 A; 764 C; 1017 G; 1554 T; 0 other;
+     atgcatggaa cggctaaata tttaaaaata atatcctgga atataaatgg ttctcataat        60
+     ccagttaaaa gaagaaaatg gttaggttac cttaaatcta aagatgtgga cattgcttta       120
+     attcaagaaa cgcatatgat gggtacagag gctgaaaaac ttaaacgtga ctgggtggga       180
+     caggtgttta ataattcata taatagtaag aggaatgggg tagcaatatt ggtgcataag       240
+     agggtaaatt ttgtcatgat taaacaaaaa aaaggatgag gagggaagat ttatatggtt       300
+     ggaagccatg gttgatgatc aaaaagttaa tatttgcaat atttattctc caaataagga       360
+     ggatagtgta ttttttcata cggttaataa gataattgga gtacaagcag gtaatcagtt       420
+     aatagttgca ggttatttta atcaggtgca agatgcctat ctggatagaa caacctacca       480
+     taaaaatatg cccagagaca gattagctat acaattaatg atggaagatt tggggttggt       540
+     ggacatatgg aggcttgtca atcctagaga aagagagagt ataccttctt ttcacatagt       600
+     cataaatctt acccaagaat agattacttt ctggtttctg gtgatttagt cgagtcagta       660
+     gtagactgta agataggcgt gattgctttg ttagatcacg caccagtgga gatgacatta       720
+     gacaccaatt ctaggacaat aaaacaaaac agatgaagat tcaatatatc cttgcttcag       780
+     gacttaaatt ttagtacaaa attgggagct gacttaaagg aattttcgag attaatgttg       840
+     gtaccacaga gaggctggga acagtatggg aatcatcaaa agcttatgtc aggggtaacg       900
+     caatacaata tgctagcttg gtaaaaagac tcaacaagga aaaagttaag gacatttagg       960
+     ccagaattaa agttttagac aggcaattat cactaaagtt tacagatagt attttaaaac      1020
+     aagtctgcaa tctgaaatat cagcttaatg atatttaaaa taggaaagca tagtatgcaa      1080
+     tgtttaggat gtgcacagct ttctatgaaa gtggagaaaa ggctgataaa ttgttagcaa      1140
+     ggcagttgaa acaaaaggat gctagtttct taatttcagc ttttaaaaat aaaaaaaatg      1200
+     aagtggtgac tgcaaacatg gacattaata atgtctttga aaagctttat aataaattat      1260
+     atgaagcaga gtcatcccca gactgtacta aatatagaga ttttttctcc aaaattacac      1320
+     ttcccacctt gtcctcagac cagcttgaga tgttagatgc gccaatagaa gaatctgggc      1380
+     tgcaataatg tcaataaagg ccgctaagtg agcaggttta gatggctttc ctgccgaata      1440
+     ttataagaag tatattgaca ttgttgcacc aatattggaa ggggtgtata aagaaacctt      1500
+     gttactggag caaatgcccc caacatttaa tgatgcgcta attacgttaa ttcttaaaaa      1560
+     ggataaggat ctttatgatc ctgggagtca tagaccagtt agtttagaaa atgttgattg      1620
+     taaaatttta tctaaagtat tagcattgag gttggagggc attttatcca atatcgtata      1680
+     tatcgaccag gtacgtttta taaaagggag atcttcttct gataatcttc ggtcactact      1740
+     tcatctcatc tggcaaagcc gcaatgagaa tgttccagtc gctgcttttt gactagatgc      1800
+     gatgaaggca tttgatagag tagaatgggg ctatttaact tatacgttac aaatgtttgg      1860
+     ctttgggcca acttttttta agtgggtcaa ggtgctatat tccggcccac gtgcagctgt      1920
+     tcttacaaat ggcattattt ctcctttctt taaattaaag cgaggcacca gacaagggga      1980
+     ccccctgtct cctttgcttt ttactttgtt tctggagccc ttagcagttg caatcaggaa      2040
+     tgacataaga gtgaatggtg tccatttagg agagagggaa tataagtgtt ttttatatgc      2100
+     tgatgatatt cttctcttgc tttcaaatcc aagtacatct atacctgctg tgatggatac      2160
+     tattgaacat ttttctcaaa tatcaggtta caaagttaat tgggtaaaat ctgaggtaat      2220
+     gccagtgtct gtgggatgtt cgttggcgga tgtgagtgct ttctccttta aatggatatc      2280
+     aactgggatg aagtatttag gtattaggct ctcaagggag ttgtatgaag ttgttcagat      2340
+     gaatataacc cgtatgcttc aaaatgttag tacaaacttt gataaatgga aagtgttaaa      2400
+     tttgtctttg tgggggaagg ttaatgcaat taaaatgatg gtatcatcaa ggattaatta      2460
+     tatctctata atgatccctt tgaagtttcc tttatacatc tttaagaaat acaatcagct      2520
+     agttaaggac tttctgtggg agggaagaag cccagaataa gtatgaaaaa tatgtttacc      2580
+     actagaataa aggggggttt ggcattgcca aatatagagc tttataatac tgcatttgag      2640
+     atgattaaaa tatgtaaaca ctggtcaggt gataatgtag agggtataag ctggatcgaa      2700
+     ataaagaaaa cgctaacttt cccattcagt gttattgatg ctttatctca gaaatcttta      2760
+     tattctatta tgaatgggga agttaaccct atactggaac actcatagca ggtctggaaa      2820
+     aaaatacata agatgtttaa tttgtcccat tataaacaat gcttttcttc attatggaat      2880
+     aaccctgcta ttaagatata tgcaccattg tggaggatag tagcatctgt gtgcaagtcc      2940
+     aatataaact aaggttagct gatgctgtgc agcatcttct tttgtttaaa agtaactgtg      3000
+     tagttacaaa tacagtgaaa atctgtttgc tagttatacg tacatgaaca cattagtgca      3060
+     ttgaatgact ttacgttttt gtgagctaaa ctgggctttt gtgaactaag cattatatca      3120
+     gttgatgtaa tatgtttttt tttctgtaaa tttaaacaat cctataaact ttcgtatttt      3180
+     tacagaaaat tcctgacaac cactgccggt atttttcagt aaatttaaca gatttttttt      3240
+     agcagtgtaa ataaattaga gctaaattat aaatgttgtg ttgattgaac taaacaacat      3300
+     taccttacct ttatttaact aacttaagtt cactcaatta aatattcttt ctttaaggca      3360
+     gaaatattct ttctttcaaa gtctaagaca gtgggcctcc cttttgacac agcttatcca      3420
+     ttggcgtccc cctcctccca aacacgcacg cacacacacg cgcacacgca cacacgaaaa      3480
+     attccggatg ttttcctgct acctcatcat gcttggtttc aaggtgtcgc cgaagtttag      3540
+     cgggactcat agccaaaata tcttgaaaaa ccacacataa aagtcgtggt tcatcagctg      3600
+     gtcctgtcca cgtaaatcct aaactcaaat actgatcatc atattgtcgt cttttgggtt      3660
+     taagccctga acttgaaggc tttgaatcgg ggggtctcag aaactgatcc attgtattgg      3720
+     caggcatata cctgtattgg cgggcttgcc aaacagaagc aaattcacag ctatggccat      3780
+     ctgggtaaaa aaggttttct tatttttgac gtataatttt ttttagcttt gtttaattaa      3840
+     aatgtttaaa aataataaaa atacatataa taattaaact taataattat gtttttatta      3900
+     tataatattt ttcccgcgca tcccctaaca tgctctggcg cccaccaggg aatgcgcctc      3960
+     acactttgaa aacccctgtt ttaaggtaac ttaactcggt tacgtggaac ctgttgacat      4020
+     aacaaagtta attaaagcca gcatatcatt tttttgagtg taggaaagaa aacagtctat      4080
+     tggaaggatt ggtgtaaaaa aaaaggcctg aaaacagttg atgatttata tggacaaggt      4140
+     gcactgtatt catttcagga gttgaaagac aaatttaatc tagtagataa aggggatttc      4200
+     tggaaatata tacagctgca tagtagtata agaactgtgg gatataagcc aggagcagaa      4260
+     gaaaatgttt tattagggtt tctaaatatg ccaaagtcga tgcaaaccac atcttttgtt      4320
+     tataagattg ctgcatgtat ggaaaaagtg atcatttaaa aattatctgg gagaaagacc      4380
+     tggaggtgga atttgaagag ggtgaatggg aggcagtagt ttctggtcgt gggggtactg      4440
+     tgagagatgt taggagtaaa ctcatacatt acaagataat taatcaatat tactagacac      4500
+     cagtaagact gcataggata ggattaaagg aaaataatca ctgttggaaa tgtggtcatt      4560
+     ctgtgggcac ttttttacat ttaatgtgga gctgtcattt ggtggctcca ttctggacaa      4620
+     gagttattca aaacctagag aaatggctag gacaaccttt accttattcc ccaagagtct      4680
+     gtcttcttgg tgatacatcc actttacaga acggaatatc taaaacacag gctggactag      4740
+     tcgtcgcagg atatattatt gctgtgagac tggtgctgcg aaattggaag aactcagaca      4800
+     ctccctcttt taaagattgg attgagctga tgacttctaa tgcatcatat atgaacgtat      4860
+     gttggcaaga cttcaggatt ccacccatac ctttaatcag aaatggggta gctttttgca      4920
+     atatttggag agcacataaa aagaaaattg aaaagttgtc aat                        4963
+//

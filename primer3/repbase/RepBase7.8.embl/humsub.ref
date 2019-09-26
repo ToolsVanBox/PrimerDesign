@@ -1,0 +1,1489 @@
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+CC                                                           *
+CC   REPBASE UPDATE                                          *
+CC   (C) 1997-2002                                           * 
+CC   Genetic Information Research Institute                  *
+CC   All rights reserved                                     *
+CC                                                           *
+CC   A REFERENCE COLLECTION OF HUMAN REPETITIVE SUBFAMILIES  *
+CC   RELEASE 1.1.1; SEPTEMBER 2002                           *
+CC                                                           *
+CC   Edited by J. Jurka                                      *
+CC                                                           *
+CC   OTHER ACTIVE CONTRIBUTORS:                              *
+CC   Walichiewicz, J., Klonowski, P.                         *
+CC                                                           *
+CC   Supported in part by N.I.H. grant 1P41LM06252-01.       *
+CC                                                           *
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+XX
+ID   FLA       repbase; DNA; xxx; 133 BP.
+CC   FLA DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   31-JUL-2000 (Rel. 1.0, Last updated, Version 2)
+XX
+DE   FLA subfamily - a consensus.
+XX
+KW   Repetitive sequence; FLA.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-133
+RC   [1]
+RA   Jurka J., Zuckerkandl E.;
+RT   "Free left arms as precursor molecules in the evolution of
+RT   Alu sequences";
+RL   J. Mol. Evol. 33, 49-56 (1991)
+XX
+RN   [2]
+RP   1-133
+RC   [2]
+RA   Jurka J.;
+RT   "Origin and evolution of Alu repetitive elements";
+RL   Molecular Biology Intelligence Unit:The impact of short interspersed
+RL   elements (SINEs) on the host genome (ed. Richard J. Maraia),
+RL   R.G. Landes Company, Austin, pp.25-41 (1995)
+XX
+CC   FLA is a heterogenous family composed of at least 2 subfamilies.
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 134 BP; 38 A; 35 C; 42 G; 18 T; 1 other;
+     ggccgggcgc ggtggcwcac gcctgtaatc ccagctactt gggaggctga ggcgggagga        60
+     tcgcttgagc ccaggagttc gagaccagcc tgggcaacat agcgagaccc cgtctctaaa       120
+     aaaaaaaaaa aaaa                                                         134
+//
+ID   FLAM_A    repbase; DNA; xxx; 142 BP.
+CC   FLAM_A DNA
+XX
+AC   ;
+XX
+DT   31-JUL-2000 (Rel. 1.0, Created)
+DT   31-JUL-2000 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Free left Alu monomer A.
+XX
+KW   FLA; FLAM_A.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-142
+RC   [1]
+RA   Quentin Y.;
+RT   "Fusion of a free left Alu monomer and a free right Alu monomer 
+RT   at the origin of the Alu family in the primate genomes.";
+RL   Nucl. Acids. Res. 20, 487-93 (1992)
+XX
+RN   [2]
+RP   1-142
+RC   [2]
+RA   Quentin Y.;
+RT   "Origin of the Alu family: Alu like monomers gave birth to the left
+RT   and right arms of the Alu elements.";
+RL   Nucleic Acids Res. 20, 3397-401 (1992)
+XX
+RN   [3]
+RP   1-142
+RC   [3]
+RA   Jurka J.;
+RT   "Origin and evolution of Alu repetitive elements";
+RL   Molecular Biology Intelligence Unit:The impact of short interspersed
+RL   elements (SINEs) on the host genome (ed. Richard J. Maraia),
+RL   R.G. Landes Company, Austin, pp.25-41 (1995)
+XX
+CC   [1,2] (Consensus)
+XX
+SQ   Sequence 142 BP; 45 A; 36 C; 44 G; 17 T; 0 other;
+     gccgggcgcg gtggcgcgcg cctgtagtcc cagctactcg ggaggctgag gcgggaggat        60
+     cgcttgagcc caggagttcg agaccagcct gggcaacata gcgagacccc gtctctaaaa       120
+     aaaaaaaaaa aaaaaaaaaa aa                                                142
+//
+ID   FLAM_C    repbase; DNA; xxx; 143 BP.
+CC   FLAM_C DNA
+XX
+AC   ;
+XX
+DT   31-JUL-2000 (Rel. 1.0, Created)
+DT   31-JUL-2000 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Free left Alu monomer C.
+XX
+KW   FLA; FLAM_C.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-143
+RC   [1]
+RA   Quentin Y.;
+RT   "Origin of the Alu family: Alu like monomers gave birth to the left
+RT   and right arms of the Alu elements.";
+RL   Nucleic Acids Res. 20, 3397-401 (1992)
+XX
+RN   [2]
+RP   1-143
+RC   [2]
+RA   Jurka J.;
+RT   "Origin and evolution of Alu repetitive elements";
+RL   Molecular Biology Intelligence Unit:The impact of short interspersed
+RL   elements (SINEs) on the host genome (ed. Richard J. Maraia),
+RL   R.G. Landes Company, Austin, pp.25-41 (1995)
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 143 BP; 47 A; 36 C; 41 G; 18 T; 1 other;
+     rgccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggagga        60
+     tcgcttgagc ccaggagttc gagaccagcc tgggcaacat agcgagaccc cgtctctaaa       120
+     aaaaaaaaaa aaaaaaaaaa aaa                                               143
+//
+ID   AluJo     repbase; DNA; xxx; 283 BP.
+CC   AluJo DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Jo subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-J; AluJ; Alu-Jo; AluJo.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-283
+RC   [1] 
+RA   Jurka J.;
+RT   "Origin and evolution of Alu repetitive elements";
+RL   Molecular Biology Intelligence Unit:The impact of short interspersed
+RL   elements (SINEs) on the host genome (ed. Richard J. Maraia),
+RL   R.G. Landes Company, Austin, pp.25-41 (1995)
+XX
+CC   .
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 283 BP; 60 A; 81 C; 96 G; 46 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggagga        60
+     ttgcttgagc ccaggagttc gagaccagcc tgggcaacat agcgagaccc cgtctctaca       120
+     aaaaatacaa aaattagccg ggcgtggtgg cgcgcgcctg tagtcccagc tactcgggag       180
+     gctgaggcag gaggatcgct tgagcccagg agttcgaggc tgcagtgagc tatgatcgcg       240
+     ccactgcact ccagcctggg cgacagagcg agaccctgtc tca                         283
+//
+ID   AluJb     repbase; DNA; xxx; 283 BP.
+CC   AluJb DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Jb subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-J; AluJ; Alu-Jb; AluJb.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-283
+RC   [1] 
+RA   Jurka J.;
+RT   "Origin and evolution of Alu repetitive elements";
+RL   Molecular Biology Intelligence Unit:The impact of short interspersed
+RL   elements (SINEs) on the host genome (ed. Richard J. Maraia),
+RL   R.G. Landes Company, Austin, pp.25-41 (1995)
+XX
+CC   .
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 283 BP; 59 A; 82 C; 98 G; 44 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggagga        60
+     tcacttgagc ccaggagttc gagaccagcc tgggcaacat ggtgaaaccc cgtctctaca       120
+     aaaaatacaa aaattagccg ggcgtggtgg cgcgcgcctg tagtcccagc tactcgggag       180
+     gctgaggcag gaggatcgct tgagcccggg aggtcgaggc tgcagtgagc cgtgatcgcg       240
+     ccactgcact ccagcctggg cgacagagcg agaccctgtc tca                         283
+//
+ID   AluSc     repbase; DNA; xxx; 280 BP.
+CC   AluSc DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Sc subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Sc; AluSc.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-280
+RC   [1]
+RA   Jurka J., Smith T.;
+RT   "A fundamental division in the Alu family of repeated sequences";
+RL   Proc. Natl. Acad. Sci. USA 85, 4775-4778 (1988)
+XX
+CC   .
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 280 BP; 62 A; 80 C; 94 G; 44 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aagagatcga gaccatcctg gccaacatgg tgaaaccccg tctctactaa       120
+     aaatacaaaa attagctggg cgtggtggcg cgcgcctgta gtcccagcta ctcgggaggc       180
+     tgaggcagga gaatcgcttg aacccgggag gcggaggttg cagtgagccg agatcgcgcc       240
+     actgcactcc agcctggcga cagagcgaga ctccgtctca                             280
+//
+ID   AluSg     repbase; DNA; xxx; 281 BP.
+CC   AluSg DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Sg subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Sg; AluSg.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-281
+RC   [1]
+RA   Jurka J., Milosavljevic A.;
+RT   "Reconstruction and analysis of human Alu genes";
+RL   J. Mol. Evol. 32, 105-121 (1991)
+XX
+RN   [2]
+RP   1-281
+RC   [2] 
+RA   Jurka J.;
+RT   "Origin and evolution of Alu repetitive elements";
+RL   Molecular Biology Intelligence Unit:The impact of short interspersed
+RL   elements (SINEs) on the host genome (ed. Richard J. Maraia),
+RL   R.G. Landes Company, Austin, pp.25-41 (1995)
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 281 BP; 61 A; 81 C; 96 G; 43 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagttcga gaccagcctg gccaacatgg tgaaaccccg tctctactaa       120
+     aaatacaaaa attagccggg cgtggtggcg cgcgcctgta atcccagcta ctcgggaggc       180
+     tgaggcagga gaatcgcttg aacccgggag gcggaggttg cagtgagccg agatcgcgcc       240
+     actgcactcc agcctgggcg acagagcgag actccgtctc a                           281
+//
+ID   AluSp     repbase; DNA; xxx; 284 BP.
+CC   AluSp DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Sp subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Sp; AluSp.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-284
+RC   [1]
+RA   Jurka J., Milosavljevic A.;
+RT   "Reconstruction and analysis of human Alu genes";
+RL   J. Mol. Evol. 32, 105-121 (1991)
+XX
+CC   .
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 284 BP; 65 A; 80 C; 94 G; 45 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacctgagg tcgggagttc gagaccagcc tgaccaacat ggagaaaccc cgtctctact       120
+     aaaaatacaa aaattagccg ggcgtggtgg cgcatgcctg taatcccagc tactcgggag       180
+     gctgaggcag gagaatcgct tgaacccggg aggcggaggt tgcggtgagc cgagatcgcg       240
+     ccattgcact ccagcctggg caacaagagc gaaactccgt ctca                        284
+//
+ID   AluSq     repbase; DNA; xxx; 284 BP.
+CC   AluSq DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Sq subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Sq; AluSq.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-284
+RC   [1]
+RA   Jurka J., Milosavljevic A.;
+RT   "Reconstruction and analysis of human Alu genes";
+RL   J. Mol. Evol. 32, 105-121 (1991)
+XX
+CC   .
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 284 BP; 64 A; 80 C; 95 G; 45 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggtgga        60
+     tcacctgagg tcaggagttc gagaccagcc tggccaacat ggtgaaaccc cgtctctact       120
+     aaaaatacaa aaattagccg ggcgtggtgg cgggcgcctg taatcccagc tactcgggag       180
+     gctgaggcag gagaatcgct tgaacccggg aggcggaggt tgcagtgagc cgagatcgcg       240
+     ccactgcact ccagcctggg caacaagagc gaaactccgt ctca                        284
+//
+ID   AluSx     repbase; DNA; xxx; 283 BP.
+CC   AluSx DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Sx subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Sx; AluSx.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-283
+RC   [1]
+RA   Jurka J., Milosavljevic A.;
+RT   "Reconstruction and analysis of human Alu genes";
+RL   J. Mol. Evol. 32, 105-121 (1991)
+XX
+CC   .
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 283 BP; 61 A; 82 C; 96 G; 44 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacctgagg tcaggagttc gagaccagcc tggccaacat ggtgaaaccc cgtctctact       120
+     aaaaatacaa aaattagccg ggcgtggtgg cgcgcgcctg taatcccagc tactcgggag       180
+     gctgaggcag gagaatcgct tgaacccggg aggcggaggt tgcagtgagc cgagatcgcg       240
+     ccactgcact ccagcctggg cgacagagcg agactccgtc tca                         283
+//
+ID   AluSz     repbase; DNA; xxx; 283 BP.
+CC   AluSz DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Sz subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-S; Alu-Sz; AluSz.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-283
+RC   [1]
+RA   Jurka J., Milosavljevic A.;
+RT   "Reconstruction and analysis of human Alu genes";
+RL   J. Mol. Evol. 32, 105-121 (1991)
+XX
+RN   [2]
+RP   1-283
+RC   [2] 
+RA   Jurka J.;
+RT   "Origin and evolution of Alu repetitive elements";
+RL   Molecular Biology Intelligence Unit:The impact of short interspersed
+RL   elements (SINEs) on the host genome (ed. Richard J. Maraia),
+RL   R.G. Landes Company, Austin, pp.25-41 (1995)
+XX
+CC   .
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 283 BP; 61 A; 81 C; 96 G; 45 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacttgagg tcaggagttc gagaccagcc tggccaacat ggtgaaaccc cgtctctact       120
+     aaaaatacaa aaattagccg ggcgtggtgg cgcgcgcctg taatcccagc tactcgggag       180
+     gctgaggcag gagaatcgct tgaacccggg aggcggaggt tgcagtgagc cgagatcgcg       240
+     ccactgcact ccagcctggg cgacagagcg agactccgtc tca                         283
+//
+ID   AluY      repbase; DNA; xxx; 281 BP.
+CC   AluY DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Y subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Sb; Alu-Y; AluY.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-281
+RC   [1]
+RA   Willard C., Nguyen H.T., Schmid C.W.;
+RT   "Existence of at least three distinct Alu subfamilies";
+RL   J. Mol. Evol. 26, 180-186 (1987)
+XX
+RN   [2]
+RP   1-281
+RC   [2]
+RA   Jurka J., Smith T.;
+RT   "A fundamental division in the Alu family of repeated sequences";
+RL   Proc. Natl. Acad. Sci. USA 85, 4775-4778 (1988)
+XX
+RN   [3]
+RP   1-281
+RC   [3]
+RA   Batzer M.A., Kilroy G.E., Richard P.E., Shaikh T.H., Desselle T.D.,
+RA   Hoppens C.L., Deininger P.L.;
+RT   "Structure and variability of recently inserted Alu family members";
+RL   Nucleic Acids Res. 18, 6793-6798 (1990)
+XX
+CC   .
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 281 BP; 61 A; 80 C; 98 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgtggtggc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagatcgcgc       240
+     cactgcactc cagcctgggc gacagagcga gactccgtct ca                          282
+//
+ID   AluYa5    repbase; DNA; xxx; 281 BP.
+CC   AluYa5 DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Ya5 subfamily - a consensus.
+XX
+KW   Repetitive sequence; HS; PV; Alu-Ya5; AluYa5.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-281
+RC   [1]
+RA   Deininger P.L., Slagel V.K.;
+RT   "Recently amplified Alu family members share a common parental
+RT   Alu sequence";
+RL   Mol. Cell. Biol. 8, 4566-4569 (1988)
+XX
+RN   [2]
+RP   1-281
+RC   [2]
+RA   Batzer M.A., Kilroy G.E., Richard P.E., Shaikh T.H., Desselle T.D.,
+RA   Hoppens C.L., Deininger P.L.;
+RT   "Structure and variability of recently inserted Alu family members";
+RL   Nucleic Acids Res. 18, 6793-6798 (1990)
+XX
+RN   [3]
+RP   1-281
+RC   [3]
+RA   Matera A.G., Hellmann U., Schmid C.W.;
+RT   "A transpositionally and transcriptionally competent Alu subfamily.";
+RL   Mol. Cell. Biol. 10, 5424-5432 (1990)
+XX
+CC   .
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 281 BP; 63 A; 80 C; 96 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcccg gctaaaacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgtagtggc gggcgcctgt agtcccagct acttgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagatcccgc       240
+     cactgcactc cagcctgggc gacagagcga gactccgtct ca                          282
+//
+ID   AluYa8    repbase; DNA; xxx; 280 BP.
+CC   AluYa8 DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Ya8 subfamily - a consensus.
+XX
+KW   Repetitive sequence; HS-2; PV-minor; Alu-Ya8; AluYa8.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-280
+RC   [1]
+RA   Batzer M.A., Kilroy G.E., Richard P.E., Shaikh T.H., Desselle T.D.,
+RA   Hoppens C.L., Deininger P.L.;
+RT   "Structure and variability of recently inserted Alu family members";
+RL   Nucleic Acids Res. 18, 6793-6798 (1990)
+XX
+CC   .
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 280 BP; 62 A; 80 C; 96 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcccg gctaaaacgg tgaaaccccg tctctactaa       120
+     aactacaaaa aatagccggg cgtagtggcg ggcgcctgta gtcctagcta cttgggaggc       180
+     tgaggcagga gaatggcgtg aacccgggag gcggagcttg cagtgagccg agatcccgcc       240
+     actgcactcc agcctgggcg acagagcgag actccgtctc a                           281
+//
+ID   AluYb8    repbase; DNA; xxx; 288 BP.
+CC   AluYb8 DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Alu-Yb8 subfamily - a consensus.
+XX
+KW   Repetitive sequence; Sb2; Alu-Yb8; AluYb8.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-288
+RC   [1]
+RA   Jurka J.;
+RT   "A new subfamily of recently retroposed Alu repeats";
+RL   Nucleic Acids Res. 21, 2252 (1993)
+XX
+RN   [2]
+RP   1-288
+RC   [2]
+RA   Hutchinson G.B., Andrew S.E., McDonald H., Goldberg Y.P., Graharn R.,
+RA   Rommens J.R., Hayden M.R.;
+RT   "An Alu element retroposition in two families with Huntington disease
+RT   defines a new active Alu subfamily";
+RL   Nucleic Acids Res. 21, 3379-3383 (1993)
+XX
+CC   .
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 288 BP; 63 A; 79 C; 101 G; 45 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggtgga        60
+     tcatgaggtc aggagatcga gaccatcctg gctaacaagg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgcggtggc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga agcggagctt gcagtgagcc gagattgcgc       240
+     cactgcagtc cgcagtccgg cctgggcgac agagcgagac tccgtctca                   289
+//
+ID   AluYb9    repbase; DNA; xxx; 282 BP.
+CC   AluYb9 DNA
+XX
+AC   ;
+XX
+DT   20-NOV-2001 (Rel. 1.0, Created)
+DT   20-NOV-2001 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   AluYb9 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluSb2; AluYb8; AluYb9.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-282
+RC   [1] (bases 1 to 282)
+RA   Roy-Engel A.M., Carrol M.L., Vogel E., Garber R.K., Nguyen S.V.,
+RA   Salem A.-H., Batzer M.A., Deininger P.L.;
+RT   "Alu insertion polymorphism for the study of human genomic diversity.";
+RL   Genetics 159: 279-290 (2001).
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 64 A; 78 C; 98 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggtgga        60
+     tcatgaggtc aggagatcga gaccatcctg gctaacaagg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgcggtggc gggcgcctgt agtcccagct actggggagg       180
+     ctgaggcagg agaatggcgt gaacccggga agcggagctt gcagtgagcc gagattgcgc       240
+     cactgcagtc cgcagtccgg cctgggcgac agagcgagac tccgtctca                   289
+//
+ID   AluYc1    repbase; DNA; xxx; 282 BP.
+CC   AluYc1 DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-NOV-2001 (Rel. 1.0, Last updated, Version 2)
+XX
+DE   AluYc1 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluSb0; AluYa1; AluYc1.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-282
+RC   [1] (bases 1 to 282)
+RA   Jurka J.;
+RT   "Origin and evolution of Alu repetitive elements";
+RL   Molecular Biology Intelligence Unit:The impact of short interspersed
+RL   elements (SINEs) on the host genome (ed. Richard J. Maraia),
+RL   R.G. Landes Company, Austin, pp.25-41 (1995)
+XX
+RN   [2]
+RP   1-282
+RC   [2]
+RA   Roy-Engel A.M., Carrol M.L., Vogel E., Garber R.K., Nguyen S.V.,
+RA   Salem A.-H., Batzer M.A., Deininger P.L.;
+RT   "Alu insertion polymorphism for the study of human genomic diversity.";
+RL   Genetics 159: 279-290 (2001).
+XX
+CC   Original name AluSb0 changed to AluYa1 by [1].
+CC   Name changed from AluYa1 to AluYc1 by [2].
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 63 A; 80 C; 97 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgtggtagc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagatcgcgc       240
+     cactgcactc cagcctgggc gacagagcga gactccgtct ca                          282
+//
+ID   AluYc2    repbase; DNA; xxx; 282 BP.
+CC   AluYc2 DNA
+XX
+AC   ;
+XX
+DT   20-NOV-2001 (Rel. 1.0, Created)
+DT   20-NOV-2001 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   AluYc2 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluSb0; AluYa1; AluYc1; AluYc2.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-282
+RC   [1] (bases 1 to 282)
+RA   Roy-Engel A.M., Carrol M.L., Vogel E., Garber R.K., Nguyen S.V.,
+RA   Salem A.-H., Batzer M.A., Deininger P.L.;
+RT   "Alu insertion polymorphism for the study of human genomic diversity.";
+RL   Genetics 159: 279-290 (2001).
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 64 A; 79 C; 97 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacaagg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgtggtagc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagatcgcgc       240
+     cactgcactc cagcctgggc gacagagcga gactccgtct ca                          282
+//
+ID   AluYd2    repbase; DNA; xxx; 270 BP.
+CC   AluYd2 DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-NOV-2001 (Rel. 1.0, Last updated, Version 3)
+XX
+DE   AluYd2 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYb1; AluYc, AluYd2.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-270
+RC   [1]  (bases 1 to 270)
+RA   Jurka J.;
+RT   ".";
+RL   Direct submission, 1997
+XX
+RN   [2]
+RP   1-270
+RC   [2]  (bases 1 to 270)
+RA   Smit A.F.A.;
+RT   ".";
+RL   (Update 2001)
+XX
+CC   Arian Smit corrected one bp and renamed AluYb1 to AluYc. However,
+CC   another subfamily AluSb0 was renamed to AluYc1 in the literature. 
+CC   To avoid overlaps we rename AluYc subfamily to AluYd2. AluYd2 differs 
+CC   from AluY at 2 positions.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 270 BP; 59 A; 77 C; 96 G; 38 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccacggtg aaaccccgtc tctactaaaa atacaaaaaa       120
+     ttagccgggc gcggtggcgg gcgcctgtag tcccagctac tcgggaggct gaggcaggag       180
+     aatggcgtga acccgggagg cggagcttgc agtgagccga gatcgcgcca ctgcactcca       240
+     gcctgggcga cagagcgaga ctccgtctca                                        270
+//
+ID   AluYd3    repbase; DNA; xxx; 270 BP.
+CC   AluYd3 DNA
+XX
+AC   ;
+XX
+DT   20-NOV-2001 (Rel. 1.0, Created)
+DT   20-NOV-2001 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   AluYd3 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYb1; AluYc; AluYc3; AluYc2; AluYd3.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-270
+RC   [1]  (bases 1 to 270)
+RA   Jurka J.;
+RT   ".";
+RL   Direct submission (November 19, 2001)
+XX
+CC   Subfamily AluYd3 differs at 3 positions from AluY.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 270 BP; 59 A; 76 C; 96 G; 39 T; 0 other;
+     ggccgggcgc ggtggctcac gcttgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccacggtg aaaccccgtc tctactaaaa atacaaaaaa       120
+     ttagccgggc gcggtggcgg gcgcctgtag tcccagctac tcgggaggct gaggcaggag       180
+     aatggcgtga acccgggagg cggagcttgc agtgagccga gatcgcgcca ctgcactcca       240
+     gcctgggcga cagagcgaga ctccgtctca                                        270
+//
+ID   AluYd3a1  repbase; DNA; xxx; 271 BP.
+CC   AluYd3a1 DNA
+XX
+AC   ;
+XX
+DT   15-MAR-2001 (Rel. 1.0, Created)
+DT   20-NOV-2001 (Rel. 1.0, Last updated, Version 2)
+XX
+DE   AluYd3a1 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYb1; AluYc; AluYc3; AlyYc2; AluYd3a1.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-271
+RC   [1]  (bases 1 to 271)
+RA   Smit A.F.A.;
+RT   ".";
+RL   (Submitted 2001)
+XX
+RN   [2]
+RP   1-271
+RC   [2]
+RA   Jurka J.;
+RT   ".";
+RL   (Update 2001)
+XX
+CC   Subfamily AluYd3 differs at 3 positions from AluY and has a single
+CC   "A" insertion after position 164. Therefore it is classified
+CC   as a variant of AluYd3 and renamed to AluYd3a1 [2].
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 271 BP; 60 A; 76 C; 96 G; 39 T; 0 other;
+     ggccgggcgc ggtggctcac gcttgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccacggtg aaaccccgtc tctactaaaa atacaaaaaa       120
+     ttagccgggc gcggtggcgg gcgcctgtag tcccagctac tcggagaggc tgaggcagga       180
+     gaatggcgtg aacccgggag gcggagcttg cagtgagccg agatcgcgcc actgcactcc       240
+     agcctgggcg acagagcgag actccgtctc a                                      271
+//
+ID   AluYd8    repbase; DNA; xxx; 270 BP.
+CC   AluYd8 DNA
+XX
+AC   ;
+XX
+DT   15-MAR-2001 (Rel. 1.0, Created)
+DT   20-NOV-2001 (Rel. 1.0, Last updated, Version 2)
+XX
+DE   AluYd8 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYb1; AluYc; AluYc5; ALUYc6; AluYd8.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-270
+RC   [1]
+RA   Smit A.F.A.;
+RT   ".";
+RL   (Submitted 2001)
+XX
+RN   [2]
+RP   1-270
+RC   [2]  (bases 1 to 270)
+RA   Jurka J.;
+RT   ".";
+RL   (Update 2001)
+XX
+CC   The consensus originally called AluYc5 by A.F.A. Smit
+CC   differs from AluY at 8 positions. The consensus was 
+CC   revised and renamed by [2].
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 270 BP; 62 A; 77 C; 94 G; 37 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccacggtg aaaccccgtc tctactaaaa atacaaaaaa       120
+     ttagccgggc gcagtggcgg gcgcctgtag tcccagctac tcgggaggct gaggcaggag       180
+     aatggcgtga acccggaagg cggagcttgc agtgagcgga gatcgcgcca cagcactccc       240
+     gcctgggcga cagaacgaga ctccgtctca                                        270
+//
+ID   AluYe     repbase; DNA; xxx; 281 BP.
+CC   AluYe DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-NOV-2001 (Rel. 1.0, Last updated, Version 2)
+XX
+DE   AluYe subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Yb5; AluYb5; AluYe.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-281
+RC   [1]  (bases 1 to 281)
+RA   Jurka J.;
+RT   ".";
+RL   Direct submission (February 03, 1998)
+XX
+CC   Differs from other Y subfamilies at the following positions, relative
+CC   to ALU-Sx consensus sequence: A145, extra C after 205, G211, C220, AG
+CC   deletion at positions 267-268. The youngest copy found to date is at
+CC   Genbank locus Z69705 (2826-3110).
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 281 BP; 61 A; 82 C; 98 G; 40 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgaggtggc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaaccccggg gggcggagcc tgcagtgagc cgagatcgcg       240
+     ccactgcact ccagcctggg cgacagcgag actccgtctc a                           281
+//
+ID   LTR26B    repbase; DNA; xxx; 531 BP.
+CC   LTR26B DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   LTR from human endogenous retrovirus-like sequence.
+XX
+KW   Long terminal repeat; MER4I-group; LTR26; LTR26B.
+XX
+OS   Homo sapiens (human)
+CC   human
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Mammalia;
+OC   Theria; Eutheria; Primates; Haplorhini; Catarrhini; Hominidae.
+XX
+RN   [1]
+RP   1-531
+RC   [1]  (bases 1 to 531)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (August 1998)
+XX
+CC   LTR26B is a subfamily of LTR26.
+CC   The average identity of LTR26B sequences to the consensus sequence
+CC   is about 88%.
+CC   There is 71% identity between LTR26B and LTR26 consensus sequences.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 531 BP; 146 A; 148 C; 94 G; 143 T; 0 other;
+     tgaagccatc ctcacagggt taacaagaat tctggacaga aatatagtta taattaagca        60
+     ttaatcaggc tgcactttga cccacttcct tgtaaccaaa agtcacataa cactagatac       120
+     tgaccatttg catccccatt gttcctatag ataggatttc tgacgttaga atcataaggc       180
+     ttttgtttaa gaattgctta agcagatcct gaattccagt ggaacagctg acgccaacca       240
+     gtttgaagac ccccacagag gaaccgaatc agcatgagaa tacagtttct tcatctccct       300
+     gtcccatgac ttcaccctgc actcttcgac caatcaatga tctccacact tcggcccact       360
+     ccaaaacctt taaaaaccct agccccaaac tcctcgggga gatggatttg aggtttcctc       420
+     ccatctcctc attcggcggc cctacgatta aacctctttc tctgctgcaa cctggtgtct       480
+     cggcgtattg acttgccgtg tgcatcgggc aacgaaccta ttacggttac a                531
+//
+ID   LTR26C    repbase; DNA; xxx; 539 BP.
+CC   LTR26C DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   LTR from human endogenous retrovirus-like sequence.
+XX
+KW   Long terminal repeat; MER4I-group; LTR26; LTR26C.
+XX
+OS   Homo sapiens (human)
+CC   human
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Mammalia;
+OC   Theria; Eutheria; Primates; Haplorhini; Catarrhini; Hominidae.
+XX
+RN   [1]
+RP   1-539
+RC   [1]  (bases 1 to 539)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (August 1998)
+XX
+CC   LTR26C is a subfamily of LTR26.
+CC   The average identity of LTR26C sequences to its consensus sequence
+CC   is about 88%.
+CC   There is 71% identity between LTR26C and LTR26 consensus sequences.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 539 BP; 147 A; 149 C; 95 G; 148 T; 0 other;
+     tgaagccgtc ctcatagggt taacaagaat tctggacaga aatatagtta taattaagca        60
+     ttaatcaggc tgcactttga cccacttcct tgtaactgaa agtcacgtag cactagatac       120
+     tgaccatttg catccccatt gttcctatag ataggatttc tgacattaga atcataaggc       180
+     ttttgtttaa gaattgctta agatattttt cagatcccga attccagcga aacagctgat       240
+     gccaaccagt ttgaagaccc ccacagagga accgaatcag catgagaata cagtttcttc       300
+     atctccctgt cccatgactt caccctgcac tcttcgacca atcaacgatc tccacacttc       360
+     ggcccactcc aaaaccctta aaaaccctag ccccaaactc ctcggggaga cggatttgag       420
+     gtttcctccc atctcctcat tcggcagccc tacgattaaa cctctttctc tgctgcaacc       480
+     tggtgtctcg gtgtattgac ttgccgtgtg catcgggcaa cgaacctatt acggttaca        539
+//
+ID   LTR26D    repbase; DNA; xxx; 604 BP.
+CC   LTR26D DNA
+XX
+AC   ;
+XX
+DT   20-AUG-1998 (Rel. 1.0, Created)
+DT   20-AUG-1998 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   LTR from human endogenous retrovirus-like sequence.
+XX
+KW   Long terminal repeat; MER4I-group; LTR26; LTR26D.
+XX
+OS   Homo sapiens (human)
+CC   human
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Mammalia;
+OC   Theria; Eutheria; Primates; Haplorhini; Catarrhini; Hominidae.
+XX
+RN   [1]
+RP   1-604
+RC   [1]  (bases 1 to 604)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (August 1998)
+XX
+CC   LTR26D is a subfamily of LTR26.
+CC   The average identity of LTR26D sequences to its consensus sequence
+CC   is about 88%.
+CC   There is 70% identity between LTR26D and LTR26 consensus sequences.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 604 BP; 161 A; 161 C; 110 G; 172 T; 0 other;
+     tgaaaccatc cccacagggt tgacaagaat tgcatgccag gttctggaca gaaatatagt        60
+     tataattaag cattaatcag gctgcactct ggcccacttc cttgttgcta aaagtcacgt       120
+     agcactagat actgaccatt tgcatcccca ttgttcctat agataggatt tctgacatta       180
+     gggtcatagg actgtttaag aattgatttg catccccatt gttcctatag acaggatctc       240
+     tgacattaga atcataaggc ttttgtttaa gaatcgctta agatgttttt cagacctcaa       300
+     attccagcaa ccagtttgaa gacccccaca gaggaacggg atcagcatga gaatacagct       360
+     tcttcatctc cctgtcccat gacttcaccc tgcactcttc gaccaatcaa cgatctccac       420
+     acttcggccc actccaaaac ccttaaaaac cctagcccca aattcctcgg ggagatggat       480
+     ttgaggtttc ctcccatctc ctcattcagt gaccctacga ttaaacctct ttctctgctg       540
+     caacctggtg tctcggcgta ttgacttgct gtgtgcatcg ggcaatgaac ctattacggt       600
+     taca                                                                    604
+//
+ID   AluYa1    repbase; DNA; xxx; 282 BP.
+CC   AluYa1 DNA
+XX
+AC   ;
+XX
+DT   09-SEP-2002 (Rel. 1.1, Created)
+DT   09-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYa1 subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Y; AluYa1.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-282
+RC   [1]
+RA   Jurka J., Krnjajic M., Kapitonov V., Stenger J.E., Kokhanyy O.;
+RT   "Active Alu elements are passed primarily through paternal germlines.";
+RL   Theor. Popul. Biol. 2002 Jun;61(4):519-30.
+RL   PUBMED  12167372
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 62 A; 81 C; 97 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgtggtggc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagatcccgc       240
+     cactgcactc cagcctgggc gacagagcga gactccgtct ca                          282
+//
+ID   AluYa4    repbase; DNA; xxx; 282 BP.
+CC   AluYa4 DNA
+XX
+AC   ;
+XX
+DT   09-SEP-2002 (Rel. 1.1, Created)
+DT   09-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYa4 subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Y; AluYa4.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-282
+RC   [1]
+RA   Jurka J., Krnjajic M., Kapitonov V., Stenger J.E., Kokhanyy O.;
+RT   "Active Alu elements are passed primarily through paternal germlines.";
+RL   Theor. Popul. Biol. 2002 Jun;61(4):519-30.
+RL   PUBMED  12167372
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 64 A; 79 C; 97 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcccg gctaaaacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgtagtggc gggcgcctgt agtcccagct acttgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagatcgcgc       240
+     cactgcactc cagcctgggc gacagagcga gactccgtct ca                          282
+//
+ID   AluYb3a1  repbase; DNA; xxx; 282 BP.
+CC   AluYb3a1 DNA
+XX
+AC   ;
+XX
+DT   09-SEP-2002 (Rel. 1.1, Created)
+DT   09-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYb3a1 subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Y; AluYb3a1.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-282
+RC   [1]
+RA   Jurka J., Krnjajic M., Kapitonov V., Stenger J.E., Kokhanyy O.;
+RT   "Active Alu elements are passed primarily through paternal germlines.";
+RL   Theor. Popul. Biol. 2002 Jun;61(4):519-30.
+RL   PUBMED  12167372
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 62 A; 77 C; 99 G; 44 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggtgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgtggtggc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagattgcgc       240
+     cactgcagtc cagcctgggc gacagagcga gactccgtct ca                          282
+//
+ID   AluYb3a2  repbase; DNA; xxx; 282 BP.
+CC   AluYb3a2 DNA
+XX
+AC   ;
+XX
+DT   09-SEP-2002 (Rel. 1.1, Created)
+DT   09-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYb3a2 subfamily - a consensus.
+XX
+KW   Repetitive sequence; Alu-Y; AluYb3a2.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-282
+RC   [1]
+RA   Jurka J., Krnjajic M., Kapitonov V., Stenger J.E., Kokhanyy O.;
+RT   "Active Alu elements are passed primarily through paternal germlines.";
+RL   Theor. Popul. Biol. 2002 Jun;61(4):519-30.
+RL   PUBMED  12167372
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 63 A; 78 C; 100 G; 41 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgcggtggc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagatagcgc       240
+     cactgcagtc cggcctgggc gaaagagcga gactccgtct ca                          282
+//
+ID   AluYe5    repbase; DNA; xxx; 281 BP.
+CC   AluYe5 DNA
+XX
+AC   ;
+XX
+DT   09-SEP-2002 (Rel. 1.1, Created)
+DT   09-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYe5 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYe; AluYe5.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-281
+RC   [1]
+RA   Jurka J., Krnjajic M., Kapitonov V., Stenger J.E., Kokhanyy O.;
+RT   "Active Alu elements are passed primarily through paternal germlines.";
+RL   Theor. Popul. Biol. 2002 Jun;61(4):519-30.
+RL   PUBMED  12167372
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 281 BP; 61 A; 82 C; 98 G; 40 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgaggtggc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaaccccggg gggcggagcc tgcagtgagc cgagatcgcg       240
+     ccactgcact ccagcctggg cgacagcgag actccgtctc a                           281
+//
+ID   AluYf1    repbase; DNA; xxx; 282 BP.
+CC   AluYf1 DNA
+XX
+AC   ;
+XX
+DT   09-SEP-2002 (Rel. 1.1, Created)
+DT   09-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYf1 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYf; AluYf1.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-282
+RC   [1]
+RA   Jurka J., Krnjajic M., Kapitonov V., Stenger J.E., Kokhanyy O.;
+RT   "Active Alu elements are passed primarily through paternal germlines.";
+RL   Theor. Popul. Biol. 2002 Jun;61(4):519-30.
+RL   PUBMED  12167372
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 62 A; 80 C; 99 G; 41 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgtggtggc gggcgcctgt agtcccagct acgcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagatcgcgc       240
+     cactgcactc cagcctgggc gacagagcga gactccgtct ca                          282
+//
+ID   AluYg6    repbase; DNA; xxx; 282 BP.
+CC   AluYg6 DNA
+XX
+AC   ;
+XX
+DT   09-SEP-2002 (Rel. 1.1, Created)
+DT   09-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYg6 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYg; AluYg6.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-282
+RC   [1]
+RA   Jurka J., Krnjajic M., Kapitonov V., Stenger J.E., Kokhanyy O.;
+RT   "Active Alu elements are passed primarily through paternal germlines.";
+RL   Theor. Popul. Biol. 2002 Jun;61(4):519-30.
+RL   PUBMED  12167372
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 66 A; 80 C; 94 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga gacgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcatggtggc gcgcgcctgt agtcccagct acacgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagtc gagatcgcgc       240
+     cactgcactc cagcctgggc gacagagcga aactccgtct ca                          282
+//
+ID   AluYh9    repbase; DNA; xxx; 282 BP.
+CC   AluYh9 DNA
+XX
+AC   ;
+XX
+DT   09-SEP-2002 (Rel. 1.1, Created)
+DT   09-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYh9 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYh; AluYh9.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-282
+RC   [1]
+RA   Jurka J., Krnjajic M., Kapitonov V., Stenger J.E., Kokhanyy O.;
+RT   "Active Alu elements are passed primarily through paternal germlines.";
+RL   Theor. Popul. Biol. 2002 Jun;61(4):519-30.
+RL   PUBMED  12167372
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 282 BP; 59 A; 79 C; 102 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggcaga ggcgggcgga        60
+     tcatgaggtc aggagatcga gaccatcctg gctaacgcgg tgaaaccccg cctctactaa       120
+     aaatacaaaa aattagccgg gcgtggtggc gggcgcctgt ggtcccggct actcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagct gaggtcgcgc       240
+     cactgcaccc cagcctgggc gacagagcga gactccgtct ca                          282
+//
+ID   AluYi6    repbase; DNA; xxx; 283 BP.
+CC   AluYi6 DNA
+XX
+AC   ;
+XX
+DT   09-SEP-2002 (Rel. 1.1, Created)
+DT   09-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYi6 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYi; AluYi6.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-283
+RC   [1]
+RA   Jurka J., Krnjajic M., Kapitonov V., Stenger J.E., Kokhanyy O.;
+RT   "Active Alu elements are passed primarily through paternal germlines.";
+RL   Theor. Popul. Biol. 2002 Jun;61(4):519-30.
+RL   PUBMED  12167372
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 283 BP; 63 A; 80 C; 96 G; 44 T; 0 other;
+     ggccgggcgc ggtggctcac gcttgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aaattagccg ggcgtgatgg cgggcgcctg tagtcccagc tactcgggag       180
+     gctgaggcag gagaatggcg tgaacccggg aggcggagct tgcagtgagc cgagattgcg       240
+     ccactgcact cccgcctggg ccacagagcg agactccgtc tca                         283
+//
+ID   AluYbc3a  repbase; DNA; xxx; 283 BP.
+CC   AluYbc3a DNA
+XX
+AC   ;
+XX
+DT   13-SEP-2002 (Rel. 1.1, Created)
+DT   13-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYbc3a: possible hybrid of AluYb3a and AluYc1 subfamilies -
+DE   a consensus.
+XX
+KW   Repetitive sequence; AluYb3a; AluYc1; AluYbc3a.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-283
+RC   [1]
+RA   Jurka J.;
+RT   "AluYbc3a: Alu Y sub(sub)family repetitive sequence from Homo sapiens.";
+RL   Repbase Reports 2:(8) p. 3 (2002)
+XX
+CC   Active subfamily: 50-100 copies in the genome.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 283 BP; 67 A; 77 C; 97 G; 42 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aaattagccg ggcgtggtag cgggcgcctg tagtcccagc tactcgggag       180
+     gctgaggcag gagaatggcg tgaacccggg aggcggagct tgcagtgagc caagatagcg       240
+     ccactgcagt ccagcctggg cgaaagagcg agactccgtc tca                         283
+//
+ID   AluYe2    repbase; DNA; xxx; 280 BP.
+CC   AluYe2 DNA
+XX
+AC   ;
+XX
+DT   13-SEP-2002 (Rel. 1.1, Created)
+DT   13-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYe2 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYe; AluYe2.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-280
+RC   [1]
+RA   Jurka J.;
+RT   "AluYe2: Alu Y sub(sub)family repetitive sequence from Homo sapiens.";
+RL   Repbase Reports 2:(8) p. 4 (2002)
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 280 BP; 62 A; 80 C; 97 G; 41 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacgg tgaaaccccg tctctactaa       120
+     aaatacaaaa aattagccgg gcgaggtggc gggcgcctgt agtcccagct actcgggagg       180
+     ctgaggcagg agaatggcgt gaacccggga ggcggagctt gcagtgagcc gagatcgcgc       240
+     cactgcactc cagcctgggc gacagcgaga ctccgtctca                             280
+//
+ID   AluYf2    repbase; DNA; xxx; 284 BP.
+CC   AluYf2 DNA
+XX
+AC   ;
+XX
+DT   13-SEP-2002 (Rel. 1.1, Created)
+DT   13-SEP-2002 (Rel. 1.1, Last updated, Version 1)
+XX
+DE   AluYf2 subfamily - a consensus.
+XX
+KW   Repetitive sequence; AluYf; AluYf2.
+XX
+OS   Homo sapiens (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo 
+XX
+RN   [1]
+RP   1-284
+RC   [1]
+RA   Jurka J.;
+RT   "AluYf2: Alu Y sub(sub)family repetitive sequence from Homo sapiens.";
+RL   Repbase Reports 2:(8) p. 5 (2002)
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 284 BP; 65 A; 81 C; 98 G; 40 T; 0 other;
+     ggccgggcgc ggtggctcac gcctgtaatc ccagcacttt gggaggccga ggcgggcgga        60
+     tcacgaggtc aggagatcga gaccatcctg gctaacacag tgaaaccccg tctctactaa       120
+     aaaacacaaa aaaattagcc gggcgtggtg gcgggcgcct gtagtcccag ctacgcggga       180
+     ggctgaggca ggagaatggc gtgaacccgg gaggcggagc ttgcagtgag ccgagatcgc       240
+     gccactgcac tccagcctgg gcgacagagc gagactccgt ctca                        284
+//

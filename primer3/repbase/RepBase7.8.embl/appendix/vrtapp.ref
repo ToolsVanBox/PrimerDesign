@@ -1,0 +1,1037 @@
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+CC                                                               *
+CC   REPBASE UPDATE                                              *
+CC   (C) 1997-2002  Genetic Information Research Institute       *
+CC   All rights reserved                                         *
+CC                                                               *
+CC   A REFERENCE COLLECTION OF VERTEBRATE REPETITIVE ELEMENTS    *
+CC   (AN APPENDIX)                                               *
+CC                                                               *
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+XX
+ID   PSLINE    repbase; DNA; VRT; 388 BP.
+CC   PSLINE DNA
+XX
+AC   D82939;
+XX
+DT   10-APR-1997 (Rel. 3.0, Created)
+DT   10-APR-1997 (Rel. 3.0, Last updated, Version 1)
+XX
+DE   Platemys spixii CR1-like LINE, partial sequence.
+XX
+KW   Retrotransposon; CR1-like LINE.
+XX
+OS   Platemys spixii
+CC   Platemys spixii DNA, clone:4-2(Ps).
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Testudines; Pleurodira; Chelidae; Platemys.
+XX
+RN   [1]
+RP   1-388
+RC   [1]  (bases 1 to 388)
+RA   Okada N.;
+RT   "Direct Submission";
+RL   Submitted (05-JAN-1996) to the DDBJ/EMBL/GenBank databases.
+RL   Norihiro Okada, Tokyou Institute of Technology, Faculty of
+RL   Bioscience and Biotechnology; 4259 Nagatsuta-cho, Midori-ku,
+RL   Yokohama, Kanagawa 227, Japan (E-mail:nokada@bio.titech.ac.jp,
+RL   Tel:81-45-923-1136, Fax:81-45-923-1136)
+XX
+RN   [2]
+RP   1-388
+RC   [2]  (bases 1 to 388)
+RA   Ohshima K., Hamada M., Terai Y., Okada N.;
+RT   "The 3' ends of tRNA-derived short interspersed repetitive elements
+RT   are derived from the 3' ends of long interspersed repetitive
+RT   elements";
+RL   Mol. Cell. Biol. 16 (7), 3756-3764 (1996)
+RX   MEDLINE; 96251325.
+XX
+CC   3' end of LINE, CR1 like.
+CC   291-351 portion of PSLINE is similar to GRTE9 (116-179).
+XX
+DR   GENBANK; D82939; 97.0.
+CC   Positions       1     388  Accession No D82939        GenBank (rel. 97.0)
+XX
+SQ   Sequence 388 BP; 101 A; 68 C; 119 G; 100 T; 0 other;
+     ctgcagaaga gaaaaatgag gggggatttg atagcagcct ttaactaccc aaaagggggt        60
+     tccagggagg atggagctaa gctgttttca gaggtggcag atgacagaac aaggaacaat       120
+     ggtctcaagt tgcagtgggc gaggtctagg ttggacatta ggaaaaagtt tttcactagg       180
+     agggtggtga agcattggaa taggttacct agggaggtgg tggcatctct accttagagg       240
+     ttattaagct gcggcttgac aaaaccctcg ctgggatgat ttagctaggg ttggtcctgc       300
+     tttgagcagg gggttggact agatgacctt ctgaggtccc ttccaattct aatattctat       360
+     gattctctga catggcatgc cacatccg                                          388
+//
+ID   REM1_XL   repbase; DNA; VRT; 125 BP.
+CC   REM1_XL DNA
+XX
+AC   X00678;
+XX
+DT   10-APR-1997 (Rel. 3.0, Created)
+DT   10-APR-1997 (Rel. 3.0, Last updated, Version 1)
+XX
+DE   Xenopus laevis REM 1 sequence (repetitive Eco RI Monomers).
+XX
+KW   Inverted repeat; repetitive sequence; XLECORI.
+XX
+OS   Xenopus laevis
+CC   clawed frog
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Amphibia;
+OC   Lissamphibia; Anura; Archeobatrachia; Pipoidea; Pipidae.
+XX
+RN   [1]
+RP   1-125
+RC   [1]  (bases 1 to 497)
+RA   Hummel S., Meyerhof W., Korge E., Knoechel W.;
+RT   "Characterization of highly and moderately repetitive 500 bp Eco RI
+RT   fragments from Xenopus laevis DNA";
+RL   Nucleic Acids Res. 12, 4921-4938 (1984)
+XX
+DR   GENBANK; X00678; 77.0.
+CC   Positions       1     125  Accession No X00678        GenBank (rel. 77.0)
+XX
+SQ   Sequence 125 BP; 38 A; 26 C; 20 G; 41 T; 0 other;
+     gaattctgca ctgaaatcca tttctcaaaa gagcaaacag atttttttat attcaatttt        60
+     gaaatctgac atggggctag acatattgtc aatttcccag ctgccccaag tcatgtaact       120
+     tgtgc                                                                   125
+//
+ID   TOL2_OL   repbase; DNA; VRT; 4681 BP.
+CC   TOL2_OL DNA
+XX
+AC   D84375;
+XX
+DT   21-APR-1997 (Rel. 3.0, Created)
+DT   21-APR-1997 (Rel. 3.0, Last updated, Version 1)
+XX
+DE   DNA transposon Tol2.
+XX
+KW   Tol2; DNA transposon.
+XX
+OS   Oryzias latipes
+CC   Oryzias latipes (strain:i4) DNA, clone:Tol2-tyr.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Actinopterygii; Neopterygii; Teleostei; Euteleostei;
+OC   Acanthopterygii; Atherinomorpha; Cyprinodontiformes;
+OC   Adrianichthyoidei; Adrianichthyidae; Oryziinae; Oryzias.
+XX
+RN   [1]
+RP   1-4681
+RC   [1]  (bases 1 to 4681)
+RA   Hori H.;
+RT   "Direct Submission";
+RL   Submitted (10-APR-1996) to the DDBJ/EMBL/GenBank databases. Hiroshi
+RL   Hori, Nagoya University, Division of Biological Science; Furo-cho,
+RL   Chikusa-ku, Nagoya, Aichi 464-01, Japan
+RL   (E-mail:hori@bio.nagoya-u.ac.jp, Tel:052-789-2504,
+RL   Fax:052-789-2974)
+XX
+RN   [2]
+RP   1-4681
+RC   [2]  (sites)
+RA   Koga A., Suzuki M., Inagaki H., Bessho Y., Hori H.;
+RT   "Transposable element in fish";
+RL   Nature 383 (6595), 30 (1996)
+XX
+CC   repeat_unit     1..19
+CC                   /note="5' terminal inverted repeat"
+CC   repeat_unit     4665..4681
+CC                   /note="3' terminal inverted repeat"
+CC   CDS             320..673
+CC                   /note="ORF1"
+CC   repeat_unit     1433..1734
+CC                   /note="internal inverted repeat"
+CC   repeat_unit     1785..2087
+CC                   /note="internal inverted repeat"
+CC   CDS             2167..3225
+CC                   /note="ORF2"
+CC   CDS             3323..3631
+CC                   /note="ORF3"
+CC   CDS             4013..4369
+CC                   /note="ORF4"
+XX
+DR   GENBANK; D84375; 99.0.
+CC   Positions       1    4681  Accession No D84375        GenBank (rel. 99.0)
+XX
+SQ   Sequence 4681 BP; 1401 A; 880 C; 874 G; 1526 T; 0 other;
+     cagaggtgta aagtacttga gtaattttac ttgattactg tacttaagta ttatttttgg        60
+     ggatttttac tttacttgag tacaattaaa aatcaatact tttactttta cttaattaca       120
+     tttttttaga aaaaaaagta ctttttactc cttacaattt tatttacagt caaaaagtac       180
+     ttattttttg gagatcactt cattctattt tcccttgcta ttaccaaacc aattgaattg       240
+     cgctgatgcc cagtttaatt taaatgttat ttattctgcc tatgaaaatc gttttcacat       300
+     tatatgaaat tggtcagaca tgttcattgg tcctttggaa gtgacgtcat gtcacatcta       360
+     ttaccacaat gcacagcacc ttgacctgga aattagggaa attataacag tcaatcagtg       420
+     gaagaaaatg gaggaagtat gtgattcatc agcagctgcg agcagcacag tccaaaatca       480
+     gccacaggat caagagcacc cgtggccgta tcttcgcgaa ttcttttctt taagtggtgt       540
+     aaataaagat tcattcaaga tgaaatgtgt cctctgtctc ccgcttaata aagaaatatc       600
+     ggccttcaaa agttcgccat caaacctaag gaagcatatt gaggtaagta cattaagtat       660
+     tttgttttac tgatagtttt tttttttttt tttttttttt tttttgggtg tgcatgtttt       720
+     gacgttgatg gcgcgccttt tatatgtgta gtaggcctat tttcactaat gcatgcgatt       780
+     gacaatataa ggctcacgta ataaaatgct aaaatgcatt tgtaattggt aacgttaggt       840
+     ccacgggaaa tttggcgcct attgcagctt tgaataatca ttatcattcc gtgctctcat       900
+     tgtgtttgaa ttcatgcaaa acacaagaaa accaagcgag aaattttttt ccaaacatgt       960
+     tgtattgtca aaacggtaac actttacaat gaggttgatt agttcatgta ttaactaaca      1020
+     ttaaataacc atgagcaata catttgttac tgtatctgtt aatctttgtt aacgttagtt      1080
+     aatagaaata cagatgttca ttgtttgttc atgttagttc acagtgcatt aactaatgtt      1140
+     aacaagatat aagtattagt aaatgttgaa attaacatgt atacgtgcag ttcattatta      1200
+     gttcatgtta actaatgtag ttaactaacg aaccttattg taaaagtgtt accatcaaaa      1260
+     ctaatgtaat gaaatcaatt caccctgtca tgtcagcctt acagtcctgt gtttttgtca      1320
+     atataatcag aaataaaatt aatgtttgat tgtcactaaa tgctactgta tttctaaaat      1380
+     caacaagtat ttaacattat aaagtgtgca attggctgca aatgtcagtt ttattaaagg      1440
+     gttagttcac ccaaaaatga aaataatgtc attaatgact cgccctcatg tcgttccaag      1500
+     cccgtaagac ctccgttcat cttcagaaca cagtttaaga tattttagat ttagtccgag      1560
+     agctttctgt gcctccattg agaatgtatg tacggtatac tgtccatgtc cagaaaggta      1620
+     ataaaaacat caaagtagtc catgtgacat cagtgggtta gttagaattt tttgaagcat      1680
+     cgaatacatt ttggtccaaa aataacaaaa cctacgactt tattcggcat tgtattctct      1740
+     tccgggtctg ttgtcaatcc gcgttcacga cttcgcagtg acgctacaat gctgaataaa      1800
+     gtcgtaggtt ttgttatttt tggaccaaaa tgtattttcg atgcttcaaa taattctacc      1860
+     taacccactg atgtcacatg gactactttg atgtttttat tacctttctg gacatggaca      1920
+     gtataccgta catacatttt cagtggaggg acagaaagct ctcggactaa atctaaaata      1980
+     tcttaaactg tgttccgaag atgaacggag gtgttacggg cttggaacga catgagggtg      2040
+     agtcattaat gacatctttt catttttggg tgaactaacc ctttaatgct gtaatcagag      2100
+     agtgtatgtg taattgttac atttattgca tacaatataa atatttattt gttgttttta      2160
+     cagagaatgc acccaaatta cctcaaaaac tactctaaat tgacagcaca gaagagaaag      2220
+     atcgggacct ccacccatgc ttccagcagt aagcaactga aagttgactc agttttccca      2280
+     gtcaaacatg tgtctccagt cactgtgaac aaagctatat taaggtacat cattcaagga      2340
+     cttcatcctt tcagcactgt tgatctgcca tcatttaaag agctgattag tacactgcag      2400
+     cctggcattt ctgtcattac aaggcctact ttacgctcca agatagctga agctgctctg      2460
+     atcatgaaac agaaagtgac tgctgccatg agtgaagttg aatggattgc aaccacaacg      2520
+     gattgttgga ctgcacgtag aaagtcattc attggtgtaa ctgctcactg gatcaaccct      2580
+     ggaagtcttg aaagacattc cgctgcactt gcctgcaaaa gattaatggg ctctcatact      2640
+     tttgaggtac tggccagtgc catgaatgat atccactcag agtatgaaat acgtgacaag      2700
+     gttgtttgca caaccacaga cagtggttcc aactttatga aggctttcag agtttttggt      2760
+     gtggaaaaca atgatatcga gactgaggca agaaggtgtg aaagtgatga cactgattct      2820
+     gaaggctgtg gtgagggaag tgatggtgtg gaattccaag atgcctcacg agtcctggac      2880
+     caagacgatg gcttcgaatt ccagctacca aaacatcaaa agtgtgcctg tcacttactt      2940
+     aacctagtct caagcgttga tgcccaaaaa gctctctcaa atgaacacta caagaaactc      3000
+     tacagatctg tctttggcaa atgccaagct ttatggaata aaagcagccg atcggctcta      3060
+     gcagctgaag ctgttgaatc agaaagccgg cttcagcttt taaggccaaa ccaaacgcgg      3120
+     tggaattcaa cttttatggc tgttgacaga attcttcaaa tttgcaaaga agcaggagaa      3180
+     ggcgcacttc ggaatatatg cacctctctt gaggttccaa tgtaagtgtt tttcccctct      3240
+     atcgatgtaa acaaatgtgg gttgtttttg tttaatactc tttgattatg ctgatttctc      3300
+     ctgtaggttt aatccagcag aaatgctgtt cttgacagag tgggccaaca caatgcgtcc      3360
+     agttgcaaaa gtactcgaca tcttgcaagc ggaaacgaat acacagctgg ggtggctgct      3420
+     gcctagtgtc catcagttaa gcttgaaact tcagcgactc caccattctc tcaggtactg      3480
+     tgacccactt gtggatgccc tacaacaagg aatccaaaca cgattcaagc atatgtttga      3540
+     agatcctgag atcatagcag ctgccatcct tctccctaaa tttcggacct cttggacaaa      3600
+     tgatgaaacc atcataaaac gaggtaaatg aatgcaagca acatacactt gacgaattct      3660
+     aatctgggca acctttgagc cataccaaaa ttattctttt atttatttat ttttgcactt      3720
+     tttaggaatg ttatatccca tctttggctg tgatctcaat atgaatattg atgtaaagta      3780
+     ttcttgcagc aggttgtagt tatccctcag tgtttcttga aaccaaactc atatgtatca      3840
+     tatgtggttt ggaaatgcag ttagatttta tgctaaaata agggatttgc atgattttag      3900
+     atgtagatga ctgcacgtaa atgtagttaa tgacaaaatc cataaaattt gttcccagtc      3960
+     agaagcccct caaccaaact tttctttgtg tctgctcact gtgcttgtag gcatggacta      4020
+     catcagagtg catctggagc ctttggacca caagaaggaa ttggccaaca gttcatctga      4080
+     tgatgaagat tttttcgctt ctttgaaacc gacaacacat gaagccagca aagagttgga      4140
+     tggatatctg gcctgtgttt cagacaccag ggagtctctg ctcacgtttc ctgctatttg      4200
+     cagcctctct atcaagacta atacacctct tcccgcatcg gctgcctgtg agaggctttt      4260
+     cagcactgca ggattgcttt tcagccccaa aagagctagg cttgacacta acaattttga      4320
+     gaatcagctt ctactgaagt taaatctgag gttttacaac tttgagtagc gtgtactggc      4380
+     attagattgt ctgtcttata gtttgataat taaatacaaa cagttctaaa gcaggataaa      4440
+     accttgtatg catttcattt aatgtttttt gagattaaaa gcttaaacaa gaatctctag      4500
+     ttttctttct tgcttttact tttacttcct taatactcaa gtacaatttt aatggagtac      4560
+     ttttttactt ttactcaagt aagattctag ccagatactt ttacttttaa ttgagtaaaa      4620
+     ttttccctaa gtacttgtac tttcacttga gtaaaatttt tgagtacttt ttacacctct      4680
+     g                                                                      4681
+//
+ID   EFG_GG    repbase; RNA; VRT; 1245 BP.
+CC   EFG_GG RNA
+XX
+AC   X08030;
+XX
+DT   22-DEC-1995 (Rel. 2.0, Created)
+DT   26-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Chicken EGF-like repeat.
+XX
+KW   EGF-like repeat; GGEFG.
+XX
+OS   Gallus gallus (chicken)
+CC   chicken
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Aves;
+OC   Neornithes; Neognathae; Galliformes; Phasianidae.
+XX
+RN   [1]
+RP   1-1245
+RC   [1]  (bases 1 to 1899)
+RA   Chiquet-Ehrismann R.;
+RT   "Direct Submission";
+RL   Submitted (06-JUL-1988) Chiquet-Ehrismann R., Friedrich Miescher
+RL   Institut, PO Box 2543, CH-4002 Basel, Switzerland.
+XX
+RN   [2]
+RP   1-1245
+RC   [2]  (bases 1 to 1899)
+RA   Pearson C.A., Pearson D., Shibahara S., Hofsteenge J.,
+RA   Chiquet-Ehrismann R.;
+RT   "Tenascin: cDNA cloning and induction by TGF-B";
+RL   EMBO J. 7, 2977-2982 (1988)
+XX
+CC   This is a protein.
+XX
+DR   GENBANK; X08030; 77.0.
+CC   Positions     255    1499  Accession No X08030        GenBank (rel. 77.0)
+XX
+SQ   Sequence 1245 BP; 223 A; 334 C; 475 G; 213 T; 0 other;
+     tgcgtgtgcg agccaggccg gaaaggcccc aactgctccg aaccggcctg cccacgcaac        60
+     tgcctcaacc gcggcctctg cgtgcggggc aaatgcatct gcgaggaggg ctttaccggc       120
+     gaggactgca gccaggctgc ctgcccgtct gactgcaacg accaaggcaa gtgtgtggat       180
+     ggggtgtgcg tctgcttcga gggctacacg ggcccggact gcggcgagga gctctgcccc       240
+     cacgggtgtg gcattcacgg gcgctgtgtg ggtggacgct gtgtgtgcca cgagggcttc       300
+     actggcgagg actgcaatga gcccctgtgc cccaacaact gtcacaaccg cgggcgctgt       360
+     gtggacaacg agtgcgtctg cgatgagggc tacacgggag aggactgcgg cgagctgatt       420
+     tgccccaatg actgctttga ccgtgggcgc tgtatcaacg ggacctgctt ctgcgaggag       480
+     ggctacactg gagaggactg cggcgagctg acctgcccca acaactgcaa cggcaacggg       540
+     cgctgcgaga acgggctgtg tgtgtgccat gagggcttcg tgggggatga ctgcagccag       600
+     aagaggtgcc cgaaggactg caataaccgc gggcactgcg tggatgggcg ctgtgtgtgc       660
+     catgaggggt acctggggga ggactgtggg gagctgcggt gccccaacga ctgccacaac       720
+     cgcgggcgct gcatcaatgg gcagtgtgtg tgtgatgagg gattcattgg ggaggactgt       780
+     ggagagctgc ggtgccccaa cgactgccac aaccgcgggc gctgcgtcaa tgggcagtgc       840
+     gagtgccacg agggattcat cggggaggac tgcggggagc tgcggtgtcc caacgactgc       900
+     aacagccatg ggcgctgtgt caatgggcag tgcgtgtgtg atgaggggta cacaggggag       960
+     gactgcgggg agttgcggtg ccccaacgac tgccacaacc gcgggcgctg cgtggaggga      1020
+     cgctgtgtgt gtgacaacgg cttcatgggg gaggactgcg gggagctgtc ctgtcccaat      1080
+     gactgccacc agcacgggcg ctgcgtcgat gggcgctgcg tgtgccacga gggcttcact      1140
+     ggggaagact gccgggaacg gtcctgcccc aatgactgca acaacgtggg ccgctgtgtc      1200
+     gagggacggt gtgtctgtga ggaaggttac atggggatcg actgt                      1245
+//
+ID   INV_GG    repbase; DNA; VRT; 2119 BP.
+CC   INV_GG DNA
+XX
+AC   X02218;
+XX
+DT   22-DEC-1995 (Rel. 2.0, Created)
+DT   26-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Chicken inverted repeat.
+XX
+KW   Inverted repeat; GGINV.
+XX
+OS   Gallus gallus (chicken)
+CC   chicken
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Aves;
+OC   Neornithes; Neognathae; Galliformes; Phasianidae.
+XX
+RN   [1]
+RP   1-2119
+RC   [1]  (bases 1 to 8384)
+RA   Wang S.W., Robins A.J., D'Andrea R., Wells J.R.E.;
+RT   "Inverted duplication of histone genes in chicken and disposition of
+RT   regulatory sequences";
+RL   Nucleic Acids Res. 13, 1369-1387 (1985)
+XX
+CC   This is a protein
+XX
+DR   GENBANK; X02218; 77.0.
+CC   Positions     639    2757  Accession No X02218        GenBank (rel. 77.0)
+XX
+SQ   Sequence 2119 BP; 345 A; 770 C; 657 G; 347 T; 0 other;
+     ggccccgccc tccagggagg aggaggcagt ggcgctcccg cccccgcctg ggccccgccc        60
+     ctggtttcaa tcaggtccga ccatacgcca taacacccgc gcgcgccccg ccacatcctc       120
+     actggtgtcg gacgactcag gctctcggca tgtctggcag aggcaagggc gggaaggggc       180
+     tcggcaaggg cggcgccaag cgccaccgca aggtgctgcg cgacaatatc cagggcatca       240
+     ccaagccggc catccgccgc ctggcgcggc gcggcggcgt caagcgcatc tcggggctca       300
+     tctacgagga gacgcgcggc gtgctcaagg tcttcctgga gaacgtcatc cgcgacgccg       360
+     tcacctacac cgagcacgcc aagaggaaga cggtcacggc catggacgtg gtctacgcgc       420
+     tcaagcgcca gggacgcacc ctctacggct tcggcggtta aactcgtctc cgattccggc       480
+     cacccgaact cgtttttagc aacccaaagg ctcttttcag agccgcccac ttggttccaa       540
+     caaagagctg tgtcacctcg cctgatgtga cggggctttt tcacttaata gttaggctct       600
+     tttatctccc ccagccgtat tttcagctct tcgctttccg tgtccggact gcagagctgt       660
+     gtagcacagc tctagcgcct cgcggcgtcc ctccgttccc tcgcaagcgg ctcgctgcct       720
+     ccgcttcccc gcagcaggct ctcaccgggc agctttcggg ctccgctcgc tccagggcgc       780
+     gctcttgact tctattcccg ttgctagcga ccgggtcagg cacgtgcgac acagtgccca       840
+     ggcgcgaatc cagcccctcc cttcggcacc gcgtccggaa aggccaggag aagggggccg       900
+     gccccattac tcacagaccg ggggaagggc gaaggagaag caggttctgc cctgacagga       960
+     accccccgag gtggggggag aaatggggaa gaggcggcta ttccgcttcc gcccgcccgc      1020
+     aggccgcgca cgccgggctg cgcggcaaga ggcggacacc acaacggacc ccgcggtgtc      1080
+     cgctcctttt ccccccaact gggcgtttcg cccgccctta cgaaaggcgc gcgcggggcg      1140
+     cccacgcggg acgcggatgc gcggctgccg ctcgagaggg ggacggggag cggcttcagc      1200
+     gcagcgtttc gggttgcagt caggacaggg cagcgacgcc caggggaaaa ctcggggctt      1260
+     cccgaacgaa cacagcgcct ctccggcgga gctgcgaggg ccgcacggac ggaaaacccc      1320
+     ccagtgccgc cgtgcgccca gcagtacgga acctcccgca acaacacacc acacaagcac      1380
+     tcgtcgagtc accgcattcc gagctctttc tcgagactgt gggtggctct gaaaagagcc      1440
+     tttgggtttc acttcgctgc tcggcgcgct tcctcggggc cggcctactt agccttggcc      1500
+     ttgtggctgt cggtcttctt gggcagcagc acggcctgga tgttgggcag caccccaccc      1560
+     tgcgcgatgg tcaccttgcc cagcagcttg ttgagctcct cgtcgttgcg gatggccagc      1620
+     tgcaggtggc gggggatgat gcgcgtcttc ttgttgtcgc gggccgcgtt gcccgccagc      1680
+     tccaggatct cggccgtcag gtactccagc acggccgcca ggtacaccgg ggcgccggcg      1740
+     cccacccgct ccgcgtagtt gcccttgcgc agcagccggt gcacgcggcc cacggggaac      1800
+     tgcagcccgg cccgcgacga gcgcgacttg gccttggcgc gcgccttccc gccctgcttc      1860
+     ccgcgccccg acatcgccga tcagtcgctc agaagctcaa ctgccaactc aacagaaatc      1920
+     aaaacacgca acagctgccc gcgctcgccc gcgcgccttt atatcccttc cccgttgcgc      1980
+     gcccgccggc tcctgatagg cggacgtgtc ctcacgggga acgagcgccc aatggcgtag      2040
+     cgaatctcgg cccgaccaat agcgacgggc gcccttcccc gccccgcccc tctctctgct      2100
+     cacagcaatg gcggggcgg                                                   2119
+//
+ID   LFFP2     repbase; DNA; VRT; 298 BP.
+CC   LFFP2 DNA
+XX
+AC   X56096;
+XX
+DT   22-DEC-1995 (Rel. 2.0, Created)
+DT   22-DEC-1995 (Rel. 2.0, Last updated, Version 1)
+XX
+DE   Lesser black-backed gull (L. fuscus) female specific DNA repeat
+DE   P2000-17.
+XX
+KW   Female-specific repeat sequence.
+XX
+OS   Larus fuscus
+CC   Larus fuscus
+OC   Eukaryota; Animalia; Metazoa; Chordata; Vertebrata; Aves;
+OC   Neornithes; Neognathae; Charadriiformes; Laridae.
+XX
+RN   [1]
+RP   1-298
+RC   [1]  (bases 1 to 298)
+RA   Griffiths R., Holland P.W.H.;
+RT   "A novel avian W chromosome DNA repeat sequence in the lesser
+RT   black-backed gull (Larus fuscus)";
+RL   Chromosoma 99, 243-250 (1990)
+XX
+CC   This is a protein.
+XX
+DR   GENBANK; X56096; 77.0.
+CC   Positions       1     298  Accession No X56096        GenBank (rel. 77.0)
+XX
+SQ   Sequence 298 BP; 84 A; 90 C; 61 G; 63 T; 0 other;
+     gatcaaagca tagataaagt cgaacctgac tcaactccac agactagtct ggttccactg        60
+     ccactatctg aaacccccga caatgacacc ttattgagcg gacttaagaa tctgcccctt       120
+     gatgatgagc tttgggataa tgcactgtca cgatacactg caagcactga gacattagaa       180
+     aacatgaggg atttaaatac acctgccctc ctctccccag cgccagtgtg tgcagtatgc       240
+     gctgaaggct cgcccgctgc ggcgctacat ccccaagaac ccctaccagt accagatc         298
+//
+ID   BRIDGE1_FR repbase; DNA; VRT; 1430 BP.
+CC   BRIDGE1_FR DNA
+XX
+AC   ;
+XX
+DT   28-JUL-1999 (Rel. 3.1, Created)
+DT   28-JUL-1999 (Rel. 3.1, Last updated, Version 1)
+XX
+DE   BRIDGE1_FR is a non-LTR retrotransposon - an incomplete consensus
+DE   sequence.
+XX
+KW   Non-LTR retrotransposon; LINE; BRIDGE superfamily; ORF1;
+KW   reverse transcriptase; BRIDGE1_FR.
+XX
+OS   Fugu rubripes (consensus)
+CC   consensus.
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Actinopterygii;
+OC   Neopterygii; Teleostei; Euteleostei; Acanthopterygii; Percomorpha;
+OC   Tetraodontiformes; Tetraodontoidei; Tetraodontidae; Fugu.
+XX
+RN   [1]
+RP   1-1430
+RC   [1]  (bases 1 to 1430)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (July, 1999)
+XX
+CC   BRIDGE1_FR is a non-LTR retrotransposon that belongs to the
+CC   BRIDGE superfamily. Its consensus sequence has been recovered
+CC   from numerous (~50) GSS sequences. The consensus sequence can
+CC   be expanded when additional DNA from the fugu genomae will be
+CC   available. BRIDGE1_FR is a young retrotransposon since its 
+CC   copies are, on average, 95% identical with the consensus
+CC   sequence.  
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 1430 BP; 515 A; 239 C; 258 G; 418 T; 0 other;
+     ttggcaattt ttaccggggt ttcaatttaa aaaaattttt ttcaaagttt tttggaacct        60
+     tccggttgga aacccccctt ttggggggat tccccccccg gaattgggga atttgattgg       120
+     aaaagttctg gaaacattta aaaatcattt tatttcagtc aaggaaaatt taaatatttc       180
+     attaccagaa ataaaagcat tacaggagct acaacataaa aagaatatag ttattaaacc       240
+     agcagacaaa gggtctgcaa ttgtcattct ggaccgggaa caatatattt ttgaagtaga       300
+     gcgacaactt aatgacacgg aatattataa aaagttagaa aaaccaattt atttagatac       360
+     aattcccatg gtagctacaa ttttagacac attaaagaga aagaaattca tttgcgaaaa       420
+     acaaaggaag tatttagttg gggatgtaga acctagggaa aggagattct atattcttcc       480
+     caaaattcac aaggagccag aaaagtggac aattccatat gaactgcccc cgggaaggcc       540
+     aatcgtctct gactgtggga gcgagacata tttcactgcg gaattcttag atttttacct       600
+     gaatccgctg tccacaaaac atcctgcctt tgtcagagac acttatcatt tcatagagat       660
+     tataaaaacc ttgaagattc ctgcagattc ctatttcttc tctatggatg tggatagtct       720
+     atatactaat atccccattg aatctggcat caactgtatt agaaatatat ttgaaaaata       780
+     tcctgacccc aagagaccag atgaagagct cttacaatta ttagaaataa atttgagcag       840
+     aaatgatttc atatttaatg gtaaatacta tttacaaacc aaaggaactg ctatgggcaa       900
+     aaggtttgcc ccggcatatg cgaatatttt catggcaaac tgggaagaag aggcactatt       960
+     gaaatgtaaa cataaaccag ctcactatct acggtattta gatgatgttt ggggaatatg      1020
+     gacaggatct gaactacagt ttagggaatt tgttgagacc ttaaattccc acgatccctc      1080
+     tattaaactt aaaacagaaa ttaataaaca ttcaattaat tttttagata caacagtttt      1140
+     caaagggcca gattttctaa aaactgccaa attggacatt aaagtatatt ttaaaagcac      1200
+     tgatacccat gcattgcttc ataaaacaag ttttcatcca aaacatacat ttaaaggcat      1260
+     agtaaaatct caaattatta gatttaagcg aatttgcaca agggatgagg aattcaagga      1320
+     agcagtaaat gttttattta aggcccttcg taaaagaggg tattccaaac cctttttgaa      1380
+     acactgcttt aaatctgttc aaaaaagaaa aaatggggga gatcgtgggg                 1430
+//
+ID   LINE_FR   repbase; DNA; VRT; 4585 BP.
+CC   LINE_FR DNA
+XX
+AC   AF086712;
+XX
+DT   20-JUL-1999 (Rel. 3.0, Created)
+DT   20-JUL-1999 (Rel. 3.0, Last updated, Version 1)
+XX
+DE   Fugu rubripes CR1-like LINE retrotransposon - complete cds.
+XX
+KW   LINE_FR.
+XX
+OS   Fugu rubripes
+CC   Fugu rubripes.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Actinopterygii;
+OC   Neopterygii; Teleostei; Euteleostei; Acanthopterygii; Percomorpha;
+OC   Tetraodontiformes; Tetraodontoidei; Tetraodontidae; Fugu.
+XX
+RN   [1]
+RP   1-4585
+RC   [1]  (bases 1 to 4585)
+RA   Poulter R., Butler M., Ormandy J.;
+RT   "A LINE element from the pufferfish (fugu) Fugu rubripes which shows
+RT   similarity to the CR1 family of non-LTR retrotransposons";
+RL   Gene 227 (2), 169-179 (1999)
+RX   MEDLINE; 99148008.
+XX
+RN   [2]
+RP   1-4585
+RC   [2]  (bases 1 to 4585)
+RA   Poulter R.T.M., Butler M.I., Ormandy J.;
+RT   "Direct Submission";
+RL   Submitted (24-AUG-1998) Biochemistry, University of Otago,
+RL   Cumberland Street, Dunedin, New Zealand
+XX
+CC   Putative nucleic acid binding protein and reverse transcriptase-like 
+CC   protein genes.
+XX
+DR   GENBANK; AF086712; 110.0.
+CC   Positions       1    4585  Accession No AF086712     GenBank (rel. 110.0)
+XX
+SQ   Sequence 4585 BP; 1202 A; 1083 C; 995 G; 1305 T; 0 other;
+     gtattgcgtc acttcctgtc ttctcaatcg ttcgttggtt gcactgtgca tggggtgttg        60
+     tattcactta atattgaaca cttggtgtgt tgtattcact taatattgaa cacttggtgt       120
+     gttgtattca ctttacttaa aattttgaac acttgggaca ttctagtcac ctgataacaa       180
+     cagtgagaaa caacccatat taaacaaata cagggctcca ccgattatca gcgttagcat       240
+     ggcctcaccg tctgtttcac ccggtgtctt tgtctgttca gcgtgtgaaa tgtttagtta       300
+     ctcctctgcc tcctttagtg aagggaatag gtgcagaaag tgtagtttat ttatggctat       360
+     ggaggcgaga cttagcgagc ttgagacgcg gttccgcagc ttggagttag ctggagttgc       420
+     gtcaggtagc caggagaagc tagctgctgc ggagccgcct agcgtagcta cagctagcgg       480
+     tcccccggca gcagccgagc agccggctag ccagggcggc tgggtgacgg ttcgtaggaa       540
+     gcgtagccca aaacaaaggc ccacggtgca ccaccaaccg cttcccgtgg ctaaccgctt       600
+     ttccccactc ggcgacacac ccgctgagaa accgaccctg gtaattggcg actctgtttt       660
+     gcgctacgtg aagccgactc cagcgaccat agttaagtgc attccggggg ccagagcggg       720
+     cgacatagaa gcaaatttac ggctgctggc gagacgtaat cgtaaatttg gtaaagttat       780
+     tattcacgtc ggagccaacg acacccggct tcgtcagtcg gaggtcacca aaattaactt       840
+     ggagtcggtg tgtaactacg caaaaacgat gtcggactcc gtagcattct ctggtcccct       900
+     ccccaatctg gccagcgagg agatgtttag ccgcatgtcg tcgcttcgtc gctggctgtc       960
+     acggtggtgc cccgaaaacc aggtggcctt tatagacaat tggagcactt tttggggaaa      1020
+     acctggtctg attaggagag acggtgtcca tcccacacgg gatggtgctt ctctcatttc      1080
+     tagtaatttg gctaatttta ttagacccaa agtgacctga caatccaggg tccagaccag      1140
+     gatgcagagt tgtagtctta cacacctctc tgctgcttcc ttagaaccct catccaccaa      1200
+     caataacata tttaacacta tagaggtagt ctctgttcca cggttaaaag ttcaccaagc      1260
+     acagagcagg ggagcggtca atcaccataa tcttattaaa attaatacca aagcacaagt      1320
+     tggagaaact aatatcacaa ttaagtgtgg actgttaaat attagatctc ttttgtgtaa      1380
+     atccctgtta gtgcacgacc tgatagcgga tcatcacatt gatttatttt gtcttactga      1440
+     gacctggctt caggaggagg agtatgttag cttaaatgaa tctactcctc ctacccatct      1500
+     taattatcat attcctcgtg ttactggtcg aggaggggga gtggcagcaa tctatcactc      1560
+     caagttatta attaatccca gaccaaaaca tggcttcagt tcatttgaaa gcctgactct      1620
+     tggcatcact catctgaact ggaggacaga aaagccactt ctgtttgtag ttgtatatcg      1680
+     gccccctgct gggccacatt cagagttcct gtctgagttc tctgacttct tatctgactt      1740
+     ggtccttaga acggacaaag tcattatcat tggagacttt aacatccata tggacgttat      1800
+     aaatgacagc tttagaaatg gcttcatttc attacttgag tcagttggtt tcctccagca      1860
+     gataaaccaa ccaactcaca gctttaacca caccctagat ctagttctga cttatggtgt      1920
+     tgaggtagaa catgtgtcag tgttccctca gaaccccctc ctgtcagacc attctttgat      1980
+     cacttttaca tttatgatta aggattcttc tatgctcaga acacagtctt actatagcag      2040
+     atgtctttca gataatgctg tagctaagtt taaggaagcg atccctgtgc tgatcccagg      2100
+     accaccgtgt gtttccccag ggatcaatca ttacaatctt agccctgctg aggttgactc      2160
+     tattgctgaa ggtgcagcaa cctcactgag aatcacgctt gattctgttg cccccctgaa      2220
+     aaagaaaata gtaaatcaga ggaggtgtgc cccctggtat aattcacata tcaggaccct      2280
+     caagcagaaa gtgcgaagac tggaaaggaa gtggcattct tgtaaaatag acagctacca      2340
+     tgtagcctgg aaagactgtc tattagttta caaaaaggcc cttcgcaagg ctagaacagc      2400
+     ttatttttct tctttgattg aggaaaataa gagcaacccc aggtttcttt tcagcactgt      2460
+     ggccaaatta actaagagtc acagtgtttt agatccacgt atcccttctt cccttagtgg      2520
+     tgaagacttc atgagcttct tcactgataa agttctagct atcagagaaa aagctaacca      2580
+     ggccatccca acaactggac catcaccaga tgtgctgact gtgggaacat acagggtctc      2640
+     caacgagccc ttaaactcct tcagccctat atatttttct gaggcgtcat cgctaattca      2700
+     gaaatccaag accaccacgt gtcttttaga tcccatccca acacacctgt tgaaggatgt      2760
+     tttaccattg ataggcagtt ctatcctgga ccagatcaat ggttctttag tgtcaggtta      2820
+     tgtaccccgg tcctacaagg tggcagtgat taagccgttg cttaaaaaac catcactgga      2880
+     tcctgatgtc ttagcaaatt ataggccaat atccaacctt ccttttatct ctaaagttct      2940
+     agagaaggtg gtggtgactc agttactgga gcacctgcag aggaacagcc tgtttgagat      3000
+     gtttcagtca ggctttagag ctcaccacag cacagaaaca gcacttctta aagtcactaa      3060
+     tgatcttctc atagcttccg atcatggact ggtctctatg ctggttctgc tggacctcag      3120
+     tgctgctttt gatacagttg atcacagcat cctgttacag agactggaac atgtgattgg      3180
+     gattaaaggg acagcactag actggtttag atcatattta tctgatagat accagtttgc      3240
+     tcatgtccat ggtgttccct cctcatacag tagggttagc catggagttc ctcaaggttc      3300
+     tgtacttgga ccaatcctct tcaccttgta catgcttccc ttagggaaca ttattcggca      3360
+     gcatgggata aattttcatt gttatgctga tgacactcag ctttatttat ccatgaaacc      3420
+     agaggagaca gagaagttag tgaagctcca gacctgtctt aaagacataa agtcctggat      3480
+     gtcttcaaat ttcctcctcc ttaacccagg aaaaactgag gtcatggtgt ttggtcctga      3540
+     acctctcagg gatagattag atcacatgat cactctagat ggtatctcat taacatctag      3600
+     tctctctgtg aggaatctag gagtaacttt tgatcaaaat ctctccttca actcacacat      3660
+     taaattagtc tctagaagtg ccttttttca cttgaggaac atcacaaaga tcaggaaact      3720
+     actgacacgg catgatgctg aaaagttagt ccatgcattt gttacttcca ggctggacta      3780
+     ttgtaattct ttattatcag ggtgtccaaa caactcttta agaagcctcc aggtgatcca      3840
+     aaatgctgca gccagagttc tgacaggtat tgacaaaaga gatcacataa ctcctgtact      3900
+     ggcgtctctt cattggctgc ccattaaatt tagaataatt tttaaaactc ttcttctgac      3960
+     ctacaaggtc ctcagatgcc tagctccatc ctacctggaa gagctagtga caccttatca      4020
+     gcccaataga ccgctccgct ctcagaatgc tggtctactt gtggttccca gagtttctag      4080
+     ggttagaatg gggggccgag catttagcta ccaggccccc ctgctatgga accagctccc      4140
+     tgtccaggta cgggaggctg actccatcgc tacttttaag atcagactta aaacctacct      4200
+     ctttgaaaaa gcttattgtt actaattctg gagttccagt tactatcata gacagacaaa      4260
+     taatcatact tagggggtcg tctaatcatt aggttaacat cttagtcatg ctgttatagg      4320
+     ccaaggctgc cggggtccag aaacatgatc acctgacagg cctctgtcac cccactgggt      4380
+     catggtttcc tctttaccca gccggccatc agcaggaggg tccccctaca tgagcctggt      4440
+     cctgctcaag gtttcttcct gttaaagggg agtttttcct tgccactgtt gcttgtctgg      4500
+     ggtcaggccc tgggattctg gaaagcgcct tgaaacaatt ttgattgtat aagacgctat      4560
+     ataaataaag attgattgat tgatt                                            4585
+//
+ID   BRIDGE1_FR repbase; DNA; VRT; 4209 BP.
+CC   BRIDGE1_FR DNA
+XX
+AC   ;
+XX
+DT   28-JUL-1999 (Rel. 3.1, Created)
+DT   09-AUG-1999 (Rel. 3.1, Last updated, Version 2)
+XX
+DE   BRIDGE1_FR is a non-LTR retrotransposon - a consensus
+DE   sequence.
+XX
+KW   Non-LTR retrotransposon; LINE; BRIDGE superfamily; ORF1;
+KW   ORF2; ORF3; reverse transcriptase; BRIDGE1_FR.
+XX
+OS   Fugu rubripes (consensus)
+CC   consensus.
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Actinopterygii;
+OC   Neopterygii; Teleostei; Euteleostei; Acanthopterygii; Percomorpha;
+OC   Tetraodontiformes; Tetraodontoidei; Tetraodontidae; Fugu.
+XX
+RN   [1]
+RP   1-4209
+RC   [1]  (bases 2713 to 4135)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (July, 1999)
+XX
+RN   [2]
+RP   1-4209
+RC   [2]  (bases 1 to 4209)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   BRIDGE1_FR is a non-LTR retrotransposon that belongs to the
+CC   BRIDGE superfamily. Its consensus sequence has been recovered
+CC   from numerous (~120) GSS sequences. 
+CC   BRIDGE1_FR is a young retrotransposon since its 
+CC   copies are, on average, 95% identical with the consensus
+CC   sequence. BRIDGE1_FR has three overlaped open reading frames:
+CC   ORF1 (position 684-1556), ORF2 (1307-2512 or 1466-2512) and
+CC   ORF3 (2455-4206). ORF3 encodes reverse transcriptase similar
+CC   to these encoded by the Penelope non-LTR retrotransposon in 
+CC   drosophila and BRIDGE2_FR in fugu.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 4209 BP; 515 A; 239 C; 258 G; 418 T; 0 other;
+     gggggaattg ggttcccccg cgtggcggcc gtttagaaat agtgttcccc cggggtgcag        60
+     ggatttgata cccctaatct taccctaacc ctaaatccta acccaaagat taaatattac       120
+     atttgatatc aaactaattt aatttggcat ttagggggtt aaaatggtag ggtgaaaaaa       180
+     tgaaaaaaga aaaaacatcg cgtatatagt gttttttaaa aaaaagcgat gccacagcag       240
+     acactatata agggactcga gttcgcaaaa agggaccatt tgcttttcaa ccagcgtatg       300
+     gaacacatcg tccacagcca atacagcgag ccagcttttg gttatttagt gtgccctacc       360
+     tgaagaagac ccataggggg tcgaaacgtc gttttttggc acactcttcc ttagttattt       420
+     aatacattta ttgatttttg gttttatttt acttaccttt taagaaaagg gagaaattaa       480
+     aagaaaaaaa tacttaccct taaaaaaata aaaaaaaaaa caaaataaac aaaaaaaaca       540
+     ttaaaatact tacctttttc ctttcctatt ttttggaaag cgcttttatt tcaaaaaact       600
+     ttctaaaata aataactttc ctattttttg gaaagcactt ttagttcaaa aaactttcta       660
+     aaataaataa cttaccttga tttatggagc cgggttggac ggaggtgcgc tatggcaggg       720
+     gtcgccagcg tgcccatcgt caacaacaag gatttcaggg ttatgggagg tcggttggga       780
+     ggaaggaccg tgctttccct gtctcgtatg ggaggcaggg tacattcccc taccctatcc       840
+     ggccagtgct tcctccacgg atcgcccatt accctgttcc tcaacagcgt acatatgcag       900
+     cagtggttcg gcaagggtac ccgcaagcat cccaaagacg ggtgtttcca agggccagta       960
+     ggccgggggt ccaataccaa taccaatacc aaccagctga cccccagttt gggaaactgg      1020
+     tacgcaaact acattcagtg atcaaaacag tccaccacct acaaaatgtg gctccaaagg      1080
+     aggggaaacc tgaaccccgg atgatttctc ggatggtgga tatcctgaca gatatgatta      1140
+     agcctgctgc tcccacacag cgcacaaaag acttgatttc tgggaatgct aaaaattggg      1200
+     gttataatac ctacctgatt ttgatggagc actacgaagc aaacctagca gaatatctgg      1260
+     atgaagtatc tggcctcctc acgccagaat ggagggcagc ctttgaggtg gctgttcgtt      1320
+     gggctcgacg aaacttacct cgtattacac gggacgagat agaccatgcc caggcattgg      1380
+     taacagctcg agtggacact atggtcccgg cagtggttca ggtcccgcag cagaccacag      1440
+     tcagtacaga cacgagggac ctggcatgtg ggcattcacc acgacagact gttgtcacag      1500
+     ctgcaaccca gtgttgtgga cagtgtatag ctcaagtggt tctagggacg agatagaagg      1560
+     aagggctgag actccattac agccgacaac caagagagcg gtcgttacta tgactgactc      1620
+     tactggccag cattcggact ggcactttga tcccccatac gtagagcctc ctcgggagct      1680
+     tagagtggga cgtaagtgcc taaggaagac caaacatttt gtcccaaatg aggacgactt      1740
+     actacaggat gacccagaag atttgatggg gagggggaca cccgttggag acgccacact      1800
+     cctggaccta agcggtcttt ttgtggaatc tcaaaatgag gaagctgagg tcgggaccgc      1860
+     tagacacgag atggttgttc aggctccccg agggccctcc ttatttgagg aggatagctt      1920
+     tgaggactcc ttcgaccatt tcgtagaggc gggccctcca atgtttcagg tgttgagaca      1980
+     ccctaatacc caaaggaaat tgattgattg ggacttggtg gttagaaaga aatggttgat      2040
+     cattggggat tcaaatctct gcagtttccc agattttgcc atcaagaacc tacagattga      2100
+     tagttatcca ggggcccact tccgccatgc acaggctctt attgaaaaaa ctgaaccacc      2160
+     tttagatttg gtagtggaaa agattgtact gtcctttggg atcaacagta gggggaatag      2220
+     ctcgaaggga actacggtaa aaaacgtcca ggctgccctt cgggttgcaa agaaaaaatt      2280
+     tccctatgca gagatgtggg ttcctctgct caatttctcg aataatcttc ctgaggagga      2340
+     aagggagaac ctccaacttc tcaatcacca cctggagagg aacatgccct tcattcctct      2400
+     tctgccggga agattctttc gcacagggac agataatgtt cattggacag ttgaaacagg      2460
+     aagggctatg tttcaccatt ggatggagtt tttaaacttc accacccctt gagtctggaa      2520
+     cagagaggga tagatggacc acagtcctct cattctcagg aagtggttgt tctagctaaa      2580
+     aatttcaaac tttttagacc acaacaggac ctgttaagca aagggttgtc gttcattcct      2640
+     tcttggaacg taggcaggga tcaaaaggta cagctccaat tggacattca aaattatcac      2700
+     cgtaagatta aattggcaac ttattacaga gattcaacta aaaaactata ttcaaagttt      2760
+     attggaacct cagattggac accaccattg ggggaattgc caccggtaat tggagaattg      2820
+     attagaaaag atctggaaac atttaaaaat cattttattt cagtcaagga aaatctaaat      2880
+     atttcattac cagaaataaa agcattacag gagctacaac ataaaaagaa tatagttatt      2940
+     aaaccagcag acaaagggtc tgcaattgtc attctggacc gggaacaata tatttttgaa      3000
+     gtagagcgac aacttaatga cacggaatat tataaaaagt tagaaaaacc aatttattta      3060
+     gatacaattc ccatggtagc tacaatttta gacacattaa agagaaagaa attcatttgc      3120
+     gaaaaacaaa ggaagtattt agttggggat gtagaaccta gggaaaggag attctatatt      3180
+     cttcccaaaa ttcacaagga gccagaaaag tggacaattc catatgaact gcccccggga      3240
+     aggccaatcg tctctgactg tgggagcgag acatatttca ctgcggaatt cttagatttt      3300
+     tacctgaatc cgctgtccac aaaacatcct gcctttgtca gagacactta tcatttcata      3360
+     gagattataa aaaccttgaa gattcctgca gattcctatt tcttctctat ggatgtggat      3420
+     agtctatata ctaatatccc cattgaatct ggcatcaact gtattagaaa tatatttgaa      3480
+     aaatatcctg accccaagag accagatgaa gagctcttac aattattaga aataaatttg      3540
+     agcagaaatg atttcatatt taatggtaaa tactatttac aaaccaaagg aactgctatg      3600
+     ggcaaaaggt ttgccccggc atatgcgaat attttcatgg caaactggga agaagaggca      3660
+     ctattgaaat gtaaacataa accagctcac tatctacggt atttagatga tgtttgggga      3720
+     atatggacag gatctgaact acagtttagg gaatttgttg agaccttaaa ttcccacgat      3780
+     ccctctatta aacttaaaac agaaattaat aaacattcaa ttaatttttt agatacaaca      3840
+     gttttcaaag ggccagattt tctaaaaact gccaaattgg acattaaagt atattttaaa      3900
+     agcactgata cccatgcatt gcttcataaa acaagttttc atccaaaaca tacatttaaa      3960
+     ggcatagtaa aatctcaaat tattagattt aagcgaattt gcacaaggga tgaggaattc      4020
+     aaggaagcag taaatgtttt atttaaggcc cttcgtaaaa gagggtattc caaacccttt      4080
+     ttgaaacact gctttaaatc tgttcaaaaa agaaaaaatg ggggagatcg tggggatttg      4140
+     atccctctta ttacaacata ttcttcggtt aataaatctc taaacatagg tttgaaaaca      4200
+     atttgaaaa                                                              4209
+//
+ID   BRIDGE2_FR repbase; DNA; VRT; 618 BP.
+CC   BRIDGE2_FR DNA
+XX
+AC   ;
+XX
+DT   28-JUL-1999 (Rel. 3.1, Created)
+DT   28-JUL-1999 (Rel. 3.1, Last updated, Version 1)
+XX
+DE   BRIDGE2_FR is a non-LTR retrotransposon - an incomplete consensus
+DE   sequence.
+XX
+KW   Non-LTR retrotransposon; LINE; BRIDGE superfamily; ORF1;
+KW   reverse transcriptase; BRIDGE2_FR.
+XX
+OS   Fugu rubripes (consensus)
+CC   consensus.
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Actinopterygii;
+OC   Neopterygii; Teleostei; Euteleostei; Acanthopterygii; Percomorpha;
+OC   Tetraodontiformes; Tetraodontoidei; Tetraodontidae; Fugu.
+XX
+RN   [1]
+RP   1-618
+RC   [1]  (bases 1 to 618)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (July, 1999)
+XX
+CC   BRIDGE2_FR is a non-LTR retrotransposon that belongs to the
+CC   BRIDGE superfamily. Its consensus sequence has been recovered
+CC   from numerous GSS sequences. The consensus sequence can
+CC   be expanded when additional DNA from the fugu genomae will be
+CC   available. BRIDGE2_FR is a young retrotransposon since its 
+CC   copies are, on average, 92% identical with the consensus
+CC   sequence. BRIDGE1_FR and BRIDGE2_FR are significantly
+CC   similar on the protein level only.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 618 BP; 181 A; 157 C; 154 G; 125 T; 1 other;
+     atcttacaga aagaacaacc ttaacaccgg cccaaatctg caccatgctg gacctgtgtt        60
+     tgaacaccac ctatttccaa tacagagaag gcttctacag gcagaaacat ggctgtgcca       120
+     tgggctcacc agtatccccc atagttgcca atctatacat ggagaaggtg gaatcccagg       180
+     ccctgacatc cttcacagga actgcgccaa gccactggtt caggtatgtg gatgacacct       240
+     gggtcaaaat tcaaacacaa gaattggaag cgttctccga tcacctcaac aaaacagacg       300
+     agcatgtaaa attcacccgg gaagaggtaa aaggaaacag tctggccttt ctggactgcg       360
+     cagtcaagat cactgaggac agaaatcagt agtcagaaac acagtctgtc agtccatcca       420
+     ggtcctcacc atgtggttca cagagagcag accagttggt ggtctccagg gcatcccgca       480
+     gacagtccat ggcaccatct gaccatttcc taacagtcct cacagtgact gattgctgct       540
+     gaaccacagg tgtgtatgat ggggagggca gmaggagatt atgatcagac ttgcggagcg       600
+     gagggagtgc agtggaag                                                     618
+//
+ID   CR1POL    repbase; DNA; VRT; 2232 BP.
+CC   CR1POL DNA
+XX
+AC   L22152;
+XX
+DT   10-APR-1997 (Rel. 3.0, Created)
+DT   10-APR-1997 (Rel. 3.0, Last updated, Version 1)
+XX
+DE   Gallus gallus reverse transcriptase gene, 3' end.
+XX
+KW   POL-like gene; LINE; CR1.
+XX
+OS   Gallus gallus
+CC   Gallus gallus (strain White Leghorn, sub_species domesticus) DNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Archosauria; Aves; Neognathae; Galliformes;
+OC   Phasianidae; Phasianinae; Gallus.
+XX
+RN   [1]
+RP   1-2232
+RC   [1]  (bases 1 to 2232)
+RA   Burch J.B.E., Davis D.L., Haas N.B.;
+RT   "Chicken repeat 1 elements contain a pol-like open reading frame and
+RT   belong to the non-long terminal repeat class of retrotransposons";
+RL   Proc. Natl. Acad. Sci. U.S.A. 90, 8199-8203 (1993)
+RX   MEDLINE; 93376771.
+XX
+CC   3' part of LINE element, pol-like region.    
+CC   Parts of CR1POL are also listed as CR1_GG and CAM1_GG.
+CC   1326-1713 CR1POL is similar to 1-379 CAM1_GG (73%);
+CC   1714-2230 CR1POL is similar to 1-501 CR1_GG (73%).
+XX
+DR   GENBANK; L22152; 97.0.
+CC   Positions       1    2232  Accession No L22152        GenBank (rel. 97.0)
+XX
+SQ   Sequence 2232 BP; 575 A; 484 C; 710 G; 463 T; 0 other;
+     tcgagggatg tgggcctggc aaatggtggg gtcaggaccc tgaactttgg aagagagaac        60
+     tttaagctgt tcaatggatc gttagccatg atcccctgga atgctgtcat taaagataaa       120
+     gatgttgagg agagctggct actcttcaag gatgccctcc tgaaagcaca agaggtctcc       180
+     atccctctga ataggaaagt gggcagacga gataggaaac cagcatggct cggcaaggac       240
+     ctgctgggca cactgagggt gaagaaaggt gcgtacaagc tctggaaaca agggcgtgtc       300
+     acctgggaag agtacaggga tgctgtccgg acttgcagac gtaggatcag gaaagccaag       360
+     gcgcaggtag aactgaactt agcgagggat gtgaaaaaca ataagaagac attctacagg       420
+     tacattggcc agaaaagaca gaccaaaaca ggtgtacctt ctttagtaaa cttaaaagga       480
+     gaactggctt caacggatga agagaaagcg gaggtactga atgagttctt tgcctcagtc       540
+     ttcactggag gccaggattc cagtctttct cacgtccctg agccctgcac ccccaagcct       600
+     ccaggtgggg accagggggg taaatccccc cccacactaa gggcagagca agtccgagac       660
+     cgcctcatga gactggatga gtacaagtct tcagggccgg atggtgtgca tcccagggtt       720
+     ctgaaggagc tggctgaggt ggttgctgag ccactctcca tcatatttga gaagtcatgg       780
+     ctgtcaggcg aggtcccaga tgactggagg aagggttacg tcactcccat ttacaagaaa       840
+     gggagcaagg aggacccagg gaactacagg ccggtgagtc tcacctctgt gcctgggaag       900
+     atcatggaac agatcctcct ggatgacatg ctcgatcaca tgaggaatga gcgtgtgatc       960
+     cgagacagcc agcacggctt caccagggga aggtcatgct taaccaatct tgtggccttc      1020
+     tatgatggag tgacggcgtt ggtggatgag gggaaggcga ccgatgtcat ttacctggac      1080
+     ttgaccaagg cctttgacat ggtcccccac cacatcctta tctccaaatt ggagggatgt      1140
+     ggatttgatg ggtggaccac tcattggata agaaattggt tgaaaggccg cagacagagg      1200
+     gtggtgacca atggctctat gtccaggtgg aggccggtaa tgagcggagt cccccagggg      1260
+     tctgtcttgg gaccggtgct ctttaacatc tttatcaatg acattgacga tggaatcgag      1320
+     tgcaccctca gcaaatttgc tgacgacacc aaactgagtg gtgcggttga cacggaggaa      1380
+     ggaagggatg ccattcagag ggaccttgac agacttgaaa ggtgggcccg ggtgaaccta      1440
+     atgaggttca acacggcaaa gtgcagggtt ttgcacttgg gctggaggaa ccccaggcat      1500
+     ctatacagac tggaaggagc agtccttgag agcagctctg cagagaagga cctgggggtc      1560
+     ctgatggatg acaaacttaa catgagccag cagtgtgctc ttgcagctca gaaagcaaat      1620
+     ggtatcctgg gctccatcat gagaggggtg gccagcaggg acagggaggt gattgtccct      1680
+     ctctactctg ctcttgtgag gccccatctg gagtactgtg tccaggtatg gaggccccag      1740
+     tacaagaaag acagagagct gttggagagg gtccagagga gggccacaaa gatgatcagg      1800
+     gggctggagc acctccccta cgaggacagg ctgagggagc tgggcttatt cagcctggag      1860
+     aagagaaggc tgcgcggtga cctcattgca gcctttcagt acctgaaggg agcctataaa      1920
+     caggaaggga gtaaactctt tgaaagggta gataacagca ggacaagggg gaacggtttt      1980
+     aagttgaaag agggaagatt taggttggat gttaggggga agttctttac caggagagtg      2040
+     gtgaggtgct ggaacaggct gcccagagag gttgtggatg ctctgtccct ggaggtgttc      2100
+     aaggccaggt tggatggggc cctgggcaac ctggtctagt aaatggggat gttggtggcc      2160
+     ctgcccagca ggggggttgg agattcgtga tcctcgaggt cccttccaac ccaggccatt      2220
+     ctgtgattct gt                                                          2232
+//
+ID   CR1_GG    repbase; DNA; VRT; 555 BP.
+CC   CR1_GG DNA
+XX
+AC   M17963;
+XX
+DT   22-DEC-1995 (Rel. 2.0, Created)
+DT   26-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Chicken CR1 repetitive sequence.
+XX
+KW   CR1 repetitive sequence; GGCR1.
+XX
+OS   Gallus gallus
+CC   Chicken (hen) amplified cosmid chicken library DNA, clone CR1 OMb.
+OC   Eukaryota; Animalia; Chordata; Vertebrata; Aves; Neornithes;
+OC   Neognathae; Galliformes; Phasianidae.
+XX
+RN   [1]
+RP   1-555
+RC   [1]  (bases 1 to 555)
+RA   Scott M.J., Tsai M.-J., O'Malley B.W.;
+RT   "Deoxyribonuclease I sensitivity of the ovomucoid-ovoinhibitor gene
+RT   complex in oviduct nuclei and relative location of CR1 repetitive
+RT   sequences";
+RL   Biochemistry 26, 6831-6840 (1987)
+XX
+DR   GENBANK; M17963; 77.0.
+CC   Positions       1     555  Accession No M17963        GenBank (rel. 77.0)
+XX
+SQ   Sequence 555 BP; 139 A; 114 C; 179 G; 123 T; 0 other;
+     tattgcatcc aggcctgggg cccagcatga gaaagatgtg gaactgttgg agtgggtcca        60
+     taggaggcca tgaagacaat cacagggctg gagcacctct cttatgacga aaggctgagg       120
+     gagctgggct tgttcagcat caagaaggga aagctgagag gacacctcat tggagtcttc       180
+     cagtacttga agggagcttg caagcaggaa ggggaacaaa cttctacatg gtctgaacag       240
+     agatagacaa gggggagtgg ctttaagcta aaaagaggga agatttgggt gagatgttgg       300
+     gaagaaatac tttactcaga ggttggtgtg acactggcac tgctgcccag agctgtgggt       360
+     gccccatccc tgtacatgag ctgaaggcca gattggatgg ggctctgtgc agcctgatct       420
+     ggtgggggca gccagcccat ggcaggggtt ggggtagatg ggttgtatgg cccttttcaa       480
+     cccaaaccat tcaatgattc tatgattctc agataagcct gcctgcccat atctgagctc       540
+     acggtgctcg ctggg                                                        555
+//
+ID   TC1L_SS   repbase; DNA; VRT; 1555 BP.
+CC   TC1L_SS DNA
+XX
+AC   L12206;
+XX
+DT   20-JUL-1999 (Rel. 3.0, Created)
+DT   20-JUL-1999 (Rel. 3.0, Last updated, Version 1)
+XX
+DE   Tc1-like DNA transposon (inactive).
+XX
+KW   pseudogene; transposase; transposon; TC1L_SS.
+XX
+OS   Salmo salar
+CC   Salmo salar adult liver DNA.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Actinopterygii;
+OC   Neopterygii; Teleostei; Euteleostei; Protacanthopterygii;
+OC   Salmoniformes; Salmonidae; Salmo.
+XX
+RN   [1]
+RP   1-1555
+RC   [1]  (bases 1 to 3243)
+RA   Radice A.R., Bugaj B., Fitch D.H.A., Emmons S.W.;
+RT   "Ancient origin of the Tc1 transposon family";
+RL   Unpublished (1993)
+XX
+CC   Similar to SSNHEI, and distantly to TC1_XL, TZF28 and TXZ19.
+XX
+DR   GENBANK; L12206; 110.0.
+CC   Positions    1545    3099  Accession No L12206       GenBank (rel. 110.0)
+XX
+SQ   Sequence 1555 BP; 523 A; 297 C; 334 G; 401 T; 0 other;
+     aactatagtt tttggcaagt cggtttggac atctactttg tgcatgacac aagtaatttt        60
+     tttcaacaat tgtttacaga cagattattt cacttacaat tcactgtatc acaattccag       120
+     tgggtcagaa gtttacatgt actaagttga atgtgcattt aaacagcttg gacaattcca       180
+     gaaaatgatg tcatggcttt agaagcctct gataggctaa ttgacataat ttgagtcaat       240
+     tggaggtgta cctgtggatg tatgtcaagg cctaccttca aactcagtgc ctctttgatt       300
+     gacatcatgg gaaaatcaaa agaaatcagc caagacctca gaaaaaaaat tgtagacctc       360
+     cacaagtttg gttcatcctt gggagcaaat tccaaacacc tgaaagtacc acgttcatct       420
+     gtacaaacaa tagtacgcaa gtataaacac catgggacct cgcagccatc ataccgctca       480
+     ggaagacgcg ttctgtctcc tagagatgaa cgtagtttgg tgtgaaaagt gcaaatcaat       540
+     cccagaacaa cagcaaagga tcttgtgaag attctggagg aaacaggtac aaaagtatct       600
+     ttatccacag taaaaaggtc ctatatcgac ataacctgag aggccgctca gcaaggaaga       660
+     agctactgct ccaaaaccca cataaaaaag ccagactacg gtttgcaact gcacatgggg       720
+     acaaagattg tactttttgg agaaatgtcc tctggtctga tgaaacaaaa atagaactgt       780
+     ttggccataa tgaccattgt tatgtttgga ggaaaaaggg ggagacttgc aagccgaaga       840
+     acaccatcct aaacatgaag cacgggggtg gcagcatcct gttgtggggg tgctttgctg       900
+     caggagggac tggtgcactt cacaaaatag atggcatcat gaggaagaaa aatgatgtgg       960
+     atatattgaa gcaacatctc aagacatcag tcaggaagtt aaagcttggt cgcaaatggg      1020
+     tcttccaaat ggacaatgac cccaagtata cttccaaaga tgtggcaaaa tggcttaagg      1080
+     acaacaaagt caaggtattg gagtggccat cacaaagccc tgacctcaat cctatagaac      1140
+     atttgtgggc agaactgaaa aagcgtgtgc gagccaggag gcctacaaac ctgattcagt      1200
+     tacaccagct ctgtcaggag gaatgggcca aaattcaccc aacttattgt gggaagcttg      1260
+     tggaaggcta cctgaaacgt ttgacccaag ttaaacaatt taaaggcaat tctaccaatt      1320
+     actagttgag tgtatgtaaa cttcttaccc accgggaatg tgatgaaaga aataaaagct      1380
+     gaaataaata attctctcta ctattattct gacatttcac attcttaaaa taaagtggtg      1440
+     atcctaactg acctaaaaca gggaattttt actaggatta aatgtcagga attgtgaaaa      1500
+     actgagttta aatgtatttg gctaaggtgt atgtaaactt ccactttcaa atgta           1555
+//
+ID   TOL-TYR   repbase; DNA; VRT; 1855 BP.
+CC   TOL-TYR DNA
+XX
+AC   D42062;
+XX
+DE   DNA transposon Tol-tyr.
+XX
+KW   DNA transposon Tol-tyr.
+XX
+OS   Oryzias latipes
+CC   Oryzias latipes DNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Actinopterygii; Neopterygii; Teleostei; Euteleostei;
+OC   Acanthopterygii; Atherinomorpha; Cyprinodontiformes;
+OC   Adrianichthyoidei; Adrianichthyidae; Oryziinae; Oryzias.
+XX
+RN   [1]
+RP   1-1855
+RC   [1]  (bases 1 to 1855)
+RA   Hori H.
+RT   ;
+RL   Unpublished (1996)
+XX
+RN   [2]
+RP   1-1855
+RC   [2]  (bases 1 to 1855)
+RA   Hori H.;
+RT   "Direct Submission";
+RL   Submitted (08-NOV-1994) to the DDBJ/EMBL/GenBank databases. Hiroshi
+RL   Hori, Nagoya University, Division of Biological Science; Furo-cho,
+RL   Chikusa-ku, Nagoya, Aichi 464-01, Japan
+RL   (E-mail:hori@bio.nagoya-u.ac.jp, Tel:052-789-2504,
+RL   Fax:052-789-2974)
+XX
+DR   GENBANK; D42062; 105.0.
+CC   Positions       1    1855  Accession No D42062       GenBank (rel. 105.0)
+XX
+SQ   Sequence 1855 BP; 534 A; 315 C; 432 G; 574 T; 0 other;
+     cagtagcggt tctaggcacg ggccgtccgg gcggtggcct ggggcggaaa actgaagggg        60
+     ggcggcaccg gcggctcagc cctttgtaat atattaatat gcaccactat tggtttactt       120
+     atgtcacagt ttgtaagttt gtaacagcct gaacctggcc gcgccgccgc cctcgccccg       180
+     cagctgcgct ctcctgtctt tgagaagtag acacaaatgt gtgtgaagaa ggagaaggga       240
+     gggggcgcgg ggtgagcacg gagcgtcgcc gcgtttgcgc atgcgcaaaa cctggctggc       300
+     tcatctttca ggggaggcga cggtcgcggg cttgatgaaa aaaataaaag taaaaactgc       360
+     gactgcgccg tcatgtagcg aatcagcgcc cctggctgta gctgcacgcg ctcctgctgg       420
+     aaatgtgtga agaggggggg gggggggggg gctgcgggga atcagttcaa ttgtgggacg       480
+     cttccaaatt aagtggctag gtggggacaa gggcgggggt ttgaatctac ttcataaaac       540
+     ctttttatat tataagtcag tcataaggtg acattctata acctacattt taataaaggt       600
+     ataaaaaata tattctgctt tttttgggtt aattttgtgt gaaatgtcca aataaaaaaa       660
+     atggcaacac aaaacaatgc tgtcactaag gtgacagttg gttcagtcga cggacttgat       720
+     gccttcttcg tgacgtgagg acatttatgc caaacaaacg ccaataaaca tctaaaatat       780
+     ggaaaagaaa aggtcaaagc catctggtgc ccaatttaga aagaaaagaa aagaagaaga       840
+     ggagaaaaga gataaagaaa agggtaagtc ctcacagctt gatgcatgtt ttttctaaat       900
+     tctaatgcta cctgccctac aacaacgttg ccgatgaaaa ctttattttg gtcgatgacc       960
+     aacactgaat taggcccaaa tgttgcaaat agcgtcattt tttttttttt ttttagattt      1020
+     tattcttaaa aatttgctct gccttaactt gtaacattag ttatgattca tgtgtctgtc      1080
+     tgctctgctg taacacaaag gttttgttgg gttttgctgt tgtatactag ctcataatgt      1140
+     taaaaaagct gtgatggtta cacagcatgc tggtgctgcc ataagatgct aatggggcaa      1200
+     ataatttgag attggtcatt aatttaataa tcatttgtgg cagcctaaac gttttcacaa      1260
+     tgtttttttg acatttaact ggggatttag gggttaattt tgagcctgca tatgaagttt      1320
+     attttttatt tgttttacaa atgtgggatt atatttttag ccaatagaat ttccataaat      1380
+     ctgtaggtag ttttaaaaat gaatatttac catttactgc aactctatgg ggacaaaaca      1440
+     taatgtaaca ggtcataact aaaaatgtgc caatcaaagg attgaagacg gaaaacatga      1500
+     gttaattttt cttctctgaa gtagagatcg atatagaaca tgacaattta aatttccaat      1560
+     tcataaatgt ttttaaaata tttattttat attatttatt taacattgag tttgattcaa      1620
+     tattttctta gctaactgta tttttgccat gcttatggtc ttttattttt tgtgttctga      1680
+     taacttttat aatgcttttc agaattttga catcttttgt atccacttct taatttcaat      1740
+     gacaataaaa catttcagtt gacgaagaca aacaaagttc tgttgtgact atgggggggg      1800
+     ggggcgcctg gggatggtct cgcccgggga gtaattcagg gtagaaccgc cactg           1855
+//
+ID   SINE_HE1  repbase; DNA; VRT; 364 BP.
+CC   SINE_HE1 DNA
+XX
+AC   ;
+XX
+DT   29-OCT-2001 (Rel. 4.0, Created)
+DT   29-OCT-2001 (Rel. 4.0, Last updated, Version 1)
+XX
+DE   Heterodontus japonicus HE1 SINE - a consensus.
+XX
+KW   SINE_HE1.
+XX
+OS   Heterodontus japonicus (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+OC   Elasmobranchii; Galeomorphii; Heterodontoidea; Heterodontiformes;
+OC   Heterodontidae; Heterodontus.
+XX
+RN   [1]
+RP   1-364
+RC   [1]
+RA   Ogiwara I., Miya M., Ohshima K., Okada N.;
+RT   "Retropositional parasitism of SINEs on LINEs: identification of
+RT   SINEs and LINEs in elasmobranchs";
+RL   Mol. Biol. Evol. 16 (9), 1238-1250 (1999)
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 364 BP; 83 A; 70 C; 112 G; 93 T; 6 other;
+     gagggcggca cagtggcgca gtggttagca ccgcagcctc acagctccag cgacccgggt        60
+     tcaattctgg gtactgcctg tgtggagttt gcaagttctc cctgtgtctg cgtgggtttc       120
+     ctccgggtgc tccggtttcc tcccacawgc caaaagactt gcaggttgat aggtaaattg       180
+     gccattataa nattgycact agtataggta ggtggtaggg aaatataggg acaggtgggg       240
+     aatgtggtag saatatggga ttagtgtagg attagtataa atgggtggtt gatggtcggc       300
+     acagactcgg tgggccgaag ggcctgnttc agtgctgtat ctctaaacta aactaaacta       360
+     awat                                                                    364
+//

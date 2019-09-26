@@ -1,0 +1,44 @@
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+CC                                                               *
+CC   REPBASE UPDATE                                              *
+CC   (C) 1997-1999  Genetic Information Research Institute       *
+CC   All rights reserved                                         *
+CC                                                               *
+CC   A REFERENCE COLLECTION                                      *
+CC   OF ABUNDANT HUMAN PSEUDOGENE SEQUENCES                      *
+CC   (AN APPENDIX)                                               *
+CC                                                               *
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+XX
+ID   U6        repbase; RNA; RNA; 45 BP.
+CC   U6 uRNA
+XX
+AC   K03099;
+XX
+DT   25-APR-1997 (Rel. 1.0, Created)
+DT   25-APR-1997 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Human (HeLa) U6 small nuclear RNA.
+XX
+KW   U6 small nuclear RNA.
+XX
+OS   Homo sapiens
+CC   Human (HeLa cell) uRNA.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+OC   Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-45
+RC   [1]  (bases 1 to 45)
+RA   Sri-Widada J., Liautard J.P., Assens C., Brunel C.;
+RT   "Primary structure identification of snRNAs present in highly
+RT   purified snRNPs from HeLa cells";
+RL   Mol. Biol. Rep. 8, 29-36 (1981)
+RX   MEDLINE; 82124936.
+XX
+DR   GENBANK; K03099; 97.0.
+CC   Positions       1      45  Accession No K03099        GenBank (rel. 97.0)
+XX
+SQ   Sequence 45 BP; 12 A; 10 C; 10 G; 13 T; 0 other;
+     ctgcgcaagg atgacacgca aattcgtgaa gcgttccata ttttt                        45
+//

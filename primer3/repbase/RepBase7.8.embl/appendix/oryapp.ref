@@ -1,0 +1,243 @@
+ID   TNR2      repbase; DNA; ORY; 157 BP.
+CC   TNR2 DNA
+XX
+AC   D14535;
+XX
+DT   10-JUL-2002 (Rel. 1.0, Created)
+DT   10-JUL-2002 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Tnr2 short interspersed element.
+XX
+KW   SINE; short interspersed element; transposable element.
+XX
+OS   Oryza rufipogon
+CC   Oryza rufipogon (strain W630) (library: pUC118) DNA, clone pKAY410.
+OC   Eukaryotae; mitochondrial eukaryotes; Viridiplantae;
+OC   Charophyta/Embryophyta group; Embryophyta; Magnoliophyta;
+OC   Liliopsida; Poales; Poaceae; Oryza.
+XX
+RN   [1]
+RP   1-157
+RC   [1]  (bases 1 to 445)
+RA   Mochizuki K., Ohtsubo H., Hirano H., Sano Y., Ohtsubo E.;
+RT   "Classification and relationships of rice strains with AA genome by
+RT   identification of transposable elements at nine loci";
+RL   Jpn. J. Genet. 68 (3), 205-217 (1993)
+RX   MEDLINE; 94072216.
+XX
+CC   ~10 bp target site duplication.
+XX
+DR   GENBANK; D14535; 97.0.
+CC   Positions     223     379  Accession No D14535        GenBank (rel. 97.0)
+XX
+SQ   Sequence 157 BP; 44 A; 29 C; 30 G; 54 T; 0 other;
+     cgggacattt aattattttg ccaattttaa gatgtgccaa ttaactattt gctactcact        60
+     gtctatgaca tgtatgccct catgtgtcta tgacatgtgg gtacagtggc aaatccttta       120
+     gaaccactcg taagagtggg aaatagttaa ttattcc                                157
+//
+ID   SZ-34LTR  repbase; DNA; ORY; 4039 BP.
+CC   SZ-34LTR DNA
+XX
+AC   ;
+XX
+DE   Rice long terminal repeat SZ-34LTR.
+XX
+KW   Long terminal repeat; retrotransposon; SZ-34LTR.
+XX
+OS   Oryza sativa
+CC   Oryza sativa
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae;
+OC   Ehrhartoideae; Oryzeae; Oryza.
+XX
+RN   [1]
+RP   1-4039
+RC   [1]  (bases 1 to 4039)
+RA   Jiang N., Wessler S.R.;
+RT   "SZ-34LTR: LTR from Oryza sativa.";
+RL   Repbase Reports 2:(7) p. 91 (2002)
+XX
+CC   Identical sequence SZ-43LTR was published in 
+CC   Repbase Reports 2:(7) p. 100 (2002)
+XX
+CC   [1]
+XX
+SQ   Sequence 4039 BP; 1097 A; 1029 C; 644 G; 1269 T; 0 other;
+     tgtaacattc tgaaaatgtg tcattttcta atcttgcatc atgctgattc ttatgttctt        60
+     aataaccttc taaacctagg aaaatataat tagagggacc tcctaaaact aactcgcata       120
+     aaacctctct ggtatttaat cccttttgtg tttttcattt aaaaacatat ttggtatttc       180
+     ttgttgaaat tctattttca aatattaaac cttctttcga ctaaaactct tttattcaaa       240
+     tttagtttaa aaaccatttt tattattatg aattatggtc caagaaatcc tccaattttt       300
+     gtccttgaac ctagaccaaa gtaattccaa tctcattgga attaattgtt agcccatcct       360
+     ttgatcttaa acccatcctt tgattctcga tccaaatatc caaattcctc cttttgatct       420
+     agccaccaat ttaatttatg tggcttgatt tcctcttcgg cacaagaatt gtattattgc       480
+     aatattgtga ataattgctc ttgtgctaag aaaattccaa tttatattct tcactcaact       540
+     tcccctttta gccacaaata tacataacac caattttaga gttcaaatcc tatttattgc       600
+     cttcaactaa ttcccttcta tattcccaaa aatattttga ggaatattat taatttccat       660
+     tcctatttga gtgcttccaa ataaattccc tcaaactcca cctctaaata ttgcactcaa       720
+     ataaattagg aaatctcttt tgtgaattct ttccaaattc aaattctttg caaaacctag       780
+     ttatccaaat caagtattca aattaggctt ctttcttttt gtcatcgggc cgaaactcca       840
+     ttctttcttc ctttttggcc caatcccttt tcttttatct tctattttcc tcctccttct       900
+     tgagctgccg gcccagctaa gccgagccgg cccaaaccag cccacacccc aaccgagccg       960
+     ccccctcctc ctgtgcacgg ctcacgccgc cgccaactcc tcttccttcg ccgctaagga      1020
+     aacgaagccg gccgccgtag ttcgaatctt cacgccatcg tcgcccgtgc acttctcgat      1080
+     ctcctccaca accgcctttc accaccgcct ctctccccta taaatagccg gccatccctc      1140
+     cccttctcta catacaatca gagctccatc tctctctctt tctctcccat gtccggccat      1200
+     ggccgccacc acccgatctc cctcaccgga gcttcgcaag ccaaaccatc gcgccatcga      1260
+     gttcgcctcg acgaggtgat tccatttttc ctgtttcccc cttctccccc accccatagc      1320
+     aaccaccacc gccacctctc tttgccgccg aagataagct cttctactcg ccgttccggc      1380
+     catctccctc actctctccg ccagccaccg cccaccccag gtgcgtcgtt ctcgggaaca      1440
+     tgtgtggccg ccgacgtcgc cgcctttcgt ccaccggaga gccggcgccc actctctccc      1500
+     tctcctgtgt agccggcaag aaaaagaaga agagaggaag aagatgacgg gagaaagaag      1560
+     aaggagaaga aaaagaaaaa gaaagactga caggtgggcc cctgcacagt gacttttctc      1620
+     attttctaga tttaattcaa atcctattct ttagaagcac atatctccta aaccgtagat      1680
+     ccgattctag tgaaacttgg acctaaattc atctaaattc aactcttcat tttgatatca      1740
+     aatttgctat tttaagattt tatttgaatt tccttaattt attcaaatgc catttgaata      1800
+     aatatttgat ttaatcttat aattgaattt acaatttaaa cttatatttg cttttcaaat      1860
+     attttctttt atttccaaaa tgcccgttag ccactaaaaa gccgccggtt ggaactttac      1920
+     gccttccatg gggacgtttg cgcggtctac ggacctcaac gtcggaccgt tggttgtaaa      1980
+     gcccggcaaa aaccaaacct aaggtcgaag tgctgctcct gccaccccac gccttgatgc      2040
+     gtacagcggt cggagcttca ctatcccctc gacctccatt gcacgccgca cagttagctc      2100
+     ttgagctctg tgtgatccta gccgctctgc cgccactcac ggttgtcgga gtaacacttc      2160
+     cgccccacta aacctgcacc cacctcctat tcttctagcc gatatgttgt ctatcgacac      2220
+     ggctagaaat gataccaaac ctagtcgtca tgctgtccaa ctctagcgac aactagcaaa      2280
+     cacccaaaac cctagccgat atttatccta cctcgatatc ggcctaaaca actaaacctt      2340
+     agccactatt ctatcaaagc caaccttaac ccatattagc cacatgccta tttaaccata      2400
+     tcaactatcc agtatatttc ctatcgtcca aaccacgaga gcctccacat aaaatataga      2460
+     gcctagccga gatactgtcc tactccacag tcgactccca tataactaaa ccctagctat      2520
+     tatactacca aaacctacca ctagcaaata ctagccccat aatccctata ccctataaaa      2580
+     gagataggtt ataccttaaa ccctagccct cttagtcgtt tatcgttttc ttattatttt      2640
+     atggctttta ttgaatttgg ttcttcctct ttctcagtaa agactattgt cttttggatg      2700
+     gcaacctatg gtatttcgag aatcgtataa tcaggttgcc tatcttggat ttatttgcgt      2760
+     tggagcaagg caagttatta ttcctcccct tgagcataat tatcctatat tctatatctc      2820
+     tattctatgc attagccatt catgattttg aatgcataat ctgaacatat agcaaaccag      2880
+     ttatatgcta gcttttgctt agccctgcct agttagattg cataaaacat aatgaactta      2940
+     gattgggaca gtacgcaaga tttggttgat ttccgggtgg ctagtactgt ctcggtcgat      3000
+     ataagtttac caagtactta tgtcaaacga acgagtacga tcgcagcttc tagaatgggg      3060
+     acagacctag atattatgtt aattaacaat gtggtacctc tgtacagtgg ttcttatata      3120
+     agtcctcgcg aaggaggcaa atatatgccg cgaagggcaa atgtgatatt taccgaggcg      3180
+     caggtaaata tcttgattat cgcgcgatgt gtgtgtgaat ttatgaaaac ctggttgaga      3240
+     tgacatgggg tctctcatcc agttctctct aaaaaccccg ggaacgccag aactcctctc      3300
+     gctgctgata acattacatt cagagcgcat gtggactaga gttcatggaa caggtgccac      3360
+     aattgttaat aacctaatac taggccatga ctaagctaat gattattggc aagtcgtaga      3420
+     ctgcgggtaa agcgtacatc tactgcaata tgaatatcct tgaatctatt cgaatagccg      3480
+     tgctcacgga ttgagcatcg ggactcatat ggtactttgg ttagaaatat aattcaagat      3540
+     tttcttaaat actgttgcat atcaagcatt tcaggatttc tacctcttta ttctcagctt      3600
+     tctgcaagta aacctagctc tacacagata ttaccatttc atatattcat tattggttaa      3660
+     tataatagct tgctgagtac gttgtactca cccttgcttc aacccctctt tttcagagtt      3720
+     taattggagt ttttgccgaa gctgggagtt caatcacata agttagttcc ctttaaacct      3780
+     aatcttcaag tctagtgtag ttagatggtt taattctata gtaaaacggc agagttgagt      3840
+     catcgtatag cctctgctgt aatagttagc cacaaacttg taaatgtcct attattttat      3900
+     ataaagatat ctcctttgga gtctttacca aatgtatgcg atgaagatct aaattgttga      3960
+     acctgtatca atctactgat ccagggcttg atacagttaa acatgtcggt ttccgaatcg      4020
+     ttagttttga gagccgaca                                                   4039
+//
+ID   TNR8      repbase; DNA; ORY; 647 BP.
+CC   TNR8 DNA
+XX
+AC   AB052632;
+XX
+DT   10-JUL-2002 (Rel. 1.0, Created)
+DT   09-SEP-2002 (Rel. 1.0, Last updated, Version 3)
+XX
+DE   Oryza glaberrima DNA, transposable element Tnr8-1.
+XX
+KW   TNR8.
+XX
+OS   Oryza glaberrima
+CC   Oryza glaberrima DNA
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae;
+OC   Ehrhartoideae; Oryzeae; Oryza.
+XX
+RN   [1]
+RP   1-647
+RC   [1] (bases 1 to 647)
+RA   Cheng C., Tsuchimoto S., Ohtsubo H., Ohtsubo E.;
+RT   "Tnr8, a foldback transposable elements from rice";
+RL   Genes Genet Syst. 75(6), 327-333 (2000)
+XX
+CC   FEATURES             Location/Qualifiers
+CC     source          1..647
+CC                     /organism="Oryza glaberrima"
+CC                     /db_xref="taxon:4538"
+CC     repeat_region   143..331
+CC                     /rpt_type=inverted
+CC                     /rpt_type=terminal
+CC     repeat_region   143..560
+CC                     /rpt_family="Tnr8-1"
+CC     repeat_region   372..560
+CC                     /rpt_type=inverted
+CC                     /rpt_type=terminal
+CC
+CC
+CC   Identical with the sequence TNR8-1.
+XX
+DR   GENBANK; AB052632; 125.0.
+CC   Positions     1     647  Accession No AB052632    GenBank (rel. 125.0)
+XX
+SQ   Sequence 647 BP; 216 A; 103 C; 109 G; 219 T; 0 other;
+     gagaaccaat gaaaagagtg aagtacagaa ggtaatcacg ttaagaaaaa tgatgtgaga        60
+     aacgcctagg agtcttccgg ctagctccac aaggtggtgg gctagacgac ctggattcga       120
+     agtttcaccc cttctaatta ttgagtaaat ttcacaaaac tacaggtatt ttgacgaaat       180
+     tatcacaaaa ctacagattt aaggagttgt atcataaaac tacacattta gcaccaaatt       240
+     tatcacaaaa ctgcagattt taggttaagt atcacaaaaa tacatattta atattgaact       300
+     tatcacaaaa ctacaacttt tggagtttaa atccctagca ccattgttat ggtgtagcta       360
+     taaacatgat taaattggtt ctaaacccgt agttttatga taatttagtt tctaaacgtg       420
+     tagttttgta acacttcatc ttaaatgtgt agttttgtga caaatttggt gctaaatgtg       480
+     tagttttgtg atacaactcc ttaattctgt agttttgtga tagtctagtc atagtatctg       540
+     tagttttgtg aaatttactc ctaattattt gatattaggt ccttccctaa tattcgcgtc       600
+     ttttttgtta agaaaaatga tgtaaccatc tataaggacc caatcca                     647
+//
+ID   WANDERER  repbase; DNA; ORY; 237 BP.
+CC   WANDERER DNA
+XX
+AC   U34601;
+XX
+DT   10-JUL-2002 (Rel. 1.0, Created)
+DT   09-SEP-2002 (Rel. 1.0, Last updated, Version 2)
+XX
+DE   Wanderer mobile element linked to Xa21.
+XX
+KW   mobile inverted repeat.
+XX
+OS   Oryza sativa (rice)
+CC   rice.
+OC   Eukaryotae; mitochondrial eukaryotes; Viridiplantae;
+OC   Charophyta/Embryophyta group; Embryophyta; Magnoliophyta;
+OC   Liliopsida; Poales; Poaceae; Oryza.
+XX
+RN   [1]
+RP   1-237
+RC   [1]  (bases 1 to 995)
+RA   Ronald P.C., Albano B., Tabien R., Abenes L., Wu K.S., McCouch S.,
+RA   Tanksley S.D.;
+RT   "Genetic and physical analysis of the rice bacterial blight disease
+RT   resistance locus, Xa21";
+RL   Mol. Gen. Genet. 236 (1), 113-120 (1992)
+RX   MEDLINE; 93156675.
+XX
+RN   [2]
+RP   1-237
+RC   [2]  (bases 1 to 995)
+RA   Bureau T., Ronald P.R., Wessler S.;
+RT   "Mobile inverted repeat elements of rice";
+RL   Unpublished (1995)
+XX
+RN   [3]
+RP   1-237
+RC   [3]  (bases 1 to 995)
+RA   Ronald P.R.;
+RT   "Direct Submission";
+RL   Submitted (22-AUG-1995) Pamela R. Ronald, Plant Pathology, UC
+RL   Davis, Davis, CA 95616, USA
+XX
+DR   GENBANK; U34601; 97.0.
+CC   Positions     415     651  Accession No U34601        GenBank (rel. 97.0)
+XX
+SQ   Sequence 237 BP; 77 A; 44 C; 51 G; 65 T; 0 other;
+     gccaatcttc ccagcacatg atgtgcgcac ggaaaacgaa gcagttcatt agcgcgtgat        60
+     taattaagta tttgcttttt tttgcaaaaa tggattaata taatttttta agcaactttc       120
+     gtatagaaac tttttgcaaa aaacacattg tttagcagtt tgaaaagcgt gcgcgcagaa       180
+     aacgaggggg agaggatggg aaccagcaat gccgaacaca accttgacca ttttcgc          237
+//

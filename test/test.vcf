@@ -1,0 +1,326 @@
+##fileformat=VCFv4.1
+##GATKCommandLine.CombineVariants=<ID=CombineVariants,Version=3.4-46-gbc02625,Date="Mon Jul 08 10:27:02 CEST 2019",Epoch=1562574422359,CommandLineOptions="analysis_type=CombineVariants input_file=[] showFullBamList=false read_buffer_size=null phone_home=AWS gatk_key=null tag=NA read_filter=[] disable_read_filter=[] intervals=null excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=/hpc/pmc_vanboxtel/data/Homo_sapiens.GRCh37.GATK.illumina/Homo_sapiens.GRCh37.GATK.illumina.fasta nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=null downsample_to_coverage=1000 baq=OFF baqGapOpenPenalty=40.0 refactor_NDN_cigar_string=false fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false no_cmdline_in_header=false sites_only=false never_trim_vcf_format_field=false bcf=false bam_compression=null simplifyBAM=false disable_bam_indexing=false generate_md5=false num_threads=1 num_cpu_threads_per_data_thread=1 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 logging_level=INFO log_to_file=null help=false version=false variant=[(RodBindingCollection [(RodBinding name=variant source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3_Rurika.filtered_snps.vcf)]), (RodBindingCollection [(RodBinding name=variant2 source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3_Rurika.filtered_indels.vcf)])] out=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3_Rurika.filtered_variants.vcf genotypemergeoption=null filteredrecordsmergetype=KEEP_IF_ANY_UNFILTERED multipleallelesmergetype=BY_TYPE rod_priority_list=null printComplexMerges=false filteredAreUncalled=false minimalVCF=false excludeNonVariants=false setKey=set assumeIdenticalSamples=true minimumN=1 suppressCommandLineHeader=false mergeInfoWithMaxAC=false filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##GATKCommandLine.GenotypeGVCFs=<ID=GenotypeGVCFs,Version=3.4-46-gbc02625,Date="Mon Jul 08 10:02:16 CEST 2019",Epoch=1562572936895,CommandLineOptions="analysis_type=GenotypeGVCFs input_file=[] showFullBamList=false read_buffer_size=null phone_home=AWS gatk_key=null tag=NA read_filter=[] disable_read_filter=[] intervals=[/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/.queue/scatterGather/HaplotypeCaller-10-sg/temp_0001_of_1000/scatter.intervals] excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=/hpc/pmc_vanboxtel/data/Homo_sapiens.GRCh37.GATK.illumina/Homo_sapiens.GRCh37.GATK.illumina.fasta nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=null downsample_to_coverage=1000 baq=OFF baqGapOpenPenalty=40.0 refactor_NDN_cigar_string=false fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false no_cmdline_in_header=false sites_only=false never_trim_vcf_format_field=false bcf=false bam_compression=null simplifyBAM=false disable_bam_indexing=false generate_md5=false num_threads=2 num_cpu_threads_per_data_thread=1 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 logging_level=INFO log_to_file=null help=false version=false variant=[(RodBindingCollection [(RodBinding name=variant source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3DBMMSC_dedup.realigned.g.vcf.gz)]), (RodBindingCollection [(RodBinding name=variant2 source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3DBMHSC2_dedup.realigned.g.vcf.gz)]), (RodBindingCollection [(RodBinding name=variant3 source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3RPBCLONE2_dedup.realigned.g.vcf.gz)]), (RodBindingCollection [(RodBinding name=variant4 source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3RPBCLONE1_dedup.realigned.g.vcf.gz)]), (RodBindingCollection [(RodBinding name=variant5 source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3DBMMPP2_dedup.realigned.g.vcf.gz)]), (RodBindingCollection [(RodBinding name=variant6 source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3DBMMPP4_dedup.realigned.g.vcf.gz)]), (RodBindingCollection [(RodBinding name=variant7 source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3DBMMPP3_dedup.realigned.g.vcf.gz)]), (RodBindingCollection [(RodBinding name=variant8 source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3DBMHSC1_dedup.realigned.g.vcf.gz)]), (RodBindingCollection [(RodBinding name=variant9 source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3DBMMPP1_dedup.realigned.g.vcf.gz)])] out=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/.queue/scatterGather/HaplotypeCaller-10-sg/temp_0001_of_1000/MBHSCT3_Rurika.raw_variants.vcf includeNonVariantSites=false uniquifySamples=false annotateNDA=false heterozygosity=0.001 indel_heterozygosity=1.25E-4 standard_min_confidence_threshold_for_calling=30.0 standard_min_confidence_threshold_for_emitting=30.0 max_alternate_alleles=6 input_prior=[] sample_ploidy=2 annotation=[InbreedingCoeff, FisherStrand, QualByDepth, ChromosomeCounts, StrandOddsRatio] dbsnp=(RodBinding name=dbsnp source=/hpc/pmc_vanboxtel/data/GATK_bundle/dbsnp_137.b37.vcf) filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##GATKCommandLine.HaplotypeCaller=<ID=HaplotypeCaller,Version=3.4-46-gbc02625,Date="Sat Jul 06 23:16:04 CEST 2019",Epoch=1562447764197,CommandLineOptions="analysis_type=HaplotypeCaller input_file=[/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/MBHSCT3DBMMPP1_dedup.realigned/mapping/MBHSCT3DBMMPP1_dedup.realigned.bam] showFullBamList=false read_buffer_size=null phone_home=AWS gatk_key=null tag=NA read_filter=[] disable_read_filter=[] intervals=[/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/.queue/scatterGather/HaplotypeCaller-9-sg/temp_0001_of_1000/scatter.intervals] excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=/hpc/pmc_vanboxtel/data/Homo_sapiens.GRCh37.GATK.illumina/Homo_sapiens.GRCh37.GATK.illumina.fasta nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=null downsample_to_coverage=500 baq=OFF baqGapOpenPenalty=40.0 refactor_NDN_cigar_string=false fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false no_cmdline_in_header=false sites_only=false never_trim_vcf_format_field=false bcf=false bam_compression=null simplifyBAM=false disable_bam_indexing=false generate_md5=false num_threads=1 num_cpu_threads_per_data_thread=2 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 logging_level=INFO log_to_file=null help=false version=false likelihoodCalculationEngine=PairHMM heterogeneousKmerSizeResolution=COMBO_MIN dbsnp=(RodBinding name= source=UNBOUND) dontTrimActiveRegions=false maxDiscARExtension=25 maxGGAARExtension=300 paddingAroundIndels=150 paddingAroundSNPs=20 comp=[] annotation=[ClippingRankSumTest, DepthPerSampleHC, StrandBiasBySample] excludeAnnotation=[ChromosomeCounts, FisherStrand, StrandOddsRatio, QualByDepth] debug=false useFilteredReadsForAnnotations=false emitRefConfidence=GVCF bamOutput=null bamWriterType=CALLED_HAPLOTYPES disableOptimizations=false annotateNDA=false heterozygosity=0.001 indel_heterozygosity=1.25E-4 standard_min_confidence_threshold_for_calling=-0.0 standard_min_confidence_threshold_for_emitting=-0.0 max_alternate_alleles=6 input_prior=[] sample_ploidy=2 genotyping_mode=DISCOVERY alleles=(RodBinding name= source=UNBOUND) contamination_fraction_to_filter=0.0 contamination_fraction_per_sample_file=null p_nonref_model=null exactcallslog=null output_mode=EMIT_VARIANTS_ONLY allSitePLs=true gcpHMM=10 pair_hmm_implementation=VECTOR_LOGLESS_CACHING pair_hmm_sub_implementation=ENABLE_ALL always_load_vector_logless_PairHMM_lib=false phredScaledGlobalReadMismappingRate=45 noFpga=false sample_name=null kmerSize=[10, 25] dontIncreaseKmerSizesForCycles=false allowNonUniqueKmersInRef=false numPruningSamples=1 recoverDanglingHeads=false doNotRecoverDanglingBranches=false minDanglingBranchLength=4 consensus=false maxNumHaplotypesInPopulation=128 errorCorrectKmers=false minPruning=2 debugGraphTransformations=false allowCyclesInKmerGraphToGeneratePaths=false graphOutput=null kmerLengthForReadErrorCorrection=25 minObservationsForKmerToBeSolid=20 GVCFGQBands=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 70, 80, 90, 99] indelSizeToEliminateInRefModel=10 min_base_quality_score=10 includeUmappedReads=false useAllelesTrigger=false doNotRunPhysicalPhasing=false keepRG=null justDetermineActiveRegions=false dontGenotype=false dontUseSoftClippedBases=false captureAssemblyFailureBAM=false errorCorrectReads=false pcr_indel_model=CONSERVATIVE maxReadsInRegionPerSample=10000 minReadsPerAlignmentStart=10 mergeVariantsViaLD=false activityProfileOut=null activeRegionOut=null activeRegionIn=null activeRegionExtension=null forceActive=false activeRegionMaxSize=null bandPassSigma=null maxProbPropagationDistance=50 activeProbabilityThreshold=0.002 min_mapping_quality_score=20 filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##GATKCommandLine.SelectVariants=<ID=SelectVariants,Version=3.4-46-gbc02625,Date="Mon Jul 08 10:21:02 CEST 2019",Epoch=1562574062708,CommandLineOptions="analysis_type=SelectVariants input_file=[] showFullBamList=false read_buffer_size=null phone_home=AWS gatk_key=null tag=NA read_filter=[] disable_read_filter=[] intervals=null excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=/hpc/pmc_vanboxtel/data/Homo_sapiens.GRCh37.GATK.illumina/Homo_sapiens.GRCh37.GATK.illumina.fasta nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=null downsample_to_coverage=1000 baq=OFF baqGapOpenPenalty=40.0 refactor_NDN_cigar_string=false fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false no_cmdline_in_header=false sites_only=false never_trim_vcf_format_field=false bcf=false bam_compression=null simplifyBAM=false disable_bam_indexing=false generate_md5=false num_threads=1 num_cpu_threads_per_data_thread=1 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 logging_level=INFO log_to_file=null help=false version=false variant=(RodBinding name=variant source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/MBHSCT3_Rurika.raw_variants.vcf) discordance=(RodBinding name= source=UNBOUND) concordance=(RodBinding name= source=UNBOUND) out=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3_Rurika.raw_snps.vcf sample_name=[] sample_expressions=null sample_file=null exclude_sample_name=[] exclude_sample_file=[] exclude_sample_expressions=[] selectexpressions=[] invertselect=false excludeNonVariants=false excludeFiltered=false preserveAlleles=false removeUnusedAlternates=false restrictAllelesTo=ALL keepOriginalAC=false keepOriginalDP=false mendelianViolation=false invertMendelianViolation=false mendelianViolationQualThreshold=0.0 select_random_fraction=0.0 remove_fraction_genotypes=0.0 selectTypeToInclude=[SNP, NO_VARIATION] selectTypeToExclude=[] keepIDs=null excludeIDs=null fullyDecode=false justRead=false maxIndelSize=2147483647 minIndelSize=0 maxFilteredGenotypes=2147483647 minFilteredGenotypes=0 maxFractionFilteredGenotypes=1.0 minFractionFilteredGenotypes=0.0 setFilteredGtToNocall=false ALLOW_NONOVERLAPPING_COMMAND_LINE_SAMPLES=false filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##GATKCommandLine.VariantAnnotator=<ID=VariantAnnotator,Version=3.4-46-gbc02625,Date="Mon Jul 08 11:48:18 CEST 2019",Epoch=1562579298392,CommandLineOptions="analysis_type=VariantAnnotator input_file=[] showFullBamList=false read_buffer_size=null phone_home=AWS gatk_key=null tag=NA read_filter=[] disable_read_filter=[] intervals=null excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=/hpc/pmc_vanboxtel/data/Homo_sapiens.GRCh37.GATK.illumina/Homo_sapiens.GRCh37.GATK.illumina.fasta nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=null downsample_to_coverage=250 baq=OFF baqGapOpenPenalty=40.0 refactor_NDN_cigar_string=false fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false no_cmdline_in_header=false sites_only=false never_trim_vcf_format_field=false bcf=false bam_compression=null simplifyBAM=false disable_bam_indexing=false generate_md5=false num_threads=6 num_cpu_threads_per_data_thread=1 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 logging_level=INFO log_to_file=null help=false version=false variant=(RodBinding name=variant source=MBHSCT3_Rurika.filtered_variants_snpEff_snpSift.vcf) snpEffFile=(RodBinding name= source=UNBOUND) dbsnp=(RodBinding name=dbsnp source=/hpc/pmc_vanboxtel/data/cosmic/CosmicCodingMuts_v76.vcf.gz) comp=[] resource=[] out=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/MBHSCT3_Rurika.filtered_variants_snpEff_snpSift_Cosmicv76.vcf annotation=[] excludeAnnotation=[] group=[] expression={} useAllAnnotations=false list=false alwaysAppendDbsnpId=true MendelViolationGenotypeQualityThreshold=0.0 filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##GATKCommandLine.VariantFiltration=<ID=VariantFiltration,Version=3.4-46-gbc02625,Date="Mon Jul 08 10:23:32 CEST 2019",Epoch=1562574212413,CommandLineOptions="analysis_type=VariantFiltration input_file=[] showFullBamList=false read_buffer_size=null phone_home=AWS gatk_key=null tag=NA read_filter=[] disable_read_filter=[] intervals=[/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/.queue/scatterGather/HardFilter-2-sg/temp_01_of_12/scatter.intervals] excludeIntervals=null interval_set_rule=UNION interval_merging=ALL interval_padding=0 reference_sequence=/hpc/pmc_vanboxtel/data/Homo_sapiens.GRCh37.GATK.illumina/Homo_sapiens.GRCh37.GATK.illumina.fasta nonDeterministicRandomSeed=false disableDithering=false maxRuntime=-1 maxRuntimeUnits=MINUTES downsampling_type=BY_SAMPLE downsample_to_fraction=null downsample_to_coverage=1000 baq=OFF baqGapOpenPenalty=40.0 refactor_NDN_cigar_string=false fix_misencoded_quality_scores=false allow_potentially_misencoded_quality_scores=false useOriginalQualities=false defaultBaseQualities=-1 performanceLog=null BQSR=null quantize_quals=0 disable_indel_quals=false emit_original_quals=false preserve_qscores_less_than=6 globalQScorePrior=-1.0 validation_strictness=SILENT remove_program_records=false keep_program_records=false sample_rename_mapping_file=null unsafe=null disable_auto_index_creation_and_locking_when_reading_rods=false no_cmdline_in_header=false sites_only=false never_trim_vcf_format_field=false bcf=false bam_compression=null simplifyBAM=false disable_bam_indexing=false generate_md5=false num_threads=1 num_cpu_threads_per_data_thread=1 num_io_threads=0 monitorThreadEfficiency=false num_bam_file_handles=null read_group_black_list=null pedigree=[] pedigreeString=[] pedigreeValidationType=STRICT allow_intervals_with_unindexed_bam=false generateShadowBCF=false variant_index_type=DYNAMIC_SEEK variant_index_parameter=-1 logging_level=INFO log_to_file=null help=false version=false variant=(RodBinding name=variant source=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/MBHSCT3_Rurika.raw_snps.vcf) mask=(RodBinding name= source=UNBOUND) out=/hpc/pmc_vanboxtel/processed/MBHSCT3_Rurika/tmp/.queue/scatterGather/HardFilter-2-sg/temp_01_of_12/MBHSCT3_Rurika.filtered_snps.vcf filterExpression=[QD < 2.0, MQ < 40.0, FS > 60.0, HaplotypeScore > 13.0, MQRankSum < -12.5, ReadPosRankSum < -8.0, MQ0 >= 4 && ((MQ0 / (1.0 * DP)) > 0.1), DP < 5, QUAL < 30, QUAL >= 30.0 && QUAL < 50.0, SOR > 4.0] filterName=[SNP_LowQualityDepth, SNP_MappingQuality, SNP_StrandBias, SNP_HaplotypeScoreHigh, SNP_MQRankSumLow, SNP_ReadPosRankSumLow, SNP_HardToValidate, SNP_LowCoverage, SNP_VeryLowQual, SNP_LowQual, SNP_SOR] genotypeFilterExpression=[] genotypeFilterName=[] clusterSize=3 clusterWindowSize=10 maskExtension=0 maskName=Mask filterNotInMask=false missingValuesInExpressionsShouldEvaluateAsFailing=false invalidatePreviousFilters=false invertFilterExpression=false invertGenotypeFilterExpression=false setFilteredGtToNocall=false filter_reads_with_N_cigar=false filter_mismatching_base_and_quals=false filter_bases_not_stored=false">
+##GVCFBlock0-1=minGQ=0(inclusive),maxGQ=1(exclusive)
+##GVCFBlock1-2=minGQ=1(inclusive),maxGQ=2(exclusive)
+##GVCFBlock10-11=minGQ=10(inclusive),maxGQ=11(exclusive)
+##GVCFBlock11-12=minGQ=11(inclusive),maxGQ=12(exclusive)
+##GVCFBlock12-13=minGQ=12(inclusive),maxGQ=13(exclusive)
+##GVCFBlock13-14=minGQ=13(inclusive),maxGQ=14(exclusive)
+##GVCFBlock14-15=minGQ=14(inclusive),maxGQ=15(exclusive)
+##GVCFBlock15-16=minGQ=15(inclusive),maxGQ=16(exclusive)
+##GVCFBlock16-17=minGQ=16(inclusive),maxGQ=17(exclusive)
+##GVCFBlock17-18=minGQ=17(inclusive),maxGQ=18(exclusive)
+##GVCFBlock18-19=minGQ=18(inclusive),maxGQ=19(exclusive)
+##GVCFBlock19-20=minGQ=19(inclusive),maxGQ=20(exclusive)
+##GVCFBlock2-3=minGQ=2(inclusive),maxGQ=3(exclusive)
+##GVCFBlock20-21=minGQ=20(inclusive),maxGQ=21(exclusive)
+##GVCFBlock21-22=minGQ=21(inclusive),maxGQ=22(exclusive)
+##GVCFBlock22-23=minGQ=22(inclusive),maxGQ=23(exclusive)
+##GVCFBlock23-24=minGQ=23(inclusive),maxGQ=24(exclusive)
+##GVCFBlock24-25=minGQ=24(inclusive),maxGQ=25(exclusive)
+##GVCFBlock25-26=minGQ=25(inclusive),maxGQ=26(exclusive)
+##GVCFBlock26-27=minGQ=26(inclusive),maxGQ=27(exclusive)
+##GVCFBlock27-28=minGQ=27(inclusive),maxGQ=28(exclusive)
+##GVCFBlock28-29=minGQ=28(inclusive),maxGQ=29(exclusive)
+##GVCFBlock29-30=minGQ=29(inclusive),maxGQ=30(exclusive)
+##GVCFBlock3-4=minGQ=3(inclusive),maxGQ=4(exclusive)
+##GVCFBlock30-31=minGQ=30(inclusive),maxGQ=31(exclusive)
+##GVCFBlock31-32=minGQ=31(inclusive),maxGQ=32(exclusive)
+##GVCFBlock32-33=minGQ=32(inclusive),maxGQ=33(exclusive)
+##GVCFBlock33-34=minGQ=33(inclusive),maxGQ=34(exclusive)
+##GVCFBlock34-35=minGQ=34(inclusive),maxGQ=35(exclusive)
+##GVCFBlock35-36=minGQ=35(inclusive),maxGQ=36(exclusive)
+##GVCFBlock36-37=minGQ=36(inclusive),maxGQ=37(exclusive)
+##GVCFBlock37-38=minGQ=37(inclusive),maxGQ=38(exclusive)
+##GVCFBlock38-39=minGQ=38(inclusive),maxGQ=39(exclusive)
+##GVCFBlock39-40=minGQ=39(inclusive),maxGQ=40(exclusive)
+##GVCFBlock4-5=minGQ=4(inclusive),maxGQ=5(exclusive)
+##GVCFBlock40-41=minGQ=40(inclusive),maxGQ=41(exclusive)
+##GVCFBlock41-42=minGQ=41(inclusive),maxGQ=42(exclusive)
+##GVCFBlock42-43=minGQ=42(inclusive),maxGQ=43(exclusive)
+##GVCFBlock43-44=minGQ=43(inclusive),maxGQ=44(exclusive)
+##GVCFBlock44-45=minGQ=44(inclusive),maxGQ=45(exclusive)
+##GVCFBlock45-46=minGQ=45(inclusive),maxGQ=46(exclusive)
+##GVCFBlock46-47=minGQ=46(inclusive),maxGQ=47(exclusive)
+##GVCFBlock47-48=minGQ=47(inclusive),maxGQ=48(exclusive)
+##GVCFBlock48-49=minGQ=48(inclusive),maxGQ=49(exclusive)
+##GVCFBlock49-50=minGQ=49(inclusive),maxGQ=50(exclusive)
+##GVCFBlock5-6=minGQ=5(inclusive),maxGQ=6(exclusive)
+##GVCFBlock50-51=minGQ=50(inclusive),maxGQ=51(exclusive)
+##GVCFBlock51-52=minGQ=51(inclusive),maxGQ=52(exclusive)
+##GVCFBlock52-53=minGQ=52(inclusive),maxGQ=53(exclusive)
+##GVCFBlock53-54=minGQ=53(inclusive),maxGQ=54(exclusive)
+##GVCFBlock54-55=minGQ=54(inclusive),maxGQ=55(exclusive)
+##GVCFBlock55-56=minGQ=55(inclusive),maxGQ=56(exclusive)
+##GVCFBlock56-57=minGQ=56(inclusive),maxGQ=57(exclusive)
+##GVCFBlock57-58=minGQ=57(inclusive),maxGQ=58(exclusive)
+##GVCFBlock58-59=minGQ=58(inclusive),maxGQ=59(exclusive)
+##GVCFBlock59-60=minGQ=59(inclusive),maxGQ=60(exclusive)
+##GVCFBlock6-7=minGQ=6(inclusive),maxGQ=7(exclusive)
+##GVCFBlock60-70=minGQ=60(inclusive),maxGQ=70(exclusive)
+##GVCFBlock7-8=minGQ=7(inclusive),maxGQ=8(exclusive)
+##GVCFBlock70-80=minGQ=70(inclusive),maxGQ=80(exclusive)
+##GVCFBlock8-9=minGQ=8(inclusive),maxGQ=9(exclusive)
+##GVCFBlock80-90=minGQ=80(inclusive),maxGQ=90(exclusive)
+##GVCFBlock9-10=minGQ=9(inclusive),maxGQ=10(exclusive)
+##GVCFBlock90-99=minGQ=90(inclusive),maxGQ=99(exclusive)
+##GVCFBlock99-2147483647=minGQ=99(inclusive),maxGQ=2147483647(exclusive)
+##SnpEffCmd="SnpEff  GRCh37.74 MBHSCT3_Rurika.filtered_variants.vcf -hgvs -lof -no-downstream -no-upstream -no-intergenic "
+##SnpEffVersion="4.1h (build 2015-08-03), by Pablo Cingolani"
+##SnpSiftCmd="SnpSift dbnsfp -f hg38_chr,hg38_pos,genename,Uniprot_acc,Uniprot_id,Uniprot_aapos,Interpro_domain,cds_strand,refcodon,SLR_test_statistic,codonpos,fold-degenerate,Ancestral_allele,Ensembl_geneid,Ensembl_transcriptid,aapos,aapos_SIFT,aapos_FATHMM,SIFT_score,SIFT_converted_rankscore,SIFT_pred,Polyphen2_HDIV_score,Polyphen2_HDIV_rankscore,Polyphen2_HDIV_pred,Polyphen2_HVAR_score,Polyphen2_HVAR_rankscore,Polyphen2_HVAR_pred,LRT_score,LRT_converted_rankscore,LRT_pred,MutationTaster_score,MutationTaster_converted_rankscore,MutationTaster_pred,MutationAssessor_score,MutationAssessor_rankscore,MutationAssessor_pred,FATHMM_score,FATHMM_rankscore,FATHMM_pred,MetaSVM_score,MetaSVM_rankscore,MetaSVM_pred,MetaLR_score,MetaLR_rankscore,MetaLR_pred,Reliability_index,VEST3_score,VEST3_rankscore,PROVEAN_score,PROVEAN_converted_rankscore,PROVEAN_pred,CADD_raw,CADD_raw_rankscore,CADD_phred,GERP++_NR,GERP++_RS,GERP++_RS_rankscore,phyloP46way_primate,phyloP46way_primate_rankscore,phyloP46way_placental,phyloP46way_placental_rankscore,phyloP100way_vertebrate,phyloP100way_vertebrate_rankscore,phastCons46way_primate,phastCons46way_primate_rankscore,phastCons46way_placental,phastCons46way_placental_rankscore,phastCons100way_vertebrate,phastCons100way_vertebrate_rankscore,SiPhy_29way_pi,SiPhy_29way_logOdds,SiPhy_29way_logOdds_rankscore,LRT_Omega,UniSNP_ids,1000Gp1_AC,1000Gp1_AF,1000Gp1_AFR_AC,1000Gp1_AFR_AF,1000Gp1_EUR_AC,1000Gp1_EUR_AF,1000Gp1_AMR_AC,1000Gp1_AMR_AF,1000Gp1_ASN_AC,1000Gp1_ASN_AF,ESP6500_AA_AF,ESP6500_EA_AF,ARIC5606_AA_AC,ARIC5606_AA_AF,ARIC5606_EA_AC,ARIC5606_EA_AF,ExAC_AC,ExAC_AF,ExAC_Adj_AC,ExAC_Adj_AF,ExAC_AFR_AC,ExAC_AFR_AF,ExAC_AMR_AC,ExAC_AMR_AF,ExAC_EAS_AC,ExAC_EAS_AF,ExAC_FIN_AC,ExAC_FIN_AF,ExAC_NFE_AC,ExAC_NFE_AF,ExAC_SAS_AC,ExAC_SAS_AF,clinvar_rs,clinvar_clnsig,clinvar_trait,COSMIC_ID,COSMIC_CNT MBHSCT3_Rurika.filtered_variants_snpEff.vcf"
+##SnpSiftCmd="SnpSift annotate -tabix -name GoNLv5_ -info AF,AN,AC /hpc/pmc_vanboxtel/data/gonl_release5/site_freqs/gonl.snps_indels.r5.sorted.vcf.gz MBHSCT3_Rurika.filtered_variants_snpEff_snpSift_Cosmicv76.vcf"
+##SnpSiftVersion="SnpSift 4.1h (build 2015-08-03), by Pablo Cingolani"
+##reference=file:///hpc/pmc_vanboxtel/data/Homo_sapiens.GRCh37.GATK.illumina/Homo_sapiens.GRCh37.GATK.illumina.fasta
+##source=SelectVariants
+##ToolCmd="/hpc/pmc_vanboxtel/tools/Markus_SNVFI_VAFchecker/tool2.py --input ../MBHSCT3_Rurika.filtered_variants_snpEff_snpSift_Cosmicv76_GoNLv5.vcf.gz --bam ../bams/MBHSCT3DBMHSC1_dedup.realigned.bam --bam ../bams/MBHSCT3DBMHSC2_dedup.realigned.bam --bam ../bams/MBHSCT3DBMMPP1_dedup.realigned.bam --bam ../bams/MBHSCT3DBMMPP2_dedup.realigned.bam --bam ../bams/MBHSCT3DBMMPP4_dedup.realigned.bam --bam ../bams/MBHSCT3DBMMSC_dedup.realigned.bam --bam ../bams/MBHSCT3RPBCLONE1_dedup.realigned.bam --bam ../bams/MBHSCT3RPBCLONE2_dedup.realigned.bam --threads 8 --control None --blacklist /hpc/pmc_vanboxtel/data/Mutation_blacklists/MSC_healthyBM_raw_variants.vcf --qual 100 --mq 60 --sample_gq_homozygous 10 --sample_gq_heterozygous 99 --control_gq_homozygous 10 --control_gq_heterozygous 10 --indel_gq_homozygous 99 --indel_gq_heterozygous 99 --coverage 10 --clonal_threshold 0.3 --absent_threshold 0.0 --mapq 0 --base_phred_quality 0 --min_components 2 --max_components 3 --indel True"
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes, for each ALT allele, in the same order as listed">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency, for each ALT allele, in the same order as listed">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##INFO=<ID=ANN,Number=.,Type=String,Description="Functional annotations: 'Allele | Annotation | Annotation_Impact | Gene_Name | Gene_ID | Feature_Type | Feature_ID | Transcript_BioType | Rank | HGVS.c | HGVS.p | cDNA.pos / cDNA.length | CDS.pos / CDS.length | AA.pos / AA.length | Distance | ERRORS / WARNINGS / INFO'">
+##INFO=<ID=BaseQRankSum,Number=1,Type=Float,Description="Z-score from Wilcoxon rank sum test of Alt Vs. Ref base qualities">
+##INFO=<ID=ClippingRankSum,Number=1,Type=Float,Description="Z-score From Wilcoxon rank sum test of Alt vs. Ref number of hard clipped bases">
+##INFO=<ID=DB,Number=0,Type=Flag,Description="dbSNP Membership">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Approximate read depth; some reads may have been filtered">
+##INFO=<ID=DS,Number=0,Type=Flag,Description="Were any of the samples downsampled?">
+##INFO=<ID=END,Number=1,Type=Integer,Description="Stop position of the interval">
+##INFO=<ID=FS,Number=1,Type=Float,Description="Phred-scaled p-value using Fisher's exact test to detect strand bias">
+##INFO=<ID=HaplotypeScore,Number=1,Type=Float,Description="Consistency of the site with at most two segregating haplotypes">
+##INFO=<ID=InbreedingCoeff,Number=1,Type=Float,Description="Inbreeding coefficient as estimated from the genotype likelihoods per-sample when compared against the Hardy-Weinberg expectation">
+##INFO=<ID=LOF,Number=.,Type=String,Description="Predicted loss of function effects for this variant. Format: 'Gene_Name | Gene_ID | Number_of_transcripts_in_gene | Percent_of_transcripts_affected'">
+##INFO=<ID=MLEAC,Number=A,Type=Integer,Description="Maximum likelihood expectation (MLE) for the allele counts (not necessarily the same as the AC), for each ALT allele, in the same order as listed">
+##INFO=<ID=MLEAF,Number=A,Type=Float,Description="Maximum likelihood expectation (MLE) for the allele frequency (not necessarily the same as the AF), for each ALT allele, in the same order as listed">
+##INFO=<ID=MQ,Number=1,Type=Float,Description="RMS Mapping Quality">
+##INFO=<ID=MQRankSum,Number=1,Type=Float,Description="Z-score From Wilcoxon rank sum test of Alt vs. Ref read mapping qualities">
+##INFO=<ID=NMD,Number=.,Type=String,Description="Predicted nonsense mediated decay effects for this variant. Format: 'Gene_Name | Gene_ID | Number_of_transcripts_in_gene | Percent_of_transcripts_affected'">
+##INFO=<ID=QD,Number=1,Type=Float,Description="Variant Confidence/Quality by Depth">
+##INFO=<ID=ReadPosRankSum,Number=1,Type=Float,Description="Z-score from Wilcoxon rank sum test of Alt vs. Ref read position bias">
+##INFO=<ID=SOR,Number=1,Type=Float,Description="Symmetric Odds Ratio of 2x2 contingency table to detect strand bias">
+##INFO=<ID=dbNSFP_1000Gp1_AC,Number=A,Type=Integer,Description="Field '1000Gp1_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_1000Gp1_AF,Number=A,Type=Float,Description="Field '1000Gp1_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_1000Gp1_AFR_AC,Number=A,Type=Integer,Description="Field '1000Gp1_AFR_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_1000Gp1_AFR_AF,Number=A,Type=Float,Description="Field '1000Gp1_AFR_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_1000Gp1_AMR_AC,Number=A,Type=Integer,Description="Field '1000Gp1_AMR_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_1000Gp1_AMR_AF,Number=A,Type=Float,Description="Field '1000Gp1_AMR_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_1000Gp1_ASN_AC,Number=A,Type=Integer,Description="Field '1000Gp1_ASN_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_1000Gp1_ASN_AF,Number=A,Type=Float,Description="Field '1000Gp1_ASN_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_1000Gp1_EUR_AC,Number=A,Type=Integer,Description="Field '1000Gp1_EUR_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_1000Gp1_EUR_AF,Number=A,Type=Float,Description="Field '1000Gp1_EUR_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ARIC5606_AA_AC,Number=A,Type=Integer,Description="Field 'ARIC5606_AA_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ARIC5606_AA_AF,Number=A,Type=Float,Description="Field 'ARIC5606_AA_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ARIC5606_EA_AC,Number=A,Type=Integer,Description="Field 'ARIC5606_EA_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ARIC5606_EA_AF,Number=A,Type=Float,Description="Field 'ARIC5606_EA_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_Ancestral_allele,Number=A,Type=Character,Description="Field 'Ancestral_allele' from dbNSFP">
+##INFO=<ID=dbNSFP_CADD_phred,Number=A,Type=Float,Description="Field 'CADD_phred' from dbNSFP">
+##INFO=<ID=dbNSFP_CADD_raw,Number=A,Type=Float,Description="Field 'CADD_raw' from dbNSFP">
+##INFO=<ID=dbNSFP_CADD_raw_rankscore,Number=A,Type=Float,Description="Field 'CADD_raw_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_COSMIC_CNT,Number=A,Type=Integer,Description="Field 'COSMIC_CNT' from dbNSFP">
+##INFO=<ID=dbNSFP_COSMIC_ID,Number=A,Type=String,Description="Field 'COSMIC_ID' from dbNSFP">
+##INFO=<ID=dbNSFP_ESP6500_AA_AF,Number=A,Type=Float,Description="Field 'ESP6500_AA_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ESP6500_EA_AF,Number=A,Type=Float,Description="Field 'ESP6500_EA_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_Ensembl_geneid,Number=A,Type=String,Description="Field 'Ensembl_geneid' from dbNSFP">
+##INFO=<ID=dbNSFP_Ensembl_transcriptid,Number=A,Type=String,Description="Field 'Ensembl_transcriptid' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_AC,Number=A,Type=Integer,Description="Field 'ExAC_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_AF,Number=A,Type=Float,Description="Field 'ExAC_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_AFR_AC,Number=A,Type=Integer,Description="Field 'ExAC_AFR_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_AFR_AF,Number=A,Type=Float,Description="Field 'ExAC_AFR_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_AMR_AC,Number=A,Type=Integer,Description="Field 'ExAC_AMR_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_AMR_AF,Number=A,Type=Float,Description="Field 'ExAC_AMR_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_Adj_AC,Number=A,Type=Integer,Description="Field 'ExAC_Adj_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_Adj_AF,Number=A,Type=Float,Description="Field 'ExAC_Adj_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_EAS_AC,Number=A,Type=Integer,Description="Field 'ExAC_EAS_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_EAS_AF,Number=A,Type=Float,Description="Field 'ExAC_EAS_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_FIN_AC,Number=A,Type=Integer,Description="Field 'ExAC_FIN_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_FIN_AF,Number=A,Type=Float,Description="Field 'ExAC_FIN_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_NFE_AC,Number=A,Type=Integer,Description="Field 'ExAC_NFE_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_NFE_AF,Number=A,Type=Float,Description="Field 'ExAC_NFE_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_SAS_AC,Number=A,Type=Integer,Description="Field 'ExAC_SAS_AC' from dbNSFP">
+##INFO=<ID=dbNSFP_ExAC_SAS_AF,Number=A,Type=Float,Description="Field 'ExAC_SAS_AF' from dbNSFP">
+##INFO=<ID=dbNSFP_FATHMM_pred,Number=A,Type=Character,Description="Field 'FATHMM_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_FATHMM_rankscore,Number=A,Type=Float,Description="Field 'FATHMM_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_FATHMM_score,Number=A,Type=Float,Description="Field 'FATHMM_score' from dbNSFP">
+##INFO=<ID=dbNSFP_GERP++_NR,Number=A,Type=Float,Description="Field 'GERP++_NR' from dbNSFP">
+##INFO=<ID=dbNSFP_GERP++_RS,Number=A,Type=Float,Description="Field 'GERP++_RS' from dbNSFP">
+##INFO=<ID=dbNSFP_GERP++_RS_rankscore,Number=A,Type=Float,Description="Field 'GERP++_RS_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_Interpro_domain,Number=A,Type=String,Description="Field 'Interpro_domain' from dbNSFP">
+##INFO=<ID=dbNSFP_LRT_Omega,Number=A,Type=Float,Description="Field 'LRT_Omega' from dbNSFP">
+##INFO=<ID=dbNSFP_LRT_converted_rankscore,Number=A,Type=Float,Description="Field 'LRT_converted_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_LRT_pred,Number=A,Type=Character,Description="Field 'LRT_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_LRT_score,Number=A,Type=Float,Description="Field 'LRT_score' from dbNSFP">
+##INFO=<ID=dbNSFP_MetaLR_pred,Number=A,Type=Character,Description="Field 'MetaLR_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_MetaLR_rankscore,Number=A,Type=Float,Description="Field 'MetaLR_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_MetaLR_score,Number=A,Type=Float,Description="Field 'MetaLR_score' from dbNSFP">
+##INFO=<ID=dbNSFP_MetaSVM_pred,Number=A,Type=Character,Description="Field 'MetaSVM_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_MetaSVM_rankscore,Number=A,Type=Float,Description="Field 'MetaSVM_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_MetaSVM_score,Number=A,Type=Float,Description="Field 'MetaSVM_score' from dbNSFP">
+##INFO=<ID=dbNSFP_MutationAssessor_pred,Number=A,Type=Character,Description="Field 'MutationAssessor_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_MutationAssessor_rankscore,Number=A,Type=Float,Description="Field 'MutationAssessor_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_MutationAssessor_score,Number=A,Type=Float,Description="Field 'MutationAssessor_score' from dbNSFP">
+##INFO=<ID=dbNSFP_MutationTaster_converted_rankscore,Number=A,Type=Float,Description="Field 'MutationTaster_converted_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_MutationTaster_pred,Number=A,Type=Character,Description="Field 'MutationTaster_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_MutationTaster_score,Number=A,Type=Float,Description="Field 'MutationTaster_score' from dbNSFP">
+##INFO=<ID=dbNSFP_PROVEAN_converted_rankscore,Number=A,Type=Float,Description="Field 'PROVEAN_converted_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_PROVEAN_pred,Number=A,Type=Character,Description="Field 'PROVEAN_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_PROVEAN_score,Number=A,Type=Float,Description="Field 'PROVEAN_score' from dbNSFP">
+##INFO=<ID=dbNSFP_Polyphen2_HDIV_pred,Number=A,Type=Character,Description="Field 'Polyphen2_HDIV_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_Polyphen2_HDIV_rankscore,Number=A,Type=Float,Description="Field 'Polyphen2_HDIV_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_Polyphen2_HDIV_score,Number=A,Type=Float,Description="Field 'Polyphen2_HDIV_score' from dbNSFP">
+##INFO=<ID=dbNSFP_Polyphen2_HVAR_pred,Number=A,Type=Character,Description="Field 'Polyphen2_HVAR_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_Polyphen2_HVAR_rankscore,Number=A,Type=Float,Description="Field 'Polyphen2_HVAR_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_Polyphen2_HVAR_score,Number=A,Type=Float,Description="Field 'Polyphen2_HVAR_score' from dbNSFP">
+##INFO=<ID=dbNSFP_Reliability_index,Number=A,Type=Integer,Description="Field 'Reliability_index' from dbNSFP">
+##INFO=<ID=dbNSFP_SIFT_converted_rankscore,Number=A,Type=Float,Description="Field 'SIFT_converted_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_SIFT_pred,Number=A,Type=Character,Description="Field 'SIFT_pred' from dbNSFP">
+##INFO=<ID=dbNSFP_SIFT_score,Number=A,Type=Float,Description="Field 'SIFT_score' from dbNSFP">
+##INFO=<ID=dbNSFP_SLR_test_statistic,Number=A,Type=Float,Description="Field 'SLR_test_statistic' from dbNSFP">
+##INFO=<ID=dbNSFP_SiPhy_29way_logOdds,Number=A,Type=Float,Description="Field 'SiPhy_29way_logOdds' from dbNSFP">
+##INFO=<ID=dbNSFP_SiPhy_29way_logOdds_rankscore,Number=A,Type=Float,Description="Field 'SiPhy_29way_logOdds_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_SiPhy_29way_pi,Number=A,Type=String,Description="Field 'SiPhy_29way_pi' from dbNSFP">
+##INFO=<ID=dbNSFP_UniSNP_ids,Number=A,Type=String,Description="Field 'UniSNP_ids' from dbNSFP">
+##INFO=<ID=dbNSFP_Uniprot_aapos,Number=A,Type=Integer,Description="Field 'Uniprot_aapos' from dbNSFP">
+##INFO=<ID=dbNSFP_Uniprot_acc,Number=A,Type=String,Description="Field 'Uniprot_acc' from dbNSFP">
+##INFO=<ID=dbNSFP_Uniprot_id,Number=A,Type=String,Description="Field 'Uniprot_id' from dbNSFP">
+##INFO=<ID=dbNSFP_VEST3_rankscore,Number=A,Type=Float,Description="Field 'VEST3_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_VEST3_score,Number=A,Type=Float,Description="Field 'VEST3_score' from dbNSFP">
+##INFO=<ID=dbNSFP_aapos,Number=A,Type=Integer,Description="Field 'aapos' from dbNSFP">
+##INFO=<ID=dbNSFP_aapos_FATHMM,Number=A,Type=String,Description="Field 'aapos_FATHMM' from dbNSFP">
+##INFO=<ID=dbNSFP_aapos_SIFT,Number=A,Type=String,Description="Field 'aapos_SIFT' from dbNSFP">
+##INFO=<ID=dbNSFP_cds_strand,Number=A,Type=Character,Description="Field 'cds_strand' from dbNSFP">
+##INFO=<ID=dbNSFP_clinvar_clnsig,Number=1,Type=String,Description="Field 'clinvar_clnsig' from dbNSFP">
+##INFO=<ID=dbNSFP_clinvar_rs,Number=A,Type=String,Description="Field 'clinvar_rs' from dbNSFP">
+##INFO=<ID=dbNSFP_clinvar_trait,Number=A,Type=String,Description="Field 'clinvar_trait' from dbNSFP">
+##INFO=<ID=dbNSFP_codonpos,Number=A,Type=Integer,Description="Field 'codonpos' from dbNSFP">
+##INFO=<ID=dbNSFP_fold-degenerate,Number=A,Type=Integer,Description="Field 'fold-degenerate' from dbNSFP">
+##INFO=<ID=dbNSFP_genename,Number=A,Type=String,Description="Field 'genename' from dbNSFP">
+##INFO=<ID=dbNSFP_hg38_chr,Number=A,Type=String,Description="Field 'hg38_chr' from dbNSFP">
+##INFO=<ID=dbNSFP_hg38_pos,Number=A,Type=Integer,Description="Field 'hg38_pos' from dbNSFP">
+##INFO=<ID=dbNSFP_phastCons100way_vertebrate,Number=A,Type=Float,Description="Field 'phastCons100way_vertebrate' from dbNSFP">
+##INFO=<ID=dbNSFP_phastCons100way_vertebrate_rankscore,Number=A,Type=Float,Description="Field 'phastCons100way_vertebrate_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_phastCons46way_placental,Number=A,Type=Float,Description="Field 'phastCons46way_placental' from dbNSFP">
+##INFO=<ID=dbNSFP_phastCons46way_placental_rankscore,Number=A,Type=Float,Description="Field 'phastCons46way_placental_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_phastCons46way_primate,Number=A,Type=Float,Description="Field 'phastCons46way_primate' from dbNSFP">
+##INFO=<ID=dbNSFP_phastCons46way_primate_rankscore,Number=A,Type=Float,Description="Field 'phastCons46way_primate_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_phyloP100way_vertebrate,Number=A,Type=Float,Description="Field 'phyloP100way_vertebrate' from dbNSFP">
+##INFO=<ID=dbNSFP_phyloP100way_vertebrate_rankscore,Number=A,Type=Float,Description="Field 'phyloP100way_vertebrate_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_phyloP46way_placental,Number=A,Type=Float,Description="Field 'phyloP46way_placental' from dbNSFP">
+##INFO=<ID=dbNSFP_phyloP46way_placental_rankscore,Number=A,Type=Float,Description="Field 'phyloP46way_placental_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_phyloP46way_primate,Number=A,Type=Float,Description="Field 'phyloP46way_primate' from dbNSFP">
+##INFO=<ID=dbNSFP_phyloP46way_primate_rankscore,Number=A,Type=Float,Description="Field 'phyloP46way_primate_rankscore' from dbNSFP">
+##INFO=<ID=dbNSFP_refcodon,Number=A,Type=String,Description="Field 'refcodon' from dbNSFP">
+##INFO=<ID=set,Number=1,Type=String,Description="Source VCF for the merged record in CombineVariants">
+##INFO=<ID=GoNLv5_AC,Number=A,Type=Integer,Description="Allele count in genotypes, for each ALT allele, in the same order as listed">
+##INFO=<ID=GoNLv5_AF,Number=A,Type=Float,Description="Allele Frequency, for each ALT allele, in the same order as listed">
+##INFO=<ID=GoNLv5_AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##INFO=<ID=ABSENT_SAMPLES,Number=1,Type=Integer,Description="Number of samples without the variant">
+##INFO=<ID=SUBCLONAL_SAMPLES,Number=1,Type=Integer,Description="Number of samples with a subclonal variant">
+##INFO=<ID=CLONAL_SAMPLES,Number=1,Type=Integer,Description="Number of samples with a clonal variant">
+##INFO=<ID=ABSENT_CONTROLS,Number=1,Type=Integer,Description="Number of controls without the variant">
+##INFO=<ID=SUBCLONAL_CONTROLS,Number=1,Type=Integer,Description="Number of controls with a subclonal variant">
+##INFO=<ID=CLONAL_CONTROLS,Number=1,Type=Integer,Description="Number of controls with a clonal variant">
+##INFO=<ID=ABSENT_SAMPLE_NAMES,Number=.,Type=String,Description="Samples without the variant">
+##INFO=<ID=SUBCLONAL_SAMPLE_NAMES,Number=.,Type=String,Description="Samples with a subclonal variant">
+##INFO=<ID=CLONAL_SAMPLE_NAMES,Number=.,Type=String,Description="Samples with a clonal variant">
+##INFO=<ID=ABSENT_CONTROL_NAMES,Number=.,Type=String,Description="Controls without the variant">
+##INFO=<ID=SUBCLONAL_CONTROL_NAMES,Number=.,Type=String,Description="Controls with a subclonal variant">
+##INFO=<ID=CLONAL_CONTROL_NAMES,Number=.,Type=String,Description="Controls with a clonal variant">
+##INFO=<ID=PASS_QC_SAMPLES,Number=1,Type=Integer,Description="Number of samples which pass all quality control filters">
+##INFO=<ID=PASS_QC_CONTROLS,Number=1,Type=Integer,Description="Number of controls which pass all quality control filters">
+##INFO=<ID=FAIL_QC_SAMPLES,Number=1,Type=Integer,Description="Number of samples which failed one or multiple quality control filters">
+##INFO=<ID=FAIL_QC_CONTROLS,Number=1,Type=Integer,Description="Number of controls which failed one or multiple quality control filters">
+##INFO=<ID=PASS_QC_SAMPLE_NAMES,Number=.,Type=String,Description="Samples which pass all quality control filters">
+##INFO=<ID=PASS_QC_CONTROL_NAMES,Number=.,Type=String,Description="Controls which pass all quality control filters">
+##INFO=<ID=FAIL_QC_SAMPLE_NAMES,Number=.,Type=String,Description="Samples which failed one or multiple quality control filters">
+##INFO=<ID=FAIL_QC_CONTROL_NAMES,Number=.,Type=String,Description="Controls which failed one or multiple quality control filters">
+##FORMAT=<ID=AD,Number=.,Type=Integer,Description="Allelic depths for the ref and alt alleles in the order listed">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Approximate read depth (reads with MQ=255 or with bad mates are filtered)">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype Quality">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=MIN_DP,Number=1,Type=Integer,Description="Minimum DP observed within the GVCF block">
+##FORMAT=<ID=PGT,Number=1,Type=String,Description="Physical phasing haplotype information, describing how the alternate alleles are phased in relation to one another">
+##FORMAT=<ID=PID,Number=1,Type=String,Description="Physical phasing ID information, where each unique ID within a given sample (but not across samples) connects records within a phasing group">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="Normalized, Phred-scaled likelihoods for genotypes as defined in the VCF specification">
+##FORMAT=<ID=RGQ,Number=1,Type=Integer,Description="Unconditional reference genotype confidence, encoded as a phred quality -10*log10 p(genotype call is wrong)">
+##FORMAT=<ID=SB,Number=4,Type=Integer,Description="Per-sample component statistics which comprise the Fisher's Exact Test to detect strand bias.">
+##FORMAT=<ID=VAF,Number=.,Type=Float,Description="Variant Allele Frequency calculated from the BAM file">
+##FORMAT=<ID=CAD,Number=.,Type=Integer,Description="Calculated Allelic Depth, used for VAF calculation">
+##FORMAT=<ID=FT,Number=.,Type=String,Description="Sample filter">
+##FILTER=<ID=INDEL_HardToValidate,Description="MQ0 >= 4 && ((MQ0 / (1.0 * DP)) > 0.1)">
+##FILTER=<ID=INDEL_LowCoverage,Description="DP < 5">
+##FILTER=<ID=INDEL_LowQual,Description="QUAL >= 30.0 && QUAL < 50.0">
+##FILTER=<ID=INDEL_LowQualityDepth,Description="QD < 2.0">
+##FILTER=<ID=INDEL_ReadPosRankSumLow,Description="ReadPosRankSum < -20.0">
+##FILTER=<ID=INDEL_SOR,Description="SOR > 10.0">
+##FILTER=<ID=INDEL_StrandBias,Description="FS > 200.0">
+##FILTER=<ID=INDEL_VeryLowQual,Description="QUAL < 30.0">
+##FILTER=<ID=LowQual,Description="Low quality">
+##FILTER=<ID=SNP_HaplotypeScoreHigh,Description="HaplotypeScore > 13.0">
+##FILTER=<ID=SNP_HardToValidate,Description="MQ0 >= 4 && ((MQ0 / (1.0 * DP)) > 0.1)">
+##FILTER=<ID=SNP_LowCoverage,Description="DP < 5">
+##FILTER=<ID=SNP_LowQual,Description="QUAL >= 30.0 && QUAL < 50.0">
+##FILTER=<ID=SNP_LowQualityDepth,Description="QD < 2.0">
+##FILTER=<ID=SNP_MQRankSumLow,Description="MQRankSum < -12.5">
+##FILTER=<ID=SNP_MappingQuality,Description="MQ < 40.0">
+##FILTER=<ID=SNP_ReadPosRankSumLow,Description="ReadPosRankSum < -8.0">
+##FILTER=<ID=SNP_SOR,Description="SOR > 4.0">
+##FILTER=<ID=SNP_StrandBias,Description="FS > 60.0">
+##FILTER=<ID=SNP_VeryLowQual,Description="QUAL < 30">
+##FILTER=<ID=SnpCluster,Description="SNPs found in clusters">
+##FILTER=<ID=KnownVariant,Description="Variant has already an ID, excluding COSMIC_IDs">
+##FILTER=<ID=BadMQ,Description="Variant with MQ <60">
+##FILTER=<ID=BadQual,Description="Variant with a QUAL <100">
+##FILTER=<ID=MultiAllelic,Description="Variant has multiple alternative alleles">
+##FILTER=<ID=BlackList,Description="Variant exists in a blacklist">
+##FILTER=<ID=Indel,Description="Variant is an indel">
+##FILTER=<ID=ControlEvidence,Description="Variant is also found in a control based on the GT">
+##FILTER=<ID=NoSampleEvidence,Description="Variant is not found in any of the samples based on the GT">
+##FILTER=<ID=AllSamplesFailedQC,Description="All samples failed the quality control">
+##FILTER=<ID=AllControlsFailedQC,Description="All controls failed the quality control">
+##FILTER=<ID=ControlSubclonal,Description="Variant is found as subclonal in a control based on the recalculated VAF">
+##FILTER=<ID=ControlClonal,Description="Variant is found as clonal in a control based on the recalculated VAF">
+##FILTER=<ID=NoClonalSample,Description="Variant is not found as clonal in any of the samples based on the recalculated VAF">
+##FILTER=<ID=LowCov,Description="Variant has a coverage <10 in this sample/control">
+##FILTER=<ID=NoGenoType,Description="Genotype is empty for this sample/control">
+##FILTER=<ID=isRef,Description="Genotype is a reference (i.e. reference 0/0)">
+##FILTER=<ID=isVariant,Description="Genotype is a variant (i.e. not reference 0/0)">
+##FILTER=<ID=LowGQ,Description="Variant has a low genome quality for this sample/control">
+##ALT=<ID=NON_REF,Description="Represents any possible alternative allele at this location">
+##contig=<ID=1,length=249250621>
+##contig=<ID=2,length=243199373>
+##contig=<ID=3,length=198022430>
+##contig=<ID=4,length=191154276>
+##contig=<ID=5,length=180915260>
+##contig=<ID=6,length=171115067>
+##contig=<ID=7,length=159138663>
+##contig=<ID=8,length=146364022>
+##contig=<ID=9,length=141213431>
+##contig=<ID=10,length=135534747>
+##contig=<ID=11,length=135006516>
+##contig=<ID=12,length=133851895>
+##contig=<ID=13,length=115169878>
+##contig=<ID=14,length=107349540>
+##contig=<ID=15,length=102531392>
+##contig=<ID=16,length=90354753>
+##contig=<ID=17,length=81195210>
+##contig=<ID=18,length=78077248>
+##contig=<ID=19,length=59128983>
+##contig=<ID=20,length=63025520>
+##contig=<ID=21,length=48129895>
+##contig=<ID=22,length=51304566>
+##contig=<ID=X,length=155270560>
+##contig=<ID=Y,length=59373566>
+##contig=<ID=MT,length=16569>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
+2	138263191	rs35761423	G	A	4818.67	PASS	AC=9;AF=0.500;AN=18;ANN=A|intron_variant|MODIFIER|THSD7B|ENSG00000144229|transcript|ENST00000272643|protein_coding|15/27|c.3147+26138G>A||||||,A|intron_variant|MODIFIER|THSD7B|ENSG00000144229|transcript|ENST00000409968|protein_coding|15/27|c.3138+54598G>A||||||,A|intron_variant|MODIFIER|THSD7B|ENSG00000144229|transcript|ENST00000413152|protein_coding|15/27|c.3054+26138G>A||||||,A|intron_variant|MODIFIER|THSD7B|ENSG00000144229|transcript|ENST00000543459|protein_coding|3/5|c.814-151474G>A||||||;BaseQRankSum=-5.340e-01;ClippingRankSum=0.059;DB;DP=284;FS=1.985;MLEAC=9;MLEAF=0.500;MQ=60.00;MQRankSum=0.200;QD=17.03;ReadPosRankSum=0.263;SOR=0.573;GoNLv5_AC=519;GoNLv5_AF=0.520;GoNLv5_AN=998	GT:AD:DP:GQ:PL	0/1:14,10:24:99:314,0,513
+3	22957240	rs13083969	G	A	4115.67	PASS	AC=9;AF=0.500;AN=18;BaseQRankSum=-3.850e-01;ClippingRankSum=0.175;DB;DP=251;FS=0.965;MLEAC=9;MLEAF=0.500;MQ=60.00;MQRankSum=-3.820e-01;QD=16.40;ReadPosRankSum=0.080;SOR=0.747;GoNLv5_AC=165;GoNLv5_AF=0.165;GoNLv5_AN=998	GT:AD:DP:GQ:PL	0/1:6,17:23:99:641,0,181
+4	63664276	rs62301310	T	C	4377.67	PASS	AC=9;AF=0.500;AN=18;BaseQRankSum=0.626;ClippingRankSum=0.412;DB;DP=252;FS=9.209;MLEAC=9;MLEAF=0.500;MQ=60.00;MQRankSum=-1.460e-01;QD=17.51;ReadPosRankSum=-3.140e-01;SOR=1.204;GoNLv5_AC=237;GoNLv5_AF=0.237;GoNLv5_AN=998	GT:AD:DP:GQ:PL	0/1:12,10:22:99:317,0,423
+5	147961504	rs6892123	C	G	4930.67	PASS	AC=9;AF=0.500;AN=18;ANN=G|sequence_feature|LOW|HTR4|ENSG00000164270|topological_domain:Extracellular|ENST00000360693|protein_coding||c.27-31679G>C||||||,G|sequence_feature|LOW|HTR4|ENSG00000164270|topological_domain:Extracellular|ENST00000521530|protein_coding||c.27-31679G>C||||||,G|sequence_feature|LOW|HTR4|ENSG00000164270|topological_domain:Extracellular|ENST00000521735|protein_coding||c.27-31679G>C||||||,G|sequence_feature|LOW|HTR4|ENSG00000164270|topological_domain:Extracellular|ENST00000517929|protein_coding||c.27-31679G>C||||||,G|sequence_feature|LOW|HTR4|ENSG00000164270|topological_domain:Extracellular|ENST00000520514|protein_coding||c.27-31679G>C||||||,G|sequence_feature|LOW|HTR4|ENSG00000164270|topological_domain:Extracellular|ENST00000377888|protein_coding||c.27-31679G>C||||||,G|sequence_feature|LOW|HTR4|ENSG00000164270|topological_domain:Extracellular|ENST00000362016|protein_coding||c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000360693|protein_coding|2/7|c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000521530|protein_coding|1/5|c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000314512|protein_coding|2/7|c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000354217|protein_coding|2/6|c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000522588|nonsense_mediated_decay|1/7|n.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000521735|protein_coding|1/6|c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000517929|protein_coding|1/5|c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000520514|protein_coding|1/5|c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000377888|protein_coding|2/6|c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000362016|protein_coding|2/7|c.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000524063|nonsense_mediated_decay|2/7|n.27-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000521124|retained_intron|1/4|n.33-31679G>C||||||,G|intron_variant|MODIFIER|HTR4|ENSG00000164270|transcript|ENST00000519495|processed_transcript|6/6|n.744-31679G>C||||||;BaseQRankSum=0.173;ClippingRankSum=-5.000e-02;DB;DP=272;FS=2.678;MLEAC=9;MLEAF=0.500;MQ=60.00;MQRankSum=-3.060e-01;QD=18.26;ReadPosRankSum=0.817;SOR=0.863;GoNLv5_AC=158;GoNLv5_AF=0.158;GoNLv5_AN=998	GT:AD:DP:GQ:PL	0/1:12,16:28:99:584,0,417
+6	33073984	rs3117234	A	G	5203.67	PASS	AC=9;AF=0.500;AN=18;ANN=G|intron_variant|MODIFIER|COL11A2P1|ENSG00000228688|transcript|ENST00000441798|unprocessed_pseudogene|3/5|n.411-74T>C||||||;BaseQRankSum=0.464;ClippingRankSum=0.441;DB;DP=308;FS=0.416;MLEAC=9;MLEAF=0.500;MQ=60.00;MQRankSum=-5.000e-02;QD=16.95;ReadPosRankSum=0.550;SOR=0.724;GoNLv5_AC=257;GoNLv5_AF=0.258;GoNLv5_AN=998	GT:AD:DP:GQ:PL	0/1:15,10:25:99:338,0,538
+7	123970270	rs2158685	T	A	4797.67	PASS	AC=9;AF=0.500;AN=18;ANN=A|intron_variant|MODIFIER|RP5-921G16.1|ENSG00000242593|transcript|ENST00000484322|antisense|2/8|n.169-22600T>A||||||;BaseQRankSum=-1.830e-01;ClippingRankSum=0.156;DB;DP=299;FS=0.000;MLEAC=9;MLEAF=0.500;MQ=60.00;MQRankSum=-2.040e-01;QD=16.15;ReadPosRankSum=0.794;SOR=0.718;GoNLv5_AC=723;GoNLv5_AF=0.724;GoNLv5_AN=998	GT:AD:DP:GQ:PL	0/1:11,15:26:99:548,0,347
+12	68587147	.	G	GT	451.19	PASS	AC=1;AF=0.25;AN=4;ANN=GT|intron_variant|MODIFIER|IFNG-AS1|ENSG00000255733|transcript|ENST00000536914|antisense|5/5|n.337-41162_337-41161insT||||||;BaseQRankSum=0.961;ClippingRankSum=1.08;DP=80;FS=1.237;MLEAC=1;MLEAF=0.25;MQ=60.28;MQRankSum=0.074;QD=11.87;ReadPosRankSum=-1.168;SOR=0.941;ABSENT_SAMPLES=0;SUBCLONAL_SAMPLES=0;CLONAL_SAMPLES=1;ABSENT_CONTROLS=1;SUBCLONAL_CONTROLS=0;CLONAL_CONTROLS=0;ABSENT_SAMPLE_NAMES=;SUBCLONAL_SAMPLE_NAMES=;CLONAL_SAMPLE_NAMES=SCND1DX3AML;ABSENT_CONTROL_NAMES=SCND1DX3MSC;SUBCLONAL_CONTROL_NAMES=;CLONAL_CONTROL_NAMES=;PASS_QC_SAMPLES=1;PASS_QC_CONTROLS=1;FAIL_QC_SAMPLES=0;FAIL_QC_CONTROLS=0;PASS_QC_SAMPLE_NAMES=SCND1DX3AML;PASS_QC_CONTROL_NAMES=SCND1DX3MSC;FAIL_QC_SAMPLE_NAMES=;FAIL_QC_CONTROL_NAMES=	GT:AD:DP:GQ:MIN_DP:PGT:PID:PL:RGQ:SB:VAF:CAD:FT:PC	0/1:22,16:38:99:.:0|1:68587147_G_GT:481,0,710:.:.:0.39:23,15:PASS:0.2104533418984327,0.7895466581015673
+12	123163500	.	CTGAAAGAGCTGGGA	C	579.19	PASS	AC=1;AF=0.25;AN=4;ANN=C|intron_variant|MODIFIER|HCAR1|ENSG00000196917|transcript|ENST00000356987|protein_coding|3/4|c.*677+13449_*677+13462delTCCCAGCTCTTTCA||||||;BaseQRankSum=1.55;ClippingRankSum=0.138;DP=74;FS=1.314;MLEAC=1;MLEAF=0.25;MQ=60.0;MQRankSum=1.64;QD=15.65;ReadPosRankSum=-0.712;SOR=1.123;ABSENT_SAMPLES=0;SUBCLONAL_SAMPLES=0;CLONAL_SAMPLES=1;ABSENT_CONTROLS=1;SUBCLONAL_CONTROLS=0;CLONAL_CONTROLS=0;ABSENT_SAMPLE_NAMES=;SUBCLONAL_SAMPLE_NAMES=;CLONAL_SAMPLE_NAMES=SCND1DX3AML;ABSENT_CONTROL_NAMES=SCND1DX3MSC;SUBCLONAL_CONTROL_NAMES=;CLONAL_CONTROL_NAMES=;PASS_QC_SAMPLES=1;PASS_QC_CONTROLS=1;FAIL_QC_SAMPLES=0;FAIL_QC_CONTROLS=0;PASS_QC_SAMPLE_NAMES=SCND1DX3AML;PASS_QC_CONTROL_NAMES=SCND1DX3MSC;FAIL_QC_SAMPLE_NAMES=;FAIL_QC_CONTROL_NAMES=	GT:AD:DP:GQ:MIN_DP:PGT:PID:PL:RGQ:SB:VAF:CAD:FT:PC	0/1:21,16:37:99:.:.:.:609,0,1250:.:.:0.38:21,13:PASS:0.23220268483408238,0.7677973151659175
+13	28205964	.	G	GTA	531.19	PASS	AC=1;AF=0.25;AN=4;ANN=GTA|intron_variant|MODIFIER|POLR1D|ENSG00000186184|transcript|ENST00000399697|protein_coding|1/2|c.26+9819_26+9820dupTA||||||INFO_REALIGN_3_PRIME,GTA|intron_variant|MODIFIER|POLR1D|ENSG00000186184|transcript|ENST00000465887|processed_transcript|1/2|n.135+9819_135+9820dupTA||||||INFO_REALIGN_3_PRIME,GTA|intron_variant|MODIFIER|POLR1D|ENSG00000186184|transcript|ENST00000489647|processed_transcript|1/2|n.124+9819_124+9820dupTA||||||INFO_REALIGN_3_PRIME;BaseQRankSum=0.986;ClippingRankSum=-0.478;DP=76;FS=7.027;MLEAC=1;MLEAF=0.25;MQ=60.0;MQRankSum=-0.747;QD=13.98;ReadPosRankSum=-1.284;SOR=1.381;ABSENT_SAMPLES=0;SUBCLONAL_SAMPLES=0;CLONAL_SAMPLES=1;ABSENT_CONTROLS=1;SUBCLONAL_CONTROLS=0;CLONAL_CONTROLS=0;ABSENT_SAMPLE_NAMES=;SUBCLONAL_SAMPLE_NAMES=;CLONAL_SAMPLE_NAMES=SCND1DX3AML;ABSENT_CONTROL_NAMES=SCND1DX3MSC;SUBCLONAL_CONTROL_NAMES=;CLONAL_CONTROL_NAMES=;PASS_QC_SAMPLES=1;PASS_QC_CONTROLS=1;FAIL_QC_SAMPLES=0;FAIL_QC_CONTROLS=0;PASS_QC_SAMPLE_NAMES=SCND1DX3AML;PASS_QC_CONTROL_NAMES=SCND1DX3MSC;FAIL_QC_SAMPLE_NAMES=;FAIL_QC_CONTROL_NAMES=	GT:AD:DP:GQ:MIN_DP:PGT:PID:PL:RGQ:SB:VAF:CAD:FT:PC	0/1:23,15:38:99:.:.:.:561,0,938:.:.:0.37:26,15:PASS:0.2577030286012981,0.7422969713987019
+14	49746054	.	GC	G	458.19	PASS	AC=1;AF=0.25;AN=4;BaseQRankSum=0.874;ClippingRankSum=0.751;DP=79;FS=1.271;MLEAC=1;MLEAF=0.25;MQ=60.0;MQRankSum=-0.322;QD=12.38;ReadPosRankSum=0.169;SOR=0.465;ABSENT_SAMPLES=0;SUBCLONAL_SAMPLES=0;CLONAL_SAMPLES=1;ABSENT_CONTROLS=1;SUBCLONAL_CONTROLS=0;CLONAL_CONTROLS=0;ABSENT_SAMPLE_NAMES=;SUBCLONAL_SAMPLE_NAMES=;CLONAL_SAMPLE_NAMES=SCND1DX3AML;ABSENT_CONTROL_NAMES=SCND1DX3MSC;SUBCLONAL_CONTROL_NAMES=;CLONAL_CONTROL_NAMES=;PASS_QC_SAMPLES=1;PASS_QC_CONTROLS=1;FAIL_QC_SAMPLES=0;FAIL_QC_CONTROLS=0;PASS_QC_SAMPLE_NAMES=SCND1DX3AML;PASS_QC_CONTROL_NAMES=SCND1DX3MSC;FAIL_QC_SAMPLE_NAMES=;FAIL_QC_CONTROL_NAMES=	GT:AD:DP:GQ:MIN_DP:PGT:PID:PL:RGQ:SB:VAF:CAD:FT:PC	0/1:21,16:37:99:.:.:.:488,0,674:.:.:0.42:22,16:PASS:0.16371102470504606,0.8362889752949539

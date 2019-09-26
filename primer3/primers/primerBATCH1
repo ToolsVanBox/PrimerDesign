@@ -1,0 +1,61 @@
+#!/usr/bin/perl -w
+
+#my $mispriming=$ARGV[0];
+#my $pcr_type=$ARGV[1];
+#my $amp_number = $ARGV[4];
+#my $tilling_params="";
+#   $tilling_params = join(" ",@ARGV[2..6]) if @ARGV > 2;
+
+
+
+open (F1013,">inputNO13.tempseq") or die "cannot open outfile:$!\n";
+while ($line=<STDIN>){
+  $line=~s/[\r\xA0]//g;
+  print F1013 $line;
+}
+close F1013;
+
+open (FIN,"<inputNO13.tempseq") || die "Cant' open input temp file\n";
+
+$seq = "";
+$header = <FIN>;
+if ($header=~/^>/){
+   warn "\n\nAssuming input file to be in FASTA format.\n\n";
+   while ($line=<FIN>){
+     if ($line=~/^>/){  run_part(); }
+     else{  $seq.=$line; }
+   }
+  $seq=~s/\/\///g;
+  run_part();
+}
+else{
+  warn "\n\nAssuming input file to be in GENOTRACE format.\n\n";
+  while ($line=<FIN>){
+    last if($line=~/Query coverage/);
+    if($line=~/^>/){
+       $header=$line;
+       $header=~s/\://;
+       $/="SEQ\n";
+       <FIN>;
+       $/="//\n";
+       $seq=<FIN>;
+       $seq=~s/\/\/\n//;
+       run_part();
+    }
+    $/="\n";
+  }
+}
+
+close FIN;
+
+#system ("rm *.tempseq primer3.out");
+
+
+sub run_part{
+        open FH, ">fa.tempseq";
+        print FH $header, $seq;
+	close FH;
+	system ("/hpc/pmc_vanboxtel/tools/PrimerDesign/primer3/primers/amplicons3.pl @ARGV <fa.tempseq | /hpc/pmc_vanboxtel/tools/PrimerDesign/primer3/primers/format_primers1.pl @ARGV");
+	$seq="";
+	$header=$line;
+}

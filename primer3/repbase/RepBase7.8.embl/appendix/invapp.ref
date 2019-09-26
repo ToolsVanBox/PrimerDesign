@@ -1,0 +1,1758 @@
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+CC                                                               *
+CC   REPBASE UPDATE                                              *
+CC   (C) 1997-1999  Genetic Information Research Institute       *
+CC   All rights reserved                                         *
+CC                                                               *
+CC   A REFERENCE COLLECTION OF INVERTEBRATE REPETITIVE ELEMENTS  *
+CC   (AN APPENDIX)                                               *
+CC                                                               *
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+XX
+ID   UBX_DM    repbase; DNA; INV; 225 BP.
+CC   UBX_DM DNA
+XX
+AC   K01963;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Drosophila repeat, from Ultrabithorax locus (Ubx) of the Bithorax
+DE   complex (BX-C).
+XX
+KW   Repetitive sequence; DMUBX.
+XX
+OS   Drosophila melanogaster
+CC   Drosophila melanogaster genomic DNA, clone pDm3144R7.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-225
+RC   [1]  (bases 1 to 225)
+RA   Scott M.P., Weiner A.;
+RT   "Structural relationships among genes that control development:
+RT   Sequence homology between the Antennapedia, Ultrabithorax, and
+RT   fushi tarazu loci of Drosophila";
+RL   Proc. Natl. Acad. Sci. U.S.A. 81, 4115-4119 (1984)
+XX
+DR   GENBANK; K01963; 77.0.
+CC   Positions       1     225  Accession No K01963        GenBank (rel. 77.0)
+XX
+SQ   Sequence 225 BP; 64 A; 60 C; 65 G; 36 T; 0 other;
+     aatgctttcc cattccgatc tacaggtaca aatggtctgc gaagacgcgg gcgacagaca        60
+     tacacccgct accagacgct cgagctggag aaggagttcc acacgaatca ttatctgacc       120
+     cgcagacgga gaatcgagat ggcgcacgcg ctatgcctga cggagcggca gatcaagatc       180
+     tggttccaga accggcgaat gaagctgaag aaggagatcc aggcg                       225
+//
+ID   SINE_CP1  repbase; DNA; INV; 321 BP.
+CC   SINE_CP1 DNA
+XX
+AC   X79507;
+XX
+DT   13-MAR-1998 (Rel. 3.2, Created)
+DT   13-MAR-1998 (Rel. 3.2, Last updated, Version 1)
+XX
+DE   C.pallidivittatus Cp1 (SINE transposable element), clone pCp125.
+XX
+KW   SINE; transposable element; CPCP1125; SINE_CP1.
+XX
+OS   Chironomus pallidivittatus
+CC   Chironomus pallidivittatus.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+OC   Tracheata; Insecta; Pterygota; Diptera; Nematocera; Chironomoidea;
+OC   Chironomidae; Chironomus.
+XX
+RN   [1]
+RP   1-321
+RC   [1]  (bases 1 to 321)
+RA   He H., Rovira C., Recco-Pimentel S., Liao C., Edstrom J.E.;
+RT   "Polymorphic SINEs in chironomids with DNA derived from the R2
+RT   insertion site";
+RL   Unpublished
+XX
+RN   [2]
+RP   1-321
+RC   [2]  (bases 1 to 321)
+RA   Rovira C.R.;
+RT   "Direct Submission";
+RL   Submitted (31-MAY-1994) C.R. Rovira, University of Lund, Dept of
+RL   Molecular Genetics, Solvegatan 29, 223 62 Lund, SWEDEN
+XX
+RN   [3]
+RP   1-321
+RC   [3]  (bases 1 to 321)
+RA   He H., Rovira C., Recco-Pimentel S., Liao C., Edstrom J.E.;
+RT   "Polymorphic SINEs in chironomids with DNA derived from the R2
+RT   insertion site";
+RL   J. Mol. Biol. 245 (1), 34-42 (1995)
+RX   MEDLINE; 95123644.
+XX
+DR   GENBANK; X79507; 103.0.
+CC   Positions       1     321  Accession No X79507       GenBank (rel. 103.0)
+XX
+SQ   Sequence 321 BP; 91 A; 63 C; 67 G; 100 T; 0 other;
+     aagcttgctc tgctaacaga acgacttatt ctcattttga ataagcatat tatctctcta        60
+     agcgagcgaa tgctttacaa ccgttgaaaa aagagtggtt catatatatt ggcattctgc       120
+     caatgccaat ggcaaagccc gatagctcag tggtctgagc acttgaccgg caatcgagag       180
+     gtgcgaggtt cgattcccgc tcgggaagag tcattgggtg aattactttt ttttcaactt       240
+     tttcttttaa actatttctc tctaagcgaa gaaatgctta ttcaaaatga gaataagtcg       300
+     ttctgttagc agagcaagct t                                                 321
+//
+ID   LTRBLD_DM repbase; DNA; INV; 400 BP.
+CC   LTRBLD_DM DNA
+XX
+AC   X04671;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Drosophila blood transposon LTR.
+XX
+KW   Blood transposon LTR; long terminal repeat; retrotransposon; DMBLDLTR.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-400
+RC   [1]  (bases 1 to 652)
+RA   Bingham P.M., Chapman C.H.;
+RT   "Evidence that white-blood is a novel type of temperature-sensitive
+RT   mutation resulting from temperature-dependent effects of a
+RT   transposon insertion on formation of white transcripts";
+RL   EMBO J. 5, 3343-3351 (1986)
+XX
+DR   GENBANK; X04671; 77.0.
+CC   Positions     140     539  Accession No X04671        GenBank (rel. 77.0)
+XX
+SQ   Sequence 400 BP; 110 A; 88 C; 89 G; 113 T; 0 other;
+     tgtaataaac caatatatgc caccaattga gaacacgtgt tttccttgca gttgggtgca        60
+     gccgtcaggc caccttttta tttcttctta tctcttcgag tagcagaaac ggttctgccc       120
+     cgcttaacct ctacagagtg tctaatctta cctaaatact gcgactgcgc cgccgtcgac       180
+     agcggcagaa gagcagcgta tatatatatg tataagagag agagagagag agcttatgcg       240
+     catatatggc cagcggccag cgtggggatg ctgacttagc ttaaagcata aatgggtgat       300
+     cttatatcac gctcacttga gacatttatt tatgcaatgc aactaagtgt tgctgtgtac       360
+     ttataggtac agtgtaccct cgatatatgc acatactaca                             400
+//
+ID   TFP2      repbase; DNA; INV; 2475 BP.
+CC   TFP2 DNA
+XX
+AC   J04364;
+XX
+DT   30-APR-1998 (Rel. 3.2, Created)
+DT   30-APR-1998 (Rel. 3.2, Last updated, Version 1)
+XX
+DE   Trichoplusia ni transposon TFP2.
+XX
+KW   autonomous DNA transposon; TTAA superfamily; TFP2.
+XX
+OS   Trichoplusia ni
+CC   Trichoplusia ni.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+OC   Tracheata; Insecta; Pterygota; Lepidoptera; Noctuoidea; Noctuidae;
+OC   Trichoplusia.
+XX
+RN   [1]
+RP   1-2475
+RC   [1]  (bases 1 to 2475)
+RA   Cary L.C., Goebel M., Corsaro B.G., Wang H.G., Rosen E.,
+RA   Fraser M.J.;
+RT   "Transposon mutagenesis of baculoviruses: analysis of Trichoplusia
+RT   ni transposon IFP2 insertions within the FP-locus of nuclear
+RT   polyhedrosis viruses";
+RL   Virology 172 (1), 156-169 (1989)
+RX   MEDLINE; 89370297.
+XX
+CC   TTAA target site duplication. Transposase encoded by TFP2
+CC   transposon has been found in human (LOOPER transposon in
+CC   humrep.ref).
+XX
+DR   GENBANK; J04364; 103.0.
+CC   Positions       1    2475  Accession No J04364       GenBank (rel. 103.0)
+XX
+SQ   Sequence 2475 BP; 802 A; 418 C; 496 G; 759 T; 0 other;
+     ccctagaaag atagtctgcg taaaattgac gcatgcattc ttgaaatatt gctctctctt        60
+     tctaaatagc gcgaatccgt cgctgtttgc aatttaggac atctcagtcg ccgcttggag       120
+     ctcggctgag gcgtgcttgt caatgcggta agtgtcactg attttgaact ataacgaccg       180
+     cgtgagtcaa aatgacgcat gattatcttt tacgtgactt ttaagattta actcatacga       240
+     taattaatat tgttatttca tgttctactt acgtgataac ttattatata tatattttct       300
+     tgttatagat atcgtgacta atatataata aaatgggatg ttctttagac gatgagcata       360
+     tcctctctgc tcttctgcaa ggcgatgacg agcttgttgg tgaggattct gacagtgaaa       420
+     tatcagatca cgtaagtgaa gacgtccaga gcgatacaga agaagcgttt atagatgagg       480
+     tacatgaagt gtcagccaac gtcaagcgta gtgaaatatt agacgaacaa aatgttattg       540
+     aacaaccagg ttcttcattg gcttctaaca gaatcttgac cttgccacag aggactatta       600
+     gaggtaagaa taaacattgt tggtcaactt caaagtccac gagcggtagc cgagtctctg       660
+     cactgaacat tgtcagatct caaagaggtc cgacgcgtat gtgccgcaat atatatgacc       720
+     cacttttatg cttcaaacta ttttttactg atgagataat ttcgcaaatt gtaaaatgga       780
+     caaatgctga gatatcattg aaacgtcggg aatctatgac aggtgctaca tttcgtgaca       840
+     cgaatgaaga tgaaatctat gctttctttg gtattctggt aatgacagca gtgagaaaag       900
+     ataaccacat gtccacagat gacctctttg gatcgatctt tgtcaatgtg tacgtctctg       960
+     taatgagtct gtggatcgtt ttggattttt tgatacgatg tcttagaatg gatgacaaaa      1020
+     gtatacggcc cacacttcga gaaaacgatg tatttactcc tgttagaaaa atatgggatc      1080
+     tctttatcca tcagtgcata caaaattaca ctccaggggc tcatttgacc atagatgaac      1140
+     agttacttgg ttttagagga cggtgtccgt ttaggatgta tatcccaaac aagccaagta      1200
+     agtatggaat aaaatcctca tgatgtgtga cagtggtacg aagtatatga taaatggaat      1260
+     gccttatttg ggaagaggaa cacagaccaa cggagtacca ctcggtgaat actacgtgaa      1320
+     ggagttatca aagcctgtgc acggtagttg tcgtaatatt acgtgtgaca attggttcac      1380
+     ctcaatccct ttggcaaaaa acttactaca agaaccgtat aagttaacca ttgtgggaac      1440
+     cgtgcgatca aacaaacgcg agataccgga agtactgaaa aacagtcgct ccaggccagt      1500
+     gggaacatcg atgttttgtt ttgacggacc ccttactctc gtctcatata aaccgaagcc      1560
+     agctaagatg gtatacttat tatcatcttg tgatgaggat gcttctatca acgaaagtac      1620
+     cggtaaaccg caaatggtta tgtattataa tcaaactaaa ggcggagtgg acacgctaga      1680
+     ccaaatgtgt tctgtgatga cctgcagtag gaagacgaat aggtggccta tggcattatt      1740
+     gtacggaatg ataaacattg cctgcataaa ttcttttatt atatacagcc ataatgtcag      1800
+     tagcaaggga gaaaaggttc aaagtcgcaa aaaatttatg agaaaccttt acatgagcct      1860
+     gacgtcatcg tttatgcgta accgtttaga agctcctact ttgaagagat atttgcgcga      1920
+     taatatctct aatattttgc caaatgaagt gcctggtaca tcagatgaca gtactgaaga      1980
+     gccagtaatg aaaaaacgta cttactgtac ttactgcccc tctaaaataa ggcgaaaggc      2040
+     aaatgcatcg tgcaaaaaat gcaaaaaagt tatttgtcga gagcataata ttgatatgtg      2100
+     ccaaagttgt ttctggactg actaataagt ataatttgtt tctattatgt ataagttaag      2160
+     ctaattactt attttataat acaacatgac tgtttttaaa gtacaaaata agtttatttt      2220
+     tgtaaaagag agaatgttta aaagttttgt tactttagaa gaaattttga gtttttgttt      2280
+     ttttttaata aataaataaa cataaataaa ttgtttgttg aatttattat tagtatgtaa      2340
+     gtgtaaatat aataaaactt aatatctatt caaattaata aataaacctc gatatacaga      2400
+     ccgataaaaa cacatgcgtc aattttacgc atgattatct ttaacgtacg tcacaatatg      2460
+     attatctttc taggg                                                       2475
+//
+ID   TART_B2   repbase; DNA; INV; 4056 BP.
+CC   TART_B2 DNA
+XX
+AC   U14102;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Drosophila melanogaster TART-B2.
+XX
+KW   Reverse transcriptase; TARTB2.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly.
+OC   Eukaryotae; mitochondrial eukaryotes; eukaryote crown group;
+OC   Metazoa/Eumycota group; Metazoa; Eumetazoa; Bilateria; Coelomata;
+OC   Protostomia; Arthropoda; Tracheata; Insecta; Pterygota; Neoptera;
+OC   Holometabola; Diptera; Brachycera; Cyclorrhapha; Drosophilidae;
+OC   Drosophila; Sophophora; melanogaster group; melanogaster subgroup.
+XX
+RN   [1]
+RP   1-4056
+RC   [1]  (bases 1 to 4056)
+RA   Sheen F.M., Levis R.W.;
+RT   "Transposition of the LINE-like retrotransposon TART to Drosophila
+RT   chromosome termini";
+RL   Proc. Natl. Acad. Sci. U.S.A. 91 (26), 12510-12514 (1994)
+RX   MEDLINE; 95107987.
+XX
+RN   [2]
+RP   1-4056
+RC   [2]  (bases 1 to 4056)
+RA   Levis R.W.;
+RT   "Direct Submission";
+RL   Submitted (29-AUG-1994) Robert W. Levis, Fred Hutchinson Cancer
+RL   Research Center, Division of Basic Sciences, 1124 Columbia St.,
+RL   Seattle, WA 98104, USA
+XX
+DR   GENBANK; U14102; 89.0.
+CC   Positions       1    4056  Accession No U14102        GenBank (rel. 89.0)
+XX
+SQ   Sequence 4056 BP; 1322 A; 966 C; 875 G; 893 T; 0 other;
+     gatcaagggt caagtaataa agattgaaag caaacaatca taccttggcg taatccttga        60
+     cagcaagcta accctcagct cccacgtcac aaagctgatg ggcaaataca ctacagccta       120
+     cagaaaaatg acatggattc taaacagaag aagcaaactc cctaccaaga ctaaaatgct       180
+     gatccttaag tcagtccttt caccaatatg gcagtatgcc atagcagctt ggggtcccct       240
+     tgtgacggat gcacagataa gacggatcca agtcgaggaa aataggaaaa tgagagacat       300
+     atgcagagcg ggtagataca cgagcaacca aactataagg gaccgctatg gaatcaaaac       360
+     agtagaagaa ttctatcaac aggcactcca caggttctca gaaacaataa aatctcaccc       420
+     aaatatagct gtacgcagga tattcacaag gcactatatc ccgaacagac tagaaagaag       480
+     caggcagagg tacttgaaaa tgacaaatga acacatcacg caaaaacaga ctggacaaac       540
+     actctcacct aaactcctaa aaatccctga tctaaatgac tgcagaaccc ttaaaaagcg       600
+     gaatgaaaga gataaaataa ggcaaaccca tctaattgaa ctccccaccc tgctgagact       660
+     agaggaagaa gaggaagagc ttagaagaat aaaaaaacag gaagagaggg aaagaaggga       720
+     aaaggaaacc caaaagtggc ctccagacag atggtgtgaa ttagaaatta acctatataa       780
+     taagcaatat agaaggggcg atctaaccag gcaggaaatc atacaaaaat ttagaggaca       840
+     accactaaat gtacagagga taattttacc cgactataaa ggagaccagg aacacaatta       900
+     aaagtaaatc atgggaaagc aggggaaaaa aaaacagaag taacaaaatg gcggaagggg       960
+     tggcaaaata tatataaaaa taagaaaaga tagaaataaa aaggctaaag gctcacttac      1020
+     aggttaattc aaaagggaaa cgtgcttaca tatctaatgg taaaaactaa cttataacac      1080
+     ctactggatg acatagtgag gatgccacag gttgcgcact tgaatcacgc tttcctggcg      1140
+     agattgttaa ggcatcaccg ggatcccgtc tctctttcct aactggagga ctcatgcctg      1200
+     aaatcttttc cgcttcaccg gcacctgatg gccatatctg ctactgcgcc ttgcgctcca      1260
+     cggacgctcc ttcctgaaag aaagagaatt tgttttagtt ttcctttctc ttcttaaaaa      1320
+     tataacaaaa acagcagcag tagccgacca acaacatact tagcttacca aggcagcagc      1380
+     aatgatacca acagaagccc tacagtgtgc tgaacaatat gccgcccacg cccaccactt      1440
+     ctggaactca ggaatggggg gtacggaatg ccggaaactg gaggattcgc ctcaaatgtt      1500
+     acgcttacat ctttgagcaa atcgcctgcc tcctcgtcta acggcccggc gtcttggtac      1560
+     gcccagaagt agcagcggta gcaggattag cagcctccac agagatatgt tcatcccagc      1620
+     atcagtccag ttggcattgt gatgccgccg tagcgtacgc cctcagagac ccgactggaa      1680
+     tcccaggaca agagacggca gcacgcctgg gcttaggcgc gggacaacat gcagagattc      1740
+     gtcaatgaga atggcggcac tggaatcacc tttcagctga gcgggataat gagtcggcaa      1800
+     cgcaccgcac tatcagcagc aataacaaca tcggcagatg acctggaaga aaggaaaaaa      1860
+     catgtatcag tcttttcttt tctttttttt tcccattagc atgcgttttt aaattccatt      1920
+     cctgaaaacc ggcgttttcc tgtaaaagac actggacggc ggcgtttgtt ttaaatgcaa      1980
+     agattggatg cttgcatcag ggctgacgtc cttgaatagc cgatgccttg taattgcctg      2040
+     catagccgcg gaggtcctga tgacggatgc tggcctgtat ttggccacca ctccgatgcc      2100
+     atgacagcag caacagcagc ggtttttgca aatgagaggg atcaggaggc ggcaacacat      2160
+     tcacccgtag cagcaacaac aagcagtggt agcatcagca gggagtcttc tcgccacaat      2220
+     agccatttgg aaatttctcg acgacccgac ttcctgcttg gcccatggtc aatcacactg      2280
+     gaccagttaa cagcggcgtt ttaccctgga agaaagaaaa cttgtattat tcattccctt      2340
+     ttctctcaca gttgggtatt taagtgcatt cctggccaac ctagcgtgtc tcctggcaat      2400
+     gacgtcggac tcaacgcatg cttcccttcc gacacagtaa ggatgttcgc atctgggctg      2460
+     acgggccagg ccggtccgtt gccatacatg ctagcgtttc cgcggcggcg tagtgaacat      2520
+     caaaccgtat aatggcgaag acgacgatga tccggccgga tggcagctcg acgacggtag      2580
+     caggccacca tgcccgccag cccgcagcta ggatagcagc aacatcagcg tcttattaac      2640
+     gcgaacggcg gcactggccc ttagctgacc agctgcaaca acatcagcga cgcagtctcc      2700
+     accagcagca acaacagcag cggcgcttgc gacagcagca gcagggaatg gttctgccgc      2760
+     agtcgcctat tgctgcctat aaagagcatt ccttgccaat tggctttctg tacgacgacg      2820
+     atgatcctgc ggacaaatcc acctttccgg acgcctgagt attatggcga gcctgctgat      2880
+     cattgtttct ccgactcctt acttgaccac tggacaatca tacaatcacc ggcttttcac      2940
+     atctggaaga aagaaacctg gattagtatt tgcccttcag atttgtatga aactgcattt      3000
+     ctggccaacc ggagtgtttc ctgcagacga cgctggactg cgacgcactt ttttctacca      3060
+     acacagatgg gacgcttgca tcagatctga cgggccagac tggccgatgc ctggtacacg      3120
+     atggcatctc cgcggcggcg agatgtgcag cgacgctgaa agcaataata attcttttac      3180
+     tttgcagtat caaaaatgag aagccacatc acaatttaca tcagcaaaaa ttacacgtga      3240
+     tatctttttc ttttgcctag gagtagtgag acctgctacc aaaatgacca gtaataccgg      3300
+     ctaacggaag cgagatatcg ataatcattc tggcggtaaa atagccagaa catcgataac      3360
+     cagctgtgca ttttcccttc gatttatcga agtcaaatag cccgcctagg ctatcggacc      3420
+     ggatcggcaa gtcagtagtg attaaaaatc cggcagaggc gcctgtgcag cagctaccca      3480
+     aagtgaacac gacgaaacgc aacaacaaaa tggacggaca taatggagat caaagtgaag      3540
+     gatgggcaac agtgctatct atctcctcgg atgatagtaa ctccttgtcg tcgctgcata      3600
+     tataaaataa taaatttctt aaaataattt catcgctgga ttcctgcgcc accataaatt      3660
+     acttatagaa tacacttaac actgtaccca ctaatgctaa aaattttctt atacaatttt      3720
+     actttaaagc taaaactact taaactatgg cgcgtaaaac ggccgtcaaa aatatccaaa      3780
+     aattgtactt gccataaaca aattctaaca taatgtaaat cctaaatcgt aaaatcatgg      3840
+     cgaacataac cgccgccaag caaatcaaaa aatgttccta gaaattgtaa atcttaaacc      3900
+     tacttctcta actaaagcgc gcacaactgc cgctgatccg aaattgtaaa atgccataaa      3960
+     ttgtaactat atattttata aaaaaaatca gagtacaata aaatgacagc gccgaaaggc      4020
+     actgaaaata tttaaaaaaa aaaaaaaaaa aaaaaa                                4056
+//
+ID   SMU66331  repbase; DNA; INV; 2337 BP.
+CC   SMU66331 DNA
+XX
+AC   U66331;
+XX
+DT   02-DEC-1997 (Rel. 3.1, Created)
+DT   02-DEC-1997 (Rel. 3.1, Last updated, Version 1)
+XX
+DE   Schistosoma mansoni SmRT1 non-LTR retrotransposon, partial
+DE   reconstruction of a retrotransposon, reverse transcriptase gene,
+DE   partial cds.
+XX
+KW   .
+XX
+OS   Schistosoma mansoni
+CC   Schistosoma mansoni.
+OC   Eukaryotae; Metazoa; Platyhelminthes; Trematoda; Digenea;
+OC   Strigeidida; Schistosomatoidea; Schistosomatidae; Schistosoma.
+XX
+RN   [1]
+RP   1-2337
+RC   [1]  (bases 1 to 2337)
+RA   Drew A.C., Brindley P.J.;
+RT   "A retrotransposon of the non-long terminal repeat class from the
+RT   human blood fluke Schistosoma mansoni. Similarities to the
+RT   chicken-repeat-1-like elements of vertebrates";
+RL   Mol. Biol. Evol. 14 (6), 602-610 (1997)
+RX   MEDLINE; 97333939.
+XX
+RN   [2]
+RP   1-2337
+RC   [2]  (bases 1 to 2337)
+RA   Drew A.C., Brindley P.J.;
+RT   "Direct Submission";
+RL   Submitted (08-AUG-1996) Molecular Parasitology Unit, Queensland
+RL   Institute of Medical Research, Post Office, Royal Brisbane
+RL   Hospital, Brisbane 4029, Australia
+XX
+DR   GENBANK; U66331; 101.0.
+CC   Positions       1    2337  Accession No U66331        GenBank (rel. 101.0)
+XX
+SQ   Sequence 2337 BP; 673 A; 577 C; 454 G; 630 T; 3 other;
+     gaattcctag ttgacgacct ctcaatcctg gctcccctgg ggaaaagtga tcacgccgtc        60
+     ttatcattca gctttgtcag caaaacggag ctacgatatc ctactagcaa caagcgctgg       120
+     aacttcaaac ggttgaatgt gttagcttta caggactatc tacaacaggt ggattgggat       180
+     gttcaccctc aacttgaagt ggatgctcat tgggattttt tactgcacac gatcttatgt       240
+     gctactgagc attcagttcc taaaatggtc ccaaaaagct acaagcaacc tccaatcatc       300
+     aagaaccgca ctcgtcgttt gctaagccgc aaaaggcact gttgggctga atataaacga       360
+     acbgataaca acggcgcgta caggcaatac aaacatataa ggaacatatg bacaaaggca       420
+     ataagagaag acaggcttca gttccagacc aagcttatcg ataaattcgt ctccaatccg       480
+     aaaagcttat tcagttacgc agcttctctt cgacaaggca aaactggagt ttcccaactg       540
+     cttggtccta atggcccgac caataacgac agtgatgccg ctaacctttt ggctgaacaa       600
+     tactcccaga cattccagct gacccacatc aaccatactg acgaaagctt cacctgcacc       660
+     tgtacaggac tttccgaagt ggatctgagt gctgacctgg tgctccgtaa actgcagcac       720
+     ctaagaaaag acacttctcc tggtccggat atggttcatt ccgctgtttt gagggaagca       780
+     gcttcaatcc tggcgacacc acttagcgtg atgtttgcac actcgctaag cagaggcaaa       840
+     ctaccggaaa tttggaagct ggcccacatc acaccaattt tcaaaggagg tcgacgcagt       900
+     gaaccctcaa gctaccgacc agtggccctt ctctccatac cttccaaaat tatggaatcc       960
+     ctaatatacg acggtatatt agaatactta tcatcctcaa agttcttctc acctcaacag      1020
+     catggtttca gaaaaggtca ttcttgtatg accaacctgc tgactgcggt ggatagatgg      1080
+     acaaccatcc ttgatcgcaa ggggaaggtt gacgtcatct acctggactt ctcaaaagct      1140
+     tttgataggg tcaaccatat atgtcttatc aagaagctta gacgattggg tataaaaccc      1200
+     cctttgattg attggctctc ttcatattta gaaaaccgac actttaaggt cagggttaac      1260
+     ttcactctct ctcaggctat ggaatgtcct agtggggtcc cccagggctc aatactagga      1320
+     cctcttctct tcttgattta cattaacgat cttcctcaac aagtttcatc tgacttattg      1380
+     ctttttgctg atgatgtgaa actttggaga gagatacgta atcataatga tatactagtt      1440
+     cttcaggagg atctgacccg acttcaaagt tgggcagacg acaacggact taccttcaac      1500
+     acttcaaagt gcaaagtagt ccatctgaga catgttgcag accatagtta taacttaggt      1560
+     aactcccctc tagaagtttc ccaagtcgaa aaagatttag gagtgttggt accctatgac      1620
+     ctgaaatcgt atgcgaactg tgacaaaaac gcctttcaag caaaccttgc actggtaaca      1680
+     ttgaagcgca tttttggcca gtttgacggt agaaccttcc acataatctt caacagtttt      1740
+     attcgtcccc atttagagta cggaaacata gtatttcctc cctccctcca aaaggataag      1800
+     gacactctgg aacgtataca acgtcgagcc acgaaatcag ttcggggact caaattcaaa      1860
+     ccttacgaag agcgcctcca atcacttaac ctttacccgt tagagtacag gcgtcttaga      1920
+     ggtgaccttc ttatgactta cagtatcctt aatacttctg gtcatcccct taaacatctt      1980
+     cttaagctta gtcataacac taacctmaga ggtaacaccc agaaattgga gaccctatat      2040
+     agcagaacag actgcagaca caacttctac tccgttagag ttgtcaagtg ctggaattcg      2100
+     ctgccgactg agctagtcca agcgacctcc caggagtcct ttaagaggaa acttgactta      2160
+     ttcttaagga ctaaggataa catattatta tgatttacca aattcttttt ttccctctat      2220
+     tatcgttcat atacctaggt ttttgcctgg aggtattggt gatccactgc tactagacac      2280
+     ggaagcccgt taagcgaaag cttcttctat tccatcctca accatttgaa ccatttg         2337
+//
+ID   LCRP1     repbase; DNA; INV; 216 BP.
+CC   LCRP1 DNA
+XX
+AC   L42497;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Leishmania chagasi DNA repeat.
+XX
+KW   Repetitive element.
+XX
+OS   Leishmania chagasi
+CC   Leishmania chagasi (strain 1,MHOM/BR/90/LPM89) DNA.
+OC   Eukaryota; Protozoa; Euglenozoa; Kinetoplastidea; Trypanosomatida;
+OC   Trypanosomatina; Trypanosomatidae.
+XX
+RN   [1]
+RP   1-216
+RC   [1]  (bases 1 to 216)
+RA   Piarroux R., Fontes M., Perasso R., Gambarelli F., Joblet C.,
+RA   Dumon H., Quilici M.;
+RT   "Phylogenetic relationships between Old World Leishmania strains
+RT   revealed by analysis of a repetitive DNA sequence";
+RL   Mol. Biochem. Parasitol. (1995) In press
+XX
+DR   GENBANK; L42497; 89.0.
+CC   Positions       1     216  Accession No L42497        GenBank (rel. 89.0)
+XX
+SQ   Sequence 216 BP; 57 A; 68 C; 63 G; 28 T; 0 other;
+     gcaagaatca agaggcggtg tcacagagat gggcgaaggg ggacggcggg agcggcagag        60
+     agagcgcggg cacacagcga cgtccgtgga aagaaaaaaa gagaagacaa cgcgtattcc       120
+     cttctgctaa tgtgtacccg cctctctgcc acagatcacg aggtcagctc cactccaccc       180
+     taacgcctcc cccgcgcaga cctgtcacac gctccc                                 216
+//
+ID   LDRP3     repbase; DNA; INV; 217 BP.
+CC   LDRP3 DNA
+XX
+AC   L42475;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Leishmania donovani DNA repeat.
+XX
+KW   Repetitive element.
+XX
+OS   Leishmania donovani
+CC   Leishmania donovani (strain 1,MHOM/IN/00/DEVI) DNA.
+OC   Eukaryota; Protozoa; Euglenozoa; Kinetoplastidea; Trypanosomatida;
+OC   Trypanosomatina; Trypanosomatidae.
+XX
+RN   [1]
+RP   1-217
+RC   [1]  (bases 1 to 217)
+RA   Piarroux R., Fontes M., Perasso R., Gambarelli F., Joblet C.,
+RA   Dumon H., Quilici M.;
+RT   "Phylogenetic relationships between Old World Leishmania strains
+RT   revealed by analysis of a repetitive DNA sequence";
+RL   Mol. Biochem. Parasitol. (1995) In press
+XX
+DR   GENBANK; L42475; 89.0.
+CC   Positions       1     217  Accession No L42475        GenBank (rel. 89.0)
+XX
+SQ   Sequence 217 BP; 54 A; 69 C; 66 G; 28 T; 0 other;
+     gcaagaatca agaggcggtg tcacagagat gggcgaaggg ggacggcggg agcgggagag        60
+     agagcgcggg cacacggcga cgtccgtgga aagaaaaaag gcagaagaca acgcgtattc       120
+     ccttctgcta atgtgtaccc gcctctctgc cacagatcac gaggccagct ccactccact       180
+     ctaacgcctc ccccgcgcag ccctgtcaca cgctccc                                217
+//
+ID   LKRP1     repbase; DNA; INV; 215 BP.
+CC   LKRP1 DNA
+XX
+AC   L42500;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Leishmania killicki DNA repeat.
+XX
+KW   Repetitive element.
+XX
+OS   Leishmania killicki
+CC   Leishmania killicki (strain 1,MHOM/TN/80/LEM163) DNA.
+OC   Eukaryota; Protozoa; Euglenozoa; Kinetoplastidea; Trypanosomatida;
+OC   Trypanosomatina; Trypanosomatidae.
+XX
+RN   [1]
+RP   1-215
+RC   [1]  (bases 1 to 215)
+RA   Piarroux R., Fontes M., Perasso R., Gambarelli F., Joblet C.,
+RA   Dumon H., Quilici M.;
+RT   "Phylogenetic relationships between Old World Leishmania strains
+RT   revealed by analysis of a repetitive DNA sequence";
+RL   Mol. Biochem. Parasitol. (1995) In press
+XX
+DR   GENBANK; L42500; 89.0.
+CC   Positions       1     215  Accession No L42500        GenBank (rel. 89.0)
+XX
+SQ   Sequence 215 BP; 52 A; 68 C; 64 G; 31 T; 0 other;
+     gcaagaatca agaggcagtg tcacagagat gcgcgaaggg ggacggtggg agcgggagag        60
+     agaccgcggg cacgtggcga cgtccgtgga accaaaaaaa agcagaagac gagtattccc       120
+     ttttgctgat gtgtgaccac ctctctgcca cagatcacga gctcagctcc cctccaccct       180
+     aacgcctccc ccgcgcggcc ctgtcacagg ctccc                                  215
+//
+ID   CERP1A    repbase; DNA; INV; 454 BP.
+CC   CERP1A DNA
+XX
+AC   M37219;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Nematode CeRep1.1 repeat DNA.
+XX
+KW   CeRep1 repetitive sequence.
+XX
+OS   Caenorhabditis elegans
+CC   Nematode (strain Bristol) DNA.
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-454
+RC   [1]  (bases 1 to 1427)
+RA   Felsenstein K.M., Emmons S.W.;
+RT   "Structure and evolution of a family of interspersed repetitive DNA
+RT   sequences in Caenorhabditis elegans";
+RL   J. Mol. Evol. 25, 230-240 (1987)
+XX
+DR   GENBANK; M37219; 77.0.
+CC   Positions    1412     959  Accession No M37219        GenBank (rel. 77.0)
+XX
+SQ   Sequence 454 BP; 142 A; 93 C; 79 G; 140 T; 0 other;
+     cttccgattt taatccatta taacaaaatg ctgtttctca ggtggcgaaa aattttaatt        60
+     ccgagggggt cattttcata ggggattttt tcgtaggaaa acgctttcgg tgggacaaaa       120
+     tatacgacac gccttttcac agacccacca catgatcctt cacaatgcac cacacgactt       180
+     tttgcaatac accgcacgct tcttcgtatt tatttattcc tttttccaac gtaccgaact       240
+     tcgacacgaa ttcaatacaa aacgggtttt taatggaaat taattagttt tattcccgag       300
+     ctaaatacgg atattttcag aattttccga tgacaaaaac gggtttttca atagattcga       360
+     acgatccaaa atttaattat taacgaaaat gagcgttttc tttccggaaa aagaagaact       420
+     gatgccgaga gtgatccaag tggagccaaa tgtc                                   454
+//
+ID   DMR_DV    repbase; DNA; INV; 873 BP.
+CC   DMR_DV DNA
+XX
+AC   X03936;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D. virilis moderately repeated DNA element.
+XX
+KW   pDv repetitive sequence; repetitive sequence; transposable element.
+XX
+OS   Drosophila virilis
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-873
+RC   [1]  (bases 1 to 1832)
+RA   Zelentsova E.S., Vashakidze R.P., Krayev A.S., Evgen'ev M.B.;
+RT   "Dispersed repeats in Drosophila virilis: Elements mobilized by
+RT   interspecific hybridization";
+RL   Chromosoma 93, 469-476 (1986)
+XX
+RN   [2]
+RP   1-873
+RC   [2]  (bases 1 to 1832)
+RA   Zelentsova E.S., Vashakidze R.P., Kraev A.S., Evgen'ev M.B.;
+RT   "Repetitive sequences dispersed through the genome in Drosophila
+RT   species of the virilis group";
+RL   Mol. Biol. 20, 577-583 (1986)
+XX
+DR   GENBANK; X03936; 77.0.
+CC   Positions     660    1532  Accession No X03936        GenBank (rel. 77.0)
+XX
+SQ   Sequence 873 BP; 206 A; 173 C; 210 G; 284 T; 0 other;
+     aatcatcgaa aaagtttcga ttttcgcacc gattttgatt ttgaaaaaaa aaacgtgacc        60
+     ccttgccatt ttgtcgactt gggtcggggt ttaggtttca ttttttttat gccaaccgat       120
+     agaactaacc cttacggttc aaaatggtgt gaatacaaaa ctggcatatt gggaatattc       180
+     aaaacaacaa aagttaattt cgaactatgg ttttgtagtc tttaacattc gttttggaac       240
+     gtcatatctc cgcgcggagt tatgtcgttt tggaacgtca tatctccgcg cggtgtaatg       300
+     tcgttttgga acgtcatatc tccgcgcgga gctttgtcgt tttggaacgt catatctccg       360
+     cgcggagtta tgtcgttttt gaacgtcata tctccgcggg gagctatgtc gttttggaac       420
+     gtcatatctc cgcggggagt tatgtcgttt tggaacgtca tatctccgcg tggagttatg       480
+     tcgtttggga acgtcatatc tccgcgggga gttatgtcgt ttgggaacgt catatctcca       540
+     cgcggagtta tgtcgttttg gaacgtcata tctccgcgcg gagttatgtc gttttggaac       600
+     gtcatatctc cgcgtggagt tatgtcgttt gggaacgtca tatctccgcg gggagttatg       660
+     tcgtcttgga acgtcatatc tccgcgggga gttatgtcgt tttggaacgt catatctcca       720
+     cgcggagtta tgtcgttttg gaacgtcata tcttgggcgg agctattacc cgagatattg       780
+     aaaaaaaaaa atcatcgaaa aaggttcaat tttcacaccg acctcgattt tgaaaaaaaa       840
+     aacgtaatgt aaccccttgc cattttgtcg att                                    873
+//
+ID   DMHMR1    repbase; DNA; INV; 782 BP.
+CC   DMHMR1 DNA
+XX
+AC   X52809;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D. melanogaster DNA non-mobile heterochromatic moderate repeats
+DE   (HMR family).
+XX
+KW   Heterochromatic moderate repeat; HMR repeat family;
+KW   Repetitive sequence.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-782
+RC   [1]  (bases 1 to 782)
+RA   Shevelyov Y.Y., Balakireva M.D., Gvozdev V.A.;
+RT   "Heterochromatic regions in different Drosophila melanogaster stocks
+RT   contain similar arrangements of moderate repeats with inserted
+RT   copia-like elements (MDG1).";
+RL   Chromosoma 98, 117-122 (1989)
+XX
+DR   GENBANK; X52809; 77.0.
+CC   Positions       1     782  Accession No X52809        GenBank (rel. 77.0)
+XX
+SQ   Sequence 782 BP; 190 A; 185 C; 190 G; 217 T; 0 other;
+     tttttatttg aatttgggcg atttgagttg catcaaggcc ttcaggtgca accgaaagcc        60
+     taggtactgg aagtgcaagc gctttgttta gaaaacaacc aggactatat tcggagaatt       120
+     acttaccgtg ggtcgtccag gggcgatctc aagttcggca gcagcgagaa gaagatgtcc       180
+     gggaagctgg gcccgaacat cgctccgtcc agctgtgtat cagacttcgg atgaaagttc       240
+     tttttacacc gtgggcagta gatcttgacg gttgacttcg cccatacatc gctgaggccc       300
+     actggcaggg tgttctgcta tcacaggaga tattgggaca cgattcaaaa tctccttgca       360
+     tattatttcg gtgcatagca atcacgccac gctctgactt gatgtatcgg gcgtgaatca       420
+     tgccgtacca ctttttttca tcgccgtaca acaagccaga ggaactgtcg atcaccggct       480
+     tcaggatcac gtccagtatc tcgctgaaat actccaagcc catctggttg aacgtatcct       540
+     gcacgtagtc ggtgggcacg cgggagaggg actcgttgcc cttgatcccg aggaaccaat       600
+     cgatccagct gctgttgttg ttctggctac aagattttac tgtgacttgc tataatttct       660
+     ataggaaaaa cctagttact tacgagctca acatgttgcc agtttacttg ttcacagaaa       720
+     tatgacttgt agacttcaaa gtcatcgtct tcttctttga cttttgacac gtgctaaaag       780
+     gc                                                                      782
+//
+ID   FW_DM     repbase; DNA; INV; 3520 BP.
+CC   FW_DM DNA
+XX
+AC   M17214;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D.melanogaster Fw repetitive element.
+XX
+KW   Repetitive element; DMFW.
+XX
+OS   Drosophila melanogaster
+CC   D.melanogaster (white locus of w i+A flies) DNA, clone pA22.7.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-3520
+RC   [1]  (bases 1 to 3520)
+RA   Di Nocera P.P., Casari G.;
+RT   "Related polypeptides are encoded by Drosophila F elements, I
+RT   factors, and mammalian L1 sequences";
+RL   Proc. Natl. Acad. Sci. U.S.A. 84, 5843-5847 (1987)
+XX
+DR   GENBANK; M17214; 77.0.
+CC   Positions       1    3520  Accession No M17214        GenBank (rel. 77.0)
+XX
+SQ   Sequence 3520 BP; 1203 A; 940 C; 615 G; 762 T; 0 other;
+     tgaaccagaa aacaagcctc ctagaaaaaa cgaggttcac ccaatttaca aactccagct        60
+     ccttttgcac cgtaggatca cggtagaaga gccgcacaaa cgcaacgctc ctgtacaatg       120
+     tacaaactgc caagagtatg gccacacgag gtcatattgt acacttgccc cggtgtgcgt       180
+     agtctgtgga gatctccacg actccaaaca gtgtcaaatt aacaaagaaa atgcatgcga       240
+     gaaaaaatgt aataactgcg ggggcaatca cacagcaaac tacagaggct gtccaatcta       300
+     caaagagctg aaaatccgtc ttcacaaaag aatgaacacg gcgcgggtac acaaggatca       360
+     gctaccctga taccatcaga gacaaatcct gaagtaattt tctcgaaagc agctagtttc       420
+     gctccctggc ctacattcaa cactaacaaa gacaacattt gctaacgttt taaaatcagg       480
+     tatgacgcct ccaacccaaa actcccgaac tccacatgaa gtgcacacaa aattagacac       540
+     acaacaaaac tatcacccag ctgcgcagca ggaaacaaaa actgaagcta tgatgcaagc       600
+     cttacaacag agcatgatgg aatttatgac atttatgaag accaccattc aagacatgat       660
+     gcgtaatcaa aaccttttga tacaaatgct tgtagcccaa caatcaaata aataatggct       720
+     accttacgca tagctacgtg gaacgccaat ggcgtctcac agcgcaaact tgagctagct       780
+     caattcctac atgagaagca tatcgacgta atgcttcttt cggaaactca tctcacaagc       840
+     aaatacaatt ttcaaataag agactaccat ttctacggta caaatcatcc cgacggaaaa       900
+     gcacacggtg gcaccgccat actcataagg aaccgtatga agcaccactt ttacaaagaa       960
+     tttgcggaaa atcatcttca ggccacatct atcaacattc agctggatga caacactctc      1020
+     cttacactag cggccgtata ctgccccccc cgtttcacag tattagaagc tcaattcctg      1080
+     gatttcttcc aagcactagg gccacacttc attgcagcag gcgactacaa cgctaaacat      1140
+     actcactggg gatcgcgact tgtgaaccca aaaggaaaac agctttataa gacgataata      1200
+     aaagccacta ataaacttga ccatgtttcc cccgggagtc ctacatactg gccatcagac      1260
+     ctcaataagc tgccagacct gatcgacttc gcagttacga aaaatatttc ccgcagtttg      1320
+     gttaaagctg aatgtctgcc ggatctctca tctgatcact cgcctgtact aattcacctc      1380
+     cgccgatacg cagaaaacgt gaaaccacca accagattga cctctagcaa aacaaactgg      1440
+     ctcaggtata aaaaatatat aagttcacat attgagctaa gcccaaaact caatactgaa      1500
+     tctgatatag agagctgcac gtgtgcattg caatccatcc ttactgcagc agctcttact      1560
+     gcaacaccca aaataacaaa taatacaatt aattcaaaaa agaccaacgt acaaatcgag      1620
+     caactcgtcc acgtaaaacg tcgcttacgc agagaatggc aatcttccag atccccaact      1680
+     gcaaaacaaa agctaaaagt agccacacgg aaactggcca acgctctgaa acaagaagag      1740
+     gacgacgatc agcgccgata catagagcaa ctcacaccaa caggcacaaa acaaaagtca      1800
+     ctgtggcgag cccactcaac tcttcgccca ccgactgaaa ccgttttgcc gataaagaat      1860
+     tcatcaggtg gctgggcccg tagtgatgaa gacagagcca acacatttgc cgctcaccta      1920
+     caaaatgtgt tcacgccaaa ccaggctact agcacattcg cgctaccgtc ctatcccgta      1980
+     aaccgccatc agcaacacac cccaattgtg tttcgtccta aagaaataac taaaataatc      2040
+     aaagacaatc tcagcccgaa aaaatccccc ggctacgacc ttataacacc ggaaatgatc      2100
+     atccagctgc cacattctgc agttcgctac ataaccaagc tctttaatgc catcaccaaa      2160
+     cttggttact ttccacaacg atggaagatg atgaagatca taatgattcc aaagcctggt      2220
+     aagaaccaca cagtcgcttc atcttacaga ccaataagtc tactctcatg catttcgaaa      2280
+     ctattcgaaa aatgcctgct gatccgactt aatcaacatc agacatacca caatataatc      2340
+     ccagcccacc aatttggatt tcgcgaaagc cacggaacca ttgaacaggt gaatcgtatt      2400
+     acaacggaaa taagaactgc atttgaatat cgcgaatact gtacagcagt atttttagac      2460
+     gtatcccaag cattcgacaa agtctggctc gacggcctaa tgtttaaaat taaaatatcc      2520
+     ctacccgaaa gcacacacaa acttctaaag tcttacctct atgacagaaa gtttgcagtg      2580
+     cggtgcaaca ctgccacttc cactgttcat acaattgagg ctggagtccc ccaaggcagc      2640
+     gttcttgggc caaccttata cctcatctat acagccgaca tccctacaaa tagtcgctta      2700
+     acggtatcca catttgccga cgatacagct atccttagcc gttcaaggtc ccctatccaa      2760
+     gctacagcac agttggcact gtacctcatc gacattaaga agtggctctc tgactggcga      2820
+     ataaaagtaa acgagcaaaa atgcaagcac gtgacgttta cgctaaacag acaagactgt      2880
+     cctccgctct tgttgaacag cataccactc ccgaaagcag acgaggtaac gtacctagga      2940
+     gtacacctag acagaagact cacatggcgc aggcacattg aagccaaaaa aacccaactt      3000
+     aaactcaaag ccaacaactt acactggctc atcaactctg gttctccgct cagcctagat      3060
+     cacaaggtct tgctctacaa ttctatattg aaaccaatct ggacctatgg ctcacagtta      3120
+     tggggcaatg ccagcaacag caatattgac atcattcagc gagcacaatc aaagattctg      3180
+     agaaccatca ctggggcacc gtggtacgtt cggagtgaaa acatccaaag agacttaaat      3240
+     atcccatcag ttaccaacgc aatcacggaa cttaaggaaa aatacctata gcaagcttca      3300
+     cacgcacccc aaccacctag cgcgaggtct aatccagctc agcagccgtt cccgtctccg      3360
+     gcgaaaggac ctaccaaccc agcgaataaa ttattaggcc gtttaaacat agacagttgg      3420
+     aaaaataata caactgttca aaaaatactt gttatagtta agatttttaa acttattgtt      3480
+     agttcttata caagaagatt caataaataa aaagcaaagt                            3520
+//
+ID   DMLTR5    repbase; DNA; INV; 266 BP.
+CC   DMLTR5 DNA
+XX
+AC   J01078;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   D.melanogaster transposon-like insert into cuticle protein gene III
+DE   (CP3), 5'LTR.
+XX
+KW   Repetitive sequence; transposon.
+XX
+OS   Drosophila melanogaster
+CC   D.melanogaster (variant 2/3), clone pDm 2/3-1.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-266
+RC   [1]  (bases 1 to 317)
+RA   Snyder M.P., Kimbrell D., Hunkapiller M., Hill R., Fristrom J.,
+RA   Davidson N.;
+RT   "A transposable element that splits the promoter region inactivates
+RT   a Drosophila cuticle protein gene";
+RL   Proc. Natl. Acad. Sci. U.S.A. 79, 7430-7434 (1982)
+XX
+DR   GENBANK; J01078; 77.0.
+CC   Positions      48     313  Accession No J01078        GenBank (rel. 77.0)
+XX
+SQ   Sequence 266 BP; 74 A; 55 C; 69 G; 68 T; 0 other;
+     agttaataat tacagttatc gatttgattt tgaagatcgc aagcgaccgt ttattgcaat        60
+     ttatcattcg aaactaaatc tagcgtacaa aatgtttccc taagtcccta gcaatcaagt       120
+     gaagtcgtcg gcagtggcgc agcaggcgtc ggccgcggcg cagcgcagaa gtgtcgatgt       180
+     cgcgcttaac cgttcgttgg cgttgatggc agcggagact atgtggaacc acaagatgtt       240
+     agagaatcaa ttgcagggca ataact                                            266
+//
+ID   TIRANT_I  repbase; DNA; INV; 4352 BP.
+CC   TIRANT_I DNA
+XX
+AC   X93507;
+XX
+DT   13-MAR-1998 (Rel. 3.2, Created)
+DT   13-MAR-1998 (Rel. 3.2, Last updated, Version 1)
+XX
+DE   D.melanogaster LTR retrotransposon Tirant - an internal sequence.
+XX
+KW   LTR retrotransposon; GYPSY superfamily; TIRANT_LTR; TIRANT_I.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly.
+OC   Eukaryotae; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Diptera; Brachycera; Muscomorpha; Ephydroidea;
+OC   Drosophilidae; Drosophila.
+XX
+RN   [1]
+RP   1-4352
+RC   [1]  (bases 1 to 4352)
+RA   Viggiano L., Caggese C., Barsanti P., Caizzi R.;
+RT   "Cloning and characterization of a copy of Tirant transposable
+RT   element in Drosophila melanogaster";
+RL   Gene 197, 29-35 (1997)
+XX
+RN   [2]
+RP   1-4352
+RC   [2]  (bases 1 to 4352)
+RA   Caizzi R.;
+RT   "Direct Submission";
+RL   Submitted (27-NOV-1995) R. Caizzi, University of Bari, Institute of
+RL   Genetics, Via G. Amendola, 165/A, I- 70126 Bari, Italy
+RL   REMARK    revised by [3]
+XX
+RN   [3]
+RP   1-4352
+RC   [3]  (bases 1 to 4352)
+RA   Caizzi R.;
+RT   "Direct Submission";
+RL   Submitted (14-JAN-1997) R. Caizzi, University of Bari, Institute of
+RL   Genetics, Via G. Amendola, 165/A, I- 70126 Bari, Italy
+XX
+CC   The 5.3 kb TIRANT present in the GenBank sequence X93507 possesses 
+CC   identical 417 bp long terminal repeats (TIRANT_LTR in Repbase) at
+CC   both ends. There is a serine tRNA binding site downstream of the 
+CC   5' LTR sequence and a polypurine tract upstream of the 3' LTR end.
+CC   The insertion leads to the duplication of a host-site CGCG sequence. 
+CC   In situ hybridization to salivary glands chromosomes showed
+CC   evidence of the mobile nature of the element. The DNA sequencing of 
+CC   the cloned 5.3 kb element revealed that TIRANT possesses an open 
+CC   reading frame (ORF) that shows similarity with the envelope protein
+CC   encoded by the gypsy and 297 retrotransposons. In addition, the cloned 
+CC   element appears to be a subgenomic fragment of a not yet identified 
+CC   complete element, because only the integrase domain of the reverse 
+CC   transcriptase gene is found [1].
+XX
+DR   GENBANK; X93507; 103.0.
+CC   Positions     416    4767  Accession No X93507       GenBank (rel. 103.0)
+XX
+SQ   Sequence 4352 BP; 1589 A; 998 C; 683 G; 1082 T; 0 other;
+     ctggcgcagc cggtaggatg tcctacctat taataattac ctacctgtaa gtaaacatgt        60
+     aagaaacgaa acaaactata tgcaagatgt cgactgaaag tgactaggaa caaattttta       120
+     taaaacaaaa ttgaagttgt gaagtaccaa atgaaactca aacatatatt caaacacagg       180
+     aaaaaaaaaa gagagaggaa aaatgtaaaa taaataaata tacaaaaaaa gtgcatgtgt       240
+     accgtactgc cgcgctgacg tggaatctat cgctgatcat cacgccatcg gtatgtccat       300
+     actctgccaa acgtcataat ttttataaaa aagtgcaagt gtaccgtact gccgcgctga       360
+     cgtggaatct atcgctgatc atcacgccat cggtatgtcc atactctgcc aaacgtcata       420
+     attttttata aaaaagtgca agtgtaccgt actgccgcgc tgacgtggaa tctatcgctg       480
+     atcatcacgc catcggtatg tccatactct gccaaacgtc ataattttta taaaaaagtg       540
+     caagtgtacc gtactgccgc gctgacgtgg aatctatcgc tgatcatcac gccatcggta       600
+     tgtccatact ctgccaaacg tcataatttt tataaaaaag tgcaagtgta ccgtactgcc       660
+     gcgctgacgt ggaatctatc gctgatcatc acgccatcgg tatgtccata ctctgccaaa       720
+     cgtcataatt tttataaaaa agtgcaagtg taccgtactg ctgcgctgac gtggaatcta       780
+     tcgctgatca ccacgccatc ggtatgtcca tactctgcca aacgtcataa gtttttataa       840
+     aaaaaaaaga gtgcaagtgt accgtactgc cgcgctgacg tggaatctat cgctgatcat       900
+     cacgtcatcg gcacttacat acgctggcca acgcatcgcc aaagcctcta tatacactta       960
+     tatatgtgag catacaatat caactacaat ccaatacatt cacgtactgt accgcctcgt      1020
+     tggcatggaa tcaaacgctg atcaccatgc caccgtggta aacaaacaaa gcaccaaagc      1080
+     ctccctaata cattgtacac tcaaaacgta cactgccata cgtcggcgaa aaatcaaaac      1140
+     ataagcaaaa atcatttcaa accaagcgag gctcattctg cgtaccacaa cgacaacgac      1200
+     actgcatgtg tagtggcgca cccatgtctg ggtagccgag gtaaggggaa aacgcttgag      1260
+     tatcgtcaag tgttcttgcc tttcactctt ctacaatggg ttgctacgct catgtattgc      1320
+     acattcaaaa taaccaaaac aaatgtacta aagaagtcga catatacaga tatatttggt      1380
+     tccctttcat tgtgtaattt ggtatatcaa acaaatacta ataccaatca cattgcaaaa      1440
+     tataaaaggg aaaatataaa gccaaagaca gacacctata cacatcatat ctacacaccc      1500
+     atacactcta gtaaacaaga aatttgttca ttatttttca atcatacata atatactaag      1560
+     taacctcaaa tttaatgtca aaaaagttcg tttacaacct taggaaaact acacgttcag      1620
+     ttgttggagt tccaccaaac ctacttctca gcccacagtc aatttaaact cattagatgt      1680
+     ttgatcttcc tccccgaaat tactgatagt acggagatcg aaaaaattat aaccgactat      1740
+     cactataata gtaaccatcg agggatcgat gaaacatatt tacacataaa acgacaacag      1800
+     ttcttcccac atatgaagga gagaataact cagttaattc gaaaatgtga aacatgttta      1860
+     aaattaaaat acgacagaca acctcaaaag atcacttacc aaatatccga actaccttca      1920
+     aaaccgttgg acatcttaca tatagacatt tatactatta acaaaaatta taaccttact      1980
+     attatcgata aattttctaa atttgcggct gcctacccta taactaatag gaattgtatt      2040
+     aacgtagtta aagccttaaa acatttcatt tcccaatttg gtattcccaa aaagctgatc      2100
+     tatgatcagg gagcagaatt cgctagcgat atgttcaata agttctgcac tcaatttaac      2160
+     attgacctgc acgttacgtc cttcaacaat cctctagtaa ctctcccgtt gaacggcttc      2220
+     actcgacact aactgagatt tacagaataa tacttgacgt caggaaacaa cagaaactca      2280
+     gtagcgaaca tgacgagata atgtccgaaa ccctaatcac atataataac gctattcatt      2340
+     ctgcaactaa acataccccc tttgaactat ttaacggacg tactcatata tcaaccaaac      2400
+     aatccagttc aataacgaac acgactactt aacgaaatta aatgaatttc cgccgagaag      2460
+     ttgtaccccc tcatcacgga caaactttca aatgacgtag ttaggagaac cctaaaatta      2520
+     aatgaaaccc gaacagaccc cgtagaccta caaccagaca ctttagtcct taggaaggaa      2580
+     aacagacgta ataagattac acccaggttt tcgattcaca aagtcaaaca cgacaaaggt      2640
+     catacattga taactgctag gaatcaaaaa ctacacaaat caaaaattcg aaaaacagtt      2700
+     ttgaaaaaag acaaaagcaa caacgtaccc aacactgata ataaatgacc ccactacctc      2760
+     ttaacttacc atttcaggtt cacccttgtg ccaactcagg ctatccatgt ccattattta      2820
+     aatgataacg cccctatagc caagatagaa ctagggaaag ccttactaat tgagaggtac      2880
+     aaaataatta gtcatgtaat caacctacaa gactacagca gatgtatgga acaattccat      2940
+     ctgaccatta ataaatttaa ccccgattcc acgttgacgg actccgtcac aattttaaaa      3000
+     accaaattaa cccaagccca agtaaagctc aaagccctta cgccttcata tagaaacaaa      3060
+     cggggtttga ttaacggatt ggggagtcta gtaaaggcgg ttaccggcaa catggatgcc      3120
+     aacgacaata aagaaataca tgaagaactt gacaatataa agaaaaattc cgaagtcagt      3180
+     aacgacaatc tccaaaaaca agtaatgttt aacaacgaaa tacttatccg gttcgaaaat      3240
+     atcacggacc atataaataa tgaacaaatt ttgataagta aattctttga tacctcacaa      3300
+     aacaaaatat acaaacactt aaacttacaa gatacccttc tggaagaaat acaatattta      3360
+     aataggatta attataacat agaattattc attaaccacc taaacgacat aacagaaagt      3420
+     atgctattgg cgaaaataaa tataattccc aagttcatcc taaatgaaca agaaatggat      3480
+     aaaataaaaa caatactgga aaaacaaaat atcacagtca aaaatgaaca aagtatatac      3540
+     aatttcctac aaatgaatac actaaattac gaacaaaaga ttatttttaa tatcaaagtg      3600
+     ccaattttta aacaaccttt tcataccctc gccagactag ttccattacc aataaataac      3660
+     acatattttg taataacccc aaattaccta gcttataata ttaataataa gaaatttcat      3720
+     atgacccgta aatgccccaa actggataat acattcttgt gcgacgagaa cttctacgtt      3780
+     gatacaccac agaacaacac atgcctggaa caccttttga acggagaaaa cagttcctgc      3840
+     gatgtacggg aaaccggccc catcaccgac gtgttcgagg cagagagagg ttacatcttc      3900
+     gcattcaacg tgaacaaact gaaggtatcc ctaacaaacg gctccgagct ctcaataatg      3960
+     gggtcagcca tcatcagata cattaacgaa acaatacaga ttaacggtat cgattacgac      4020
+     ggcacggttg acacgttccc tgaacagacg gattttgatc ttccccccat gcgaaaagta      4080
+     actaggaata ccactattac ggtactaagc ctagaaaaac tgcacctcga agccacccaa      4140
+     acaatggata aaatcctggc cgtccatcac aatactatac agcacacctg gacactctac      4200
+     gctctgctcg gattggtaac gttcctagca gtcatcttat ggctgcaccg acgaacgaaa      4260
+     cacatcgtcc acatccacga ggatcatcac gtaccaatct acgcgtcatc cataccttcg      4320
+     ctatggccgt cacttcgaac tgggggggga gg                                    4352
+//
+ID   FORK_DM   repbase; RNA; INV; 1435 BP.
+CC   FORK_DM RNA
+XX
+AC   X62679;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D.melanogaster forked gene suppressor repeat.
+XX
+KW   Tandem repeat; repetitive sequence; DMFORK.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-1435
+RC   [1]  (bases 1 to 10133)
+RA   O'Hare K.;
+RT   "Direct Submission";
+RL   Submitted (18-OCT-1991) K. O'Hare, Imperial College of Science,
+RL   Technology and Medicine, Dept of Biochemisty, London SW7 2AZ, UK
+XX
+RN   [2]
+RP   1-1435
+RC   [2]  (bases 1 to 10133)
+RA   Tudor M., Mitchelson A., O'Hare K.
+RT   ;
+RL   Unpublished
+XX
+RN   [3]
+RP   1-1435
+RC   [3]  (bases 1 to 10133)
+RA   Mitchelson A., Simonelig M., Williams C., O'Hare K.;
+RT   "Homology with Saccharomyces cerevisiae RNA14 suggests that
+RT   phenotypic suppression in Drosophila melanogaster by suppressor of
+RT   forked occurs at the level of RNA stability.";
+RL   Genes Dev. 7, 241-249 (1993)
+XX
+DR   GENBANK; X62679; 77.0.
+CC   Positions    8638   10072  Accession No X62679        GenBank (rel. 77.0)
+XX
+SQ   Sequence 1435 BP; 469 A; 236 C; 265 G; 465 T; 0 other;
+     aagggcgctg tcacctcgaa aactttaaaa gctttgaagt taagataatg tatgcatttc        60
+     tttccttttt tctgattttc gaaacgtaac gttttaaacg ttttaatcat tcgttaatca       120
+     aacagcaatt catataacag aacgttatat gaatttttgt taagtgttct aaatattttg       180
+     gtaacacaga caggacgaaa tgaattttct atctattaaa taaattgata tttaaagaaa       240
+     gcaaattaat ttagaaatat attgacaatt tccaactaat ttatctctgt tatggaaaat       300
+     tagtttagga aaaaagttaa aataacaaaa ggaaccgcta tagtagattt tctccactag       360
+     cgccactcaa ctaaggggag aacgagggag aaactttgaa acttgattgt catatccata       420
+     aaattgttta gaataacaag agagaatgct atagtcgagt tgcctgaata tcagataccc       480
+     gttaacccag atatttttct gcgataccaa aagatgttgg ggaataaaat gagaaaaaat       540
+     ttcaacaatt ttcaaaagtg gggcgtgacc ggtttgtcgg cttaagggcg tcacagtggg       600
+     tgtggcaaac agtttttttt ttgcacatcg atcggaattt acaagactaa taaagatgtg       660
+     aaaaaatatc aatatatttt tcaaaagagt gatcgtggca ttttttcgtg ggcttgtggg       720
+     cgttgcaaca tggatcaaca aacttgcgct gcgtctttgt ctctagaatc tgcatgctaa       780
+     atctccgcct tccagctttt atagttcctg agatctcgac gttcatacgg acagacggac       840
+     atggctatat cgactcggct attgatccgt tatacagtcg gaaacgcttc cttctgcgtg       900
+     ttacattcct ttaaacgaat ctacgttact ctacgagtaa cgggtataat aaccaaataa       960
+     aaaagtctaa acatatttaa aaaatttggt tggcgttcga atgagatggt ggaggtattt      1020
+     tggcaaagcg atacaaagta gcaaaaaatc aaaaaatgca atgaaaaata attataacat      1080
+     ttcacaaaag tgtgggtgtg aaccttttgg gcggtttgcc gtcgttaggg tgtgcgaata      1140
+     tttcaaaact tgcccacgta ccactatgtg aaattttacc actttttctg cccaaaatga      1200
+     ataactccag gacgttgaaa gatattcaga ttgggttaca atatatccgt tctgaaaccg      1260
+     ccccttatat ttgttgtagt ttgtaactct agaacggata aagatattta aatttttttg      1320
+     ccattatctt ttatgatacc aaaaattgtg gccgtggcac cgcctcttat atttaattaa      1380
+     ctaattttgt ataggtattt ctctaatttc gtatgctttt tctagtccaa gcaaa           1435
+//
+ID   ARS312_DM repbase; DNA; INV; 265 BP.
+CC   ARS312_DM DNA
+XX
+AC   J01068;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D. melanogaster autonomous replication sequence (ars) 312.
+XX
+KW   Origin of replication; repetitive sequence, ARS312.
+XX
+OS   Drosophila melanogaster
+CC   Drosophila (Drosophila melanogaster) chromosomal dna.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-265
+RC   [1]  (bases 1 to 265)
+RA   Selick H., Kauffman S.
+RT   ;
+RL   Unpublished (1983) Biochem and Biophys Dept, U of Pennsylvania
+XX
+DR   GENBANK; J01068; 77.0.
+CC   Positions       1     265  Accession No J01068        GenBank (rel. 77.0)
+XX
+SQ   Sequence 265 BP; 77 A; 54 C; 29 G; 105 T; 0 other;
+     ccacttcccg tccaaaacta ctacgcccaa gcctataaaa aatgttttga tatattttca        60
+     tatttattaa tattattgtt attattatta tttattagtc ttgtaaattt ctatcgattt       120
+     gccaaaaagc tttttgttac gatcactcta acgcactcta acactcaaaa gtgccgcacc       180
+     cacacttttg ataaattttt taatatattt aaatattttg ttgcgaactg ctttctttcc       240
+     ttagtgacag tgcctctagc tcagg                                             265
+//
+ID   RCA1      repbase; DNA; INV; 84 BP.
+CC   RCA1 DNA
+XX
+AC   X61258;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   C.elegans repetitive DNA.
+XX
+KW   Repetitive DNA.
+XX
+OS   Caenorhabditis elegans (nematode)
+CC   nematode
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-84
+RC   [1]  (bases 1 to 540)
+RA   La Volpe A.;
+RT   "Direct Submission";
+RL   Submitted (16-AUG-1991) A. La Volpe, CNR International Institute of
+RL   Genetics and Biophysic, Via Marconi 10, 80125 Naples, ITALY
+XX
+RN   [2]
+RP   1-84
+RC   [2]  (bases 1 to 540)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   La Volpe A.;
+RT   "Molecular evolotion of clusters of satellite-like DNA sequence in
+RT   Caenorhabditis elegans";
+RL   Unpublished
+XX
+RN   [3]
+RP   1-84
+RC   [3]  (bases 1 to 540)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   Volpe A.;
+RT   "Molecular and genomic organization of clusters of repetitive DNA
+RT   sequences in Caenorhabditis elegans.";
+RL   J. Mol. Biol. 226, 159-168 (1992)
+XX
+DR   GENBANK; X61258; 77.0.
+CC   Positions     398     481  Accession No X61258        GenBank (rel. 77.0)
+XX
+SQ   Sequence 84 BP; 36 A; 13 C; 12 G; 23 T; 0 other;
+     gacgtcacag actacaaaga ctacatagac tacaaactat ggacagacga actgtatttt        60
+     tttatataaa atataagtaa tgat                                               84
+//
+ID   RCC9      repbase; DNA; INV; 366 BP.
+CC   RCC9 DNA
+XX
+AC   X61257;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   C.elegans RcC9 repetitive DNA.
+XX
+KW   Repetitive DNA.
+XX
+OS   Caenorhabditis elegans (nematode)
+CC   Nematode
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-366
+RC   [1]  (bases 1 to 689)
+RA   La Volpe A.;
+RT   "Direct Submission";
+RL   Submitted (16-AUG-1991) A. La Volpe, CNR International Institute of
+RL   Genetics and Biophysic, Via Marconi 10, 80125 Naples, ITALY
+XX
+RN   [2]
+RP   1-366
+RC   [2]  (bases 1 to 689)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   La Volpe A.;
+RT   "Molecular evolotion of clusters of satellite-like DNA sequence in
+RT   Caenorhabditis elegans";
+RL   Unpublished
+XX
+RN   [3]
+RP   1-366
+RC   [3]  (bases 1 to 689)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   Volpe A.;
+RT   "Molecular and genomic organization of clusters of repetitive DNA
+RT   sequences in Caenorhabditis elegans.";
+RL   J. Mol. Biol. 226, 159-168 (1992)
+XX
+DR   GENBANK; X61257; 77.0.
+CC   Positions       1     366  Accession No X61257        GenBank (rel. 77.0)
+XX
+SQ   Sequence 366 BP; 100 A; 72 C; 64 G; 130 T; 0 other;
+     gtaaatctct gtgattcaag ttttccgcat tcagtgtcca atggagcgcg ggtcgagcca        60
+     gaacctcgtg tagaactttg cagaagtttc ttgaattttc cacgaaattg aacatttcag       120
+     aattttatcg aattttttag agagttctgg aacattgcag acttttcccg atttttctag       180
+     aaagttctgg aatattccag aattttcccg aattttctag aaaattctgg accattccag       240
+     aactttctcg gattttctag aaaattctgg accattccgg aattttctcg aattttctag       300
+     aaacttctgg accattccag aactttctag aattttctag aaaattctgg accattccgg       360
+     aatttt                                                                  366
+//
+ID   RCD1      repbase; DNA; INV; 359 BP.
+CC   RCD1 DNA
+XX
+AC   X61258;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   C.elegans RcD1 repetitive DNA.
+XX
+KW   Repetitive DNA.
+XX
+OS   Caenorhabditis elegans (nematode)
+CC   Nematode
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-359
+RC   [1]  (bases 1 to 540)
+RA   La Volpe A.;
+RT   "Direct Submission";
+RL   Submitted (16-AUG-1991) A. La Volpe, CNR International Institute of
+RL   Genetics and Biophysic, Via Marconi 10, 80125 Naples, ITALY
+XX
+RN   [2]
+RP   1-359
+RC   [2]  (bases 1 to 540)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   Volpe A.;
+RT   "Molecular evolotion of clusters of satellite-like DNA sequence in
+RT   Caenorhabditis elegans";
+RL   Unpublished
+XX
+RN   [3]
+RP   1-359
+RC   [3]  (bases 1 to 540)
+RA   Naclerio G., Cangiano G., Coulson A., Levitt A., Ruvolo V.,
+RA   Volpe A.;
+RT   "Molecular and genomic organization of clusters of repetitive DNA
+RT   sequences in Caenorhabditis elegans.";
+RL   J. Mol. Biol. 226, 159-168 (1992)
+XX
+DR   GENBANK; X61258; 77.0.
+CC   Positions       1     359  Accession No X61258        GenBank (rel. 77.0)
+XX
+SQ   Sequence 359 BP; 90 A; 120 C; 89 G; 60 T; 0 other;
+     gggtctcacc acgaagggtc tcaccacgaa gggtctcacc acgattggtc tcaccacgac        60
+     gggtctcacc acgaaaggtc tcaccacgat tggtctcacc acgaagggtc tcaccacgaa       120
+     gggtctcacc acgatgggtc tcaccacgaa gggtctcacc acgaagggta tcaccacgat       180
+     gggtctcacc acgaagggtc tcaccacgat tggtctcacc acgaagggtc tcaccacgaa       240
+     aggtctcacc acgattggtc tcaccacgaa gggtctcacc acgaagggtc tcaccacgat       300
+     gggtctcacc acgaagggtc tcaccacgaa gggtctcacc acgatgggtc tcaccacaa        359
+//
+ID   DMLTR4    repbase; DNA; INV; 478 BP.
+CC   DMLTR4 DNA
+XX
+AC   J01110;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   D.melanogaster mobile dispersed genetic element mdg1, 5' LTR.
+XX
+KW   Repetitive element; terminal repeat; transposon; DMLTR4.
+XX
+OS   Drosophila melanogaster
+CC   D.melanogaster DNA, clone Dm58.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-478
+RC   [1]  (bases 1 to 508)
+RA   Kulguskin V.V., Ilyin Y.V., Georgiev G.P.;
+RT   "Mobile dispersed genetic element MDG1 of Drosophila melanogaster:
+RT   nucleotide sequence of long terminal elements";
+RL   Nucleic Acids Res. 9, 3451-3464 (1981)
+XX
+DR   GENBANK; J01110; 77.0.
+CC   Positions      31     508  Accession No J01110        GenBank (rel. 77.0)
+XX
+SQ   Sequence 478 BP; 142 A; 71 C; 80 G; 185 T; 0 other;
+     tgtagttaat ttgaattcta atacttctga tgtagttaat aaagtctcaa aacgcagttg        60
+     gtcattttat ctttatttgg tttttattaa gcgagtgtac attcctgatc tattcctgat       120
+     ttataactga tcttagtgtg gtctacaggg agatctcttg tgacagccaa gtgctgacac       180
+     tagcaaattc tgcaatatgt atgtatgaag ttcatactcg ataaccaatg ggagtcgagt       240
+     ccgaccccta aaggcgtaca tcctgaattc gcatatttag tattagggtg tatctaaaga       300
+     tctactaggg tgaccctaag gaattagggt ggtcctaagt ttacttatta gttgacttat       360
+     tattatgatt catattataa ttattattaa tattattatt attattgtta ttattattgt       420
+     tattatattc gtatatacta catctccctc cttttgaaaa ataacgtaat aacatgaa         478
+//
+ID   RCS5      repbase; DNA; INV; 738 BP.
+CC   RCS5 DNA
+XX
+AC   X68553;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   C.elegans RcS5 repetitive DNA sequence.
+XX
+KW   RcS5 element; repetitive element.
+XX
+OS   Caenorhabditis elegans (nematode)
+CC   nematode
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-738
+RC   [1]  (bases 1 to 2125)
+RA   La Volpe A.;
+RT   "Direct Submission";
+RL   Submitted (02-OCT-1992) A. La Volpe, Intern Inst of Genetics &
+RL   Biophysics, Via Marconi 10, 80125 Napoli, ITALY
+XX
+RN   [2]
+RP   1-738
+RC   [2]  (bases 1 to 2125)
+RA   Cangiano G., La Volpe A.;
+RT   "Repetitive DNA sequences located in the terminal portion of the
+RT   Caenorhabditis elegans chromosomes";
+RL   Nucleic Acids Res. 21, 1133-1139 (1993)
+XX
+DR   GENBANK; X68553; 77.0.
+CC   Positions    1332    2069  Accession No X68553        GenBank (rel. 77.0)
+XX
+SQ   Sequence 738 BP; 260 A; 112 C; 122 G; 244 T; 0 other;
+     gaggcggttg taaactattc gttttttagc aaaaattaaa aaaaaaactt tatttaaatt        60
+     taaaaataaa tatcatatgt tatcatacct tagaatatca cgccttaatt tagtaatcat       120
+     tttagttcat aagtgtgaga gaaagaaaaa tggattaatc atcggaatta aatatcatca       180
+     gaatgattat attcatcaaa ggtcccactt tacttgaggg ttaatttgat cgatataaaa       240
+     tgtttatctc atgtgaagaa aggttcgaat tctgtaccta tgaatgctgc cgatatttga       300
+     attcctatct catggaaaga aggcctttct tgtgggaaga acggtgttat aaaaaaatat       360
+     acgcaggtac agaatttgaa cttttcttcc catgagagag gaatttgaat attggcattc       420
+     tataacttca ctaagaaaaa aaatctccaa aggttgatcg cgaatatgta gagattcgtc       480
+     gcatcccttc aaatattacg aaatttccaa gtttcttagt gataatcttt attcagatta       540
+     ctgaaaaata tacacagatt acttttgagt tgcctgcgaa gttattgtaa aagccaaggc       600
+     gagctgttgg tacagaattt gaagttttct tcccatgagt taggaatttg aataatggca       660
+     ttctataact ttactaagaa aaaatatccc caaaggttgc tcgcttccct ccaaatatta       720
+     cgaaatctcc aagtctta                                                     738
+//
+ID   CERP1A    repbase; DNA; INV; 1341 BP.
+CC   CERP1A DNA
+XX
+AC   ;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   09-JUN-1999 (Rel. 3.3, Last updated, Version 3)
+XX
+DE   Nematode CeRep1.1 repeat DNA - a consensus.
+XX
+KW   CeRep1 repetitive sequence; CERP1A.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-1341
+RC   [1]
+RA   Felsenstein K.M., Emmons S.W.;
+RT   "Structure and evolution of a family of interspersed repetitive DNA
+RT   sequences in Caenorhabditis elegans";
+RL   J. Mol. Evol. 25, 230-240 (1987)
+XX
+RN   [2]
+RP   1-1341
+RC   [2]  (bases 1 to 1341)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (June 1999)
+XX
+CC   This element has a 384 bp perfect palindromic structure.
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 1341 BP; 401 A; 264 C; 246 G; 430 T; 0 other;
+     cgagggggta cgttttcgta aggggatttt ttcgtaagga acgctttcag tagggcaatg        60
+     tgcggcgcgc cttttcgcaa gcccgccgca cagtccttcg caatgcgccg cacggctttt       120
+     tgcaatgcgc cgcacgcttc ttcgtattta tttatttatt tttccaacag gaaatttcga       180
+     acggaattca attaaaaacg gatttttaat ggaaattaat tagttttatt cgagctaaat       240
+     acggatattt tcagaatttt cgatgacaaa aacgggtttc aatcgatttc gaatcgatca       300
+     aaattaatat taatcgaaaa tgagcgtttc cttcccggaa aaagaagaac ttgatgctga       360
+     gagtgatcca agcggagcca aacgcttttt tagaggcaag tattgatgtc taaagattaa       420
+     ttgaagagtg aaaagtattt ttcagagttc acaaacaacc cgagtgagca gcaattttcc       480
+     aagctgaagg caagtttctt tttgtagttt tttaagttct caaataggta tataacatcg       540
+     atttgttttg ttttccagag aatgtatcat cacaacgact atcaaaacct gcgaggagtg       600
+     attcaaaaga ccattcaact atcaaaatca ttgatcctag acttgaagag acgatccgga       660
+     aatcgaacaa ccgctgtgcc attatacaaa aaccccgatt tctgtacttc agtgtttttg       720
+     aattataccg gtttcagtgc ttttaatgag aaacttttcc cttttatgga aattccgaaa       780
+     tgctatcact gatctctttg tttacctctg tgccattaga ttatagaaac aattttccat       840
+     actcaggtta tccaaatttc gccatgattt ttcttactta atttaatcga attaactttt       900
+     gtttgcagtt ttattttcca tttcgactga ataaaaaatc acttctatca ttttaatcgt       960
+     ttggctccgc ctggatcact ctcagcatca agttcttctt tttccgggaa ggaaacgctc      1020
+     attttcgatt aatattaatt ttgatcgatt cgaaatcgat tgaaacccgt ttttgtcatc      1080
+     gaaaattctg aaaatatccg tatttagctc gaataaaact aattaatttc cattaaaaat      1140
+     ccgtttttaa ttgaattccg ttcgaaattt cctgttggaa aaataaataa ataaatacga      1200
+     agaagcgtgc ggcgcattgc aaaaagccgt gcggcgcatt gcgaaggact gtgcggcggg      1260
+     cttgcgaaaa ggcgcgccgc acattgccct actgaaagcg ttccttacga aaaaatcccc      1320
+     ttacgaaaac gtaccccctc g                                                1341
+//
+ID   R2_TM     repbase; DNA; INV; 1410 BP.
+CC   R2_TM DNA
+XX
+AC   AF015817;
+XX
+DT   27-JUL-1999 (Rel. 3.5, Created)
+DT   27-JUL-1999 (Rel. 3.5, Last updated, Version 1)
+XX
+DE   Tenebrio molitor retrotransposon R2 reverse transcriptase gene,
+DE   partial cds.
+XX
+KW   R2_TM.
+XX
+OS   Tenebrio molitor
+CC   yellow mealworm.
+OC   Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+OC   Cucujiformia; Tenebrionidae; Tenebrio.
+XX
+RN   [1]
+RP   1-1410
+RC   [1]  (bases 1 to 1410)
+RA   Burke W.D., Malik H.S., Eickbush T.H.;
+RT   "R1 and R2 Provide an Estimate of the Age and Stability of
+RT   Retrotransposons";
+RL   Unpublished
+XX
+RN   [2]
+RP   1-1410
+RC   [2]  (bases 1 to 1410)
+RA   Burke W.D., Eickbush T.H.;
+RT   "Direct Submission";
+RL   Submitted (24-JUL-1997) Biology, Univ. of Rochester, 135 Superior
+RL   Road, Rochester, NY 14625, USA
+XX
+DR   GENBANK; AF015817; 110.0.
+CC   Positions       1    1410  Accession No AF015817     GenBank (rel. 110.0)
+XX
+SQ   Sequence 1410 BP; 441 A; 334 C; 357 G; 278 T; 0 other;
+     gcctacgcgg acgatatcat cctgcttgca gataacgtcg agactgcgca aagacttctc        60
+     aacgcctcca caagattctt tgaagaccgg gggctcgaca tcaaccccgc gaagtgcgag       120
+     tctctagtga tgcgtactct cccgtcaaag aagaaggtct tcactgtgac aactccgcaa       180
+     ttctacgtta aggctgaacc gatcaagcca atagaagttg gaaaggcttt taaatatctg       240
+     gggcagcagt tcacatgcac gggttcaacc aactgctcaa ccaaagatct aagcgaacag       300
+     ctacttagaa taaagaaggc cccactgaag ccccaacaaa aaataaacat catcaaaacg       360
+     tatctgatgc cggcctacat ccactcaatg cagaacccag ccgtcaacaa aaagatatta       420
+     cgagaagtgg ataggaaaat cagaatggtc gttaagggga tactacatct tccactccat       480
+     ttgtccaaca ccgcaatata tgccccggcg aaaatgggag gtctaggaat gttttccttt       540
+     tcaagaaaga tccccatcat tgtactaaaa cggttaaaca acttaagccg tacttgctcg       600
+     aacttccacc ttgtgttgcg agaggccgcc ccatgggtca atagattaaa gaaaatggta       660
+     aggccagacg taacgacaaa agagcaagtg gacagagcaa atggggtgga acatgagggt       720
+     tcgtactacg gcggcggtac gatgcaatgt cggaacgact ctgcttcaaa tacttggatc       780
+     aacacccccc caaggtattg gaccggatcg gattacgtga aagcggttca gctaagactg       840
+     aattgcctgg ccaccagagg ccttccctat aacccgccgg aacaaagaag atgcagagcg       900
+     ggatgcgaca gggttgaaag cctgtcgcac gtcttacaga aatgccctct aggacacaca       960
+     atgaggatga gaaggcacaa ttacatcgtt aaaaggctta agaccatggc tctgaagaag      1020
+     ggatggacgg tggaggagga gccgatatgc gatgcgcgcg gtgtactgag gaagccagac      1080
+     cttatcctca gcaatgaaga gacggcccta gtagtggacg ccatggtgtc ctgggagtgc      1140
+     cccagagacc ttgcagagac attcgattgc aagaggctgg tatatgacca gcctgagttt      1200
+     accagcgtac tcgaatctaa ataccatcca aggaatatca gagtactacc cttcatcatc      1260
+     ggcgcaagag gtatgtggtg cagacagagc accgaaacac tagaagcgat gaaggtgaac      1320
+     aatgtgagca atcgaaggga actggtccat acaacactga gaggaagctg gagtatacat      1380
+     cgagaattta cgaggagaag ctgggaatag                                       1410
+//
+ID   R2_TM     repbase; DNA; INV; 1467 BP.
+CC   R2_TM DNA
+XX
+AC   AF015822;
+XX
+DT   27-JUL-1999 (Rel. 3.5, Created)
+DT   27-JUL-1999 (Rel. 3.5, Last updated, Version 1)
+XX
+DE   Tenebrio molitor retrotransposon R2 reverse transcriptase gene,
+DE   partial cds.
+XX
+KW   R2_TM.
+XX
+OS   Tenebrio molitor
+CC   yellow mealworm.
+OC   Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+OC   Cucujiformia; Tenebrionidae; Tenebrio.
+XX
+RN   [1]
+RP   1-1467
+RC   [1]  (bases 1 to 1467)
+RA   Burke W.D., Malik H.S., Eickbush T.H.;
+RT   "R1 and R2 Provide an Estimate of the Age and Stability of
+RT   Retrotransposons";
+RL   Unpublished
+XX
+RN   [2]
+RP   1-1467
+RC   [2]  (bases 1 to 1467)
+RA   Burke W.D., Eickbush T.H.;
+RT   "Direct Submission";
+RL   Submitted (24-JUL-1997) Biology, Univ. of Rochester, 135 Superior
+RL   Road, Rochester, NY 14625, USA
+XX
+DR   GENBANK; AF015822; 110.0.
+CC   Positions       1    1467  Accession No AF015822     GenBank (rel. 110.0)
+XX
+SQ   Sequence 1467 BP; 377 A; 337 C; 373 G; 380 T; 0 other;
+     gccttcgccg acgatttggt gctccttgct gacagtgcca aggacgccaa taggctgtta        60
+     tcggaggcct cgcagttctt tgcggatcgg ggactcgaat tgaacgttgc caagtgctgt       120
+     gccttgtcaa caggtgtagt tccgtccaaa aagaagtgtt cagctcgact tagatcttat       180
+     tccaggctga acggtgccca catccgtcaa gtggcgattg gcgatgtctt caagtatctg       240
+     ggcaatcact tcgctttcga tggcgttagt gacataagct tggaggaact aaactctcaa       300
+     attaataatt tgatgaaagc cccgttaaac tctcaaatta ataatttgat gaaagccccg       360
+     ttaaagcctt ggcagaagtt caaaattctg aggcaaacat ctgataccat cgggtggata       420
+     cactgccttc agagcccttc tgtttcgaat aaagtcctaa gggaggctga caggaaaatt       480
+     aagagagcgg ttaaatcgat tcttcactta ccggttacta ttgccgactc gtcgatctat       540
+     gcaagccagc gcgatggtgg tctcggggtc ttctgcttct caaggaagat tcctgtcatt       600
+     cttcgctcgc ggtgggagtc gctacaggag atggctgatc ccgcgcttgg cgctgttctc       660
+     ctgcaatcgg agagatgcat ggatagagtc tcgagactaa ttaaagagga ctggagatct       720
+     gacagcgaaa tcaagaacag ttttaggcgg agccttgaga attcttggtg cgggggtgga       780
+     atccatcaag tagggataat caagcttgca agtaaatatc tgctgcaccc ccctgccttt       840
+     tggacaggaa gggactatgt gtccacaatt cagctgaggc tgaacgcgct tccttccaga       900
+     ggtttaccat ccaacccccc cgaccagcgt atgtgtagga ctggatgtgg cagatctgag       960
+     tccctatcac acatcttaca gagatgtgga ttcgttcagg gccatcgaat atcacgccac      1020
+     aaccatgtcg caaggaaaat taggaggttg gccgagtcta aggggtggga agttagggag      1080
+     gagcctacta tccgcaccaa tgaacaggtt ttcaaaccgg atctacttct gattcgcgat      1140
+     aatgaattaa tagtgtgcga tgtctccatt aactgggaag gtccgtccca ctttccacac      1200
+     actatcagga taaatttaat aagtatgcca ctccaggtgt tatccaatgg ctgcaacaac      1260
+     gattttcccc gacaaactgt cagattcctt ccctttatat tgggtgctag gggatcttgg      1320
+     tgtggcgaca acaggagttt agttgacgcg cttgaactca cacagcgcaa tatagaagat      1380
+     ctaatactta catgtctcac tgggagcctt atcatctata agagcttcat gaagtcggtc      1440
+     tggaggagga ctgtcgcggg tgactaa                                          1467
+//
+ID   CELE32A   repbase; DNA; INV; 364 BP.
+CC   CELE32A DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans CELE32A repetitive element (a consensus).
+XX
+KW   MITE; CELE32A.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-364
+RC   [1]
+RA   Belknap W.R.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+RN   [2]
+RP   1-364
+RC   [2]  (bases 1 to 364)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 364 BP; 108 A; 67 C; 65 G; 114 T; 10 other;
+     actgtagttt tcgctacgag atattttcgc gtcaaatatg ttgcttaata cgcattctca        60
+     gaattttktt tttttttgaa cacggcccgg caagtggtac atccatgcaa atgcgctcta       120
+     ctgataattt gagtktagac caggtttggg cgcgtkataa cgaaaaaagc tttggtccaa       180
+     aaaatttaga atttattttc ggacattttt tatatgcatc acaaaaaaan tggaccaacc       240
+     gtttttgaga aaaacgcgcc caaacgtcca ggtatacggt agacaaattg cgtacaggta       300
+     ccacttctcg ggccgtgtga aatttaaaat cataatthtt ttccnnkama anaatcgatt       360
+     tttc                                                                    364
+//
+ID   TIR23T5B_CE repbase; DNA; INV; 1658 BP.
+CC   TIR23T5B_CE DNA
+XX
+AC   ;
+XX
+DT   14-SEP-1999 (Rel. 3.8, Created)
+DT   14-SEP-1999 (Rel. 3.8, Last updated, Version 1)
+XX
+DE   TIR23T5B_CE is a putative non-autonomous DNA transposon - a consensus.
+XX
+KW   non-autonomous DNA transposon; TIR23T5B_CE.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-1658
+RC   [1]  (bases 1 to 1658)
+RA   Kapitonov, V.V., Jurka J.
+RT   ;
+RL   Direct submission (September, 1999)
+XX
+CC   TIR23T5B_CE is flanked by 23 bp-long terminal inverted repeat.
+CC   There are about ~25 copies of TIR21T5B_CE in the genome; they are
+CC   ~98% identical to the consensus sequence.
+CC   TIR23T5B_CE generates 5 bp long duplication of target-sites upon
+CC   its integration in the genome.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 1658 BP; 569 A; 266 C; 276 G; 546 T; 1 other;
+     cacagcgcct caaatcggga gagttaagaa aatcgagaat tggaaagtcc aacggagcgc        60
+     gcttgcacac ttttacggta ttaaatgagt ttcagacgaa atttcgcgat tattcgagtt       120
+     ttcaagatga aatttggaaa aaataattaa atattgggat tattattgct ttaaaaaagt       180
+     tttaaaaaac attttattga acaaattcaa gatttggctg ctttttcatt gattttcgaa       240
+     ccgactagaa caagttaact ctatgacaaa atttctacgc gaaacaaatt ttttcaagca       300
+     ttaatatgtt tgattccaat ttttaaacgt cagcttgata gaaataacac ggtttcacgt       360
+     cttgaaattg ttcaaaaatg cccacatcaa cggaaactgt ttagttggca gctgatcttc       420
+     actaaaccaa cactaaatgt tcagatcaaa tcacaacttg tttgatcatt tgaaaaaaca       480
+     tttttgaatc attgtttccc acaaaaagca gatgataagt agtatagcat gatgagaatc       540
+     catatgattc ttcatatgcg catagctata gatactgtat cttcgacaac tcctatctcc       600
+     tcagagakgc aagatatcaa aaagtgatta actaagaaat tgtagaacat atcaaaaact       660
+     atactaatta attaaaatca tgtgtttatc tcttaagatg agggagttag agcagccagt       720
+     agaataacaa aaagtatgca atacaaatgt acgtctaact cccccatctt gaaagataaa       780
+     aacgtaggtt aaattgaata tcatagtttt tgatgtgctc tacaagttct cagttgatca       840
+     ctttttggta tctcacctct ccgagtagat aggagttgtc gaagttgagg tatctagagc       900
+     cgtagagggt aggaagaacc tgatggttcc ttattaagga aaagaaaata taacacgaaa       960
+     cttgtaaaaa atgttaattt gatcatttat gtgagtattt gagccatttt ttaaggaaaa      1020
+     ttggagagca acacttacat aagaaatttg gcgtggcata gatccattgg tagattggaa      1080
+     cattgaaatt tgatcagaac tatttgtatt tttagtgatt ttgattgatt tgtagcttta      1140
+     ttctagtgaa atctttgatt tcataaaagt tttttaacca attttgcaag atttcccttg      1200
+     ataaatgttg ctttactttt ttatcgattt cgttgtaaag aaaaatcatt tttctgtgtt      1260
+     atcagtcaaa ttaatgacta aaactcttta aaaagattca aactattagt aaaaattcta      1320
+     aaattgaata tttatgcaat aaattgctct aaaatcaatt tttatttgca aaattctgtt      1380
+     tttggtcaaa aaaaattttc agattcgccg aaattcagag ctcatttcga gcttatttgg      1440
+     ggaaaaattt atattaaaat gaagtaaatc gcatcgcgaa cagtctctgg gcggtcccgc      1500
+     atgttgaaaa ttgctttaaa atccctaaaa tccagcaaaa acgcgatatt ttactgtttt      1560
+     gctacacatt aattccaatt cgtgcgacgt ctgcagcaaa cgcgctcccg cgccaaaacc      1620
+     acttctttag ctcttctctc ccgatctgag gcgctgtg                              1658
+//
+ID   CELE45    repbase; DNA; INV; 399 BP.
+CC   CELE45 DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans Cele45 repeat - a consensus.
+XX
+KW   MITE; CELE45.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-399
+RC   [1]  (bases 1 to 399)
+RA   Belknap W.R., Surzycki S.A.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+RN   [2]
+RP   1-399
+RC   [2]
+RA   Jurka J.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 399; A 106; C 99; G 84; T 109;
+     actacttatt ttattgaatt tattaaatgt ttttcattta aaaaaaatta aagattaaag        60
+     gacgatccgt tcttcaagtg ctatgcactg cggatctggg gttcaggtac actgcctggt       120
+     ggtgatcacc tctgggctgt aatttaagcc acgtcctagc cggggactgt ggccgataat       180
+     ccagtcgtgg attgctccac ttcccaatag aggctgggtg aacctagggg ggtgagacca       240
+     gacttgaact cgtgacctcc agactgctag cagccaccac taccgactga gctatctgcc       300
+     cccccccccc cccttgaaaa aagagacatt attcgtcatt ttttgtcagc ttatcaatca       360
+     ctacgagtga ataaacaccg aaattgattt acagccca                               398
+//
+ID   CERP6     repbase; DNA; INV; 1940 BP.
+CC   CERP6 DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans transposable element - a consensus.
+XX
+KW   Repetitive element; CERP6.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Nematoda; Secernentea; Rhabditia; Rhabditida;
+OC   Rhabditina; Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+XX
+RN   [1]
+RP   1-1940
+RC   [1]  (bases 1 to 1940)
+RA   Jurka J., Surzycki S., Belknap W.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   A palindromic sequence, distantly similar to TC5 DNA transposon
+CC   at positions 228-310 and 1643-1725.
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 1940 BP; 665 A; 319 C; 328 G; 628 T; 0 other;
+     ttaaaagcaa agggtgtgcg cctttaaagt gtactgtagt ctgaaagtat tgtttctgtg        60
+     gcaaaatgtt ttaatcgaaa atctattaaa aatcgataaa tattccgcgg gacatggtac       120
+     cgtattttta aaagaaaaat tgtaaagggt aatagttacc gtaataccct aacaagggaa       180
+     gtctttgagg gggtccgtag atttggggtt ctcatgctaa aattcctaca gaagagtgtt       240
+     agttatgatc tctccaaaaa atttagctgc ccaggtcaag tttcagcaaa gttatgacgt       300
+     tttgaaattt cagttaaaaa caccattgaa atccactgtc ttaccatgca atccacgcaa       360
+     atctcagctt gcgtgaccac cgaaaatgtg acacccacca cattgagttg aaaaatgtcc       420
+     tcggtggccg agttgggagt gcgcgcgtct gataagattt aagctttggt tcgattcctt       480
+     ctatttttga aatatttttg taagttgaat aaagttgtaa aacaactcat tcaaacattt       540
+     ttgcgcattt ttaaagtgat tttattctta ttcgggaacc tagaatcatt gtccgcactt       600
+     tttggaaatt tttatttttt tcatttttgc tcaaaatttc ttgatcaact ccaagcaaaa       660
+     aattcaaaaa atttcatttt tctaaacaat tatgaaattg ctatgttgtt gttcagaaat       720
+     gtatgaaacg tacattacac aagttttaac tctctattcg caagtaaacc gtcgaaatga       780
+     tctacatctc acgaactttg tgcaaaatat ttaaccaact ttgaagttgc ataacttcgt       840
+     tgagataaat tattttgaaa aatgatcaac taacaaaatg tttgttgaat aatagtgaac       900
+     aaagttttaa ttataaactt tttgatacct tcagccacca aaaagttgtg accgttttcc       960
+     aaaacacaat gttaatagaa aaactagcca aatgccaacc ttgttttctt ctttgtagct      1020
+     ggaggtatca aaaagtttat aactaaaact ttgttcacta ttattcaaca aacattttgt      1080
+     tagttgatca tttttcaaaa taatttatct caacgaagtt atgcaacttc aaagttggtt      1140
+     aaatattttg cacaaagttc gtgagatgta gatcatttcg acggtttact tgcgaataga      1200
+     gagttaaaac ttgtgtaatg tacgtttcat acatttctga acaacaacat agcaatttca      1260
+     taattgttta gaaaaatgaa attttttgaa ttttttgctt ggagttgatc aagaaatttt      1320
+     gagcaaaaat gaaaaaaata aaaatttcca aaaagtgcgg acaatgattc taggttcccg      1380
+     aataagaata aaatcacttt aaaaatgcgc aaaaatgttt gaatgagttg ttttacaact      1440
+     ttattcaact tacaaaaata tttcaaaaat agaaggaatc gaaccaaagc ttaaatctta      1500
+     tcagacgcgc gcactcccaa ctcggccacc gaggacattt ttcaactcaa tgtggtgggt      1560
+     gtcacatttt cggtggtcac gcaagctgag atttgcgtgg attgcatggt aagacagtgg      1620
+     atttcaatgg tgtttttaac tgaaatttca aaacgtcata actttgctga aacttgacct      1680
+     gggcagctaa attttttgga gagatcataa ctaacactct tctgtaggaa ttttagcatg      1740
+     agaaccccaa atctacggac ccccctcaaa gacttccctt gtaaattcaa ttacctagtt      1800
+     tttagaaaaa taaaaataga aaagcaattt aatttttttc aggaaataat tgccggaatg      1860
+     cttgatctac caccgaaaaa gtggagaaaa cgagaaaccg atgaaatgtc gaagcagaag      1920
+     tctcgtgctg aaaatttcaa                                                  1940
+//
+ID   CELE42    repbase; DNA; INV; 220 BP.
+CC   CELE42 DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans CELE42 repetitive element (a consensus)
+XX
+KW   MITE; CELE42.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-220
+RC   [1]
+RA   Belknap W.R.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+RN   [2]
+RP   1-220
+RC   [2]  (bases 1 to 220)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (August, 1999);
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 220 BP; 78 A; 51 C; 35 G; 54 T; 2 other;
+     tcgtggtact ccacacggac aaatacattt agttttacaa ctaaaaacga gccgcgacgc        60
+     gacacgcaac gcgccgtaaa tctaccccag atatggccga sccaaaatgg cctagttcgg       120
+     caaactcttc catttcaatt tatgagggaa gccagaaatc cgtgaaatat ttagcaaaaa       180
+     attcaaattt tttcagatat ttacatttaa atayccaaaa                             220
+//
+ID   CELE1     repbase; DNA; INV; 307 BP.
+CC   CELE1 DNA
+XX
+AC   ;
+XX
+DT   23-AUG-1999 (Rel. 3.6, Created)
+DT   23-AUG-1999 (Rel. 3.6, Last updated, Version 1)
+XX
+DE   C. elegans Cele1 repeat - a consensus.
+XX
+KW   MITE; CELE1.
+XX
+OS   Caenorhabditis elegans (consensus)
+CC   consensus
+OC   Eukaryota; Animalia; Eumetazoa; Nematoda; Secernentea; Rhabditia;
+OC   Rhabditida; Rhabditina; Rhabditoidea; Rhabditidae.
+XX
+RN   [1]
+RP   1-307
+RC   [1]
+RA   Oosumi T., Garlick B., Belknap W.R.;
+RT   "Identification and characterization of putative transposable DNA 
+RT   elements in solanaceous plants and Caenorhabditis elegans.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92 (19), 8886-8890 (1995)
+XX
+RN   [2]
+RP   1-307
+RC   [2]  (bases 1 to 307)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (August, 1999)
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 307 BP; 122 A; 43 C; 43 G; 95 T; 4 other;
+     aatgtagttt cgaaattgaa aaaaatcatt aaaaatgaat aaaaattyta taaartttct        60
+     aacaattaaa tttgttatta cgggaacaca aaattctgag aatgcgtatt gcacaacata       120
+     tttgacgcgc aaaatatctc gtagcgaaaa ctacagtaat tctttaaatg actactgtag       180
+     cgcttgtgtc gatttacggg ctcgattttt gaaatgaatt waaattattt atcrataaaa       240
+     taatatgaaa ttcaatttca aaaatcgagc ccgtaaatcg acacaagcgc tacagtagtc       300
+     atttaaa                                                                 307
+//

@@ -1,0 +1,114 @@
+CC ****************************************************************
+CC                                                                *
+CC   REPBASE UPDATE                                               *
+CC   (C) 1997-2001  Genetic Information Research Institute        *
+CC   All rights reserved                                          *
+CC                                                                *
+CC   A REFERENCE COLLECTION OF                                    *
+CC*****************************************************************
+XX
+ID   LKRP1     repbase; DNA; INV; 215 BP.
+CC   LKRP1 DNA
+XX
+AC   L42500;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Leishmania killicki DNA repeat.
+XX
+KW   Repetitive element.
+XX
+OS   Leishmania killicki
+CC   Leishmania killicki (strain 1,MHOM/TN/80/LEM163) DNA.
+OC   Eukaryota; Protozoa; Euglenozoa; Kinetoplastidea; Trypanosomatida;
+OC   Trypanosomatina; Trypanosomatidae.
+XX
+RN   [1]
+RP   1-215
+RC   [1]  (bases 1 to 215)
+RA   Piarroux R., Fontes M., Perasso R., Gambarelli F., Joblet C.,
+RA   Dumon H., Quilici M.;
+RT   "Phylogenetic relationships between Old World Leishmania strains
+RT   revealed by analysis of a repetitive DNA sequence";
+RL   Mol. Biochem. Parasitol. (1995) In press
+XX
+DR   GENBANK; L42500; 89.0.
+CC   Positions       1     215  Accession No L42500        GenBank (rel. 89.0)
+XX
+SQ   Sequence 215 BP; 52 A; 68 C; 64 G; 31 T; 0 other;
+     gcaagaatca agaggcagtg tcacagagat gcgcgaaggg ggacggtggg agcgggagag        60
+     agaccgcggg cacgtggcga cgtccgtgga accaaaaaaa agcagaagac gagtattccc       120
+     ttttgctgat gtgtgaccac ctctctgcca cagatcacga gctcagctcc cctccaccct       180
+     aacgcctccc ccgcgcggcc ctgtcacagg ctccc                                  215
+//
+ID   LDRP3     repbase; DNA; INV; 217 BP.
+CC   LDRP3 DNA
+XX
+AC   L42475;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Leishmania donovani DNA repeat.
+XX
+KW   Repetitive element.
+XX
+OS   Leishmania donovani
+CC   Leishmania donovani (strain 1,MHOM/IN/00/DEVI) DNA.
+OC   Eukaryota; Protozoa; Euglenozoa; Kinetoplastidea; Trypanosomatida;
+OC   Trypanosomatina; Trypanosomatidae.
+XX
+RN   [1]
+RP   1-217
+RC   [1]  (bases 1 to 217)
+RA   Piarroux R., Fontes M., Perasso R., Gambarelli F., Joblet C.,
+RA   Dumon H., Quilici M.;
+RT   "Phylogenetic relationships between Old World Leishmania strains
+RT   revealed by analysis of a repetitive DNA sequence";
+RL   Mol. Biochem. Parasitol. (1995) In press
+XX
+DR   GENBANK; L42475; 89.0.
+CC   Positions       1     217  Accession No L42475        GenBank (rel. 89.0)
+XX
+SQ   Sequence 217 BP; 54 A; 69 C; 66 G; 28 T; 0 other;
+     gcaagaatca agaggcggtg tcacagagat gggcgaaggg ggacggcggg agcgggagag        60
+     agagcgcggg cacacggcga cgtccgtgga aagaaaaaag gcagaagaca acgcgtattc       120
+     ccttctgcta atgtgtaccc gcctctctgc cacagatcac gaggccagct ccactccact       180
+     ctaacgcctc ccccgcgcag ccctgtcaca cgctccc                                217
+//
+ID   LCRP1     repbase; DNA; INV; 216 BP.
+CC   LCRP1 DNA
+XX
+AC   L42497;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Leishmania chagasi DNA repeat.
+XX
+KW   Repetitive element.
+XX
+OS   Leishmania chagasi
+CC   Leishmania chagasi (strain 1,MHOM/BR/90/LPM89) DNA.
+OC   Eukaryota; Protozoa; Euglenozoa; Kinetoplastidea; Trypanosomatida;
+OC   Trypanosomatina; Trypanosomatidae.
+XX
+RN   [1]
+RP   1-216
+RC   [1]  (bases 1 to 216)
+RA   Piarroux R., Fontes M., Perasso R., Gambarelli F., Joblet C.,
+RA   Dumon H., Quilici M.;
+RT   "Phylogenetic relationships between Old World Leishmania strains
+RT   revealed by analysis of a repetitive DNA sequence";
+RL   Mol. Biochem. Parasitol. (1995) In press
+XX
+DR   GENBANK; L42497; 89.0.
+CC   Positions       1     216  Accession No L42497        GenBank (rel. 89.0)
+XX
+SQ   Sequence 216 BP; 57 A; 68 C; 63 G; 28 T; 0 other;
+     gcaagaatca agaggcggtg tcacagagat gggcgaaggg ggacggcggg agcggcagag        60
+     agagcgcggg cacacagcga cgtccgtgga aagaaaaaaa gagaagacaa cgcgtattcc       120
+     cttctgctaa tgtgtacccg cctctctgcc acagatcacg aggtcagctc cactccaccc       180
+     taacgcctcc cccgcgcaga cctgtcacac gctccc                                 216
+//

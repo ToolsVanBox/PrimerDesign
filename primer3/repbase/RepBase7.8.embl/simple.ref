@@ -1,0 +1,4014 @@
+CC  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+CC                                                                  *
+CC   REPBASE UPDATE                                                 *
+CC   (C) 1997-2001  Genetic Information Research Institute          *
+CC   All rights reserved                                            *
+CC                                                                  *
+CC   REFERENCE COLLECTION OF THE MOST ABUNDANT                      * 
+CC   SIMPLE SEQUENCE REPEATS IN PRIMATES                            *
+CC   (mono- through hexanucleotide repeats)                         *
+CC                                                                  *
+CC   RELEASE 3.2; SEPTEMBER 2000                                    *
+CC                                                                  *
+CC   Prepared by: Jurka, J., Pethiyagoda, C.                        *
+CC                                                                  *
+CC   Jurka, J., and Pethiyagoda, C.                                 *
+CC   Simple repetitive DNA sequences from primates: compilation     *
+CC   and analysis                                                   *
+CC   Journal of Molecular Evolution 40:120-126 (1995)               *
+CC                                                                  *
+CC   Sponsored by the U.S. Department of Energy                     *
+CC   Human Genome Program                                           *
+CC   Grant DE-FG03-91ER61152  to J. Jurka                           *
+CC                                                                  *
+CC   Note:  Sequence names with "@2" are complementary to the       *
+CC          corresponding "@1" sequences                            *
+CC                                                                  *
+CC  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+XX
+ID   A@1       repbase; DNA; xxx; 69 BP.
+CC   A@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance   33.30%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 69 A; 0 C; 0 G; 0 T; 0 other;
+     aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa        60
+     aaaaaaaaa                                                                69
+//
+ID   C@1       repbase; DNA; xxx; 69 BP.
+CC   C@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.20%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 69 C; 0 G; 0 T; 0 other;
+     cccccccccc cccccccccc cccccccccc cccccccccc cccccccccc cccccccccc        60
+     ccccccccc                                                                69
+//
+ID   AC@1      repbase; DNA; xxx; 69 BP.
+CC   AC@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance   17.94%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 35 A; 34 C; 0 G; 0 T; 0 other;
+     acacacacac acacacacac acacacacac acacacacac acacacacac acacacacac        60
+     acacacaca                                                                69
+//
+ID   AT@1      repbase; DNA; xxx; 69 BP.
+CC   AT@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    2.83%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 35 A; 0 C; 0 G; 34 T; 0 other;
+     atatatatat atatatatat atatatatat atatatatat atatatatat atatatatat        60
+     atatatata                                                                69
+//
+ID   AG@1      repbase; DNA; xxx; 69 BP.
+CC   AG@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    5.38%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 35 A; 0 C; 34 G; 0 T; 0 other;
+     agagagagag agagagagag agagagagag agagagagag agagagagag agagagagag        60
+     agagagaga                                                                69
+//
+ID   CG@1      repbase; DNA; xxx; 69 BP.
+CC   CG@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.06%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 35 C; 34 G; 0 T; 0 other;
+     cgcgcgcgcg cgcgcgcgcg cgcgcgcgcg cgcgcgcgcg cgcgcgcgcg cgcgcgcgcg        60
+     cgcgcgcgc                                                                69
+//
+ID   GCC@1     repbase; DNA; xxx; 69 BP.
+CC   GCC@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.31%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 46 C; 23 G; 0 T; 0 other;
+     gccgccgccg ccgccgccgc cgccgccgcc gccgccgccg ccgccgccgc cgccgccgcc        60
+     gccgccgcc                                                                69
+//
+ID   TAA@1     repbase; DNA; xxx; 69 BP.
+CC   TAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.32%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 46 A; 0 C; 0 G; 23 T; 0 other;
+     taataataat aataataata ataataataa taataataat aataataata ataataataa        60
+     taataataa                                                                69
+//
+ID   CAA@1     repbase; DNA; xxx; 69 BP.
+CC   CAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.90%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 46 A; 23 C; 0 G; 0 T; 0 other;
+     caacaacaac aacaacaaca acaacaacaa caacaacaac aacaacaaca acaacaacaa        60
+     caacaacaa                                                                69
+//
+ID   GCA@1     repbase; DNA; xxx; 69 BP.
+CC   GCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.10%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 23 C; 23 G; 0 T; 0 other;
+     gcagcagcag cagcagcagc agcagcagca gcagcagcag cagcagcagc agcagcagca        60
+     gcagcagca                                                                69
+//
+ID   CTA@1     repbase; DNA; xxx; 69 BP.
+CC   CTA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.39%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 23 C; 0 G; 23 T; 0 other;
+     ctactactac tactactact actactacta ctactactac tactactact actactacta        60
+     ctactacta                                                                69
+//
+ID   GGA@1     repbase; DNA; xxx; 69 BP.
+CC   GGA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.23%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 0 C; 46 G; 0 T; 0 other;
+     ggaggaggag gaggaggagg aggaggagga ggaggaggag gaggaggagg aggaggagga        60
+     ggaggagga                                                                69
+//
+ID   GAA@1     repbase; DNA; xxx; 69 BP.
+CC   GAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.71%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 46 A; 0 C; 23 G; 0 T; 0 other;
+     gaagaagaag aagaagaaga agaagaagaa gaagaagaag aagaagaaga agaagaagaa        60
+     gaagaagaa                                                                69
+//
+ID   TCA@1     repbase; DNA; xxx; 69 BP.
+CC   TCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.28%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 23 C; 0 G; 23 T; 0 other;
+     tcatcatcat catcatcatc atcatcatca tcatcatcat catcatcatc atcatcatca        60
+     tcatcatca                                                                69
+//
+ID   CCA@1     repbase; DNA; xxx; 69 BP.
+CC   CCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.22%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 46 C; 0 G; 0 T; 0 other;
+     ccaccaccac caccaccacc accaccacca ccaccaccac caccaccacc accaccacca        60
+     ccaccacca                                                                69
+//
+ID   TAGA@1    repbase; DNA; xxx; 69 BP.
+CC   TAGA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.00%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 0 C; 17 G; 18 T; 0 other;
+     tagatagata gatagataga tagatagata gatagataga tagatagata gatagataga        60
+     tagatagat                                                                69
+//
+ID   CAAA@1    repbase; DNA; xxx; 69 BP.
+CC   CAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.98%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 51 A; 18 C; 0 G; 0 T; 0 other;
+     caaacaaaca aacaaacaaa caaacaaaca aacaaacaaa caaacaaaca aacaaacaaa        60
+     caaacaaac                                                                69
+//
+ID   TAAA@1    repbase; DNA; xxx; 69 BP.
+CC   TAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    3.39%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 51 A; 0 C; 0 G; 18 T; 0 other;
+     taaataaata aataaataaa taaataaata aataaataaa taaataaata aataaataaa        60
+     taaataaat                                                                69
+//
+ID   GAAA@1    repbase; DNA; xxx; 69 BP.
+CC   GAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    2.74%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 51 A; 0 C; 18 G; 0 T; 0 other;
+     gaaagaaaga aagaaagaaa gaaagaaaga aagaaagaaa gaaagaaaga aagaaagaaa        60
+     gaaagaaag                                                                69
+//
+ID   TCCA@1    repbase; DNA; xxx; 69 BP.
+CC   TCCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.93%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 34 C; 0 G; 18 T; 0 other;
+     tccatccatc catccatcca tccatccatc catccatcca tccatccatc catccatcca        60
+     tccatccat                                                                69
+//
+ID   CGAA@1    repbase; DNA; xxx; 69 BP.
+CC   CGAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.05%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 18 C; 17 G; 0 T; 0 other;
+     cgaacgaacg aacgaacgaa cgaacgaacg aacgaacgaa cgaacgaacg aacgaacgaa        60
+     cgaacgaac                                                                69
+//
+ID   TGAA@1    repbase; DNA; xxx; 69 BP.
+CC   TGAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.96%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 0 C; 17 G; 18 T; 0 other;
+     tgaatgaatg aatgaatgaa tgaatgaatg aatgaatgaa tgaatgaatg aatgaatgaa        60
+     tgaatgaat                                                                69
+//
+ID   CGGA@1    repbase; DNA; xxx; 69 BP.
+CC   CGGA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.11%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 18 C; 34 G; 0 T; 0 other;
+     cggacggacg gacggacgga cggacggacg gacggacgga cggacggacg gacggacgga        60
+     cggacggac                                                                69
+//
+ID   GGAA@1    repbase; DNA; xxx; 69 BP.
+CC   GGAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.42%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 0 C; 35 G; 0 T; 0 other;
+     ggaaggaagg aaggaaggaa ggaaggaagg aaggaaggaa ggaaggaagg aaggaaggaa        60
+     ggaaggaag                                                                69
+//
+ID   TACA@1    repbase; DNA; xxx; 69 BP.
+CC   TACA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.43%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 17 C; 0 G; 18 T; 0 other;
+     tacatacata catacataca tacatacata catacataca tacatacata catacataca        60
+     tacatacat                                                                69
+//
+ID   TCAA@1    repbase; DNA; xxx; 69 BP.
+CC   TCAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.17%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 17 C; 0 G; 18 T; 0 other;
+     tcaatcaatc aatcaatcaa tcaatcaatc aatcaatcaa tcaatcaatc aatcaatcaa        60
+     tcaatcaat                                                                69
+//
+ID   GACA@1    repbase; DNA; xxx; 69 BP.
+CC   GACA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.42%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 17 C; 18 G; 0 T; 0 other;
+     gacagacaga cagacagaca gacagacaga cagacagaca gacagacaga cagacagaca        60
+     gacagacag                                                                69
+//
+ID   CCTA@1    repbase; DNA; xxx; 69 BP.
+CC   CCTA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.11%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 35 C; 0 G; 17 T; 0 other;
+     cctacctacc tacctaccta cctacctacc tacctaccta cctacctacc tacctaccta        60
+     cctacctac                                                                69
+//
+ID   GCCC@1    repbase; DNA; xxx; 69 BP.
+CC   GCCC@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.19%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 51 C; 18 G; 0 T; 0 other;
+     gcccgcccgc ccgcccgccc gcccgcccgc ccgcccgccc gcccgcccgc ccgcccgccc        60
+     gcccgcccg                                                                69
+//
+ID   TTAA@1    repbase; DNA; xxx; 69 BP.
+CC   TTAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.08%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 0 C; 0 G; 35 T; 0 other;
+     ttaattaatt aattaattaa ttaattaatt aattaattaa ttaattaatt aattaattaa        60
+     ttaattaat                                                                69
+//
+ID   GGGA@1    repbase; DNA; xxx; 69 BP.
+CC   GGGA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.52%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 0 C; 52 G; 0 T; 0 other;
+     gggagggagg gagggaggga gggagggagg gagggaggga gggagggagg gagggaggga        60
+     gggagggag                                                                69
+//
+ID   GGCA@1    repbase; DNA; xxx; 69 BP.
+CC   GGCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.34%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 17 C; 35 G; 0 T; 0 other;
+     ggcaggcagg caggcaggca ggcaggcagg caggcaggca ggcaggcagg caggcaggca        60
+     ggcaggcag                                                                69
+//
+ID   GCCA@1    repbase; DNA; xxx; 69 BP.
+CC   GCCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.11%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 34 C; 18 G; 0 T; 0 other;
+     gccagccagc cagccagcca gccagccagc cagccagcca gccagccagc cagccagcca        60
+     gccagccag                                                                69
+//
+ID   CAAAA@1   repbase; DNA; xxx; 69 BP.
+CC   CAAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    2.34%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 55 A; 14 C; 0 G; 0 T; 0 other;
+     caaaacaaaa caaaacaaaa caaaacaaaa caaaacaaaa caaaacaaaa caaaacaaaa        60
+     caaaacaaa                                                                69
+//
+ID   TGGAA@1   repbase; DNA; xxx; 69 BP.
+CC   TGGAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat; centromeric repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.71%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 27 A; 0 C; 28 G; 14 T; 0 other;
+     tggaatggaa tggaatggaa tggaatggaa tggaatggaa tggaatggaa tggaatggaa        60
+     tggaatgga                                                                69
+//
+ID   TAAAA@1   repbase; DNA; xxx; 69 BP.
+CC   TAAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    2.09%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 55 A; 0 C; 0 G; 14 T; 0 other;
+     taaaataaaa taaaataaaa taaaataaaa taaaataaaa taaaataaaa taaaataaaa        60
+     taaaataaa                                                                69
+//
+ID   GCCCA@1   repbase; DNA; xxx; 69 BP.
+CC   GCCCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.94%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 42 C; 14 G; 0 T; 0 other;
+     gcccagccca gcccagccca gcccagccca gcccagccca gcccagccca gcccagccca        60
+     gcccagccc                                                                69
+//
+ID   GCTCA@1   repbase; DNA; xxx; 69 BP.
+CC   GCTCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.80%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 28 C; 14 G; 14 T; 0 other;
+     gctcagctca gctcagctca gctcagctca gctcagctca gctcagctca gctcagctca        60
+     gctcagctc                                                                69
+//
+ID   GAAAA@1   repbase; DNA; xxx; 69 BP.
+CC   GAAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.40%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 55 A; 0 C; 14 G; 0 T; 0 other;
+     gaaaagaaaa gaaaagaaaa gaaaagaaaa gaaaagaaaa gaaaagaaaa gaaaagaaaa        60
+     gaaaagaaa                                                                69
+//
+ID   TACAA@1   repbase; DNA; xxx; 69 BP.
+CC   TACAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.09%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 41 A; 14 C; 0 G; 14 T; 0 other;
+     tacaatacaa tacaatacaa tacaatacaa tacaatacaa tacaatacaa tacaatacaa        60
+     tacaataca                                                                69
+//
+ID   CTCCA@1   repbase; DNA; xxx; 69 BP.
+CC   CTCCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.27%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 42 C; 0 G; 14 T; 0 other;
+     ctccactcca ctccactcca ctccactcca ctccactcca ctccactcca ctccactcca        60
+     ctccactcc                                                                69
+//
+ID   TCTAA@1   repbase; DNA; xxx; 69 BP.
+CC   TCTAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.07%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 27 A; 14 C; 0 G; 28 T; 0 other;
+     tctaatctaa tctaatctaa tctaatctaa tctaatctaa tctaatctaa tctaatctaa        60
+     tctaatcta                                                                69
+//
+ID   TAGAA@1   repbase; DNA; xxx; 69 BP.
+CC   TAGAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.10%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 41 A; 0 C; 14 G; 14 T; 0 other;
+     tagaatagaa tagaatagaa tagaatagaa tagaatagaa tagaatagaa tagaatagaa        60
+     tagaataga                                                                69
+//
+ID   GGAGA@1   repbase; DNA; xxx; 69 BP.
+CC   GGAGA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.36%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 27 A; 0 C; 42 G; 0 T; 0 other;
+     ggagaggaga ggagaggaga ggagaggaga ggagaggaga ggagaggaga ggagaggaga        60
+     ggagaggag                                                                69
+//
+ID   TTAAA@1   repbase; DNA; xxx; 69 BP.
+CC   TTAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.21%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 41 A; 0 C; 0 G; 28 T; 0 other;
+     ttaaattaaa ttaaattaaa ttaaattaaa ttaaattaaa ttaaattaaa ttaaattaaa        60
+     ttaaattaa                                                                69
+//
+ID   GCCCC@1   repbase; DNA; xxx; 69 BP.
+CC   GCCCC@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.54%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 55 C; 14 G; 0 T; 0 other;
+     gccccgcccc gccccgcccc gccccgcccc gccccgcccc gccccgcccc gccccgcccc        60
+     gccccgccc                                                                69
+//
+ID   GCGCA@1   repbase; DNA; xxx; 69 BP.
+CC   GCGCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.05%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 28 C; 28 G; 0 T; 0 other;
+     gcgcagcgca gcgcagcgca gcgcagcgca gcgcagcgca gcgcagcgca gcgcagcgca        60
+     gcgcagcgc                                                                69
+//
+ID   GGGGA@1   repbase; DNA; xxx; 69 BP.
+CC   GGGGA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.44%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 0 C; 56 G; 0 T; 0 other;
+     ggggagggga ggggagggga ggggagggga ggggagggga ggggagggga ggggagggga        60
+     ggggagggg                                                                69
+//
+ID   GGCCC@1   repbase; DNA; xxx; 69 BP.
+CC   GGCCC@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.14%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 41 C; 28 G; 0 T; 0 other;
+     ggcccggccc ggcccggccc ggcccggccc ggcccggccc ggcccggccc ggcccggccc        60
+     ggcccggcc                                                                69
+//
+ID   TCCCA@1   repbase; DNA; xxx; 69 BP.
+CC   TCCCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.09%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 42 C; 0 G; 14 T; 0 other;
+     tcccatccca tcccatccca tcccatccca tcccatccca tcccatccca tcccatccca        60
+     tcccatccc                                                                69
+//
+ID   CCCCA@1   repbase; DNA; xxx; 69 BP.
+CC   CCCCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.16%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 56 C; 0 G; 0 T; 0 other;
+     ccccacccca ccccacccca ccccacccca ccccacccca ccccacccca ccccacccca        60
+     ccccacccc                                                                69
+//
+ID   CCCTAA@1  repbase; DNA; xxx; 69 BP.
+CC   CCCTAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat; telomeric repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.51%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 22 A; 36 C; 0 G; 11 T; 0 other;
+     ccctaaccct aaccctaacc ctaaccctaa ccctaaccct aaccctaacc ctaaccctaa        60
+     ccctaaccc                                                                69
+//
+ID   CCCGAA@1  repbase; DNA; xxx; 69 BP.
+CC   CCCGAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat; subtelomeric repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.25%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 22 A; 36 C; 11 G; 0 T; 0 other;
+     cccgaacccg aacccgaacc cgaacccgaa cccgaacccg aacccgaacc cgaacccgaa        60
+     cccgaaccc                                                                69
+//
+ID   TATACA@1  repbase; DNA; xxx; 69 BP.
+CC   TATACA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.33%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 11 C; 0 G; 24 T; 0 other;
+     tatacatata catatacata tacatataca tatacatata catatacata tacatataca        60
+     tatacatat                                                                69
+//
+ID   TCACCA@1  repbase; DNA; xxx; 69 BP.
+CC   TCACCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.24%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 34 C; 0 G; 12 T; 0 other;
+     tcaccatcac catcaccatc accatcacca tcaccatcac catcaccatc accatcacca        60
+     tcaccatca                                                                69
+//
+ID   CCCCAA@1  repbase; DNA; xxx; 69 BP.
+CC   CCCCAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat; telomeric repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.23%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 22 A; 47 C; 0 G; 0 T; 0 other;
+     ccccaacccc aaccccaacc ccaaccccaa ccccaacccc aaccccaacc ccaaccccaa        60
+     ccccaaccc                                                                69
+//
+ID   CAAAAA@1  repbase; DNA; xxx; 69 BP.
+CC   CAAAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.99%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 57 A; 12 C; 0 G; 0 T; 0 other;
+     caaaaacaaa aacaaaaaca aaaacaaaaa caaaaacaaa aacaaaaaca aaaacaaaaa        60
+     caaaaacaa                                                                69
+//
+ID   CCCTCA@1  repbase; DNA; xxx; 69 BP.
+CC   CCCTCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.10%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 11 A; 47 C; 0 G; 11 T; 0 other;
+     ccctcaccct caccctcacc ctcaccctca ccctcaccct caccctcacc ctcaccctca        60
+     ccctcaccc                                                                69
+//
+ID   GCCCCC@1  repbase; DNA; xxx; 69 BP.
+CC   GCCCCC@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.33%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 57 C; 12 G; 0 T; 0 other;
+     gcccccgccc ccgcccccgc ccccgccccc gcccccgccc ccgcccccgc ccccgccccc        60
+     gcccccgcc                                                                69
+//
+ID   GAAAAA@1  repbase; DNA; xxx; 69 BP.
+CC   GAAAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.60%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 57 A; 0 C; 12 G; 0 T; 0 other;
+     gaaaaagaaa aagaaaaaga aaaagaaaaa gaaaaagaaa aagaaaaaga aaaagaaaaa        60
+     gaaaaagaa                                                                69
+//
+ID   GGAGAA@1  repbase; DNA; xxx; 69 BP.
+CC   GGAGAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.18%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 0 C; 35 G; 0 T; 0 other;
+     ggagaaggag aaggagaagg agaaggagaa ggagaaggag aaggagaagg agaaggagaa        60
+     ggagaagga                                                                69
+//
+ID   CCCCCA@1  repbase; DNA; xxx; 69 BP.
+CC   CCCCCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.44%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 11 A; 58 C; 0 G; 0 T; 0 other;
+     cccccacccc cacccccacc cccaccccca cccccacccc cacccccacc cccaccccca        60
+     cccccaccc                                                                69
+//
+ID   TAAAAA@1  repbase; DNA; xxx; 69 BP.
+CC   TAAAAA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.46%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 57 A; 0 C; 0 G; 12 T; 0 other;
+     taaaaataaa aataaaaata aaaataaaaa taaaaataaa aataaaaata aaaataaaaa        60
+     taaaaataa                                                                69
+//
+ID   GGGAGA@1  repbase; DNA; xxx; 69 BP.
+CC   GGGAGA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.15%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 22 A; 0 C; 47 G; 0 T; 0 other;
+     gggagaggga gagggagagg gagagggaga gggagaggga gagggagagg gagagggaga        60
+     gggagaggg                                                                69
+//
+ID   GCCCCA@1  repbase; DNA; xxx; 69 BP.
+CC   GCCCCA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.12%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 11 A; 46 C; 12 G; 0 T; 0 other;
+     gccccagccc cagccccagc cccagcccca gccccagccc cagccccagc cccagcccca        60
+     gccccagcc                                                                69
+//
+ID   GGGGGA@1  repbase; DNA; xxx; 69 BP.
+CC   GGGGGA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.09%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 11 A; 0 C; 58 G; 0 T; 0 other;
+     gggggagggg gagggggagg gggaggggga gggggagggg gagggggagg gggaggggga        60
+     gggggaggg                                                                69
+//
+ID   GAGACA@1  repbase; DNA; xxx; 69 BP.
+CC   GAGACA@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.06%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 11 C; 24 G; 0 T; 0 other;
+     gagacagaga cagagacaga gacagagaca gagacagaga cagagacaga gacagagaca        60
+     gagacagag                                                                69
+//
+ID   A@2       repbase; DNA; xxx; 69 BP.
+CC   A@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance   33.30%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 69 A; 0 C; 0 G; 0 T; 0 other;
+     tttttttttt tttttttttt tttttttttt tttttttttt tttttttttt tttttttttt        60
+     ttttttttt                                                                69
+//
+ID   C@2       repbase; DNA; xxx; 69 BP.
+CC   C@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.20%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 69 C; 0 G; 0 T; 0 other;
+     gggggggggg gggggggggg gggggggggg gggggggggg gggggggggg gggggggggg        60
+     ggggggggg                                                                69
+//
+ID   AC@2      repbase; DNA; xxx; 69 BP.
+CC   AC@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance   17.94%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 35 A; 34 C; 0 G; 0 T; 0 other;
+     tgtgtgtgtg tgtgtgtgtg tgtgtgtgtg tgtgtgtgtg tgtgtgtgtg tgtgtgtgtg        60
+     tgtgtgtgt                                                                69
+//
+ID   AG@2      repbase; DNA; xxx; 69 BP.
+CC   AG@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    5.38%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 35 A; 0 C; 34 G; 0 T; 0 other;
+     tctctctctc tctctctctc tctctctctc tctctctctc tctctctctc tctctctctc        60
+     tctctctct                                                                69
+//
+ID   GCC@2     repbase; DNA; xxx; 69 BP.
+CC   GCC@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.31%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 46 C; 23 G; 0 T; 0 other;
+     ggcggcggcg gcggcggcgg cggcggcggc ggcggcggcg gcggcggcgg cggcggcggc        60
+     ggcggcggc                                                                69
+//
+ID   TAA@2     repbase; DNA; xxx; 69 BP.
+CC   TAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.32%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 46 A; 0 C; 0 G; 23 T; 0 other;
+     ttattattat tattattatt attattatta ttattattat tattattatt attattatta        60
+     ttattatta                                                                69
+//
+ID   CAA@2     repbase; DNA; xxx; 69 BP.
+CC   CAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.90%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 46 A; 23 C; 0 G; 0 T; 0 other;
+     ttgttgttgt tgttgttgtt gttgttgttg ttgttgttgt tgttgttgtt gttgttgttg        60
+     ttgttgttg                                                                69
+//
+ID   GCA@2     repbase; DNA; xxx; 69 BP.
+CC   GCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.10%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 23 C; 23 G; 0 T; 0 other;
+     tgctgctgct gctgctgctg ctgctgctgc tgctgctgct gctgctgctg ctgctgctgc        60
+     tgctgctgc                                                                69
+//
+ID   CTA@2     repbase; DNA; xxx; 69 BP.
+CC   CTA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.39%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 23 C; 0 G; 23 T; 0 other;
+     tagtagtagt agtagtagta gtagtagtag tagtagtagt agtagtagta gtagtagtag        60
+     tagtagtag                                                                69
+//
+ID   GGA@2     repbase; DNA; xxx; 69 BP.
+CC   GGA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.23%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 0 C; 46 G; 0 T; 0 other;
+     tcctcctcct cctcctcctc ctcctcctcc tcctcctcct cctcctcctc ctcctcctcc        60
+     tcctcctcc                                                                69
+//
+ID   GAA@2     repbase; DNA; xxx; 69 BP.
+CC   GAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.71%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 46 A; 0 C; 23 G; 0 T; 0 other;
+     ttcttcttct tcttcttctt cttcttcttc ttcttcttct tcttcttctt cttcttcttc        60
+     ttcttcttc                                                                69
+//
+ID   TCA@2     repbase; DNA; xxx; 69 BP.
+CC   TCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.28%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 23 C; 0 G; 23 T; 0 other;
+     tgatgatgat gatgatgatg atgatgatga tgatgatgat gatgatgatg atgatgatga        60
+     tgatgatga                                                                69
+//
+ID   CCA@2     repbase; DNA; xxx; 69 BP.
+CC   CCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.22%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 46 C; 0 G; 0 T; 0 other;
+     tggtggtggt ggtggtggtg gtggtggtgg tggtggtggt ggtggtggtg gtggtggtgg        60
+     tggtggtgg                                                                69
+//
+ID   TAGA@2    repbase; DNA; xxx; 69 BP.
+CC   TAGA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.00%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 0 C; 17 G; 18 T; 0 other;
+     atctatctat ctatctatct atctatctat ctatctatct atctatctat ctatctatct        60
+     atctatcta                                                                69
+//
+ID   CAAA@2    repbase; DNA; xxx; 69 BP.
+CC   CAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.98%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 51 A; 18 C; 0 G; 0 T; 0 other;
+     gtttgtttgt ttgtttgttt gtttgtttgt ttgtttgttt gtttgtttgt ttgtttgttt        60
+     gtttgtttg                                                                69
+//
+ID   TAAA@2    repbase; DNA; xxx; 69 BP.
+CC   TAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    3.39%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 51 A; 0 C; 0 G; 18 T; 0 other;
+     atttatttat ttatttattt atttatttat ttatttattt atttatttat ttatttattt        60
+     atttattta                                                                69
+//
+ID   GAAA@2    repbase; DNA; xxx; 69 BP.
+CC   GAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    2.74%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 51 A; 0 C; 18 G; 0 T; 0 other;
+     ctttctttct ttctttcttt ctttctttct ttctttcttt ctttctttct ttctttcttt        60
+     ctttctttc                                                                69
+//
+ID   TCCA@2    repbase; DNA; xxx; 69 BP.
+CC   TCCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.93%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 34 C; 0 G; 18 T; 0 other;
+     atggatggat ggatggatgg atggatggat ggatggatgg atggatggat ggatggatgg        60
+     atggatgga                                                                69
+//
+ID   CGAA@2    repbase; DNA; xxx; 69 BP.
+CC   CGAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.05%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 18 C; 17 G; 0 T; 0 other;
+     gttcgttcgt tcgttcgttc gttcgttcgt tcgttcgttc gttcgttcgt tcgttcgttc        60
+     gttcgttcg                                                                69
+//
+ID   TGAA@2    repbase; DNA; xxx; 69 BP.
+CC   TGAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.96%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 0 C; 17 G; 18 T; 0 other;
+     attcattcat tcattcattc attcattcat tcattcattc attcattcat tcattcattc        60
+     attcattca                                                                69
+//
+ID   CGGA@2    repbase; DNA; xxx; 69 BP.
+CC   CGGA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.11%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 18 C; 34 G; 0 T; 0 other;
+     gtccgtccgt ccgtccgtcc gtccgtccgt ccgtccgtcc gtccgtccgt ccgtccgtcc        60
+     gtccgtccg                                                                69
+//
+ID   GGAA@2    repbase; DNA; xxx; 69 BP.
+CC   GGAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.42%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 0 C; 35 G; 0 T; 0 other;
+     cttccttcct tccttccttc cttccttcct tccttccttc cttccttcct tccttccttc        60
+     cttccttcc                                                                69
+//
+ID   TACA@2    repbase; DNA; xxx; 69 BP.
+CC   TACA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.43%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 17 C; 0 G; 18 T; 0 other;
+     atgtatgtat gtatgtatgt atgtatgtat gtatgtatgt atgtatgtat gtatgtatgt        60
+     atgtatgta                                                                69
+//
+ID   TCAA@2    repbase; DNA; xxx; 69 BP.
+CC   TCAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.17%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 17 C; 0 G; 18 T; 0 other;
+     attgattgat tgattgattg attgattgat tgattgattg attgattgat tgattgattg        60
+     attgattga                                                                69
+//
+ID   GACA@2    repbase; DNA; xxx; 69 BP.
+CC   GACA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.42%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 17 C; 18 G; 0 T; 0 other;
+     ctgtctgtct gtctgtctgt ctgtctgtct gtctgtctgt ctgtctgtct gtctgtctgt        60
+     ctgtctgtc                                                                69
+//
+ID   CCTA@2    repbase; DNA; xxx; 69 BP.
+CC   CCTA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.11%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 35 C; 0 G; 17 T; 0 other;
+     gtaggtaggt aggtaggtag gtaggtaggt aggtaggtag gtaggtaggt aggtaggtag        60
+     gtaggtagg                                                                69
+//
+ID   GCCC@2    repbase; DNA; xxx; 69 BP.
+CC   GCCC@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.19%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 51 C; 18 G; 0 T; 0 other;
+     cgggcgggcg ggcgggcggg cgggcgggcg ggcgggcggg cgggcgggcg ggcgggcggg        60
+     cgggcgggc                                                                69
+//
+ID   GGGA@2    repbase; DNA; xxx; 69 BP.
+CC   GGGA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.52%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 0 C; 52 G; 0 T; 0 other;
+     ctccctccct ccctccctcc ctccctccct ccctccctcc ctccctccct ccctccctcc        60
+     ctccctccc                                                                69
+//
+ID   GGCA@2    repbase; DNA; xxx; 69 BP.
+CC   GGCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.34%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 17 C; 35 G; 0 T; 0 other;
+     ctgcctgcct gcctgcctgc ctgcctgcct gcctgcctgc ctgcctgcct gcctgcctgc        60
+     ctgcctgcc                                                                69
+//
+ID   GCCA@2    repbase; DNA; xxx; 69 BP.
+CC   GCCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.11%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 17 A; 34 C; 18 G; 0 T; 0 other;
+     ctggctggct ggctggctgg ctggctggct ggctggctgg ctggctggct ggctggctgg        60
+     ctggctggc                                                                69
+//
+ID   CAAAA@2   repbase; DNA; xxx; 69 BP.
+CC   CAAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    2.34%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 55 A; 14 C; 0 G; 0 T; 0 other;
+     tttgttttgt tttgttttgt tttgttttgt tttgttttgt tttgttttgt tttgttttgt        60
+     tttgttttg                                                                69
+//
+ID   TGGAA@2   repbase; DNA; xxx; 69 BP.
+CC   TGGAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat; centromeric repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.71%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 27 A; 0 C; 28 G; 14 T; 0 other;
+     tccattccat tccattccat tccattccat tccattccat tccattccat tccattccat        60
+     tccattcca                                                                69
+//
+ID   TAAAA@2   repbase; DNA; xxx; 69 BP.
+CC   TAAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    2.09%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 55 A; 0 C; 0 G; 14 T; 0 other;
+     tttattttat tttattttat tttattttat tttattttat tttattttat tttattttat        60
+     tttatttta                                                                69
+//
+ID   GCCCA@2   repbase; DNA; xxx; 69 BP.
+CC   GCCCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.94%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 42 C; 14 G; 0 T; 0 other;
+     gggctgggct gggctgggct gggctgggct gggctgggct gggctgggct gggctgggct        60
+     gggctgggc                                                                69
+//
+ID   GCTCA@2   repbase; DNA; xxx; 69 BP.
+CC   GCTCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.80%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 28 C; 14 G; 14 T; 0 other;
+     gagctgagct gagctgagct gagctgagct gagctgagct gagctgagct gagctgagct        60
+     gagctgagc                                                                69
+//
+ID   GAAAA@2   repbase; DNA; xxx; 69 BP.
+CC   GAAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.40%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 55 A; 0 C; 14 G; 0 T; 0 other;
+     tttcttttct tttcttttct tttcttttct tttcttttct tttcttttct tttcttttct        60
+     tttcttttc                                                                69
+//
+ID   TACAA@2   repbase; DNA; xxx; 69 BP.
+CC   TACAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.09%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 41 A; 14 C; 0 G; 14 T; 0 other;
+     tgtattgtat tgtattgtat tgtattgtat tgtattgtat tgtattgtat tgtattgtat        60
+     tgtattgta                                                                69
+//
+ID   CTCCA@2   repbase; DNA; xxx; 69 BP.
+CC   CTCCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.27%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 42 C; 0 G; 14 T; 0 other;
+     ggagtggagt ggagtggagt ggagtggagt ggagtggagt ggagtggagt ggagtggagt        60
+     ggagtggag                                                                69
+//
+ID   TCTAA@2   repbase; DNA; xxx; 69 BP.
+CC   TCTAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.07%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 27 A; 14 C; 0 G; 28 T; 0 other;
+     tagattagat tagattagat tagattagat tagattagat tagattagat tagattagat        60
+     tagattaga                                                                69
+//
+ID   TAGAA@2   repbase; DNA; xxx; 69 BP.
+CC   TAGAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.10%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 41 A; 0 C; 14 G; 14 T; 0 other;
+     tctattctat tctattctat tctattctat tctattctat tctattctat tctattctat        60
+     tctattcta                                                                69
+//
+ID   GGAGA@2   repbase; DNA; xxx; 69 BP.
+CC   GGAGA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.36%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 27 A; 0 C; 42 G; 0 T; 0 other;
+     ctcctctcct ctcctctcct ctcctctcct ctcctctcct ctcctctcct ctcctctcct        60
+     ctcctctcc                                                                69
+//
+ID   TTAAA@2   repbase; DNA; xxx; 69 BP.
+CC   TTAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.21%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 41 A; 0 C; 0 G; 28 T; 0 other;
+     ttaatttaat ttaatttaat ttaatttaat ttaatttaat ttaatttaat ttaatttaat        60
+     ttaatttaa                                                                69
+//
+ID   GCCCC@2   repbase; DNA; xxx; 69 BP.
+CC   GCCCC@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.54%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 55 C; 14 G; 0 T; 0 other;
+     gggcggggcg gggcggggcg gggcggggcg gggcggggcg gggcggggcg gggcggggcg        60
+     gggcggggc                                                                69
+//
+ID   GCGCA@2   repbase; DNA; xxx; 69 BP.
+CC   GCGCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.05%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 28 C; 28 G; 0 T; 0 other;
+     gcgctgcgct gcgctgcgct gcgctgcgct gcgctgcgct gcgctgcgct gcgctgcgct        60
+     gcgctgcgc                                                                69
+//
+ID   GGGGA@2   repbase; DNA; xxx; 69 BP.
+CC   GGGGA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.44%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 0 C; 56 G; 0 T; 0 other;
+     cccctcccct cccctcccct cccctcccct cccctcccct cccctcccct cccctcccct        60
+     cccctcccc                                                                69
+//
+ID   GGCCC@2   repbase; DNA; xxx; 69 BP.
+CC   GGCCC@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.14%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 41 C; 28 G; 0 T; 0 other;
+     ggccgggccg ggccgggccg ggccgggccg ggccgggccg ggccgggccg ggccgggccg        60
+     ggccgggcc                                                                69
+//
+ID   TCCCA@2   repbase; DNA; xxx; 69 BP.
+CC   TCCCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.09%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 42 C; 0 G; 14 T; 0 other;
+     gggatgggat gggatgggat gggatgggat gggatgggat gggatgggat gggatgggat        60
+     gggatggga                                                                69
+//
+ID   CCCCA@2   repbase; DNA; xxx; 69 BP.
+CC   CCCCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.16%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 13 A; 56 C; 0 G; 0 T; 0 other;
+     ggggtggggt ggggtggggt ggggtggggt ggggtggggt ggggtggggt ggggtggggt        60
+     ggggtgggg                                                                69
+//
+ID   CCCTAA@2  repbase; DNA; xxx; 69 BP.
+CC   CCCTAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat; telomeric repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    1.51%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 22 A; 36 C; 0 G; 11 T; 0 other;
+     gggttagggt tagggttagg gttagggtta gggttagggt tagggttagg gttagggtta        60
+     gggttaggg                                                                69
+//
+ID   CCCGAA@2  repbase; DNA; xxx; 69 BP.
+CC   CCCGAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat; subtelomeric repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.25%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 22 A; 36 C; 11 G; 0 T; 0 other;
+     gggttcgggt tcgggttcgg gttcgggttc gggttcgggt tcgggttcgg gttcgggttc        60
+     gggttcggg                                                                69
+//
+ID   TATACA@2  repbase; DNA; xxx; 69 BP.
+CC   TATACA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.33%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 11 C; 0 G; 24 T; 0 other;
+     atatgtatat gtatatgtat atgtatatgt atatgtatat gtatatgtat atgtatatgt        60
+     atatgtata                                                                69
+//
+ID   TCACCA@2  repbase; DNA; xxx; 69 BP.
+CC   TCACCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.24%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 23 A; 34 C; 0 G; 12 T; 0 other;
+     tgatggtgat ggtgatggtg atggtgatgg tgatggtgat ggtgatggtg atggtgatgg        60
+     tgatggtga                                                                69
+//
+ID   CCCCAA@2  repbase; DNA; xxx; 69 BP.
+CC   CCCCAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat; telomeric repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.23%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 22 A; 47 C; 0 G; 0 T; 0 other;
+     gggttggggt tggggttggg gttggggttg gggttggggt tggggttggg gttggggttg        60
+     gggttgggg                                                                69
+//
+ID   CAAAAA@2  repbase; DNA; xxx; 69 BP.
+CC   CAAAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.99%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 57 A; 12 C; 0 G; 0 T; 0 other;
+     ttgtttttgt ttttgttttt gtttttgttt ttgtttttgt ttttgttttt gtttttgttt        60
+     ttgtttttg                                                                69
+//
+ID   CCCTCA@2  repbase; DNA; xxx; 69 BP.
+CC   CCCTCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.10%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 11 A; 47 C; 0 G; 11 T; 0 other;
+     gggtgagggt gagggtgagg gtgagggtga gggtgagggt gagggtgagg gtgagggtga        60
+     gggtgaggg                                                                69
+//
+ID   GCCCCC@2  repbase; DNA; xxx; 69 BP.
+CC   GCCCCC@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.33%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 0 A; 57 C; 12 G; 0 T; 0 other;
+     ggcgggggcg ggggcggggg cgggggcggg ggcgggggcg ggggcggggg cgggggcggg        60
+     ggcgggggc                                                                69
+//
+ID   GAAAAA@2  repbase; DNA; xxx; 69 BP.
+CC   GAAAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.60%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 57 A; 0 C; 12 G; 0 T; 0 other;
+     ttctttttct ttttcttttt ctttttcttt ttctttttct ttttcttttt ctttttcttt        60
+     ttctttttc                                                                69
+//
+ID   GGAGAA@2  repbase; DNA; xxx; 69 BP.
+CC   GGAGAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.18%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 0 C; 35 G; 0 T; 0 other;
+     tccttctcct tctccttctc cttctccttc tccttctcct tctccttctc cttctccttc        60
+     tccttctcc                                                                69
+//
+ID   CCCCCA@2  repbase; DNA; xxx; 69 BP.
+CC   CCCCCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.44%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 11 A; 58 C; 0 G; 0 T; 0 other;
+     gggtgggggt gggggtgggg gtgggggtgg gggtgggggt gggggtgggg gtgggggtgg        60
+     gggtggggg                                                                69
+//
+ID   TAAAAA@2  repbase; DNA; xxx; 69 BP.
+CC   TAAAAA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.46%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 57 A; 0 C; 0 G; 12 T; 0 other;
+     ttatttttat ttttattttt atttttattt ttatttttat ttttattttt atttttattt        60
+     ttattttta                                                                69
+//
+ID   GGGAGA@2  repbase; DNA; xxx; 69 BP.
+CC   GGGAGA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.15%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 22 A; 0 C; 47 G; 0 T; 0 other;
+     ccctctccct ctccctctcc ctctccctct ccctctccct ctccctctcc ctctccctct        60
+     ccctctccc                                                                69
+//
+ID   GCCCCA@2  repbase; DNA; xxx; 69 BP.
+CC   GCCCCA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.12%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 11 A; 46 C; 12 G; 0 T; 0 other;
+     ggctggggct ggggctgggg ctggggctgg ggctggggct ggggctgggg ctggggctgg        60
+     ggctggggc                                                                69
+//
+ID   GGGGGA@2  repbase; DNA; xxx; 69 BP.
+CC   GGGGGA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.09%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 11 A; 0 C; 58 G; 0 T; 0 other;
+     ccctccccct ccccctcccc ctccccctcc ccctccccct ccccctcccc ctccccctcc        60
+     ccctccccc                                                                69
+//
+ID   GAGACA@2  repbase; DNA; xxx; 69 BP.
+CC   GAGACA@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern
+XX
+KW   Simple repeat.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-69
+RC   [1] (bases 1 to 69)
+RA   Jurka J., Pethiyagoda C.;
+RT   "Simple repetitive DNA sequences from primates: compilation
+RT   and analysis";
+RL   Journal of Molecular Evolution 40:120-126 (1995)
+XX
+CC   Relative abundance    0.06%
+XX
+CC   [1]
+XX
+SQ   Sequence 69 BP; 34 A; 11 C; 24 G; 0 T; 0 other;
+     ctctgtctct gtctctgtct ctgtctctgt ctctgtctct gtctctgtct ctgtctctgt        60
+     ctctgtctc                                                                69
+//
+ID   TGGCCC@1  repbase; DNA; xxx; 150 BP.
+CC   TGGCCC@1 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern.
+XX
+KW   Simple repeat; TGGCCC@1.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-150
+RC   [1] (bases 1 to 150)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (September 2000)
+XX
+CC   [1]
+XX
+SQ   Sequence 150 BP; 0 A; 75 C; 50 G; 25 T; 0 other;
+     tggccctggc cctggccctg gccctggccc tggccctggc cctggccctg gccctggccc        60
+     tggccctggc cctggccctg gccctggccc tggccctggc cctggccctg gccctggccc       120
+     tggccctggc cctggccctg gccctggccc                                        150
+//
+ID   TGGCCC@2  repbase; DNA; xxx; 150 BP.
+CC   TGGCCC@2 DNA
+XX
+AC   ;
+XX
+DE   Primate simple repeat pattern.
+XX
+KW   Simple repeat; TGGCCC@2.
+XX
+OS   Primates (none)
+CC   none
+OC   Eukaryota; Metazoa; Chordata; Vertebrata; Tetrapoda; Mammalia;
+OC   Eutheria; Primates.
+XX
+RN   [1]
+RP   1-150
+RC   [1] (bases 1 to 150)
+RA   Jurka J.
+RT   ;
+RL   Direct submission (September 2000)
+XX
+CC   [1]
+XX
+SQ   Sequence 150 BP; 25 A; 50 C; 75 G; 0 T; 0 other;
+     gggccagggc cagggccagg gccagggcca gggccagggc cagggccagg gccagggcca        60
+     gggccagggc cagggccagg gccagggcca gggccagggc cagggccagg gccagggcca       120
+     gggccagggc cagggccagg gccagggcca                                        150
+//

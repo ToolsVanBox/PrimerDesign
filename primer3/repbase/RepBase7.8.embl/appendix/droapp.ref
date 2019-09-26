@@ -1,0 +1,1893 @@
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+CC                                                               *
+CC   REPBASE UPDATE                                              *
+CC   (C) 1997-2001  Genetic Information Research Institute       *
+CC   All rights reserved                                         *
+CC                                                               *
+CC   A REFERENCE COLLECTION OF DROSOPHILA MELANOGASTER           *
+CC   REPETITIVE ELEMENTS (AN APPENDIX)                           *
+CC                                                               *
+CC * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+XX
+ID   UBX_DM    repbase; DNA; DRO; 225 BP.
+CC   UBX_DM DNA
+XX
+AC   K01963;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Drosophila repeat, from Ultrabithorax locus (Ubx) of the Bithorax
+DE   complex (BX-C).
+XX
+KW   Repetitive sequence; DMUBX.
+XX
+OS   Drosophila melanogaster
+CC   Drosophila melanogaster genomic DNA, clone pDm3144R7.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-225
+RC   [1]  (bases 1 to 225)
+RA   Scott M.P., Weiner A.;
+RT   "Structural relationships among genes that control development:
+RT   Sequence homology between the Antennapedia, Ultrabithorax, and
+RT   fushi tarazu loci of Drosophila";
+RL   Proc. Natl. Acad. Sci. U.S.A. 81, 4115-4119 (1984)
+XX
+DR   GENBANK; K01963; 77.0.
+CC   Positions       1     225  Accession No K01963        GenBank (rel. 77.0)
+XX
+SQ   Sequence 225 BP; 64 A; 60 C; 65 G; 36 T; 0 other;
+     aatgctttcc cattccgatc tacaggtaca aatggtctgc gaagacgcgg gcgacagaca        60
+     tacacccgct accagacgct cgagctggag aaggagttcc acacgaatca ttatctgacc       120
+     cgcagacgga gaatcgagat ggcgcacgcg ctatgcctga cggagcggca gatcaagatc       180
+     tggttccaga accggcgaat gaagctgaag aaggagatcc aggcg                       225
+//
+ID   LTRBLD_DM repbase; DNA; DRO; 400 BP.
+CC   LTRBLD_DM DNA
+XX
+AC   X04671;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Drosophila blood transposon LTR.
+XX
+KW   Blood transposon LTR; long terminal repeat; retrotransposon; DMBLDLTR.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-400
+RC   [1]  (bases 1 to 652)
+RA   Bingham P.M., Chapman C.H.;
+RT   "Evidence that white-blood is a novel type of temperature-sensitive
+RT   mutation resulting from temperature-dependent effects of a
+RT   transposon insertion on formation of white transcripts";
+RL   EMBO J. 5, 3343-3351 (1986)
+XX
+DR   GENBANK; X04671; 77.0.
+CC   Positions     140     539  Accession No X04671        GenBank (rel. 77.0)
+XX
+SQ   Sequence 400 BP; 110 A; 88 C; 89 G; 113 T; 0 other;
+     tgtaataaac caatatatgc caccaattga gaacacgtgt tttccttgca gttgggtgca        60
+     gccgtcaggc caccttttta tttcttctta tctcttcgag tagcagaaac ggttctgccc       120
+     cgcttaacct ctacagagtg tctaatctta cctaaatact gcgactgcgc cgccgtcgac       180
+     agcggcagaa gagcagcgta tatatatatg tataagagag agagagagag agcttatgcg       240
+     catatatggc cagcggccag cgtggggatg ctgacttagc ttaaagcata aatgggtgat       300
+     cttatatcac gctcacttga gacatttatt tatgcaatgc aactaagtgt tgctgtgtac       360
+     ttataggtac agtgtaccct cgatatatgc acatactaca                             400
+//
+ID   TART_B2   repbase; DNA; DRO; 4056 BP.
+CC   TART_B2 DNA
+XX
+AC   U14102;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   Drosophila melanogaster TART-B2.
+XX
+KW   Reverse transcriptase; TARTB2.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly.
+OC   Eukaryotae; mitochondrial eukaryotes; eukaryote crown group;
+OC   Metazoa/Eumycota group; Metazoa; Eumetazoa; Bilateria; Coelomata;
+OC   Protostomia; Arthropoda; Tracheata; Insecta; Pterygota; Neoptera;
+OC   Holometabola; Diptera; Brachycera; Cyclorrhapha; Drosophilidae;
+OC   Drosophila; Sophophora; melanogaster group; melanogaster subgroup.
+XX
+RN   [1]
+RP   1-4056
+RC   [1]  (bases 1 to 4056)
+RA   Sheen F.M., Levis R.W.;
+RT   "Transposition of the LINE-like retrotransposon TART to Drosophila
+RT   chromosome termini";
+RL   Proc. Natl. Acad. Sci. U.S.A. 91 (26), 12510-12514 (1994)
+RX   MEDLINE; 95107987.
+XX
+RN   [2]
+RP   1-4056
+RC   [2]  (bases 1 to 4056)
+RA   Levis R.W.;
+RT   "Direct Submission";
+RL   Submitted (29-AUG-1994) Robert W. Levis, Fred Hutchinson Cancer
+RL   Research Center, Division of Basic Sciences, 1124 Columbia St.,
+RL   Seattle, WA 98104, USA
+XX
+DR   GENBANK; U14102; 89.0.
+CC   Positions       1    4056  Accession No U14102        GenBank (rel. 89.0)
+XX
+SQ   Sequence 4056 BP; 1322 A; 966 C; 875 G; 893 T; 0 other;
+     gatcaagggt caagtaataa agattgaaag caaacaatca taccttggcg taatccttga        60
+     cagcaagcta accctcagct cccacgtcac aaagctgatg ggcaaataca ctacagccta       120
+     cagaaaaatg acatggattc taaacagaag aagcaaactc cctaccaaga ctaaaatgct       180
+     gatccttaag tcagtccttt caccaatatg gcagtatgcc atagcagctt ggggtcccct       240
+     tgtgacggat gcacagataa gacggatcca agtcgaggaa aataggaaaa tgagagacat       300
+     atgcagagcg ggtagataca cgagcaacca aactataagg gaccgctatg gaatcaaaac       360
+     agtagaagaa ttctatcaac aggcactcca caggttctca gaaacaataa aatctcaccc       420
+     aaatatagct gtacgcagga tattcacaag gcactatatc ccgaacagac tagaaagaag       480
+     caggcagagg tacttgaaaa tgacaaatga acacatcacg caaaaacaga ctggacaaac       540
+     actctcacct aaactcctaa aaatccctga tctaaatgac tgcagaaccc ttaaaaagcg       600
+     gaatgaaaga gataaaataa ggcaaaccca tctaattgaa ctccccaccc tgctgagact       660
+     agaggaagaa gaggaagagc ttagaagaat aaaaaaacag gaagagaggg aaagaaggga       720
+     aaaggaaacc caaaagtggc ctccagacag atggtgtgaa ttagaaatta acctatataa       780
+     taagcaatat agaaggggcg atctaaccag gcaggaaatc atacaaaaat ttagaggaca       840
+     accactaaat gtacagagga taattttacc cgactataaa ggagaccagg aacacaatta       900
+     aaagtaaatc atgggaaagc aggggaaaaa aaaacagaag taacaaaatg gcggaagggg       960
+     tggcaaaata tatataaaaa taagaaaaga tagaaataaa aaggctaaag gctcacttac      1020
+     aggttaattc aaaagggaaa cgtgcttaca tatctaatgg taaaaactaa cttataacac      1080
+     ctactggatg acatagtgag gatgccacag gttgcgcact tgaatcacgc tttcctggcg      1140
+     agattgttaa ggcatcaccg ggatcccgtc tctctttcct aactggagga ctcatgcctg      1200
+     aaatcttttc cgcttcaccg gcacctgatg gccatatctg ctactgcgcc ttgcgctcca      1260
+     cggacgctcc ttcctgaaag aaagagaatt tgttttagtt ttcctttctc ttcttaaaaa      1320
+     tataacaaaa acagcagcag tagccgacca acaacatact tagcttacca aggcagcagc      1380
+     aatgatacca acagaagccc tacagtgtgc tgaacaatat gccgcccacg cccaccactt      1440
+     ctggaactca ggaatggggg gtacggaatg ccggaaactg gaggattcgc ctcaaatgtt      1500
+     acgcttacat ctttgagcaa atcgcctgcc tcctcgtcta acggcccggc gtcttggtac      1560
+     gcccagaagt agcagcggta gcaggattag cagcctccac agagatatgt tcatcccagc      1620
+     atcagtccag ttggcattgt gatgccgccg tagcgtacgc cctcagagac ccgactggaa      1680
+     tcccaggaca agagacggca gcacgcctgg gcttaggcgc gggacaacat gcagagattc      1740
+     gtcaatgaga atggcggcac tggaatcacc tttcagctga gcgggataat gagtcggcaa      1800
+     cgcaccgcac tatcagcagc aataacaaca tcggcagatg acctggaaga aaggaaaaaa      1860
+     catgtatcag tcttttcttt tctttttttt tcccattagc atgcgttttt aaattccatt      1920
+     cctgaaaacc ggcgttttcc tgtaaaagac actggacggc ggcgtttgtt ttaaatgcaa      1980
+     agattggatg cttgcatcag ggctgacgtc cttgaatagc cgatgccttg taattgcctg      2040
+     catagccgcg gaggtcctga tgacggatgc tggcctgtat ttggccacca ctccgatgcc      2100
+     atgacagcag caacagcagc ggtttttgca aatgagaggg atcaggaggc ggcaacacat      2160
+     tcacccgtag cagcaacaac aagcagtggt agcatcagca gggagtcttc tcgccacaat      2220
+     agccatttgg aaatttctcg acgacccgac ttcctgcttg gcccatggtc aatcacactg      2280
+     gaccagttaa cagcggcgtt ttaccctgga agaaagaaaa cttgtattat tcattccctt      2340
+     ttctctcaca gttgggtatt taagtgcatt cctggccaac ctagcgtgtc tcctggcaat      2400
+     gacgtcggac tcaacgcatg cttcccttcc gacacagtaa ggatgttcgc atctgggctg      2460
+     acgggccagg ccggtccgtt gccatacatg ctagcgtttc cgcggcggcg tagtgaacat      2520
+     caaaccgtat aatggcgaag acgacgatga tccggccgga tggcagctcg acgacggtag      2580
+     caggccacca tgcccgccag cccgcagcta ggatagcagc aacatcagcg tcttattaac      2640
+     gcgaacggcg gcactggccc ttagctgacc agctgcaaca acatcagcga cgcagtctcc      2700
+     accagcagca acaacagcag cggcgcttgc gacagcagca gcagggaatg gttctgccgc      2760
+     agtcgcctat tgctgcctat aaagagcatt ccttgccaat tggctttctg tacgacgacg      2820
+     atgatcctgc ggacaaatcc acctttccgg acgcctgagt attatggcga gcctgctgat      2880
+     cattgtttct ccgactcctt acttgaccac tggacaatca tacaatcacc ggcttttcac      2940
+     atctggaaga aagaaacctg gattagtatt tgcccttcag atttgtatga aactgcattt      3000
+     ctggccaacc ggagtgtttc ctgcagacga cgctggactg cgacgcactt ttttctacca      3060
+     acacagatgg gacgcttgca tcagatctga cgggccagac tggccgatgc ctggtacacg      3120
+     atggcatctc cgcggcggcg agatgtgcag cgacgctgaa agcaataata attcttttac      3180
+     tttgcagtat caaaaatgag aagccacatc acaatttaca tcagcaaaaa ttacacgtga      3240
+     tatctttttc ttttgcctag gagtagtgag acctgctacc aaaatgacca gtaataccgg      3300
+     ctaacggaag cgagatatcg ataatcattc tggcggtaaa atagccagaa catcgataac      3360
+     cagctgtgca ttttcccttc gatttatcga agtcaaatag cccgcctagg ctatcggacc      3420
+     ggatcggcaa gtcagtagtg attaaaaatc cggcagaggc gcctgtgcag cagctaccca      3480
+     aagtgaacac gacgaaacgc aacaacaaaa tggacggaca taatggagat caaagtgaag      3540
+     gatgggcaac agtgctatct atctcctcgg atgatagtaa ctccttgtcg tcgctgcata      3600
+     tataaaataa taaatttctt aaaataattt catcgctgga ttcctgcgcc accataaatt      3660
+     acttatagaa tacacttaac actgtaccca ctaatgctaa aaattttctt atacaatttt      3720
+     actttaaagc taaaactact taaactatgg cgcgtaaaac ggccgtcaaa aatatccaaa      3780
+     aattgtactt gccataaaca aattctaaca taatgtaaat cctaaatcgt aaaatcatgg      3840
+     cgaacataac cgccgccaag caaatcaaaa aatgttccta gaaattgtaa atcttaaacc      3900
+     tacttctcta actaaagcgc gcacaactgc cgctgatccg aaattgtaaa atgccataaa      3960
+     ttgtaactat atattttata aaaaaaatca gagtacaata aaatgacagc gccgaaaggc      4020
+     actgaaaata tttaaaaaaa aaaaaaaaaa aaaaaa                                4056
+//
+ID   DMHMR1    repbase; DNA; DRO; 782 BP.
+CC   DMHMR1 DNA
+XX
+AC   X52809;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D. melanogaster DNA non-mobile heterochromatic moderate repeats
+DE   (HMR family).
+XX
+KW   Heterochromatic moderate repeat; HMR repeat family;
+KW   Repetitive sequence.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-782
+RC   [1]  (bases 1 to 782)
+RA   Shevelyov Y.Y., Balakireva M.D., Gvozdev V.A.;
+RT   "Heterochromatic regions in different Drosophila melanogaster stocks
+RT   contain similar arrangements of moderate repeats with inserted
+RT   copia-like elements (MDG1).";
+RL   Chromosoma 98, 117-122 (1989)
+XX
+DR   GENBANK; X52809; 77.0.
+CC   Positions       1     782  Accession No X52809        GenBank (rel. 77.0)
+XX
+SQ   Sequence 782 BP; 190 A; 185 C; 190 G; 217 T; 0 other;
+     tttttatttg aatttgggcg atttgagttg catcaaggcc ttcaggtgca accgaaagcc        60
+     taggtactgg aagtgcaagc gctttgttta gaaaacaacc aggactatat tcggagaatt       120
+     acttaccgtg ggtcgtccag gggcgatctc aagttcggca gcagcgagaa gaagatgtcc       180
+     gggaagctgg gcccgaacat cgctccgtcc agctgtgtat cagacttcgg atgaaagttc       240
+     tttttacacc gtgggcagta gatcttgacg gttgacttcg cccatacatc gctgaggccc       300
+     actggcaggg tgttctgcta tcacaggaga tattgggaca cgattcaaaa tctccttgca       360
+     tattatttcg gtgcatagca atcacgccac gctctgactt gatgtatcgg gcgtgaatca       420
+     tgccgtacca ctttttttca tcgccgtaca acaagccaga ggaactgtcg atcaccggct       480
+     tcaggatcac gtccagtatc tcgctgaaat actccaagcc catctggttg aacgtatcct       540
+     gcacgtagtc ggtgggcacg cgggagaggg actcgttgcc cttgatcccg aggaaccaat       600
+     cgatccagct gctgttgttg ttctggctac aagattttac tgtgacttgc tataatttct       660
+     ataggaaaaa cctagttact tacgagctca acatgttgcc agtttacttg ttcacagaaa       720
+     tatgacttgt agacttcaaa gtcatcgtct tcttctttga cttttgacac gtgctaaaag       780
+     gc                                                                      782
+//
+ID   FW_DM     repbase; DNA; DRO; 3520 BP.
+CC   FW_DM DNA
+XX
+AC   M17214;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D.melanogaster Fw repetitive element.
+XX
+KW   Repetitive element; DMFW.
+XX
+OS   Drosophila melanogaster
+CC   D.melanogaster (white locus of w i+A flies) DNA, clone pA22.7.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-3520
+RC   [1]  (bases 1 to 3520)
+RA   Di Nocera P.P., Casari G.;
+RT   "Related polypeptides are encoded by Drosophila F elements, I
+RT   factors, and mammalian L1 sequences";
+RL   Proc. Natl. Acad. Sci. U.S.A. 84, 5843-5847 (1987)
+XX
+DR   GENBANK; M17214; 77.0.
+CC   Positions       1    3520  Accession No M17214        GenBank (rel. 77.0)
+XX
+SQ   Sequence 3520 BP; 1203 A; 940 C; 615 G; 762 T; 0 other;
+     tgaaccagaa aacaagcctc ctagaaaaaa cgaggttcac ccaatttaca aactccagct        60
+     ccttttgcac cgtaggatca cggtagaaga gccgcacaaa cgcaacgctc ctgtacaatg       120
+     tacaaactgc caagagtatg gccacacgag gtcatattgt acacttgccc cggtgtgcgt       180
+     agtctgtgga gatctccacg actccaaaca gtgtcaaatt aacaaagaaa atgcatgcga       240
+     gaaaaaatgt aataactgcg ggggcaatca cacagcaaac tacagaggct gtccaatcta       300
+     caaagagctg aaaatccgtc ttcacaaaag aatgaacacg gcgcgggtac acaaggatca       360
+     gctaccctga taccatcaga gacaaatcct gaagtaattt tctcgaaagc agctagtttc       420
+     gctccctggc ctacattcaa cactaacaaa gacaacattt gctaacgttt taaaatcagg       480
+     tatgacgcct ccaacccaaa actcccgaac tccacatgaa gtgcacacaa aattagacac       540
+     acaacaaaac tatcacccag ctgcgcagca ggaaacaaaa actgaagcta tgatgcaagc       600
+     cttacaacag agcatgatgg aatttatgac atttatgaag accaccattc aagacatgat       660
+     gcgtaatcaa aaccttttga tacaaatgct tgtagcccaa caatcaaata aataatggct       720
+     accttacgca tagctacgtg gaacgccaat ggcgtctcac agcgcaaact tgagctagct       780
+     caattcctac atgagaagca tatcgacgta atgcttcttt cggaaactca tctcacaagc       840
+     aaatacaatt ttcaaataag agactaccat ttctacggta caaatcatcc cgacggaaaa       900
+     gcacacggtg gcaccgccat actcataagg aaccgtatga agcaccactt ttacaaagaa       960
+     tttgcggaaa atcatcttca ggccacatct atcaacattc agctggatga caacactctc      1020
+     cttacactag cggccgtata ctgccccccc cgtttcacag tattagaagc tcaattcctg      1080
+     gatttcttcc aagcactagg gccacacttc attgcagcag gcgactacaa cgctaaacat      1140
+     actcactggg gatcgcgact tgtgaaccca aaaggaaaac agctttataa gacgataata      1200
+     aaagccacta ataaacttga ccatgtttcc cccgggagtc ctacatactg gccatcagac      1260
+     ctcaataagc tgccagacct gatcgacttc gcagttacga aaaatatttc ccgcagtttg      1320
+     gttaaagctg aatgtctgcc ggatctctca tctgatcact cgcctgtact aattcacctc      1380
+     cgccgatacg cagaaaacgt gaaaccacca accagattga cctctagcaa aacaaactgg      1440
+     ctcaggtata aaaaatatat aagttcacat attgagctaa gcccaaaact caatactgaa      1500
+     tctgatatag agagctgcac gtgtgcattg caatccatcc ttactgcagc agctcttact      1560
+     gcaacaccca aaataacaaa taatacaatt aattcaaaaa agaccaacgt acaaatcgag      1620
+     caactcgtcc acgtaaaacg tcgcttacgc agagaatggc aatcttccag atccccaact      1680
+     gcaaaacaaa agctaaaagt agccacacgg aaactggcca acgctctgaa acaagaagag      1740
+     gacgacgatc agcgccgata catagagcaa ctcacaccaa caggcacaaa acaaaagtca      1800
+     ctgtggcgag cccactcaac tcttcgccca ccgactgaaa ccgttttgcc gataaagaat      1860
+     tcatcaggtg gctgggcccg tagtgatgaa gacagagcca acacatttgc cgctcaccta      1920
+     caaaatgtgt tcacgccaaa ccaggctact agcacattcg cgctaccgtc ctatcccgta      1980
+     aaccgccatc agcaacacac cccaattgtg tttcgtccta aagaaataac taaaataatc      2040
+     aaagacaatc tcagcccgaa aaaatccccc ggctacgacc ttataacacc ggaaatgatc      2100
+     atccagctgc cacattctgc agttcgctac ataaccaagc tctttaatgc catcaccaaa      2160
+     cttggttact ttccacaacg atggaagatg atgaagatca taatgattcc aaagcctggt      2220
+     aagaaccaca cagtcgcttc atcttacaga ccaataagtc tactctcatg catttcgaaa      2280
+     ctattcgaaa aatgcctgct gatccgactt aatcaacatc agacatacca caatataatc      2340
+     ccagcccacc aatttggatt tcgcgaaagc cacggaacca ttgaacaggt gaatcgtatt      2400
+     acaacggaaa taagaactgc atttgaatat cgcgaatact gtacagcagt atttttagac      2460
+     gtatcccaag cattcgacaa agtctggctc gacggcctaa tgtttaaaat taaaatatcc      2520
+     ctacccgaaa gcacacacaa acttctaaag tcttacctct atgacagaaa gtttgcagtg      2580
+     cggtgcaaca ctgccacttc cactgttcat acaattgagg ctggagtccc ccaaggcagc      2640
+     gttcttgggc caaccttata cctcatctat acagccgaca tccctacaaa tagtcgctta      2700
+     acggtatcca catttgccga cgatacagct atccttagcc gttcaaggtc ccctatccaa      2760
+     gctacagcac agttggcact gtacctcatc gacattaaga agtggctctc tgactggcga      2820
+     ataaaagtaa acgagcaaaa atgcaagcac gtgacgttta cgctaaacag acaagactgt      2880
+     cctccgctct tgttgaacag cataccactc ccgaaagcag acgaggtaac gtacctagga      2940
+     gtacacctag acagaagact cacatggcgc aggcacattg aagccaaaaa aacccaactt      3000
+     aaactcaaag ccaacaactt acactggctc atcaactctg gttctccgct cagcctagat      3060
+     cacaaggtct tgctctacaa ttctatattg aaaccaatct ggacctatgg ctcacagtta      3120
+     tggggcaatg ccagcaacag caatattgac atcattcagc gagcacaatc aaagattctg      3180
+     agaaccatca ctggggcacc gtggtacgtt cggagtgaaa acatccaaag agacttaaat      3240
+     atcccatcag ttaccaacgc aatcacggaa cttaaggaaa aatacctata gcaagcttca      3300
+     cacgcacccc aaccacctag cgcgaggtct aatccagctc agcagccgtt cccgtctccg      3360
+     gcgaaaggac ctaccaaccc agcgaataaa ttattaggcc gtttaaacat agacagttgg      3420
+     aaaaataata caactgttca aaaaatactt gttatagtta agatttttaa acttattgtt      3480
+     agttcttata caagaagatt caataaataa aaagcaaagt                            3520
+//
+ID   DMLTR5    repbase; DNA; DRO; 266 BP.
+CC   DMLTR5 DNA
+XX
+AC   J01078;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   D.melanogaster transposon-like insert into cuticle protein gene III
+DE   (CP3), 5'LTR.
+XX
+KW   Repetitive sequence; transposon.
+XX
+OS   Drosophila melanogaster
+CC   D.melanogaster (variant 2/3), clone pDm 2/3-1.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-266
+RC   [1]  (bases 1 to 317)
+RA   Snyder M.P., Kimbrell D., Hunkapiller M., Hill R., Fristrom J.,
+RA   Davidson N.;
+RT   "A transposable element that splits the promoter region inactivates
+RT   a Drosophila cuticle protein gene";
+RL   Proc. Natl. Acad. Sci. U.S.A. 79, 7430-7434 (1982)
+XX
+DR   GENBANK; J01078; 77.0.
+CC   Positions      48     313  Accession No J01078        GenBank (rel. 77.0)
+XX
+SQ   Sequence 266 BP; 74 A; 55 C; 69 G; 68 T; 0 other;
+     agttaataat tacagttatc gatttgattt tgaagatcgc aagcgaccgt ttattgcaat        60
+     ttatcattcg aaactaaatc tagcgtacaa aatgtttccc taagtcccta gcaatcaagt       120
+     gaagtcgtcg gcagtggcgc agcaggcgtc ggccgcggcg cagcgcagaa gtgtcgatgt       180
+     cgcgcttaac cgttcgttgg cgttgatggc agcggagact atgtggaacc acaagatgtt       240
+     agagaatcaa ttgcagggca ataact                                            266
+//
+ID   TIRANT_I  repbase; DNA; DRO; 4352 BP.
+CC   TIRANT_I DNA
+XX
+AC   X93507;
+XX
+DT   13-MAR-1998 (Rel. 3.2, Created)
+DT   13-MAR-1998 (Rel. 3.2, Last updated, Version 1)
+XX
+DE   D.melanogaster LTR retrotransposon Tirant - an internal sequence.
+XX
+KW   LTR retrotransposon; GYPSY superfamily; TIRANT_LTR; TIRANT_I.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly.
+OC   Eukaryotae; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Diptera; Brachycera; Muscomorpha; Ephydroidea;
+OC   Drosophilidae; Drosophila.
+XX
+RN   [1]
+RP   1-4352
+RC   [1]  (bases 1 to 4352)
+RA   Viggiano L., Caggese C., Barsanti P., Caizzi R.;
+RT   "Cloning and characterization of a copy of Tirant transposable
+RT   element in Drosophila melanogaster";
+RL   Gene 197, 29-35 (1997)
+XX
+RN   [2]
+RP   1-4352
+RC   [2]  (bases 1 to 4352)
+RA   Caizzi R.;
+RT   "Direct Submission";
+RL   Submitted (27-NOV-1995) R. Caizzi, University of Bari, Institute of
+RL   Genetics, Via G. Amendola, 165/A, I- 70126 Bari, Italy
+RL   REMARK    revised by [3]
+XX
+RN   [3]
+RP   1-4352
+RC   [3]  (bases 1 to 4352)
+RA   Caizzi R.;
+RT   "Direct Submission";
+RL   Submitted (14-JAN-1997) R. Caizzi, University of Bari, Institute of
+RL   Genetics, Via G. Amendola, 165/A, I- 70126 Bari, Italy
+XX
+CC   The 5.3 kb TIRANT present in the GenBank sequence X93507 possesses 
+CC   identical 417 bp long terminal repeats (TIRANT_LTR in Repbase) at
+CC   both ends. There is a serine tRNA binding site downstream of the 
+CC   5' LTR sequence and a polypurine tract upstream of the 3' LTR end.
+CC   The insertion leads to the duplication of a host-site CGCG sequence. 
+CC   In situ hybridization to salivary glands chromosomes showed
+CC   evidence of the mobile nature of the element. The DNA sequencing of 
+CC   the cloned 5.3 kb element revealed that TIRANT possesses an open 
+CC   reading frame (ORF) that shows similarity with the envelope protein
+CC   encoded by the gypsy and 297 retrotransposons. In addition, the cloned 
+CC   element appears to be a subgenomic fragment of a not yet identified 
+CC   complete element, because only the integrase domain of the reverse 
+CC   transcriptase gene is found [1].
+XX
+DR   GENBANK; X93507; 103.0.
+CC   Positions     416    4767  Accession No X93507       GenBank (rel. 103.0)
+XX
+SQ   Sequence 4352 BP; 1589 A; 998 C; 683 G; 1082 T; 0 other;
+     ctggcgcagc cggtaggatg tcctacctat taataattac ctacctgtaa gtaaacatgt        60
+     aagaaacgaa acaaactata tgcaagatgt cgactgaaag tgactaggaa caaattttta       120
+     taaaacaaaa ttgaagttgt gaagtaccaa atgaaactca aacatatatt caaacacagg       180
+     aaaaaaaaaa gagagaggaa aaatgtaaaa taaataaata tacaaaaaaa gtgcatgtgt       240
+     accgtactgc cgcgctgacg tggaatctat cgctgatcat cacgccatcg gtatgtccat       300
+     actctgccaa acgtcataat ttttataaaa aagtgcaagt gtaccgtact gccgcgctga       360
+     cgtggaatct atcgctgatc atcacgccat cggtatgtcc atactctgcc aaacgtcata       420
+     attttttata aaaaagtgca agtgtaccgt actgccgcgc tgacgtggaa tctatcgctg       480
+     atcatcacgc catcggtatg tccatactct gccaaacgtc ataattttta taaaaaagtg       540
+     caagtgtacc gtactgccgc gctgacgtgg aatctatcgc tgatcatcac gccatcggta       600
+     tgtccatact ctgccaaacg tcataatttt tataaaaaag tgcaagtgta ccgtactgcc       660
+     gcgctgacgt ggaatctatc gctgatcatc acgccatcgg tatgtccata ctctgccaaa       720
+     cgtcataatt tttataaaaa agtgcaagtg taccgtactg ctgcgctgac gtggaatcta       780
+     tcgctgatca ccacgccatc ggtatgtcca tactctgcca aacgtcataa gtttttataa       840
+     aaaaaaaaga gtgcaagtgt accgtactgc cgcgctgacg tggaatctat cgctgatcat       900
+     cacgtcatcg gcacttacat acgctggcca acgcatcgcc aaagcctcta tatacactta       960
+     tatatgtgag catacaatat caactacaat ccaatacatt cacgtactgt accgcctcgt      1020
+     tggcatggaa tcaaacgctg atcaccatgc caccgtggta aacaaacaaa gcaccaaagc      1080
+     ctccctaata cattgtacac tcaaaacgta cactgccata cgtcggcgaa aaatcaaaac      1140
+     ataagcaaaa atcatttcaa accaagcgag gctcattctg cgtaccacaa cgacaacgac      1200
+     actgcatgtg tagtggcgca cccatgtctg ggtagccgag gtaaggggaa aacgcttgag      1260
+     tatcgtcaag tgttcttgcc tttcactctt ctacaatggg ttgctacgct catgtattgc      1320
+     acattcaaaa taaccaaaac aaatgtacta aagaagtcga catatacaga tatatttggt      1380
+     tccctttcat tgtgtaattt ggtatatcaa acaaatacta ataccaatca cattgcaaaa      1440
+     tataaaaggg aaaatataaa gccaaagaca gacacctata cacatcatat ctacacaccc      1500
+     atacactcta gtaaacaaga aatttgttca ttatttttca atcatacata atatactaag      1560
+     taacctcaaa tttaatgtca aaaaagttcg tttacaacct taggaaaact acacgttcag      1620
+     ttgttggagt tccaccaaac ctacttctca gcccacagtc aatttaaact cattagatgt      1680
+     ttgatcttcc tccccgaaat tactgatagt acggagatcg aaaaaattat aaccgactat      1740
+     cactataata gtaaccatcg agggatcgat gaaacatatt tacacataaa acgacaacag      1800
+     ttcttcccac atatgaagga gagaataact cagttaattc gaaaatgtga aacatgttta      1860
+     aaattaaaat acgacagaca acctcaaaag atcacttacc aaatatccga actaccttca      1920
+     aaaccgttgg acatcttaca tatagacatt tatactatta acaaaaatta taaccttact      1980
+     attatcgata aattttctaa atttgcggct gcctacccta taactaatag gaattgtatt      2040
+     aacgtagtta aagccttaaa acatttcatt tcccaatttg gtattcccaa aaagctgatc      2100
+     tatgatcagg gagcagaatt cgctagcgat atgttcaata agttctgcac tcaatttaac      2160
+     attgacctgc acgttacgtc cttcaacaat cctctagtaa ctctcccgtt gaacggcttc      2220
+     actcgacact aactgagatt tacagaataa tacttgacgt caggaaacaa cagaaactca      2280
+     gtagcgaaca tgacgagata atgtccgaaa ccctaatcac atataataac gctattcatt      2340
+     ctgcaactaa acataccccc tttgaactat ttaacggacg tactcatata tcaaccaaac      2400
+     aatccagttc aataacgaac acgactactt aacgaaatta aatgaatttc cgccgagaag      2460
+     ttgtaccccc tcatcacgga caaactttca aatgacgtag ttaggagaac cctaaaatta      2520
+     aatgaaaccc gaacagaccc cgtagaccta caaccagaca ctttagtcct taggaaggaa      2580
+     aacagacgta ataagattac acccaggttt tcgattcaca aagtcaaaca cgacaaaggt      2640
+     catacattga taactgctag gaatcaaaaa ctacacaaat caaaaattcg aaaaacagtt      2700
+     ttgaaaaaag acaaaagcaa caacgtaccc aacactgata ataaatgacc ccactacctc      2760
+     ttaacttacc atttcaggtt cacccttgtg ccaactcagg ctatccatgt ccattattta      2820
+     aatgataacg cccctatagc caagatagaa ctagggaaag ccttactaat tgagaggtac      2880
+     aaaataatta gtcatgtaat caacctacaa gactacagca gatgtatgga acaattccat      2940
+     ctgaccatta ataaatttaa ccccgattcc acgttgacgg actccgtcac aattttaaaa      3000
+     accaaattaa cccaagccca agtaaagctc aaagccctta cgccttcata tagaaacaaa      3060
+     cggggtttga ttaacggatt ggggagtcta gtaaaggcgg ttaccggcaa catggatgcc      3120
+     aacgacaata aagaaataca tgaagaactt gacaatataa agaaaaattc cgaagtcagt      3180
+     aacgacaatc tccaaaaaca agtaatgttt aacaacgaaa tacttatccg gttcgaaaat      3240
+     atcacggacc atataaataa tgaacaaatt ttgataagta aattctttga tacctcacaa      3300
+     aacaaaatat acaaacactt aaacttacaa gatacccttc tggaagaaat acaatattta      3360
+     aataggatta attataacat agaattattc attaaccacc taaacgacat aacagaaagt      3420
+     atgctattgg cgaaaataaa tataattccc aagttcatcc taaatgaaca agaaatggat      3480
+     aaaataaaaa caatactgga aaaacaaaat atcacagtca aaaatgaaca aagtatatac      3540
+     aatttcctac aaatgaatac actaaattac gaacaaaaga ttatttttaa tatcaaagtg      3600
+     ccaattttta aacaaccttt tcataccctc gccagactag ttccattacc aataaataac      3660
+     acatattttg taataacccc aaattaccta gcttataata ttaataataa gaaatttcat      3720
+     atgacccgta aatgccccaa actggataat acattcttgt gcgacgagaa cttctacgtt      3780
+     gatacaccac agaacaacac atgcctggaa caccttttga acggagaaaa cagttcctgc      3840
+     gatgtacggg aaaccggccc catcaccgac gtgttcgagg cagagagagg ttacatcttc      3900
+     gcattcaacg tgaacaaact gaaggtatcc ctaacaaacg gctccgagct ctcaataatg      3960
+     gggtcagcca tcatcagata cattaacgaa acaatacaga ttaacggtat cgattacgac      4020
+     ggcacggttg acacgttccc tgaacagacg gattttgatc ttccccccat gcgaaaagta      4080
+     actaggaata ccactattac ggtactaagc ctagaaaaac tgcacctcga agccacccaa      4140
+     acaatggata aaatcctggc cgtccatcac aatactatac agcacacctg gacactctac      4200
+     gctctgctcg gattggtaac gttcctagca gtcatcttat ggctgcaccg acgaacgaaa      4260
+     cacatcgtcc acatccacga ggatcatcac gtaccaatct acgcgtcatc cataccttcg      4320
+     ctatggccgt cacttcgaac tgggggggga gg                                    4352
+//
+ID   FORK_DM   repbase; RNA; DRO; 1435 BP.
+CC   FORK_DM RNA
+XX
+AC   X62679;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D.melanogaster forked gene suppressor repeat.
+XX
+KW   Tandem repeat; repetitive sequence; DMFORK.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-1435
+RC   [1]  (bases 1 to 10133)
+RA   O'Hare K.;
+RT   "Direct Submission";
+RL   Submitted (18-OCT-1991) K. O'Hare, Imperial College of Science,
+RL   Technology and Medicine, Dept of Biochemisty, London SW7 2AZ, UK
+XX
+RN   [2]
+RP   1-1435
+RC   [2]  (bases 1 to 10133)
+RA   Tudor M., Mitchelson A., O'Hare K.
+RT   ;
+RL   Unpublished
+XX
+RN   [3]
+RP   1-1435
+RC   [3]  (bases 1 to 10133)
+RA   Mitchelson A., Simonelig M., Williams C., O'Hare K.;
+RT   "Homology with Saccharomyces cerevisiae RNA14 suggests that
+RT   phenotypic suppression in Drosophila melanogaster by suppressor of
+RT   forked occurs at the level of RNA stability.";
+RL   Genes Dev. 7, 241-249 (1993)
+XX
+DR   GENBANK; X62679; 77.0.
+CC   Positions    8638   10072  Accession No X62679        GenBank (rel. 77.0)
+XX
+SQ   Sequence 1435 BP; 469 A; 236 C; 265 G; 465 T; 0 other;
+     aagggcgctg tcacctcgaa aactttaaaa gctttgaagt taagataatg tatgcatttc        60
+     tttccttttt tctgattttc gaaacgtaac gttttaaacg ttttaatcat tcgttaatca       120
+     aacagcaatt catataacag aacgttatat gaatttttgt taagtgttct aaatattttg       180
+     gtaacacaga caggacgaaa tgaattttct atctattaaa taaattgata tttaaagaaa       240
+     gcaaattaat ttagaaatat attgacaatt tccaactaat ttatctctgt tatggaaaat       300
+     tagtttagga aaaaagttaa aataacaaaa ggaaccgcta tagtagattt tctccactag       360
+     cgccactcaa ctaaggggag aacgagggag aaactttgaa acttgattgt catatccata       420
+     aaattgttta gaataacaag agagaatgct atagtcgagt tgcctgaata tcagataccc       480
+     gttaacccag atatttttct gcgataccaa aagatgttgg ggaataaaat gagaaaaaat       540
+     ttcaacaatt ttcaaaagtg gggcgtgacc ggtttgtcgg cttaagggcg tcacagtggg       600
+     tgtggcaaac agtttttttt ttgcacatcg atcggaattt acaagactaa taaagatgtg       660
+     aaaaaatatc aatatatttt tcaaaagagt gatcgtggca ttttttcgtg ggcttgtggg       720
+     cgttgcaaca tggatcaaca aacttgcgct gcgtctttgt ctctagaatc tgcatgctaa       780
+     atctccgcct tccagctttt atagttcctg agatctcgac gttcatacgg acagacggac       840
+     atggctatat cgactcggct attgatccgt tatacagtcg gaaacgcttc cttctgcgtg       900
+     ttacattcct ttaaacgaat ctacgttact ctacgagtaa cgggtataat aaccaaataa       960
+     aaaagtctaa acatatttaa aaaatttggt tggcgttcga atgagatggt ggaggtattt      1020
+     tggcaaagcg atacaaagta gcaaaaaatc aaaaaatgca atgaaaaata attataacat      1080
+     ttcacaaaag tgtgggtgtg aaccttttgg gcggtttgcc gtcgttaggg tgtgcgaata      1140
+     tttcaaaact tgcccacgta ccactatgtg aaattttacc actttttctg cccaaaatga      1200
+     ataactccag gacgttgaaa gatattcaga ttgggttaca atatatccgt tctgaaaccg      1260
+     ccccttatat ttgttgtagt ttgtaactct agaacggata aagatattta aatttttttg      1320
+     ccattatctt ttatgatacc aaaaattgtg gccgtggcac cgcctcttat atttaattaa      1380
+     ctaattttgt ataggtattt ctctaatttc gtatgctttt tctagtccaa gcaaa           1435
+//
+ID   ARS312_DM repbase; DNA; DRO; 265 BP.
+CC   ARS312_DM DNA
+XX
+AC   J01068;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D. melanogaster autonomous replication sequence (ars) 312.
+XX
+KW   Origin of replication; repetitive sequence, ARS312.
+XX
+OS   Drosophila melanogaster
+CC   Drosophila (Drosophila melanogaster) chromosomal dna.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-265
+RC   [1]  (bases 1 to 265)
+RA   Selick H., Kauffman S.
+RT   ;
+RL   Unpublished (1983) Biochem and Biophys Dept, U of Pennsylvania
+XX
+DR   GENBANK; J01068; 77.0.
+CC   Positions       1     265  Accession No J01068        GenBank (rel. 77.0)
+XX
+SQ   Sequence 265 BP; 77 A; 54 C; 29 G; 105 T; 0 other;
+     ccacttcccg tccaaaacta ctacgcccaa gcctataaaa aatgttttga tatattttca        60
+     tatttattaa tattattgtt attattatta tttattagtc ttgtaaattt ctatcgattt       120
+     gccaaaaagc tttttgttac gatcactcta acgcactcta acactcaaaa gtgccgcacc       180
+     cacacttttg ataaattttt taatatattt aaatattttg ttgcgaactg ctttctttcc       240
+     ttagtgacag tgcctctagc tcagg                                             265
+//
+ID   DMLTR4    repbase; DNA; DRO; 478 BP.
+CC   DMLTR4 DNA
+XX
+AC   J01110;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   D.melanogaster mobile dispersed genetic element mdg1, 5' LTR.
+XX
+KW   Repetitive element; terminal repeat; transposon; DMLTR4.
+XX
+OS   Drosophila melanogaster
+CC   D.melanogaster DNA, clone Dm58.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-478
+RC   [1]  (bases 1 to 508)
+RA   Kulguskin V.V., Ilyin Y.V., Georgiev G.P.;
+RT   "Mobile dispersed genetic element MDG1 of Drosophila melanogaster:
+RT   nucleotide sequence of long terminal elements";
+RL   Nucleic Acids Res. 9, 3451-3464 (1981)
+XX
+DR   GENBANK; J01110; 77.0.
+CC   Positions      31     508  Accession No J01110        GenBank (rel. 77.0)
+XX
+SQ   Sequence 478 BP; 142 A; 71 C; 80 G; 185 T; 0 other;
+     tgtagttaat ttgaattcta atacttctga tgtagttaat aaagtctcaa aacgcagttg        60
+     gtcattttat ctttatttgg tttttattaa gcgagtgtac attcctgatc tattcctgat       120
+     ttataactga tcttagtgtg gtctacaggg agatctcttg tgacagccaa gtgctgacac       180
+     tagcaaattc tgcaatatgt atgtatgaag ttcatactcg ataaccaatg ggagtcgagt       240
+     ccgaccccta aaggcgtaca tcctgaattc gcatatttag tattagggtg tatctaaaga       300
+     tctactaggg tgaccctaag gaattagggt ggtcctaagt ttacttatta gttgacttat       360
+     tattatgatt catattataa ttattattaa tattattatt attattgtta ttattattgt       420
+     tattatattc gtatatacta catctccctc cttttgaaaa ataacgtaat aacatgaa         478
+//
+ID   ROO       repbase; DNA; DRO; 463 BP.
+CC   ROO DNA
+XX
+AC   X01918;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Drosophila roo transposable element from 68C glue gene cluster.
+XX
+KW   Repetitive sequence; transposon.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-463
+RC   [1]  (bases 1 to 6751)
+RA   Garfinkel M.D., Pruitt R.E., Meyerowitz E.M.;
+RT   "DNA sequences, gene regulation and modular protein evolution in the
+RT   Drosophila 68C glue gene cluster";
+RL   J. Mol. Biol. 168, 765-789 (1983)
+XX
+DR   GENBANK; X01918; 77.0.
+CC   Positions       1     463  Accession No X01918        GenBank (rel. 77.0)
+XX
+SQ   Sequence 463 BP; 139 A; 92 C; 95 G; 136 T; 1 other;
+     ctgcagagtc gattaaaggc tcagattaga ccaaatgtaa aatcccagat aagaagactt        60
+     tactcgttgn ctttttgtaa gaaactgatt ttatttggaa atatcttcgg tttaaatagg       120
+     tgacatgaga atcgcatctt aaagtaaatg gcctacgcag aggcctaagt aaatagtccc       180
+     cgccttatcg aggtcccacg ctcgggcaca tctgcctatc ttgagcggcg aggaccttat       240
+     ctgtggtctc ccactaaggg actattttag gaggcgggga acgatctcaa gtgactgact       300
+     catgtagtgt gcacttaaat tacatgtttt tgagcaatgc acccatgtcg ccttagataa       360
+     caaaatccta aatataattt atcgctctcg attcatttac ataagatatg aacggagccc       420
+     aaaattgtaa gtctttaaat atattcgtgt tcatgtgtga aca                         463
+//
+ID   LTRBLD_DM repbase; DNA; DRO; 399 BP.
+CC   LTRBLD_DM DNA
+XX
+AC   ;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   19-NOV-1998 (Rel. 3.2, Last updated, Version 3)
+XX
+DE   LTR from BLOOD LTR-retrotransposon - a consensus sequence.
+XX
+KW   BlOOD LTR-retrotransposon LTR; long terminal repeat; BLOODI; DMBLDLTR;
+KW   LTRBLD_DM.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-399
+RC   [1]  (bases 399 to 1)
+RA   Bingham P.M., Chapman C.H.;
+RT   "Evidence that white-blood is a novel type of temperature-sensitive
+RT   mutation resulting from temperature-dependent effects of a
+RT   transposon insertion on formation of white transcripts";
+RL   EMBO J. 5, 3343-3351 (1986)
+XX
+RN   [2]
+RP   1-399
+RC   [2]  (bases 1 to 399)
+RA   Wilanowski T.M., Gibson J.B., Symonds J.E.;
+RT   "Retrotransposon insertion induces a novel isozyme of
+RT   sn-glycerol-3-phosphate dehydrogenase in Drosophila melanogaster";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92, 12065-12069 (1995)
+XX
+RN   [3]
+RP   1-399
+RC   [3]  (bases 1 to 399)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (November, 1998)
+XX
+CC   LTRBLD_DM is LTR of active BLOOD LTR-retroelement.
+CC   Originally reported orientation has been changed based on the
+CC   internal sequence BLOODI [2,3]. There are several identical copies
+CC   of the LTRs in the drosophila genome.
+XX
+CC   [3] (Consensus)
+XX
+SQ   Sequence 399 BP; 113 A; 89 C; 87 G; 110 T; 0 other;
+     tgtagtatgt gcatatatcg agggtacact gtacctataa gtacacagca acacttagtt        60
+     gcattgcata aataaatgtc tcaagtgagc gtgatataag atcacccatt tatgctttaa       120
+     gctaagtcag catccccacg ctggccgctg gccatatatg cgcataagct ctctctctct       180
+     ctctcttata catatatata tacgctgctc ttctgccgct gtcgacggcg gcgcagtcgc       240
+     agtatttagg taagattaga cactctgtag aggttaagcg ggcagaaccg tttctgctac       300
+     tcgaagagat aagaagaaat aaaaaggtgg cctgacggct gcacccaact gcaaggaaaa       360
+     cacgtgttct caattggtgg catatattgg tttattaca                              399
+//
+ID   BLOODI    repbase; DNA; DRO; 6613 BP.
+CC   BLOODI DNA
+XX
+AC   ;
+XX
+DT   19-NOV-1998 (Rel. 3.2, Created)
+DT   19-NOV-1998 (Rel. 3.2, Last updated, Version 1)
+XX
+DE   Drosophila LTR retrotransposon BLOOD, an internal portion- a consensus
+DE   sequence.
+XX
+KW   LTR retrotransposon; protease; reverse transcriptase; LTRBLD_DM; BLOOD;
+KW   BLOODI.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa/Eumycota group;
+OC   Metazoa; Eumetazoa; Bilateria; Coelomata; Protostomia; Arthropoda;
+OC   Tracheata; Insecta; Pterygota; Neoptera; Holometabola; Diptera;
+OC   Brachycera; Cyclorrhapha; Drosophilidae; Drosophila; Sophophora;
+OC   melanogaster group; melanogaster subgroup.
+XX
+RN   [1]
+RP   1-6613
+RC   [1]  (bases 1 to 681)
+RA   Wilanowski T.M., Gibson J.B., Symonds J.E.;
+RT   "Retrotransposon insertion induces a novel isozyme of
+RT   sn-glycerol-3-phosphate dehydrogenase in Drosophila melanogaster";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92, 12065-12069 (1995)
+XX
+RN   [2]
+RP   1-6613
+RC   [2]  (bases 1 to 6613)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (November 6, 1998)
+XX
+CC   LTR of BLOOD retrotransposon is listed in REPBASE as LTRBLD_DM.
+CC   All copies of BLOOD were found in chromosome 2; they have 5 bp
+CC   long target site duplications (all targets are different).
+CC   Some of the copies are identical, including LTRs. BLOOD is 
+CC   presumably an active LTR-retrotransposon. BLOOD is related to
+CC   MDG1 and DM412 retrotransposons found in Drosophila.
+XX
+CC   [2] (Consensus)
+XX
+SQ   Sequence 6613 BP; 2616 A; 1224 C; 1155 G; 1618 T; 0 other;
+     tggcgaccgt gaggcaggag cctgcgatct gaggactact gaggaaatgc tgctaatatt        60
+     gccgatttga tttgggaatt ctaaacagcg acaacaggtg tgagaggcag gccgcccctt       120
+     acaccagtgc gggagaccta gagacgggac actgatgaaa aaaaaaagaa acaaaaatac       180
+     tgagtgagta gagtgtggta atgggcaaac gcggatgtca ggaaatcaaa aataaaggta       240
+     tagcacatat taagtggcta tgatatacaa ataaaacacc gcccccatgg gcaacggcac       300
+     agaaattaac tgccgaatta gactttctga aagaaaacct ccagcaaaga aagccgaata       360
+     ccacaactca ctcagcaaaa atagaaataa tcaatgaaga aataactgaa aattcaacat       420
+     cacccaagcc gaaaagaccc gacgtctgca tgaacgactg ccctcgacca ttgtaagccg       480
+     caacagcaat tagcacggca tcctgcgagg gtaggattag gataaaggat aaaggattcc       540
+     accggcgcgc cgcacatgac aacagcgaat gtctaccaag cagacgttcg aacaccctgc       600
+     tcctgtcgag caaagggatc tgccaagtat caaagaggta atagaggtag atccgtccgc       660
+     gggaccaaag cccttgacca tacaagagta caaggcacgg actgcagcga gggagcagcc       720
+     acctaaaaag aagaggggtg gccgccggat taagttgctc agcgcccgga ggctcaacat       780
+     cgaactactg aagacggcaa ctaatgagga agaccggcag cgctacaaag agcgccttgc       840
+     agccatcaat caacaacttc gtggtgcgaa gtaaagcggc gggctgcgtt atacgccata       900
+     gcctcaaccg cccaaatatt atattaatgt tgtcgatgcg gtttccgctg caacaaaatt       960
+     actaacttat cagggaccca tttcataact aacacattat actcagtcct aaacttaaaa      1020
+     taagtaataa tattgtaaaa ttgcaaattg caaccgatgt aaactgagta taatgaattc      1080
+     atctatcaag taaaaatatg tttaacaaca gtttagacct attaaaattt cgagctatat      1140
+     ttatatctga tcgagataac aataattgac caattctcaa agttaaaatt ctatttgtac      1200
+     ttttgatata caaataaaga ctaattttcc ccatatcaaa atgggacata agtcgtggat      1260
+     acaaccccac agttaaattc aatgtactta ctatttttga ttttagttat cctatcagcc      1320
+     ttttaacctg gccttaaaac tttatcagtt tcacaaaaga tcgttgaaaa gacttacatg      1380
+     agtcgagcca atgatttaga caaaatctaa tagaaactac accaaaaagg tacaagtgcg      1440
+     attacatcgc taaaaggtac atacatggaa tggctaaact taaccatatc cataaacaat      1500
+     attagagatg cttttgataa atcctataaa tgtattaata aaaccgcgct gatcaaaact      1560
+     cagacgctta tttttcacat aaaggtattg ataacacaat acaacacatt acaaaaccta      1620
+     atagtaacaa acaaaagcaa actcactgaa gaacataaag tccaatgctt caaagttctc      1680
+     agttcatttg gtaaaagact acataatacc agcgttagac acagtattat aatagaagtc      1740
+     ccaacagaac taaccaaaat agcagaattc gacgaaagcc agttaagaga cttggacgag      1800
+     tcgcagccgt tagaagattt agatatcgaa agcgatatcg aatcaataga agaattaaaa      1860
+     tttaataccg tacaaccaaa tacaagaaac atggccaacg cattagaagc tcagagagca      1920
+     tacgttaaac aggtatctgc cacagtacct gaattcgatg gtaagaaact ccatttaaac      1980
+     aggtttgtga cagcacttaa gttgacggat ctaactaaag gagatcaaga aactttagca      2040
+     gtagaggtca taaagaccaa aattattggc ccattaaact ataaagtaga acatgcgaca      2100
+     acgatacagg caataattac catattgcag gcaaacgtaa aaggcgaatc gcctgacgtt      2160
+     ataaaggcca aattaataaa tgcccaacaa agaggcaaga ccgcgtctca gtatgttaca      2220
+     gaaatagaca gtatgcgtaa gcagctcgag gcagcttaca tagacggcgg attagacgcc      2280
+     gataatgctg acaaattcgc gactaaagag tcgatatcag caatgaccaa aaactgtgcc      2340
+     aacgaggcac ttaaaatgat cttaactgca ggtacattta gtacattcaa cgacgcaatg      2400
+     gaaaaatacc tacattgcag tacagaaata accggcaatt caaatacagt cttattctat      2460
+     aatgggaata atagacgtgg taattataat gcctactatc gtggtagagg cagaaataat      2520
+     tataaccata attataacca gaattataac caaggttata ataataacaa cagaggtcgc      2580
+     ggaggctacc gcggccacgg taataacaga gacggaggta accgaagggg taaccaaagt      2640
+     cagaataata ataacaaccg aaatgtgcgt aacgtacaat cggaaaacag ccagaccccc      2700
+     ttaagcgatc aacagtaaaa gtgtttaaag taaacctaaa tctgagtatt ttcattaaga      2760
+     caaaaaacca tgaaacaaac acagttctta cattactaat agacacaggt gcagaaattt      2820
+     cattgctaaa agccaaagca aaggaatata ataatataaa tttcagtaat atatcaaata      2880
+     ttacaggtat tgggcaagga accatacagt ctataggtac agtagatctt gacatacgca      2940
+     ttcaggatgt tctagtgcca catgaatttc atgtagtacc tgagaatttt ccgataccat      3000
+     gcgatggcat aatcggaata gattttatca agaaatacaa ttgcgtatta gagtttcaaa      3060
+     ataacaaaga ctggttcaca ataagaccca ataacttcag tagacagatt agtgtaccaa      3120
+     ttacacataa cttagactcc aacacactct tattgccagc tagatgcgaa gtaatcagac      3180
+     aagtcaaatt actcactaac gaaaaaacgg tggtagtacc aaatcaggag ctgcaaccag      3240
+     gtataatagt agcaagcacc attgccgata gcaaaaacgc attgattcgc attataaata      3300
+     caaataataa agacgccata atagatagcg cgaagatcaa atgcgaatca atgaaagact      3360
+     atgacatttt tacaacacca gtagaaaagg aaaatagaac tgaagaaatt ttaaaacaat      3420
+     taagattccc taaacaattc aataatgaac taactaagtt atgcaccgag tttagcgata      3480
+     tttttggtct agaaacagaa ccaatatcgg ctaacaattt ctacaaacaa aaactcagat      3540
+     taggggaaaa aacaccggtc tatataaaaa actatcgcat ggcagatagc caaaaaccag      3600
+     aaatcgccag acaggtaaaa aaattaatag atgatggaat agttgaacca tcaatgtctg      3660
+     aatataatag tccattactt ttggttccaa agaaaccact tccgaattcc acggaaaaaa      3720
+     gatggcgatt agcagttgac tatcgtcaaa taaataagaa actattatca gacaaatttc      3780
+     cacttccaag aatagaagat attcttgatc aattaggaag agcaaagtat ttttcatgtc      3840
+     tcgacctaat gtctggattc caccagatag aactagaaaa aaggtataga gatataacgt      3900
+     cattttcaac agccaatggc tcatatcgct tcacgcgatt accatacgga ctgaaagtag      3960
+     caccaaactc cttccaacgt atgatgacac ttgcattttc tggtcttgaa ccatcgcaag      4020
+     catttctata tatggatgac ttagtagtaa taggttgttc agaaaaacat atgctcaaaa      4080
+     atttgactaa cgtattcgag ctatgtagac gacataattt gaaactacat ccagggaaat      4140
+     gttctttctt tatgaaagaa gtaacatatt tgggtcacaa atgtaccgat aaaggtatac      4200
+     tcccagatga caccaaatat gaagttatag aaaaatatcc tataccaaca gatgccgaca      4260
+     gtgctaggcg tttcgtagcc ttctgtaatt attacagacg tttcattaaa aatttttctg      4320
+     atcattcacg ccacttaacg aggctttgta aaaagaatgt tcaattcgaa tggacagcag      4380
+     aatgcaatga tgcattcgaa taccttaaaa cagaattaat gaaaccaaca ttactacagt      4440
+     acccagattt cggtaaagaa ttttgcataa caaccgatgc tagtaaacag gcatgcggag      4500
+     cggtacttac acaagatcac aatggtcaac aacttccagt ggcatacgct tcaagaatgt      4560
+     tcactcaagg tgaaagtaat aagtccacta cagaacaaga attaacggcc attcattggg      4620
+     ccataaatca ttttcgacca tacatatatg gcaagcattt catggtaaaa agcgatcata      4680
+     gaccattgtc atacctattc tctatgaaaa atccaagttc aaaactcact cgtatgaggc      4740
+     tggatttaga agagtatgac tttactgtag aatatcttaa ggggaaagat aaccatattg      4800
+     cggacgcctt gtctcgcata acaataaaag atctgaaaac aatcaacaga gaaatattaa      4860
+     aagttaccac cagatcaaaa gctaaacagg aaaattcctg taaggacgaa gcaatagtca      4920
+     aaatacaaga ggaaaaagag caaacaatag aaaagcccaa agtctatgaa gttgtcaata      4980
+     ataatgacac aaagaaatat gttttaatca aaatagataa acacaagtgt ttattaaaac      5040
+     gaggaaaaac aattgtttca cgctttgatg ttgatgactt gtattctaat gaaacatttg      5100
+     atctaaatca attctttcaa aggcttattt caaaagccgg aatgcataaa ataacaaaaa      5160
+     tgcgaatatc accaagcgaa cagatgttcc aatttgtatc actaaatgaa tttaaaataa      5220
+     agggcaaccg agtactcgaa aaagtagaac tagctattct acaaaaggtg ataattatag      5280
+     acaaaaatga cgaagctcag attaaagaaa ttttgacaaa attccatgat gatcctatag      5340
+     aaggaggcca cactggtatt tcgcgaaccc agtcaaaaat caaaagattt tattattggc      5400
+     cccagatgac caagacaatc tcaaagtatg taaagacttg tttgaaatgt caacaagcca      5460
+     aaattacaac acatacgaaa actccattaa cattgatgcc aacgccagca acagcatttg      5520
+     atactgtttt aattgatacc attggtccac taccgaaatc ggaagacgga aatgagtatg      5580
+     cagttacaat catatgcgat ctaaccaagt ttttagtaac tattccaaca ccaaataaaa      5640
+     gtgctaaaac agttgcaaag gctatatttg aattatttgt actgaagtac ggtccaatga      5700
+     agacgttcat tacagatcaa ggtacggaat acaaaaattc acttatgaat gaattatgca      5760
+     aatatatgca tatagaaaat ctaacatcta gcgctcacca tcatcaaact ttaggaacaa      5820
+     tagaaagaag ccaccgaact tttaatgaat atatacgttc atacatatcg gttaacaaaa      5880
+     gtgattggga catttggtta ccatatttca cttattgctt caatacaaca ccctcaatag      5940
+     tccatgacta ttgcccatac gaactagtat ttggcagact acccagacaa ttcaaagatt      6000
+     tcagtaagat aaacaaaata gacccaatat acaacttaga cgactactct aaagagctta      6060
+     aatgcagact agaattgtcg tacaacagag caagaagaat gttagaaaaa gcaaaagcgg      6120
+     atagaaaatt aagatatgat aggaatacaa ataatttcga attaaaaata ggagataaag      6180
+     tattacttag aaaagaaaca ggtcataagt tagataaaag atatgaaggt ccttatgacg      6240
+     tagtagatat aggaataaat gacaatataa ccattaaaac aggaagtaag aaacaacaaa      6300
+     tagtacataa agataggcta aaaaagcaca aatagaatga aaaaaaaaaa gggcaatcaa      6360
+     tgccaaacct ttcataataa aacttaaata acggcctgat cagccaaaac aatataacaa      6420
+     agacatagat ataatcgaat ttttattaat tcaaaataca tacatatttt ttctttattc      6480
+     atttaaaaat tctatatcat aaataatgtt aattcattaa aaataatatt taagtaattt      6540
+     ttattttata atggtaatat agttgataga aaataacttc atttctttac gttattttaa      6600
+     aaaagagggg agg                                                         6613
+//
+ID   DM412     repbase; DNA; DRO; 6897 BP.
+CC   DM412 DNA
+XX
+AC   X04132; X03733;
+XX
+DT   22-DEC-1995 (Rel. 2.0, Created)
+DT   22-DEC-1995 (Rel. 2.0, Last updated, Version 1)
+XX
+DE   Drosophila retrotransposon 412 genome.
+XX
+KW   Retrotransposon; LTR; reverse transcriptase.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa/Eumycota group;
+OC   Metazoa; Eumetazoa; Bilateria; Coelomata; Protostomia; Arthropoda;
+OC   Tracheata; Insecta; Pterygota; Neoptera; Holometabola; Diptera;
+OC   Brachycera; Cyclorrhapha; Drosophilidae; Drosophila; Sophophora;
+OC   melanogaster group; melanogaster subgroup.
+XX
+RN   [1]
+RP   1-6897
+RC   [1]  (bases 1 to 6897)
+RA   Yuki S., Inouye S., Ishimaru S., Saigo K.;
+RT   "Nucleotide sequence characterization of a Drosophila
+RT   retrotransposon, 412";
+RL   Eur. J. Biochem. 158 (2), 403-410 (1986)
+RX   MEDLINE; 86274717.
+XX
+RN   [2]
+RP   1-6897
+RC   [2]  (bases 2876 to 5575)
+RA   Yuki S., Ishimaru S., Inouye S., Saigo K.;
+RT   "Identification of genes for reverse transcriptase-like enzymes in
+RT   two Drosophila retrotransposons, 412 and gypsy; a rapid detection
+RT   method of reverse transcriptase genes using YXDD box probes";
+RL   Nucleic Acids Res. 14 (7), 3017-3030 (1986)
+RX   MEDLINE; 86176782.
+XX
+CC     repeat_region   1..310
+CC                     /note="long terminal repeat (LTR)"
+CC     promoter        148..154
+CC                     /note="pot. TATA-box"
+CC     misc_feature    168..172
+CC                     /note="pot. RNA1 start site"
+CC     misc_feature    184..188
+CC                     /note="pot. RNA2 start site"
+CC     misc_feature    238..243
+CC                     /note="pot. polyA signal"
+CC     misc_feature    311..325
+CC                     /note="primer binding site (tRNA binding site)"
+CC     CDS             442..825
+CC                     /note="ORF 1 (RNA1) (aa 1-128)"
+CC     CDS             1130..1444
+CC                     /note="ORF 2 (RNA2) (aa 1-104)"
+CC     CDS             1599..2963
+CC                     /note="ORF 3 (RNA1) (aa 1-455)"
+CC     CDS             2876..6586
+CC                     /note="ORF 4 (RNA2) (aa 1-1237)"
+CC     misc_feature    6788..6897
+CC                     /note="long terminal repeat (LTR)"
+XX
+DR   GENBANK; X04132; 94.0.
+CC   Positions       1    6897  Accession No X04132        GenBank (rel. 94.0)
+XX
+SQ   Sequence 6897 BP; 2760 A; 1212 C; 1180 G; 1743 T; 2 other;
+     cattcacacg ccgaccaaat acatattaca tacgtacata catatctcgc tctcccgata        60
+     agcctagata tataagatat acataagaac gccgctccgc tgctggcgta cccggcacgc       120
+     agctacgcgg attagcctaa gtccaaatat ataaaaaact gtaaaatcag agagactctg       180
+     tagacgttga gctgacagaa ccatttctgc ctactctaaa atcaaaagaa gaaattgaat       240
+     aaatatatgt cagcccgacg gtcttcaact taaaacggac ttgtgttctt aattggagtt       300
+     catcattaca tggcgaccgt gacagnntcc aacgctggac gaattgacca aagctggtga       360
+     aaacaaagga acaaaggaac actggactgg aagaagactg gactaattaa atggaactgc       420
+     aaaaaccaag gaaaaatctg agtgagtaga gttctattga gtatgggcaa acaccgtggc       480
+     ggtttgaaaa ctaagctgaa taaacgtata gcccacgtaa ggtggctaat atacggtcag       540
+     caaacgccac cggtttggtc gaaagctcta aagctacatg cagagctaga ccacttgttg       600
+     caatatcagc aagaattaaa gacccataag ctcgagaaaa ctcactcaga taatattaaa       660
+     aatataccca caattaatga agttccaaaa taccaggcat gtccagcacc agcaccagca       720
+     ttaacaaaac caaagaagtc ctgcccccct ggctgcgaag gaatctggag tccccactgc       780
+     ctggggactt gtgagcgacc atcgacgtct tcagcggcga agaaatagac agcagcgagg       840
+     gagtgtcagc gtgccacccc ggcgacgccc agctgacacc tgatagagca tcatcaacag       900
+     cagaatataa taataaatat atataaatat aaagtaaata taaaatatat atagataaga       960
+     aaaattgtaa gaaatattgt aaaacggagc atatactatt atgccctgtt aacccaatat      1020
+     ggcccgtgaa gccatagcta gaatcaggca ggcaacaatg taaaatacaa tttttttttt      1080
+     actcttgcga acattgaaag attttataaa tagataattc caaacataaa tgtctataga      1140
+     gacaaatgaa ataagtaaaa ctgaaaataa aagtatatac aaaggaaatt ttctattcta      1200
+     ttctccaaaa tataaaatta gtatacccaa aatgggtcta atagacacta aaactgtgga      1260
+     ctctacagcc aatgtaataa ataaagtaga agtccaaaat gcagacttgt tctggataac      1320
+     cataatacta attgtaattg cattaattat ggtatccaat gcattaataa aaatatacaa      1380
+     actgcataac aagtgtctta agaaacgata ccgtagcact gctaacggta tagataatat      1440
+     ttaaggaaga tctttaataa agtcaattat gaatgaaaat atgagaaaaa ttatatgaaa      1500
+     aaaaaaaata ataaataaaa aaaaaatata aaacgtaata ttgaatttat ctacattaaa      1560
+     aaaaaaatat atacaaatga ataaatttga agttatgagt ataccacagc atggactggg      1620
+     aaaagcttgt tgatcagata aaagatcaaa atgaaaattt cagaaaatcc tataagtgct      1680
+     taacgcaaaa cagatcaaca caagctgtaa caatcaatag gaatgcccaa gtcttggtaa      1740
+     atagttataa tgaaatcaga gagttgatcc aacaaaatag aaagaatttg gaacgcaaac      1800
+     agtgtgctaa ggctttgaac ctactggtga cattaagaga aaaattaata tttataaaaa      1860
+     ataaattcag tctccagata gaaattccaa ccatagtaaa caccccacta agaataaatt      1920
+     tgaatgaaga cagcactaac tctgacgagg aagataggac tatagtcaag gaagacatta      1980
+     aagaggaaga tcttcacgat ctaactatac cagcaaaatt aatgctgaag aacgacgata      2040
+     aaacaaataa cgcagccgac tccgaaaata acttaaccat ggcagaagaa gcagctgcca      2100
+     ttaggtctta cattagggaa gtcgcctgca cagtgccaga atttgatggg caaaagatcc      2160
+     atttacaaag attcattaag gcaatcaaat tggtagacct agctaaggga ccatttgaag      2220
+     acattgcagt tgaggtcatt aagtcaaaaa tagttggcac aattttgaac tcagttgaca      2280
+     atgaaacgac aattccagca attataaaca aattgcagaa agtagttgtc ggtgagacat      2340
+     ccagtaatgt caaagcaaag ctagcaacag ttcagcagag aggtaaaact gcaacgcaat      2400
+     ttaccgctga agttgatagc ctgagaaaac ttttagaagc ttcctatatc gatgagggta      2460
+     tacctctaga acatgccact ggtctaagca ccaaagaggc aattgaaacc atgatacatc      2520
+     gtgctgagca cgaaagtatc aaaacagtac tggaagcagg gacttgcacc actatggatg      2580
+     cagcgataag cgcatacata agaacgagta caagagttac cggtgacatc aataaagtga      2640
+     tgtactttag aggtaacaga cccaatagag gatacggaaa tgccaataga ggtagtaacc      2700
+     gccgtagagg ctttaataac aatagtatta gaggcaacta ccataacggt taccaaaata      2760
+     acggttacca aaataacggt taccagaata acggttatca aaaccgctat aatggaaata      2820
+     ataaccgtta taatggctat aacagaggcc gttataatgg aaacagaggc cgtaacaaca      2880
+     gtcagaacaa ctacaacaga aacaatgcca atgtacgagt aatccaagaa cagggcaact      2940
+     cgcaacagcc tttaggtact cagtagaaga agatcgtaga gtatacacca tcaattataa      3000
+     tctcaacata ttttctacat tcattcatgc caaaacaggc gtaaaactag tttttctact      3060
+     tgatacaggt gcagatatct ctattctcaa agagaactct gacaaatttt ctaatattca      3120
+     aataaccaat aaaataaaca ttcaaggcat aggccaacag aaaattcagt ctcgaggaca      3180
+     gacttttatt gagatacaga caggtaaata cgttatccca cacgattttc atttagtaga      3240
+     taaaaacttt ccaataccgt gtgatggaat aatcggaata gatttcataa aaaaatataa      3300
+     ttgccaaatc gatttaaacc aagaagaaga ttggtttata attagaccaa acaatttgaa      3360
+     atttccaata tatattccca tagcatacag ctctggtatt aacacaacgt tattaccagc      3420
+     aagatcccaa gttgtccgaa gattaatagt atcatcaaaa gatgataaca ttttaattcc      3480
+     aaaccaggaa attcaaactg gtatttatgt tgcaaataca atcgcaacat caagtaatac      3540
+     atttgtccga attttaaata caaccgattc cgaccaatta gtcaatatgg acactctaaa      3600
+     atatgagcca ctttcgaact acaatgtagt tcaggcaaat agtgaacaca gaaataaaac      3660
+     tgtcttatct caattaaaga aaaatttccc cgaattgttt aaatcacaat tagaaaatat      3720
+     atgcagcgaa tatatagata tatttgcatt agaatcagaa cctataacag ttaataattt      3780
+     gtataaacaa cagttgagat taaaagatga tgagccagta tacacgaaaa attatagaag      3840
+     tcctcatagt caagtggaag aaatacaagc ccaagttcag aaattaataa aagataaaat      3900
+     agttgaacca tcagtttcac agtacaatag ccctttgcta ttagtaccca aaaagtcaag      3960
+     cccgaattct gataaaaaga aatggagatt agtaatagac tatcgccaaa ttaataagaa      4020
+     acttttagct gacaaatttc cactaccgag aatagatgat attttggacc aacttggtcg      4080
+     agcaaaatat ttctcctgcc ttgatttaat gtcaggtttt catcaaatcg aactggatga      4140
+     aggctcgaga gatataacat ctttctcaac cagcaatggc tcatatcgtt tcacgcgatt      4200
+     gccatttggc ttaaaaatag cgcctaattc attccaaaga atgatgacta tagcattctc      4260
+     cggaatagaa ccgtctcaag cattccttta tatggatgac ttaatagtca taggttgttc      4320
+     cgaaaaacat atgcttaaaa acctcactga agtttttggt aaatgcaggg aatacaacct      4380
+     aaagttacat cctgaaaaat gttcattttt catgcatgaa gtcacatttt tgggacacaa      4440
+     atgcacagac aaaggaattt tgccggatga caaaaaatat gatgtcattc agaactaccc      4500
+     agttccacat gatgcggaca gcgctagacg ttttgtagca ttttgcaatt actacagacg      4560
+     ttttatcaaa aatttcgccg actattcgcg gcacataaca agattatgta aaaagaatgt      4620
+     tccattcgag tggacagatg aatgtcaaaa agcattcata catttaaaat ctcagctaat      4680
+     taacccaaca ctcttgcagt acccagactt cagcaaagaa ttttgcataa caacagatgc      4740
+     aagcaagcaa gcgtgtggcg cagttttaac tcaaaaccat aatggccacc aactcccagt      4800
+     tgcttatgca tccagagctt ttacgaaagg tgaaagcaat aagagtacaa cagaacaaga      4860
+     gttagcagca attcattggg caataataca tttcagacca tacatttacg gaaaacattt      4920
+     cactgtgaaa acagaccata gaccattgac atatttattc tcgatggtga accccagctc      4980
+     taaattaact agaataaggc ttgaactaga ggaatataat tttacagtag agtatctaaa      5040
+     gggcaaggac aatcatgtag cagatgcgtt atcaagaata accatcaaag agctaaaaga      5100
+     tataactgga aatatattaa aagtcactac aagatttcaa agtagacaaa aatcctgcgc      5160
+     aggaaaagaa caattggatt tgcaaaagca aaccaaagaa atagcttcag agcccaacgt      5220
+     atacgaagtc ataacaaatg acgaggtacg aaaagtagtg acattgcaat tgaatgactc      5280
+     gatatgttta tttaaacatg gaaagaaaat tattgcaaga tatgatgttg gtgatcttta      5340
+     tactaatgga attcttgatt tagatcaatt tctccaaagg cttgaattgc aggccggtat      5400
+     atatgatatc agccaaatca aaatggcacc gtggaaaaaa atctttgaac acgtttcaat      5460
+     agataaattt aaaaatatgg gcaataaaat attaaagaat ttaaaagtag cgctacttaa      5520
+     cccggtgacc caaataaata atgaaaaaga aaaagaagct atattgtcta cattacatga      5580
+     tgatccaata caaggagggc atacaggcat tacaaaaacc ttggccaagg tcaaaagaca      5640
+     ttattactgg aaaaatatga gtaaatacat aaaagagtac gtaagaaaat gtcaaaaatg      5700
+     ccaaaaagca aaaacaacaa agcacacaaa gactccaatg acgataactg aaacaccaga      5760
+     acatgctttc gatagagttg ttgtggacac aattggtcca ctacccaagt cagaaaatgg      5820
+     taacgagtac gcagtcactc tcatatgtga tttaaccaag tacttagttg ccataccaat      5880
+     agcaaataaa agcgcaaaaa cagtcgcaaa agctatattt gaatctttta ttctaaagta      5940
+     cggtccaatg aagacgttca taacggacat gggaacagag tataagaatt caataattac      6000
+     tgacctgtgt aaatatttga aaataaaaaa tataacatca acagctcatc accaccagac      6060
+     agttggagta gtagaaagaa gtcatagaac tttaaacgag tatatacgat cctacatatc      6120
+     gacggacaaa accgattggg acgtatggct tcaatatttc gtatactgct tcaacacgac      6180
+     ccaatctatg gtacataatt attgtccata tgaattagtt ttcggtagaa caagtaattt      6240
+     accaaaacat tttaataaac tacatagcat agaaccaata tataacatag atgattacgc      6300
+     taaggagagt aaatataggt tagaggtagc atatgctcga gcaagaaaac ttcttgaagc      6360
+     acacaaagaa aaaaataaag aaaattatga cttaaaagta aaagacatag aattagaagt      6420
+     aggagataaa gttttactaa gaaatgaggt aggtcataaa ttagacttta aatatacggg      6480
+     gccctataag atagaaagca taggagataa taacaatatt acgctactta ctaataaaaa      6540
+     caaaaaacaa atagttcata aagatagatt aaagaaattt cattcatgat tgaatttaaa      6600
+     cttatatttt ccttaatcat ttatacaaat tttccataca ctacgtatat ttttatcttt      6660
+     gcattataaa atcaactatt gttgttcaaa caaaaacaca aacaaaataa aaataaaaat      6720
+     aaaataattt gcatttaata atcaaaataa cttcactagg ttacgttatt tttcaaaagg      6780
+     agggagatgt agtatgtgcc tatgcaatat taagaacaat taaataaaat agcatattaa      6840
+     cttatggcag cactttgttg ctatgtttat gtttatgttt atgcacgcag ttaggcc         6897
+//
+ID   T412LTR   repbase; DNA; DRO; 481 BP.
+CC   T412LTR DNA
+XX
+AC   M30371;
+XX
+DT   27-JUL-1999 (Rel. 3.5, Created)
+DT   27-JUL-1999 (Rel. 3.5, Last updated, Version 1)
+XX
+DE   D.melanogaster extrachromosomal transposon 412, 5' long terminal
+DE   direct repeat.
+XX
+KW   transposon; DROTN412C; T412LTR.
+XX
+OS   Drosophila melanogaster
+CC   D.melanogaster embryo DNA, clone lambda-TC119.
+OC   Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+OC   Muscomorpha; Ephydroidea; Drosophilidae; Drosophila.
+XX
+RN   [1]
+RP   1-481
+RC   [1]  (bases 1 to 481)
+RA   Shepherd B.M., Finnegan D.J.;
+RT   "Structure of circular copies of the 412 transposable element
+RT   present in Drosophila melanogaster tissue culture cells, and
+RT   isolation of a free 412 long terminal repeat";
+RL   J. Mol. Biol. 180, 21-40 (1984)
+RX   MEDLINE; 85083075.
+XX
+DR   GENBANK; M30371; 110.0.
+CC   Positions       1     481  Accession No M30371       GenBank (rel. 110.0)
+XX
+SQ   Sequence 481 BP; 159 A; 102 C; 93 G; 127 T; 0 other;
+     tgtagtatgt gcctatgcaa tattaagaac aattaaataa aatagcatat taacttatgg        60
+     cagcactttg ttgctatgtt tatgtttatg tttatgcacg cagttaggcc agggcggatg       120
+     taacatgatc acccactcga aggcaaaaag tataagtgca tggtcagcat tcacacgccg       180
+     accaaataca tattacatac gtacatacat atctcgctct cccgataagc ctagatatat       240
+     aagatataca taagaacgcc gctccgctgc tggcgtaccc ggcagcgcag ctacgcggat       300
+     tagcctaagt ccaaatatat taaaaactgt aaaatcggag agactctgta gacgttgagc       360
+     ggacagaacc atttctgcct actctaaaat caaaagaaga aattgaataa atatatgtca       420
+     gcccgacggc tgccttcaac ttaaaacgga cttgtgttct gaattggagt tcatcattac       480
+     a                                                                       481
+//
+ID   DMLTR3    repbase; DNA; DRO; 482 BP.
+CC   DMLTR3 DNA
+XX
+AC   K01952;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   D.melanogaster gypsy transposon sc1, 5' LTR.
+XX
+KW   Long terminal repeat (LTR); transposon; DMLTR3.
+XX
+OS   Drosophila melanogaster
+CC   D.melanogaster DNA.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-482
+RC   [1]  (bases 1 to 526)
+RA   Freund R., Meselson M.;
+RT   "Long terminal repeat nucleotide sequence and specific insertion of
+RT   the gypsy transposon";
+RL   Proc. Natl. Acad. Sci. U.S.A. 81, 4462-4464 (1984)
+XX
+DR   GENBANK; K01952; 77.0.
+CC   Positions      25     506  Accession No K01952        GenBank (rel. 77.0)
+XX
+SQ   Sequence 482 BP; 126 A; 102 C; 112 G; 142 T; 0 other;
+     agttatataa gttccaatag gtccagagtt atgttatttc cagtaggtct agagatcttc        60
+     cttctttcgc tgaggttcgt cttagacact gtttatggag attaggttgg agggcttgac       120
+     ttcgccccct tagttattat cactagcctt gtggcgatag cgatttgatt gtaaataaga       180
+     acaatgatgt ttaacggcaa tgagccggag caagctgtgg tttatttcaa cacaagattt       240
+     gaactgagta gaagacaata ttgaaaacta agtttaccct cgagcaatgc atcgcgccgc       300
+     cacaagtcgg caagccgact cagcatttct tgcagcgtga agcaacactc ccggtaggaa       360
+     gtgtcagctt tccgctgcca gcattcttcg cgtggagcgt tgaacccaat tctgggcgcg       420
+     tcagcattgt tcatacaaag ctacttagtt gctacgaagc aatacattgt tagttgttaa       480
+     ct                                                                      482
+//
+ID   GYPSY_DM  repbase; DNA; DRO; 2790 BP.
+CC   GYPSY_DM DNA
+XX
+AC   X03734;
+XX
+DT   22-DEC-1995 (Rel. 2.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D. melanogaster retrotransposon gypsy gene fragment for reverse
+DE   transcriptase-like enzyme.
+XX
+KW   Copia-like element; retrotransposon; reverse transcriptase.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly.
+OC   Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+OC   Tracheata; Insecta; Pterygota; Diptera; Brachycera; Cyclorrhapha;
+OC   Drosophilidae; Drosophila; Sophophora; melanogaster group;
+OC   melanogaster subgroup.
+XX
+RN   [1]
+RP   1-2790
+RC   [1]  (bases 1 to 2790)
+RA   Yuki S., Ishimaru S., Inouye S., Saigo K.;
+RT   "Identification of genes for reverse transcriptase-like enzymes in
+RT   two Drosophila retrotransposons, 412 and gypsy; a rapid detection
+RT   method of reverse transcriptase genes using YXDD box probes";
+RL   Nucleic Acids Res. 14 (7), 3017-3030 (1986)
+RX   MEDLINE; 86176782.
+XX
+CC     CDS             <1..>2790
+CC                     /note="reverse transcriptase-like enzyme (930 aa);
+CC                     /codon_start=1
+XX
+DR   GENBANK; X03734; 94.0.
+CC   Positions       1    2790  Accession No X03734        GenBank (rel. 94.0)
+XX
+SQ   Sequence 2790 BP; 859 A; 692 C; 597 G; 642 T; 0 other;
+     gggagaacct taaagatgct aatcgatacg gcgcgggcaa aaaactacat taggcccgta        60
+     aaggagctga aaaatgtaat gccggtcgcc agccctttct cggtgagctc aatacaccgc       120
+     tccaccgaaa tcaaacacaa atgcttgatg aaagtcttca agcacatctc cccatttttt       180
+     cttttggatt ctctcaatgc gttcgacgct atcataggct tggacctgtt aacacaggcc       240
+     ggggtaaaac tcaaccttgc agaggactcc ttagaatacc agggcatcgc tgaaaagctt       300
+     cattatttca gctgccccag tgtaaatttc actgatgtaa acgatattgt tgtacctgac       360
+     tccgttaaaa aggagttcaa ggacacaata ataaggagga agaaagcttt ctccacaaca       420
+     aatgaagctc ttccttttaa caccgctgtc actgccacaa ttcggacagt tgacaatgaa       480
+     ccggtgtact caagagcgta cccaactctt atgggtgtct ccgactttgt gaacaacgag       540
+     gtcaaacaac tgctgaaaga cggcattatc aggccctcaa ggtctcccta taacagcccg       600
+     acctgggttg ttgacaaaaa ggggaccgac gcttcgggaa acccaaacaa gaggttggtc       660
+     attgacttta ggaagctaaa tgagaaaact attcctgacc ggtacccgat gcctagcatt       720
+     cccatgattc tagcgaatct gggcaaggca aagttcttca ctacccttga tcttaagtca       780
+     gggtatcatc aaatttacct cgcggaacac gaccgcgaga agacatcgtt ctcggtgaat       840
+     ggtggtaaat acgagttttg ccgtctaccg ttcggcttga gaaatgcaag cagcattttt       900
+     caaagagccc tagacgatgt gcttagagag caaatcggga agatatgtta cgtctatgta       960
+     gatgacgtca taattttctc tgaaaacgag tccgaccatg tccgccacat cgatacagta      1020
+     ctaaaatgcc tgatcgatgc caacatgaga gtaagccagg agaaaactag attctttaaa      1080
+     gagagtgtag aatacctcgg ctttattgtc agtaaggacg gaactaaatc cgatccagag      1140
+     aaggtgaagg ccattcagga gtaccctgaa ccagactgcg tttacaaggt taggtccttc      1200
+     cttggtttag ccagctacta cagagtcttc atcaaagact ttgctgccat agcccgcccg      1260
+     atcaccgata tcctaaaagg ggaaaatggt tcggtgagca aacacatgtc taaaaaaatt      1320
+     cctgttgagt ttaatgaaac tcaacgcaac gcgttccaaa gactgcgaaa catactagca      1380
+     tccgaggatg tcatactcaa ataccccgtc tttaaaaagc cttttgacct tactacagat      1440
+     gcttcggcaa gtggtatcgg tgcagtccta tcccaggagg gcaggccaat caccatgata      1500
+     tcgcgtaccc ttaaacagcc cgagcagaac tacgccacaa acgaaaggga attgctggcg      1560
+     attgtatggg ccctaggtaa gttgcagaac ttcctgtatg gctctaggga gattaatata      1620
+     tttaccgacc atcaacccct cactttcgct gttgccgaca ggaacacgaa tgccaagata      1680
+     aagaggtgga aatcttacat agaccagcat aatgccaagg ttttctacaa acctggcaaa      1740
+     gaaaatttcg tggcagacgc cctctctagg cagaatctga atgccttaca aaacgaaccc      1800
+     caatcagacg ctgcgaccat tcacagtgag ctctccctga cctacacggt cgagacaaca      1860
+     gacaaaccgt taaattgctt caggaaccag atcattctgg aggcagcacg ttttccgctc      1920
+     aaacggaacc tggtgctctt tcgaagcaaa tctcgccact tgatcagctt tactgataaa      1980
+     agttggctat taaaaacact taaggaggtg gtaaaccctg acgtcgtgaa cgctattcac      2040
+     tgcgacctgc ccactctggc aagcttccaa cacgacctca ttgcccactt tccagccacc      2100
+     caatttcgtc actgtaagaa tgtcgtgtta gacataaccg acaaaaacga acagatcgaa      2160
+     atcgtcactg ctgagcacaa ccgcgctcac agagccgcac aagaaaacat taaacaagtc      2220
+     cttcgggatt attactttcc caaaatgggc agtttagcta aagaagtagt agctaattgt      2280
+     agggtctgca cccaagcaaa gtatgacagg cacccgaaaa agcaagagct cggggaaacg      2340
+     cccataccca gctatacagg tgagatggtg catattgaca tattctcaac cgacaggaag      2400
+     ctattcctga cgtgtattga caaattttct aaatatgcaa tagtgcaacc agtggtgtct      2460
+     agaacaatag tggacatcac agcacccctg ttgcagatca ttaacctgtt ccccaatatc      2520
+     aaaacggtct attgtgacaa tgagcccgca tttaactcag aaactgtcac ctcaatgctc      2580
+     aagaacacct tcggcattga catagtaaat gcgcccccac tccacagctc gtccaatggc      2640
+     caagttgaac ggttccacag cacattggca gaaatcgcca ggtgcctgaa gttggacaaa      2700
+     aaaacgagtg acacagtaga actaatcttg agggcgacga tagaatataa caaaaccgtg      2760
+     cactcagtta ctcgtgagaa ccaattgagg                                       2790
+//
+ID   DM2       repbase; DNA; DRO; 4558 BP.
+CC   DM2 DNA
+XX
+AC   X15066;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   28-SEP-1995 (Rel. 1.0, Last updated, Version 1)
+XX
+DE   Drosophila retroposon microcopia Dm-2 3'end.
+XX
+KW   Copia element; long terminal repeat; retroposon;
+KW   reverse transcriptase; repetitive element.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-4558
+RC   [1]  (bases 1 to 5455)
+RA   Lankenau D.H.;
+RT   "Direct Submission";
+RL   Submitted (20-JAN-1989) Lankenau D.H., Dept Mol Developmental
+RL   Genetics, University of Nijmegen, Toernooiveld, NL 6525 Ed
+RL   Nijmegen, The Netherlands.
+XX
+RN   [2]
+RP   1-4558
+RC   [2]  (bases 1 to 5455)
+RA   Lankenau D.H., Huijser P., Jansen E., Miedema K., Hennig W.;
+RT   "DNA sequence comparison of micropia transposable elements from
+RT   Drosophila hydei and Drosophila melanogaster";
+RL   Chromosoma 99, 111-117 (1990)
+XX
+DR   GENBANK; X15066; 77.0.
+CC   Positions     379    4936  Accession No X15066        GenBank (rel. 77.0)
+XX
+SQ   Sequence 4558 BP; 1425 A; 876 C; 1010 G; 1247 T; 0 other;
+     agcaacctag ttatgatgtt aagctaccca aatttaaccc tgatgctgca tgcgtagagg        60
+     cagcaaagtg gtgtccaaca accgatataa ttctaactga gcaccccctt aaaggaagta       120
+     aattgatcat ggcactaagt aactgcatgg agggaactgc atctcagtgg ctaacacaaa       180
+     tctcgtacca gggtatgact tggcaagagt tccaggaatt atttctgcag cgctttgaaa       240
+     ccgaagagac gccggccgct acgtttttaa atttactcaa cagccgcccg actgccgccg       300
+     aatgttacgc ggtgtatgcg agtcggctgg tgacgacgct gactacaaag tggcggaata       360
+     tggaaataga agaaattgcc gttacaaccg ttcttgcgca tatggcaaac attgacagtc       420
+     gtttgcagcg cgtcctcttc acatccaatg tgcgtaccag aagtaagcta caggcggagt       480
+     taaaagcgtt tacgttcgac aagaagcgac atgctcgaga tgacaacctt ggacctgacc       540
+     acaagaaccg taaggcatcg ccagttgtat gccacttctg ttcaaagccg ggacatcgaa       600
+     ttgctgaatg ccgaagtaaa atgcgacaag atagacaggc gaaaccgcag cgtgaaaaat       660
+     caaatgttac gtgctatcgg tgcggccaac cgggacattt ctccaaccag tgcccgaaaa       720
+     acggaagtgc agccaaacaa gatgtgactc aacagaagac tgttaaccaa tgttgtgtga       780
+     ctgagccaaa gggaagcttg catcaacgag gtgagatcta tccaatttgt ttcgattccg       840
+     gtgcagagtg ctcccttatt aaagacgaca ttagcagtaa gttatctggt aaacgtataa       900
+     acaatactgt aatgataaaa ggcattggtg gtggcagtgt gtgcagtaca ttgcaaatct       960
+     tgagtgaagt cactataaac gaaaatatta tggaaatatt atttcatgta gtcccgaacg      1020
+     agcaaatgag gaatgatatt ctgatagggc gagaaatact taaacaagac ttttatgtaa      1080
+     ttttgacatc cgataatttt aaagttgtaa aatcaaaaac tgttaataat tgttctttta      1140
+     tatgttaatt gcgctgttat gttactgtta ctgcattgta ttgattcatc gcttctaaat      1200
+     aaataaatat ataaaaaaaa aaaattgttc cgttactgag cgatcgttta ctttgtccga      1260
+     tattgacacc gaattagtcg acaatgagaa agctcaatta attgagttac ttgaaaagca      1320
+     ctcgacttca tttaccaacg ggatacctca tactcgagta aatacaggcg aaatgaaaat      1380
+     ccgtttgatt gatccaacta aaactgttca gcgccgacct tacagactta gccccgaaga      1440
+     gagagaagta gtgcgaatcg aggtgagcga attgataaga tgtaatattg ttcgcccaag      1500
+     ttgctctccc tttgctagcc ccatgttgct cgtcaaaaag aagaacggaa ccgaccgtct      1560
+     atgtgttgat tttagagagc taaactcgaa cacgatttcg gataaatacc ccttgccgct      1620
+     tatcagcgat caaattgcta gacttcgcgg agcaaattat ttcacatgcc tggatatggc      1680
+     aagtggtttc caccaaatcc cgattcaccc tgaatccgtg gaatatactg catttgtgcc      1740
+     agacggcctc aaaaatgcgc catctgtttt ccagcgcaca gtcataaatg cacttggtga      1800
+     ccttgctaac tcttttgtaa tcgtttacat ggacgacata atggtagtat cgccaaccaa      1860
+     ggaattggct ttggaaaggt taaaaactgt tttgaatgtt cttacaaagg ctggttttac      1920
+     ctttaacctt gctaaatgca gttttctcaa aacaacggtt cagtatttag gctatgaagt      1980
+     gcgagcggga gaaattcgtc cgaatgtgcg aaagatatct tcattaagct ccttgcctcc      2040
+     tcctcaaact ctctccggcg ttagacaatt cattggcttg gcctcttact ttcgcaaatt      2100
+     cgtgtctgga ttctcccaac ttatgaaacc attgtattca ctttcgtctg gtagcggcaa      2160
+     gattacatgg agcgctgagc tggaagagat cagacttaaa gttgtgacga tcctcacaaa      2220
+     tgagcctgct ctggtaatct tcgacccgca atatcctatt gagttgcaca ctgatgcaag      2280
+     tgcctgtgga tatggagcga tacttttgca ccgtatagaa agtaagcccc atgtaatcga      2340
+     atacttcagc aaaacaacta cctctgttga atctagatat cactcctacg agctggaaac      2400
+     cttggcagtg gtaaaagccg ttaaacattt tcgccattac ctaattggcc gtgagttcgt      2460
+     tgtctataca gactgcaatt cattaaaagc ttctcgcaca aaaatagatt taacccccag      2520
+     agttcaccgc tggtgggcct acttacaatc gtttaatttc gaaattcagt atagagaggg      2580
+     taagcgtatg gctcatgtgg atttcctatc aagaaatcct ttatcacccg aacacaattt      2640
+     gtcaataaac aagattcccg aaaaaagagt aaatctgtct gaaatttcaa gtacttggct      2700
+     tcttgctgag caacggttag accttgagat aatagaaatt gttaacaaat tggagtcaga      2760
+     tgaattggcc gaaaacttgg ccaaaacgta tgatttgcga aaaggtgtat tatatcgcaa      2820
+     ggtccaaaga cgaggtagaa caagttattt accagttgta cccagagctt tcaaatggtc      2880
+     agtaattaac caggtacacg agtcgataat gcatttaggg tggcaaaaga cacttgataa      2940
+     agtgtaccag tattattggt tcgctaaaat gaacaagtat gttcgaaaat ttttttcaaa      3000
+     ctgcataact tgtagatcag tgaagtcatc ttccgggaag gttcaggcgg aacttcattc      3060
+     cattccgaag acaagtatac cgtggcacac catccacata gatataacgg ggaaattaag      3120
+     tggcaagagc gatttgaagg aatatgtcat tgttcagatc gatgcctata caaagtttgt      3180
+     ttatctgtat cacaccttaa agatagatgc cgaaagctgt gttaatgcta tgaaatcttc      3240
+     catatcctta tttggagtac cagatcgcat catcgccaac cagggcagat gttttactag      3300
+     ctctaagttt tcagagtttt gcgtatcgca gaaagttgaa cttcacttga ttgctacggg      3360
+     aatgagccgt gcaaatgggc aagtggaacg ggtgatggaa acactgaaaa atttgttgtc      3420
+     agtggtagaa tcaagtcaac gatcgtggca ggacgcactt ggcgaagtcc aacttgcact      3480
+     gaattgtaca atttctcgtg ccactgaggc aagtccgtta gaaatgttaa ttggtaaaca      3540
+     ggcttgaccc cttggattag ttcccccatg tgagaccgaa tgtgaaatag atatggcaac      3600
+     tgttagagct catgcgacag aaaatatgaa ttcttagcgt cttacgacaa atcccgattt      3660
+     gatagcagta gggcagccgt tgacaaacac cacgtaggtg actatgtgct attgaggaat      3720
+     gaagaaagac accaaactaa gttagatccg aaattcagag gaccgttttt ggtaactgaa      3780
+     gtattagagg gtgacaggta tacactaaag tcgttgacga gtaaccgatc gttcaagtat      3840
+     tgccatgaag atatacgtaa aatgccggat gcagaaatcc cgaatgagtt aaacgagaat      3900
+     gtagagcaat agctgaaata tagaaacagt tgaatgaaaa gaaaagcccg ccaatgagtt      3960
+     cttttgtgaa cgagagatat ccgtctaggt gagacgatga attgtgagtt atccgtctag      4020
+     gtgagacgat gaattgtgag ttatccgtct aggtgagacg atgaattgtg agttatccgt      4080
+     caggtgagac gatgaattgt gagttatccg tccaggagag acgatgagtt tggattgaat      4140
+     taataatcaa gtgtgtgtga actggcggaa gatcgatata tagaaatcga taaatgataa      4200
+     tgttaagata agttgtgagc tgatgtatta ctgatcaatg gaactgaata tgaaaataga      4260
+     ataagttatc ccagcaacag tgaaataaga gctgttttgt ttcttcacag aattaagatt      4320
+     taagaaatac acctaataaa gtcaaactaa tgaaattaaa tgttattgaa tagtgatgaa      4380
+     agtaggtgat cttgatatct tggtatctcg gtatcaaaag cttacacgag gacgtgaaat      4440
+     gtcagaatgg ccgtgtcgtg gcgaaaataa tgagtatgcg tgtagtcgct gtttacttct      4500
+     tctccatgtt ccctttgcta ttatgcgtgt tcctatttat gaacacgtgg caaaaata        4558
+//
+ID   DMCR1A    repbase; DNA; DRO; 3102 BP.
+CC   DMCR1A DNA
+XX
+AC   AC006215;
+XX
+DT   01-JUL-1999 (Rel. 3.4, Created)
+DT   01-JUL-1999 (Rel. 3.4, Last updated, Version 1)
+XX
+DE   DMCR1A is a LINE-like retrotransposon.
+XX
+KW   Non-LTR retrotransposon; ORF2; CR1-like superfamily; G; DOC; 
+KW   FW_DM; DMCR1A.
+XX
+OS   Drosophila melanogaster
+CC   fruit fly.
+OC   Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Diptera; Brachycera; Muscomorpha; Ephydroidea;
+OC   Drosophilidae; Drosophila.
+XX
+RN   [1]
+RP   1-3102
+RC   [1]  (bases 1 to 3102)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (June, 1999)
+XX
+CC   DMCR1 belongs to the CR1-like group of non-LTR retrotransposons.
+CC   It has poly(A) tail and it generates 10-15 bp-long direct repeats
+CC   upon its integration into the genome.
+CC   DMCR1 forms separate family of recently or curently active 
+CC   LINE-like elements in Drosophila melanogaster
+CC   since there are several DMCR1 copies having lesser than 5% 
+CC   divergence to each other. DMCR1A is most close to G_DM element
+CC   (25% divergence both on nucleotide and protein levels).
+XX
+DR   GENBANK; AC006215; 110.0.
+CC   Positions  18012  21113  Accession No AC006215     GenBank (rel. 110.0)
+XX
+SQ   Sequence 3102 BP; 877 A; 949 C; 642 G; 634 T; 0 other;
+     cgaagaccgg ccaccccttt cagcaaaccc tgcaccatca agctcccaag tatctccaat        60
+     atgagctaca gagatgcgct catgtctacc caagtgcctc agcaaaccaa tcccaaccaa       120
+     acccgtcaaa ccccacctga atctccgcaa cccagtaaca tggaacaaat gtttgctcgc       180
+     ttcgaaggaa tggtcgaaag gatgatggag aagatgttct cgcaaatgac gcagcttgtt       240
+     gcttccatcc tcaacgcaaa agtatgcaaa gcctaaaaat agttatttgg aatgctaatg       300
+     gcctgcagag gagcagagcc gaggtggaac acctcctaaa aacagatgcc atcgatgtac       360
+     tactggtatc agaaacccac ttttgtccca gatcccattt tagcattagc ggctacgatg       420
+     tcatccctgc caaccatcca tctggcagag cgcgcggagg agcagccatg ctcatcagga       480
+     gtggcatcca gtacacggag ctacctgcgt ttcaggagga atgggcccag tgtgccctgg       540
+     ccagaatctc cagcctacat ggagacatca ccgttggagc ggtctacttc ccacctagac       600
+     actcgatcac cgagactcac ctacaagatt tttttgagtc ctttggacct cgctttatag       660
+     cagctggtga cttcaacgcc aaacactcct ggtgggggtc ccgctccatc aaccccaaag       720
+     gcagaacgct ccacagattc ctgcagagca gaagactgga ttgccactcc tctggtgagc       780
+     ctacccactg gccttcaaac ccttccttgc tgcccgacct cctggatttt gctatctcca       840
+     aaggcatagg gcaagacaga ctaacttgct ccaactataa caagctgata tccgaccaca       900
+     gcgctataaa aatgcttctc aacatccccg tcctcaaaaa agagttgccc agaagactca       960
+     ccgggaagca cactgatgcc tccaagttca cactctggat gctgtcctcc ctgcacccgg      1020
+     atcctccact ctccactcca agcaacatcg atgcggcaat caaaactctc acggatgaga      1080
+     tgtacaatgc tgccgagttt gccaatcctc ctccttcaac gtccccaaga actcccggta      1140
+     gagaccttca cctctggtct ccagaaattg cggccttcgt agcggaaaaa aggcgcctca      1200
+     ggagaatctg gttcttctcg cgcaacccaa gggacaaggc agcactcaac agagccatca      1260
+     aggaactcaa ggacaagctg tgtaccctac ggcaagactc cttcgacaga ttccttgagg      1320
+     agctggaacc tggtgacccg caacataatc tgtggcaagt cacgcgtcat atcaggaggc      1380
+     ctgcaaagaa ggcgtcgccg gtgcgcaaag cggacggctc ttggtgccgc tctgaagccg      1440
+     aaagagctga agcgtttgca gatctccaga atgcattcac accatttgac agatgcactg      1500
+     gcgaagagcg tgctgcaacc accaggttcc tagagagtcc atgtcctcct agcctgccca      1560
+     tagagcccgt caccccagaa gaggttgcgc aagagatcgc ctccctaaag gctagcaaat      1620
+     ccccaggact ggatcgcatc gacgccacat cccttaaaat gctgccacct ccctgttccc      1680
+     agttgttggc caacatatac aacagatgct tctcactagg gtacttcccg agatcatgga      1740
+     aacgtgcaga agtcattctc atcctcaaac ctggaaaacc tgaagccaat cttgcctcat      1800
+     atagaccgat tagtctgctg acaatcctct ccaaaatact cgaaagagta tttctgcgca      1860
+     gagtcatgcc agtactggac gaggctggac tgatccctga tcaccagttt ggcttcaggc      1920
+     gatcccacgg aacacccgag caatgccacc ggctcgtagc acgcatccta gatgcattcg      1980
+     agaacaaacg atactgttcg gccgtattcc tggatgtcaa gcaggcgttc gacagagtgt      2040
+     ggcatcctgg actcctctac aaactcaagt cccaccttcc cagttcccac tatgccctac      2100
+     tcaaatcgta tactgaagga agagagttcc aagtgcgatg cggttcctca acaagcacga      2160
+     caaggcctat acgagccgga gtacctcaag gcagcgtcct tggtcccatc ctctacaccc      2220
+     tgtttacagc agacctccct atcataccct cccgttacct cacagcagcc acctatgcag      2280
+     atgacacggc gttccttgcc accgcaacaa accctcaatt agcatcagcc atcatccaga      2340
+     ggcaactgga tgcactggat ccatggctga aacgctggaa catcatgatc aacgctgata      2400
+     aatcctccca caccaccttc tctctgcgca gaggagaatg ccccccggtc tcactcgacg      2460
+     gcgacacaat ccctacctcc agcaccccca aatatttagg gctgacccta gacagaaggc      2520
+     tgacttgggg cccccacatc aacaataagc gtatccaggc caacatacgc ctaaagcaac      2580
+     tccactggct catcggtaaa aagtccaagc tgcgagagaa actaaagatt ctcgtctaca      2640
+     agactattct caagccaatc tggacgtacg gaattcagct gtggggcact gcttgcacat      2700
+     cacatagaag gaagatccag cgatttcaaa acagatgttt gagaatagtc tccaacgccc      2760
+     atccctacca cgaaaattcc gccatccacg aggagctcgg gattccatgg gtagacgacg      2820
+     aaatctacag acacagcgtg agatatgcta gcagactgga gaaccaccac aaccacctgg      2880
+     ccgtcaacct tctagaccac agccaatccc taagacgcct gcagagaacg cacccgcttg      2940
+     accttactca acatacttaa tcatacttaa cccctaccca agtacactcg atgtactccc      3000
+     cttaagttaa tgtttccctc caaaaaattt aattattgtc cactaggaca gattttaaat      3060
+     aataaataaa aggctacaaa aaaaaaaaaa aaaaaaaaaa aa                         3102
+//
+ID   XDMR_DM   repbase; DNA; DRO; 360 BP.
+CC   XDMR_DM DNA
+XX
+AC   M16263;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D.melanogaster dispersed middle repetitive DNA sequence.
+XX
+KW   Dispersed middle repetitive DNA sequence, DMDMR.
+XX
+OS   Drosophila melanogaster
+CC   D.melanogaster DNA, clone p112-0.4RA.
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-360
+RC   [1]  (bases 1 to 360)
+RA   Waring G.L., Pollack J.C.;
+RT   "Cloning and characterization of a dispersed, multicopy, X
+RT   chromosome sequence in Drosophila melanogaster";
+RL   Proc. Natl. Acad. Sci. U.S.A. 84, 2843-2847 (1987)
+XX
+DR   GENBANK; M16263; 77.0.
+CC   Positions       1     360  Accession No M16263        GenBank (rel. 77.0)
+XX
+SQ   Sequence 360 BP; 138 A; 56 C; 42 G; 124 T; 0 other;
+     ccaaatttaa atgcaaatcg atttggattt taataacaaa ctcaacgagg tatgacattc        60
+     catatttggt ctattatttt caatgttatg atcaaaatac caaatatttt tttcacaaaa       120
+     aaccaggaaa acgaaatttg gcaaaaaatt taatatttaa gtagagtttt ttgggtataa       180
+     cttgactaaa aatggtcaca caactaaaat aattaccatt ttgtgctcct aattaccaat       240
+     actaatcatc cccatcactt tttggcggac tttgaaaaat taatttttgc ccaaattttc       300
+     gcattttttg taaggggtaa ctcatcaaaa tttttaaaaa atgccaaaaa aataaagttc       360
+//
+ID   TRANSIB1  repbase; DNA; DRO; 1816 BP.
+CC   TRANSIB1 DNA
+XX
+AC   ;
+XX
+DT   31-JUL-2000 (Rel. 4.2, Created)
+DT   31-JUL-2000 (Rel. 4.2, Last updated, Version 1)
+XX
+DE   TRANSIB1 is a DNA transposon, a partial consensus sequence.
+XX
+KW   DNA transposon; TRANSIB family; transposase; TRANSIB1.
+XX
+OS   Drosophila melanogaster (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Diptera; Brachycera; Muscomorpha; Ephydroidea;
+OC   Drosophilidae; Drosophila.
+XX
+RN   [1]
+RP   1-1816
+RC   [1]  (bases 1 to 1816)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (July, 2000)
+XX
+CC   TRANSIB1 belongs to the TRANSIB family of DNA 
+CC   transposons. It has generated duplications of the CANTG target 
+CC   sites upon its integration into the genome. TRANSIB1 has 40-bp
+CC   terminal inverted repeats and it encodes putative transposase 
+CC   which is not similar to any known transposases.
+CC   There are ~20 copies of TRANSIB1 which are ~94% identical to the
+CC   consensus sequence. Putatively, TRANSIB1 lost its activity several
+CC   million years ago. 
+CC   Putative TRANSIB1 transposase:
+CC   MKNLAKCNRTIEALKKKHSSWLSSTMMVVVDQNNNQVASDCLMGRPRLSYSDAGSRLKRKIATDLANIEE
+CC   NNTSLLVHAASISAKKEKMGDTAFVLKQTISTSTASTEIRKKLIFSEPVPLTPIQALAFLIDSSLSKAKY
+CC   NDMRALNKTQFSNIYPSYNKVREAKLACRPAGVHVTETFAQVSFQNLLNHTASRIILMHYSYPWIHRILY
+CC   FQA
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 1816 BP; 626 A; 308 C; 309 G; 571 T; 2 other;
+     cantgcacac tgggccagat tccctttttt tttggcataa agtcaaaaaa ttttgtaaat        60
+     tgtattttga atttaactat atattatgaa agagcataga ttagggacac caaaacgata       120
+     tttaaaaaca tttaagttgc aacactgcat tttttatgcg atatcaaatt catatgtttg       180
+     atcagctgtt tgttcaagca aaattggcgc gaaactttta ctcaactttg tgattctgtt       240
+     aaaaatacac cacgtgtcca aatattttca aataaaatgg aatataaagg tcaaggtatg       300
+     cttaatatag atataactta ctgatttaga attatgtgtt ccatgttgta attgttgttg       360
+     tctttgttta cgtcttagtt taggcaaaat ctaaccaaag tgttcgtcta ttgtggagtg       420
+     agaaatgatt tgtgccaact tgtgccaaaa actaataact gatgtgttta ctcaaaactg       480
+     taattaaatt gatgttagta acgccttttg cctaaatttg cctatgctct ttatattttg       540
+     ccgtttaaga caagtttgag attagccgat cggttctgct ggatgaatgg atcaaaggag       600
+     atcgaaatga caaagcctta gttgactggg ttgttggcga atttaaatta aatgatatta       660
+     ctattgacga gaaagctaaa atcgctaagc aaatcagaag ctttcaccta tatataatga       720
+     aaaatctggc taaatgtaac cgtacaattg aagcattaaa aaaaaaacat tccagttggc       780
+     tttcatccac gatgatggtt gtcgtggacc aaaacaacaa ccaagtcgct tcagactgtc       840
+     taatgggacg acctcgactc tcttacagtg atgcaggatc acggctcaaa agaaaaatag       900
+     caacggatct ggctaatatt gaagaaaata atacaagtct tcttgtccat gcagcatcaa       960
+     tttcagccaa aaaggaaaaa atgggcgata ctgcttttgt attaaagcaa accatttcaa      1020
+     cttcaactgc atccactgaa attagaaaga aattgatatt ctcagagcca gtaccgctca      1080
+     caccaattca ggctcttgca tttttgattg acagctctct atccaaagca aaatacaacg      1140
+     acatgagagc tttgaacaaa acacaattta gcaacattta tccatcgtat aataaagtca      1200
+     gagaagctaa attagcgtgt agacctgcgg gagttcatgt gacagagacc tttgcccaag      1260
+     tatctttcca aaatttgctg aatcatacgg ccagtcgaat tattcttatg cattattctt      1320
+     atccatggat tcatcggatc ctttactttc aagcctaaat ataaacaaaa gatcgtctca      1380
+     aaataaaaaa atcgctttgc cgaaagaagt catcaatctt ttagatgcac caaatgtaga      1440
+     acatattaat aatgaacatt tttgggaagc gatgatagcg actcggattc ggatcacgat      1500
+     gatccatttt ctatgcattt ggacgtagaa aattttgatt aatataatag tataattata      1560
+     tgtatattaa atagatacat aagaaaaatt cagcttaaat ttattatatt aattaataaa      1620
+     aagaaataat catgccaaat ctactcctta actttatatc ctaatatggg cggtatgggt      1680
+     gggcgtggtc cgatttactt gaaatttcac gtacgtattt taaatgtcaa atgcaccaat      1740
+     tctacaaaaa tgcagctctc tagctttatt atttgacttt atgccaaaaa aagggaatct      1800
+     ggcccagtgt gcantg                                                      1816
+//
+ID   TRANSIB3  repbase; DNA; DRO; 1944 BP.
+CC   TRANSIB3 DNA
+XX
+AC   ;
+XX
+DT   01-AUG-2000 (Rel. 4.3, Created)
+DT   01-AUG-2000 (Rel. 4.3, Last updated, Version 1)
+XX
+DE   TRANSIB3 is a DNA transposon, a partial consensus sequence.
+XX
+KW   DNA transposon; TRANSIB family; transposase; TRANSIB3.
+XX
+OS   Drosophila melanogaster (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Diptera; Brachycera; Muscomorpha; Ephydroidea;
+OC   Drosophilidae; Drosophila.
+XX
+RN   [1]
+RP   1-1944
+RC   [1]  (bases 1 to 1944)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (August, 2000)
+XX
+CC   TRANSIB3 belongs to the TRANSIB family of DNA transposons. 
+CC   It has generated duplications of the CNNCG target 
+CC   sites upon its integration into the genome. TRANSIB3 has 43-bp
+CC   terminal inverted repeats and it encodes putative transposase 
+CC   which is not similar to any known transposases.
+CC   There are ~10 copies of TRANSIB3 which are ~95% identical to the
+CC   consensus sequence. It is likely that TRANSIB3 lost its activity 
+CC   several million years ago. 
+CC   TRANSIB3 encodes protein involved in transposition:
+CC   KNYVFVDEYLFGHAELLDIWSNNSRSEDAVRQHIFKKIGQNNLNECCISLLNKKVKSFFDYIRK
+CC   HLPGCNRSLDRLKKKHFKWLASSISIIADCKTPKLVYEKANDRLKRKLASDLFGPENNTSVPLL
+CC   LHAASVSSKKGNEKDMAVVLKAAGNSDNINNIKRKMFSSEPTQMSVDNALAFLFENGFTKSQYI
+CC   NLKRNTKVHGFDIYPSYPDVLNAKLKLRPNGIEYFENKAQVKLQQLLNHTTSRILEMQYETFKA
+CC   NTNSIECQLIFSYGYNGSTGQSIYKQRYEEIGAVYDGSLFVTTIVPLKLVDNEQKIIWINRSPQ
+CC   SIRFCRPLKIEFIKETRELILAEKENLDTQTRNLHIYLHKINNINIFVKYVGQMTLIDGKNLHL
+CC   NMILFYFIFYI
+CC   This protein is 39% (first 250aa) and 41% (first 290aa) identical
+CC   with those in TRANSIB1 and TRANSIB2, respectively. There is
+CC   only partial ~60% nucleotide identity between TRANSIB3 and 
+CC   TRANSIB2 or TRANSIB1. 
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 1944 BP; 696 A; 285 C; 324 G; 639 T; 0 other;
+     cacactggtt ttttatgtgt ttttttttgg cagaaagtca aaaaaaaata ttttaacgga        60
+     ataaaaaaat gtatggtttc tttatattta ggatagtctt attagataaa aagtcgattt       120
+     ttactttttt acgcaaaact ggcttatcgt cgacctctca aagacagctg attgtcgata       180
+     acatgcgtaa gacaaaattg cggcaaatca ttttgcaaca tttgtggttt atatttcctc       240
+     agagaattaa aaaagttcaa agttttgtca tggaaaacag tagcacaggt atgtagattt       300
+     gtagttcact aacatttttg tgtatgttat atgtttttgt gtagttgtat cgtgttttgt       360
+     ttatgtgcct tttttacagt caacttaaca aatgtagctg tgtttcgtgg aatataactt       420
+     ggaaaccact tcaaaaaaat tttaacggca agttattaac taacatgtgt ataatattat       480
+     acaactagtt tcatatgctc ctttttgttc ctttttgaaa aaattacgtt tttgtagatg       540
+     aatacttgtt tgggcatgca gagctgctag acatttggag caacaatagt cgctctgagg       600
+     atgcagttag gcagcatata tttaaaaaaa ttggtcagaa taatttaaat gaatgttgta       660
+     tttcattgtt aaataaaaaa gttaagtcct tctttgatta cataaggaaa catttgccag       720
+     gttgcaatag atcgttggac aggttgaaga aaaaacactt caaatggctg gcatctagta       780
+     ttagtataat cgctgattgc aaaactccaa aactagttta tgaaaaggct aatgaccgac       840
+     ttaaacgaaa attagcttcg gaccttttcg gacctgaaaa taatacttct gtaccattac       900
+     tcttgcatgc tgcttcagtt tcgtctaaaa aaggaaatga aaaggacatg gcagttgtat       960
+     taaaagcagc tggtaacagc gataatatca ataatataaa aagaaaaatg ttctcttctg      1020
+     agcccacaca aatgtccgtc gacaatgcat tagccttttt atttgaaaac ggatttacaa      1080
+     aaagccaata catcaattta aaacggaata caaaagtaca cggctttgat atttacccat      1140
+     catatcctga tgttcttaat gctaaactaa agcttagacc aaatggcatc gagtattttg      1200
+     agaataaggc gcaagttaag ttacaacaac tcttaaacca cacaacttcg cggattcttg      1260
+     aaatgcagta tgaaactttc aaagcaaata ccaactcgat agaatgccaa ttaatattta      1320
+     gctatggata taatggatca actggtcaga gtatttataa gcaacgttat gaggaaatcg      1380
+     gtgctgtata tgatggatcg ctgtttgtta ctacaattgt gccattaaaa ttagtagaca      1440
+     atgaacaaaa aataatttgg atcaacagat cgccacaatc tatacggttt tgtcgtcctt      1500
+     taaaaattga atttattaag gaaactcgag agcttatatt agcagaaaaa gaaaacttgg      1560
+     atacccagac tcgtaatctg cacatatatt tgcataaaat aaacaacatt aatatatttg      1620
+     taaaatatgt cggtcaaatg acactaatag acggtaaaaa tttacatctt aatatgattt      1680
+     tattttattt tattttctat atataatatc aataaaatat ttaattaaat acagatacaa      1740
+     aaatattttt tttttggtaa ggtaaatatt tttatggcat atcggccaga tcgtttatat      1800
+     ggcagctata tgaaagttga ccaaatcact tgaaattttg tgaatcatct tgggggaagt      1860
+     aaagagtaac acaaaccaaa tttggtgaag ataggtcatc atttcgaatt tctgccaaaa      1920
+     aaaaacacat aaaaaaccac agtg                                             1944
+//
+ID   TRANSIB2  repbase; DNA; DRO; 2820 BP.
+CC   TRANSIB2 DNA
+XX
+AC   ;
+XX
+DT   14-AUG-2000 (Rel. 4.3, Created)
+DT   14-AUG-2000 (Rel. 4.3, Last updated, Version 1)
+XX
+DE   TRANSIB2 is a DNA transposon, a consensus sequence.
+XX
+KW   DNA transposon; TRANSIB family; TRANSIB2p transposase; TRANSIB2.
+XX
+OS   Drosophila melanogaster (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Diptera; Brachycera; Muscomorpha; Ephydroidea;
+OC   Drosophilidae; Drosophila.
+XX
+RN   [1]
+RP   1-2820
+RC   [1]  (bases 1 to 2820)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (August, 2000)
+XX
+CC   TRANSIB2 belongs to the TRANSIB family of DNA transposons. 
+CC   It has generated 5-bp duplications of the CANTG target 
+CC   sites upon its integration into the genome. TRANSIB2 has 43-bp
+CC   terminal inverted repeats and it encodes putative transposase 
+CC   which is not similar to any known transposases.
+CC   There are ~30 copies of TRANSIB2 which are ~95% identical to the
+CC   consensus sequence. Several sequences are 98% identical to each 
+CC   other and form a minor subfamily that was active most recently in
+CC   the D.melanogaster genome.
+CC   TRANSIB2 encodes protein TRANSIB2p involved in transposition:
+CC   FYIGKFEFRHSDLLYIWRRNNRQVSYVSDYISSAINNNNLESKKTEEIDKKIVNFELFIKRKLP
+CC   ECNRQLDRFISKHTKWMASKITILVSDFENSKTPQQMGRRNLSYQNAGERLKRKLASNLASESD
+CC   HDTSLLIHAATVSARKECKRDVAFVLKETLKTPEFPSESRMQIQWQKPTPLSPDEALAYLLENT
+CC   LTKQQYISTRLLNKSHNSDIYPPYNEVIEAKLQCRPEGIEVMENTAQVLLQNLLDHTAQRLIKL
+CC   QSDVFKQFPDIFKIKLICSYGFDGTTGHSAYKQKFETEALGTPISDQSLFVTSVIPIQIIDSFN
+CC   RHIWINRAPQSIRFSRPLKIELIKETAVHIMMEKNQLDNQINNLTPFTYKCDETRDIEVTYEMH
+CC   MTLIDGKVLNVLTDTKSTQCCPICGVSPTQMLKITNFSSETFAPKVKALQFGVSPLHAWIRFFE
+CC   FVLNVSYRDKRIKPR
+CC   This protein is 43% identical with TRANSIB3p (42% identity with
+CC   TRANSIB1p, the last protein is not complete).
+CC   There is only partial ~60% nucleotide identity between TRANSIB2
+CC   and TRANSIB1 or TRANSIB3. 
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 2820 BP; 1016 A; 485 C; 491 G; 826 T; 2 other;
+     cantgcacta tggtccagaa ttcgtttttt tttggcataa agtctaaatt tttatgtcaa        60
+     tatatcgtcc tttagcaatt attttctaat agaaaattga tcatataaat aaaaaccaaa       120
+     aacaaaattg accgaaagct tcactaaatc gttttatgag cttttaaagg tgaagtgtta       180
+     aacagctgat tgagagaatg caattcccgc caaattattt gcttactttt gcacgtggta       240
+     cgatcgttaa tacgcatcca taaattatag taaaatatgg aaaataaatg ccaaggtatg       300
+     ttgtttttaa cgtatgtagt taatatatgt gtagttgtac tgtttttgtg ttgtgtaaca       360
+     tccaatttat gtgtatttta acagaaaatt ctaacgtgtc ccctgtgttt cgtggagtat       420
+     aactaatttt ctgacaattt ctcacaaatg ttaaaaacgt ccgtttttat ctttaactat       480
+     tgtctttgac ggtaaagtaa tatcttttgc ccatttttgc tcgttttcct aaaatttgat       540
+     tttatatagg caagttcgag ttcagacata gcgacctcct gtacatttgg aggcgtaaca       600
+     atcggcaagt aagttatgtt tcagattaca tttcttctgc aatcaacaac aataatctgg       660
+     aatcgaaaaa gacagaagag attgacaaaa aaatagtaaa ttttgaatta ttcattaaaa       720
+     gaaaactgcc cgagtgtaac agacaactag accgatttat ttccaaacat actaagtgga       780
+     tggcgtctaa gataacaatt cttgttagtg attttgaaaa ctccaagaca ccacagcaaa       840
+     tgggacgccg aaacttatct taccaaaatg caggagaaag attaaaaagg aaactggcat       900
+     ccaatctggc aagtgaaagt gatcacgaca caagtctttt gattcatgca gcaactgttt       960
+     ctgctagaaa agaatgcaag agggacgttg cctttgttct taaagaaact ttaaaaacac      1020
+     cagaatttcc aagcgaatcg aggatgcaaa ttcaatggca aaaaccaact cctctttcac      1080
+     cagatgaagc tctagcttat ctcctggaaa acacgctgac aaaacagcaa tatataagca      1140
+     ccaggctttt aaataaaagc cataacagcg acatatatcc gccctataat gaagtgatcg      1200
+     aagcaaaatt acagtgccga ccagagggta tagaagtaat ggaaaacact gctcaagtgc      1260
+     tattacaaaa tctcttggat catacagcgc aaagattaat taagttgcaa tctgatgttt      1320
+     tcaagcaatt tccagatata tttaaaatca aattaatttg cagctacgga tttgatggga      1380
+     caactggtca tagtgcttac aagcagaaat ttgaaactga agcacttggc acaccaattt      1440
+     ctgatcaatc tttatttgta acttctgtca tacccataca aattatagat tcgtttaatc      1500
+     ggcatatctg gataaacaga gcaccgcagt ccattcgatt ttccaggcct ctaaaaattg      1560
+     agttgataaa ggaaactgct gtccacataa tgatggaaaa aaatcagtta gataatcaaa      1620
+     ttaataatct tacgccattc acttataaat gtgatgaaac tcgtgacata gaagttacct      1680
+     atgaaatgca catgacactt atagatggaa aagtcctaaa cgtattaaca gacactaaat      1740
+     ctactcaatg ttgtccgatc tgtggagtca gcccaacaca aatgttgaaa attacaaatt      1800
+     ttagttcaga aacctttgca ccaaaagtaa aagctttaca attcggggta agtccattac      1860
+     atgcttggat ccggtttttt gaatttgttt taaacgtatc ataccgagat aaacgtatca      1920
+     agccgagata aaaaagtggc atactaaagg agaggacaag gttaaaataa gtattcgaaa      1980
+     aaaatatatc caggaggaaa tgtggagaga aatgggcctt cgagtaagca tgccgaagca      2040
+     gaatggcagc ggcaatagca atgatggtaa tacggcaaga agagatttcg caagtaccaa      2100
+     attctcgtcg ataaccagct tcaacgaaaa tcttttggaa aagtttcaca ttattttaat      2160
+     agcaatatcg tccaactatt ttataaattc cgacaaattt cgttcttttt gcgatataac      2220
+     ttttcaatta tatatccgaa catatcaatg gtatccctat gtcatcaagc ccggaataaa      2280
+     ctttacaaaa gggaccgact atcacatgca aggaaaaata gtcggatcaa tacgatgagt      2340
+     gatattttcc acagagcgat tgattcctcg gacccactat tatcaacaat ttgtttaaaa      2400
+     gaaagagaga gaaaaaatag gaaaaaacca cttccgaagg cagtaataag tcttttggaa      2460
+     atacagtcta attttaaacc tgatccatca gacaaaatat tggattcaca ttctgattct      2520
+     gattcgagtt cagattcgga aatttataat gttgaactag aagaagaaga gggcgattat      2580
+     ttttaaaaca acaatataca cacttttatt taaaaaaaaa aaaaaacaat gaaatttcgt      2640
+     tgactcctga gtcataccag tagttaatat gggaggcaag agagggcgtg gtcgcacaga      2700
+     cttcaaattt tgtgtgcaaa ctatttgtgg tttaacaaca aaatgtacaa agtttcaagt      2760
+     ctgtagctca atttttagac tttatgccaa aaaaatcgaa ttctggacca cagtgcantg      2820
+//
+ID   TRANSIB4  repbase; DNA; DRO; 2651 BP.
+CC   TRANSIB4 DNA
+XX
+AC   ;
+XX
+DT   24-APR-2001 (Rel. 4.4, Created)
+DT   24-APR-2001 (Rel. 4.4, Last updated, Version 1)
+XX
+DE   TRANSIB4 is a DNA transposon, a consensus sequence.
+XX
+KW   DNA transposon; DDE-class; TRANSIB family; TRANSIB4p transposase; 
+KW   TRANSIB4.
+XX
+OS   Drosophila melanogaster (consensus)
+CC   consensus
+OC   Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+OC   Pterygota; Diptera; Brachycera; Muscomorpha; Ephydroidea;
+OC   Drosophilidae; Drosophila.
+XX
+RN   [1]
+RP   1-2651
+RC   [1]  (bases 1 to 2651)
+RA   Kapitonov V.V., Jurka J.
+RT   ;
+RL   Direct submission (April 2001)
+XX
+CC   TRANSIB4 belongs to the TRANSIB family of DNA transposons. 
+CC   It has generated 5-bp duplications of the CantG target 
+CC   sites upon its integration into the genome (it has happened
+CC   a few million years ago). 
+CC   TRANSIB4 has 40-bp terminal inverted repeats.
+CC   There are ~10 copies of TRANSIB4 which are ~93% identical to the
+CC   consensus sequence. 
+CC   TRANSIB4 encodes the TRANSIB4p transposase (positions 545-2147).
+CC   The transposase is not perfectly recovered since it contains a
+CC   few false stop-codons and frame-shifts.
+CC   TRANSIB4p is 37-44% identical with TRANSIB1p-TRANSIB3p.
+CC   There is 60-62% nucleotide identity between TRANSIB4 and 
+CC   TRANSIB1-TRANSIB3. 
+XX
+CC   [1] (Consensus)
+XX
+SQ   Sequence 2651 BP; 932 A; 454 C; 451 G; 814 T; 0 other;
+     cactatgggt aaaaagccgg aaattttggt attaatgtaa ttttttttgt gattgatatt        60
+     ttaatgctgc tttcattttt tgattcctaa gtaacaagat agcataaaaa taattttaaa       120
+     acatttttac gagttatcgt ttatttttgg cgcgctttca aagtcagctg attcagaggt       180
+     gctttgaatt gtgaaaattg gcggaaaaag ttgaacaaat tgcagcgcaa acattgtctt       240
+     catagcaaac tttgagttta tttttaatta tggaaaaaac aagtcagagt atgtaaatta       300
+     ttcgtgaata cacgttttcc gataattgtg tgtggttgtt gttgaattgt ccaatgtatt       360
+     gcttgtgagt attttcaatt gtttactaac aaacgttcta gtgttctgtg gaatattact       420
+     tttgtatggc acaacgaatc accaaagtta aagttgtatg tttttaacaa atatatgtgg       480
+     aatcaaatgg tattaatgtt ttttgcccct ttttgccctt ttttgcgaaa cattttatgt       540
+     tgtaggtgtg tataagttta gtcatgcagt tctgctggat gtttggagca acaacaaacg       600
+     cgatgcagac gctgttaaca gttatatttt ggaaaatata gaagagaact ttgagactaa       660
+     agagcaaaag attacaattt caaagaaagt gaaccaattt attacttatg taaacaagca       720
+     cttaaggaaa tgcaatcgaa tgttggaccg attcaaacga aatcatttat tgtggcttgc       780
+     gtctaaaatt gttgtcgtta ttgataagcc agaaatgaca ctatgcaaac ctagccgaaa       840
+     acagttaaca tatgaagatg cagggcctca acctaaaaaa aaaattagca aattagctgg       900
+     ctgcagaaca agggcattca acaccacttc tcgtacatgc tgcttcaatt tccgcaaaaa       960
+     aaacgaagca ggcagaaacg gcctttgtat taaaaaaaaa aggataagca gtgaaaacat      1020
+     acatgatata aaaaagaaaa ttgagacaaa tcatcctatt aaaataagtg ctgataatgc      1080
+     tttagctctc ttaattgaaa atggatttac aaagcagcaa tataataata taaaagcgct      1140
+     caataagcag caaggatgcg atattttccc tccttattca aaagtagcag aagcaaaatt      1200
+     gaaatgcagg ccttccgaac ataaaatttc tgaaaaaagg ccaggagtat cgtagcaaga      1260
+     tttgctagat catacagctg gccacatatg tggaatcaaa tggtaagttt ttaatgtttg      1320
+     ctcagaccca acgaattgta cattaattgt gagctatggc ttcgatggat ctacggacca      1380
+     aagcacgtac aaacaacgct ttctatcaaa cgaatgtatc gccctagatc aattcctttt      1440
+     cgtcactcca attataccgc tgaaactaat agatgaaatc aacaatcgag ttatttggat      1500
+     acattcatct ccacaatcgg tgagatttgt cggcctttga aaattgagtt tataaaggaa      1560
+     cgtgctgccc ttacattgaa gaaaaaacaa atttggatgc ggctataaaa aaccttagac      1620
+     catattccta cacttccaaa aaccaaataa tagcatatac tgcagaccag cgttcgttct      1680
+     cgaacagcaa gatattttcg tccgttttga atttggacta caaaatcatt tacaattttt      1740
+     atataatttt gatttcaatt tcttgtgagc acatgattga tgcgaaaaat ttaaatctct      1800
+     ataccattct acttttaatt tatacgttaa atacgaacct tatatgagat acatacatgg      1860
+     taaaatagag tagtcaccaa ccaatattgg tacatggata taaaattgta agccaattta      1920
+     ttgttcctgt tagtgtcctt ggagaaaacg cgtcagaagc gcgcaacaaa ctttacaaga      1980
+     gcgatagaaa atctcacgcc aggaaatgta gccgactagc aaacattaca gatgttttca      2040
+     gagcagtgga ttcatctgat ccattgcttt caagtctttg tctaagagat cgaagtaagt      2100
+     ttggaaaaaa gaaactcctc ccaaaagaag taatcgatat tcttcaaaat ccggatgcag      2160
+     aactttataa atcaagttat cattctaata ataaagaaaa agaagtggaa gtggaagacg      2220
+     aattcaattg cctttataat aagaggaggc agttgaagaa tgacaatcaa cttaataaaa      2280
+     tataaaaaaa tttattgact tttatctcat aataatggtt tttgcatctt gtgtcctcac      2340
+     ttcgctccca cgccaatccc ccagggaaga cacctccgga tccaccggtt gaaccacaga      2400
+     catattaaca cccacacctc cttcgccacc catccatctc cctttaaaac cgctttcatt      2460
+     tgtatataaa tacatttttc actttatttt caaggattgt ttttgtgggc ggagatgaag      2520
+     gcgtggtcag atcaaaaaat aaacaaaatc caaaattcta tttaaatcct aattataaat      2580
+     ataaaaaaaa tcaagtcgct atctttaaaa ttgtaattaa taccaaaatt tccggctttt      2640
+     tacccatagt g                                                           2651
+//
+ID   AY1_DH    repbase; DNA; DRO; 496 BP.
+CC   AY1_DH DNA
+XX
+AC   X05043;
+XX
+DT   28-SEP-1995 (Rel. 1.0, Created)
+DT   25-MAR-1997 (Rel. 3.0, Last updated, Version 2)
+XX
+DE   D.hydei y chromosome-specific ay1 repetitive sequence.
+XX
+KW   AY1 repetitive sequence.
+XX
+OS   Drosophila hydei
+CC   fruit fly
+OC   Eukaryota; Animalia; Metazoa; Arthropoda; Uniramia; Insecta;
+OC   Pterygota; Neoptera; Holometabola; Diptera; Brachycera;
+OC   Cyclorrhapha; Schizophora; Drosophiloidea; Drosophilidae.
+XX
+RN   [1]
+RP   1-496
+RC   [1]  (bases 1 to 496)
+RA   Vogt P., Henning W.;
+RT   "Molecular structure of the lampbrush loops nooses of the Y
+RT   chromosome of Drosophila hydei";
+RL   Chromosoma 94, 449-458 (1986)
+XX
+DR   GENBANK; X05043; 77.0.
+CC   Positions       1     496  Accession No X05043        GenBank (rel. 77.0)
+XX
+SQ   Sequence 496 BP; 173 A; 105 C; 92 G; 126 T; 0 other;
+     gaattctaca cacccgtttc ccaaagaatt ttcgtttatc cgtgtgtgtc aaatgtgaaa        60
+     tgccaatcga cattataaaa gcagtcctga actaaactgc gagggatatt cagaaaatat       120
+     aaaaattagc attagcaaat taattctaca agtcccgtat cccaaagaat tttccttcat       180
+     cccggtgtgt caaatttgaa atgccactcg acattataaa agcagtcctg aactaaaagt       240
+     aaagttcgcc gtacaagaaa cacttctccc gacctgccca aaagcgaaat tggttgattt       300
+     tgatgctgaa atagtaagcc ggcagccgat tagcgagctg tcatatacct gatgctgggt       360
+     aaagcaatgc aaccggtaga tgtagaattt ttgcaaaatt aaaggaaacc tcaaaagttc       420
+     tcggactacc ttgaagagac aacaatcata ttcaggcata taaccatccg gtaaggcact       480
+     aggacaaact tcgaga                                                       496
+//
