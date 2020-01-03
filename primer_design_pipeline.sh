@@ -143,7 +143,7 @@ if [ -z $VCF ]; then
   echo "Missing -v|--vcf parameter"
   usage
 fi
-if [ -z $GENOMBUILD ]; then
+if [ -z $GENOMEBUILD ]; then
   echo "Missing -g|--genomebuild parameter"
   usage
 fi

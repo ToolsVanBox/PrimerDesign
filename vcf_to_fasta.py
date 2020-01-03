@@ -83,7 +83,7 @@ parser = argparse.ArgumentParser()
 parser = argparse.ArgumentParser(description='Put here a description.')
 parser.add_argument('vcf', help='VCF file')
 parser.add_argument('-o', '--offset', default=0, type=int, help='Offset [default: 0]')
-parser.add_argument('-g', '--genombuild', required=True, type=str, help='Genome build version (default: %(default)s)')
+parser.add_argument('-g', '--genomebuild', required=True, type=str, help='Genome build version (default: %(default)s)')
 parser.add_argument('-f', '--flank', default=200, type=int, help='Flank [default: 200]')
 parser.add_argument('-m', '--mask',action='store_true')
 args = parser.parse_args()
@@ -94,8 +94,11 @@ mask = args.mask
 
 if args.genomebuild  == '38':
     server='http://rest.ensembl.org'
-else:
+elif args.genomebuild == '37':
     server='http://grch'+args.genomebuild+'.rest.ensembl.org'
+else:
+    print( "Unknown genomebuid, must be 38 or 37 ")
+    sys.exit()
 
 def mask_seq( chr, start, end, strand, seq ):
     ext = "/overlap/region/human/"+str(chr)+":"+str(start)+"-"+str(end)+":"+str(strand)+"?feature=variation"
