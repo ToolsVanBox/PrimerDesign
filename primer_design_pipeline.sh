@@ -14,6 +14,7 @@ GENERAL
     -f|--flank                                           Flanking size to design primer [$FLANK]
     -o|--offset                                          Offset, one-sided amplicon size [$OFFSET]
     -m|--mask                                            Mask the sequence [$MASK]
+    -g|--genomebuild                                     Genome build version [$GENOMEBUILD]
 
     -vfs|--vcf_fasta_script                              Path to vcf_to_fasta.py script [$VCF_FASTA_SCRIPT]
     -venv|--venv                                         Path to virtual environment [$VENV]
@@ -38,6 +39,7 @@ POSITIONAL=()
 FLANK=200
 OFFSET=0
 MASK=false
+GENOMEBUILD='38'
 VCF_FASTA_SCRIPT='/hpc/pmc_vanboxtel/tools/PrimerDesign/vcf_to_fasta.py'
 VENV='/hpc/pmc_vanboxtel/tools/PrimerDesign/venv_3.6/bin/activate'
 
@@ -164,9 +166,9 @@ vcf_2_fasta() {
   . $VENV
 
   if [ $MASK = true ]; then
-    python $VCF_FASTA_SCRIPT -o $OFFSET -f $FLANK -m $VCF > $FASTA
+    python $VCF_FASTA_SCRIPT -o $OFFSET -f $FLANK -m -g $GENOMEBUILD $VCF > $FASTA
   else
-    python $VCF_FASTA_SCRIPT -o $OFFSET -f $FLANK $VCF > $FASTA
+    python $VCF_FASTA_SCRIPT -o $OFFSET -f $FLANK -g $GENOMEBUILD $VCF > $FASTA
   fi
 }
 

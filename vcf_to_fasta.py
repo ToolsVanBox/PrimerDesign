@@ -78,12 +78,12 @@ class EnsemblRestClient(object):
 #HEADERS, PARAMS)
 
 
-server = "http://grch37.rest.ensembl.org"
 
 parser = argparse.ArgumentParser()
 parser = argparse.ArgumentParser(description='Put here a description.')
 parser.add_argument('vcf', help='VCF file')
 parser.add_argument('-o', '--offset', default=0, type=int, help='Offset [default: 0]')
+parser.add_argument('-g', '--genombuild', default='38', type=str, help='Genome build version (default: %(default)s)')
 parser.add_argument('-f', '--flank', default=200, type=int, help='Flank [default: 200]')
 parser.add_argument('-m', '--mask',action='store_true')
 args = parser.parse_args()
@@ -91,6 +91,11 @@ vcf = args.vcf
 offset = args.offset
 flank = args.flank
 mask = args.mask
+
+if args.genomebuild  == '38':
+    server='http://rest.ensembl.org'
+else:
+    server='http://grch'+args.genomebuild+'.rest.ensembl.org'
 
 def mask_seq( chr, start, end, strand, seq ):
     ext = "/overlap/region/human/"+str(chr)+":"+str(start)+"-"+str(end)+":"+str(strand)+"?feature=variation"
