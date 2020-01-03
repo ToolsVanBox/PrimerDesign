@@ -4,6 +4,7 @@ usage() {
 echo "
 Required parameters:
     -v|--vcf                                             Path to vcf file
+    -g|--genomebuild                                     Genome build version [$GENOMEBUILD]
 
 Optional parameters:
 
@@ -14,7 +15,6 @@ GENERAL
     -f|--flank                                           Flanking size to design primer [$FLANK]
     -o|--offset                                          Offset, one-sided amplicon size [$OFFSET]
     -m|--mask                                            Mask the sequence [$MASK]
-    -g|--genomebuild                                     Genome build version [$GENOMEBUILD]
 
     -vfs|--vcf_fasta_script                              Path to vcf_to_fasta.py script [$VCF_FASTA_SCRIPT]
     -venv|--venv                                         Path to virtual environment [$VENV]
@@ -39,7 +39,6 @@ POSITIONAL=()
 FLANK=200
 OFFSET=0
 MASK=false
-GENOMEBUILD='38'
 VCF_FASTA_SCRIPT='/hpc/pmc_vanboxtel/tools/PrimerDesign/vcf_to_fasta.py'
 VENV='/hpc/pmc_vanboxtel/tools/PrimerDesign/venv_3.6/bin/activate'
 
@@ -61,6 +60,11 @@ do
     VCF="$2"
     shift # past argument
     shift # past value
+    ;;
+    -g|--genomebuild)
+    GENOMEBUILD="$2"
+    shift
+    shift
     ;;
 # GENERAL OPTIONS
     -h|--help)
@@ -137,6 +141,10 @@ done
 set -- "${POSITIONAL[@]}" # restore positional parameters
 if [ -z $VCF ]; then
   echo "Missing -v|--vcf parameter"
+  usage
+fi
+if [ -z $GENOMBUILD ]; then
+  echo "Missing -g|--genomebuild parameter"
   usage
 fi
 
