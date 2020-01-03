@@ -44,7 +44,7 @@ VENV='/hpc/pmc_vanboxtel/tools/PrimerDesign/venv_3.6/bin/activate'
 
 PCR_TYPE='single'
 TILLING_PARAMS=' '
-PSR='30-($FLANK+30)'
+PSR='30-($FLANK+$OFFSET+$OFFSET+30)'
 BINDIR='/hpc/pmc_vanboxtel/tools/PrimerDesign/primer3/primers'
 GUIX_PROFILE='/hpc/pmc_vanboxtel/tools/PrimerDesign/primer3/emboss/.guix-profile'
 PRIMER3_CORE='/hpc/pmc_vanboxtel/tools/PrimerDesign/primer3/primer3/src/primer3_core'
@@ -155,7 +155,7 @@ fi
 
 prepare() {
   if [[ $PSR =~ "FLANK" ]]; then
-    PSR='30-'$((FLANK+30))
+      PSR='30-'$((FLANK+OFFSET+OFFSET+30))
   fi
   if [ -d $PWD/primer3 ]; then
     rm -rf $PWD/primer3
